@@ -32,15 +32,9 @@ This book exists because too many Autistic people are carrying pain that gets mi
 
 Pain gets called behavior.
 
-Exhaustion gets called attitude.
-
 Overload gets called defiance.
 
-Fear gets called drama.
-
 Burnout gets called laziness.
-
-A need for support gets called failure to cope.
 
 And when a whole life is misnamed, a person can start to believe the wrong story about themselves.
 
@@ -52,25 +46,17 @@ Autistic people are often told the crisis is Autism.
 
 But Autism is not the crisis.
 
-The crisis is what happens when Autistic people are asked to survive environments, expectations, treatments, schedules, relationships, institutions, and cultures that do not listen to Autistic bodies.
+The crisis is what happens when Autistic people are asked to survive environments, expectations, treatments, and relationships that do not listen to Autistic bodies.
 
 The crisis is not that we stim.
 
 The crisis is that people punish the relief valve.
 
-The crisis is not that we communicate differently.
-
-The crisis is that difference gets treated as danger, rudeness, inconvenience, or defect.
-
 The crisis is not that we need support.
 
 The crisis is that needing support is made humiliating.
 
-The crisis is not that life is hard.
-
-Life is hard for everyone.
-
-The crisis is that Autistic hardship is so often made harder by shame.
+Autistic hardship is often made harder by shame.
 
 ## Reframe
 
@@ -80,29 +66,21 @@ It is not here to make you more palatable.
 
 It is not here to teach you how to disappear gracefully inside a life that is hurting you.
 
-It is here to ask a different question:
+It is here to ask:
 
 > What would help this life become more stayable?
 
 That question is small enough to begin with.
 
-It is also large enough to change everything.
-
 A stayable life is not a perfect life.
 
-It is not a life without pain, limits, grief, conflict, disability, support needs, money stress, medical systems, family mess, or bad days.
-
-A stayable life is a life with more honest design.
-
-More mercy.
+It is a life with more honest design.
 
 More exits.
 
 More rest.
 
 More people who understand.
-
-More ways to tell the truth before the body has to scream it.
 
 ## Move
 
@@ -116,18 +94,14 @@ One part.
 
 Maybe a room.
 
-Maybe a recurring demand that takes more from you than people can see.
+Maybe one recurring demand.
 
 Do not force an answer.
 
 Let the question exist.
 
-A good question can become a handhold before it becomes a plan.
-
 ## Mercy
 
 You do not have to solve your life to deserve help with it.
-
-You do not have to become less Autistic to become more alive.
 
 This book exists because your life is worth designing around.
