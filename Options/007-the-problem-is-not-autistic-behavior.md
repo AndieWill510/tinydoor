@@ -44,13 +44,11 @@ An adult leaves the room.
 
 Someone stops speaking.
 
-Someone rocks, paces, repeats, freezes, cries, argues, corrects, refuses, shuts down, or cannot make their face do the expected thing.
-
 Too often the question becomes:
 
 > How do we stop that?
 
-This book asks a different question:
+This book asks:
 
 > What pressure is that behavior trying to survive?
 
@@ -62,29 +60,11 @@ The lights.
 
 The noise.
 
-The uncertainty.
-
-The rushed transition.
-
-The hunger.
-
-The social ambiguity.
-
-The demand for eye contact.
-
-The pain no one believes.
-
 The room with no exit.
-
-The years of being told that every visible sign of overload is an inconvenience to other people.
 
 If the behavior is treated as the problem, the environment gets to remain innocent.
 
 The schedule gets to remain innocent.
-
-The treatment gets to remain innocent.
-
-The social rule gets to remain innocent.
 
 The institution gets to remain innocent.
 
@@ -98,19 +78,15 @@ That does not mean every behavior is safe.
 
 It does not mean every reaction is harmless.
 
-It does not mean nobody else’s needs matter.
+It does not mean nobody else's needs matter.
 
 It means behavior should be investigated before it is punished.
 
 It means distress deserves curiosity before correction.
 
-It means the visible thing may not be the root thing.
-
 A smoke alarm is loud.
 
 A smoke alarm can be inconvenient.
-
-A smoke alarm can interrupt dinner, school, a meeting, a conversation, or sleep.
 
 But if a smoke alarm goes off, the first wise move is not to smash the alarm.
 
@@ -118,23 +94,19 @@ The first wise move is to look for smoke.
 
 Autistic behavior often asks the same mercy:
 
-Look for smoke.
+> Look for smoke.
 
 ## Move
 
-If you are asking this about your own behavior, go slowly; it can be harder to offer yourself curiosity than to offer it to someone else.
+If you are asking this about your own behavior, go slowly.
 
-The next time you notice an Autistic behavior — yours or someone else’s — pause before naming it good or bad.
+The next time you notice an Autistic behavior — yours or someone else's — pause before naming it good or bad.
 
 Ask:
 
 > What pressure might this be pointing to?
 
 One pressure.
-
-Not the whole explanation.
-
-Just one possibility.
 
 Maybe sound.
 
@@ -149,5 +121,3 @@ The goal is to stop mistaking the signal for the source.
 You are not a behavior problem.
 
 You are a person whose body has been trying to communicate under pressure.
-
-That communication deserves to be understood before it is corrected.
