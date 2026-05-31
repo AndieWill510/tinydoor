@@ -98,21 +98,43 @@ And again they said: okay.
 
 All good.
 
-That is what saved my life.
+That is queer liberation.
 
-Not argument.
+Not as slogan.
 
-Not interrogation.
+Not as brand.
 
-Not a committee.
+Not as a month on a calendar.
 
-Not a debate about whether I had earned legibility.
+As a chorus of people refusing to make your truth an emergency.
 
-Okay.
+C said the book needed more than one voice.
 
-All good.
+A chorus.
 
-Sometimes the holiest thing a community can say is the thing that lets the nervous system stop preparing for exile.
+And I built one.
+
+Or did they build me?
+
+Did I dream the dream, or did the dream dream me?
+
+As Autistic people, the biggest gift we can give each other is to not collapse uncertainty too quickly.
+
+Maybe I found them.
+
+Maybe they found me.
+
+Maybe belonging is not a door that opens only one way.
+
+They said okay.
+
+They said okay.
+
+When literally no one in my miserable life ever had.
+
+They said okay.
+
+And I was redeemed.
 
 ## Move
 
