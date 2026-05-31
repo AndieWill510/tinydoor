@@ -474,7 +474,102 @@ That is the live wire.
 
 ---
 
-### Movement 8 — Adoption by the Neurodivergent Community
+### Movement 8 — They Said Okay
+
+Working title:
+
+```text
+They Said Okay
+```
+
+Purpose:
+
+- show the OMC / Ted / Peter / Gina acceptance response as the hinge between cocoon and becoming;
+- name bisexuality as the first truth brought into the room;
+- preserve the family member's bi-erasing line as harm context;
+- show transition disclosure as life-dependent truth met by ordinary acceptance;
+- establish that `okay / all good` was not casual but life-saving.
+
+Bi erasure beat:
+
+```text
+First, I came out as bi.
+
+The thing my family member crushed early in my marriage came back with me into the room:
+
+"Bisexuals are indecisive vegetarians."
+
+That horrible line.
+
+That accursed line of post-Stonewall reasoning that said only some are legible and some are not.
+
+Some are legitimate and some are not.
+```
+
+Legibility beat:
+
+```text
+Some get to live in the light.
+
+Others must live in the closet, even when we do not have closets anymore.
+
+Or haven't you heard?
+```
+
+Acceptance beat:
+
+```text
+The OMC and Ted and Peter and Gina all said: okay.
+
+All good.
+```
+
+Womanhood beat:
+
+```text
+Then, as if my life depended on their response because it did, I said I was a woman.
+
+And again they said: okay.
+
+All good.
+```
+
+Home beat:
+
+```text
+They saved my life.
+
+My desperate attempt to find distraction in a town with two UNESCO World Heritage Sites paid off.
+
+And kept paying off.
+
+And kept paying off.
+
+I found home.
+
+Or rather, I found a home to form in, and then one to leave so I could make community with other trans people.
+
+But I could have stayed there forever.
+
+I may retire there still.
+
+Or maybe join Gina in the Caribbean.
+```
+
+Guardrail:
+
+```text
+Do not make "okay" sound small.
+It is the whole miracle.
+Do not turn bisexuality into a stepping stone to womanhood.
+Both disclosures matter.
+Do not make transition a twist.
+This is a life-dependent acceptance scene.
+```
+
+---
+
+### Movement 9 — Adoption by the Neurodivergent Community
 
 Working title:
 
@@ -518,7 +613,7 @@ Show infrastructure: rides, rooms, messages, rituals, noticing, invitations, ord
 
 ---
 
-### Movement 9 — Ground Under My Feet
+### Movement 10 — Ground Under My Feet
 
 Working title:
 
@@ -549,7 +644,7 @@ Community gave me enough ground to live from.
 
 ---
 
-### Movement 10 — Becoming
+### Movement 11 — Becoming
 
 Working title:
 
@@ -606,9 +701,10 @@ Option 1.11 — Peter at Maya
 Option 1.12 — Ted Behind the Bar
 Option 1.13 — Gina and the Old Man's Club
 Option 1.14 — OMC: A Second Bite at the Apple
-Option 1.15 — They Found Me Back
-Option 1.16 — Ground Under My Feet
-Option 1.17 — From That Ground, I Could Become
+Option 1.15 — They Said Okay
+Option 1.16 — They Found Me Back
+Option 1.17 — Ground Under My Feet
+Option 1.18 — From That Ground, I Could Become
 ```
 
 C checkpoint should occur after one bounded memoir cluster is drafted.
