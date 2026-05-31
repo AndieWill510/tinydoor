@@ -124,7 +124,11 @@ Sometimes the wise question is:
 
 ## Move
 
-Find one safe stim you can allow today.
+Find one safe stim you can allow today —
+
+even if only in private,
+
+even if only for a moment.
 
 One.
 
