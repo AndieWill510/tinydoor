@@ -128,4 +128,4 @@ For some of us, it is resurrection by infrastructure.
 
 Sometimes a table becomes a cocoon.
 
-Sometimes half a dozen fathers give birth over bourbon.
+Sometimes half a dozen fathers give birth.
