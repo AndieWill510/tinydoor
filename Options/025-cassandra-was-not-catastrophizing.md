@@ -126,7 +126,13 @@ Maybe noise.
 
 Maybe no exit.
 
-Then ask what tiny door would make the situation safer.
+That is enough for now.
+
+If you have capacity, ask one more:
+
+> What tiny door would make this safer?
+
+If not, naming the pattern is the whole move.
 
 ## Mercy
 
