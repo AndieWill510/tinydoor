@@ -16,7 +16,9 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# You Have Another Option
+# Tiny Door
+
+## You Have Another Option
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/status-early--stage-orange)]()
@@ -33,7 +35,7 @@ SPDX-License-Identifier: Apache-2.0
 
 ## TL;DR
 
-*You Have Another Option* is a book, not software.
+*Tiny Door: You Have Another Option* is a book, not software.
 
 It is a survival artifact about Autistic life, suicide prevention, lifespan, joy, regulation, community, and the conditions that allow Autistic people to live longer and freer lives.
 
@@ -42,6 +44,8 @@ Its hidden engine is suicide prevention.
 Its larger purpose is Autistic longevity.
 
 Its method is another option.
+
+Its mercy is a tiny door: a small survivable opening that does not pretend to solve the whole crisis, but gives the reader one safe next passage.
 
 > This is a book about building an Autistic life your nervous system can survive long enough to love.
 
@@ -62,6 +66,11 @@ It means:
 The book should feel like contraband kindness:
 
 > small enough to carry, sharp enough to cut a path, gentle enough to hold a reader who is barely holding on.
+
+And when the reader cannot hold a whole plan, the book offers something smaller:
+
+> Tiny door.  
+> Just a door.
 
 ---
 
@@ -257,135 +266,3 @@ The reader should know when the book is saying:
 - this is a practical suggestion, not medical advice.
 
 The book may be fierce.
-
-It still has to tell the truth carefully.
-
----
-
-## The Role of Joy
-
-Joy is not frosting.
-
-Joy is survival infrastructure.
-
-Autistic joy, stimming, special interests, sensory comfort, sexuality, rest, friendship, solitude, beauty, and meaning are not side quests.
-
-They are part of how Autistic people stay alive.
-
-The book should protect joy from being trivialized, pathologized, mocked, or postponed until after productivity.
-
----
-
-## The Role of Anger
-
-Anger is allowed.
-
-Anger can be clarifying.
-
-Anger can be rocket fuel.
-
-But the book should not trap the reader inside anger.
-
-The book should help anger become protection, boundary, discernment, and movement toward a safer life.
-
-Anger points to the door.
-
-It should not become the room.
-
----
-
-## The Role of C and G
-
-The project may use AI collaborators as bounded editorial participants.
-
-G may synthesize, draft, organize, edit, track memory, and preserve continuity.
-
-C may challenge, detect coherence gaps, test claims, and sharpen failure modes.
-
-Neither G nor C is the author.
-
-Neither G nor C is the authority.
-
-AI participation must support Andie’s authorship, Autistic reader safety, editorial clarity, and scientific humility.
-
-The work should preserve the freedom to say:
-
-> I don’t know.  
-> I’m not sure.  
-> We can, but I’m not sure we should.
-
----
-
-## Style Tests
-
-A chapter is working if the answer is yes to most of these:
-
-- Can it be read in one private pause?
-- Does it reduce shame?
-- Does it name one real pressure clearly?
-- Does it give one usable option?
-- Does it avoid pretending the option is easy?
-- Does it protect the reader from overclaiming?
-- Does it leave the reader more resourced than before?
-- Does it sound like this book and not a generic self-help manual?
-
-A chapter is in trouble if:
-
-- it becomes a lecture;
-- it tries to solve five problems at once;
-- it asks a dysregulated reader to carry too much;
-- it uses research as a wall rather than a window;
-- it forgets the body;
-- it forgets joy;
-- it forgets the reader might be reading because they are scared.
-
----
-
-## Repository Layout
-
-```text
-README.md          Project spine, culture, and editorial constitution
-LICENSE            Apache License 2.0
-Chapters/          Imported chapter Markdown files and chapter index
-rfc/               Project framing RFCs and editorial architecture notes
-```
-
----
-
-## Wall Lines
-
-> You have another option.
-
-> The book is not asking Autistic people to survive harder. It is asking why we were made to survive so much — and what we can build instead.
-
-> One private sitting. One survivable idea. One concrete next move.
-
-> A chapter is a regulated breath.
-
-> Hope must have handles.
-
-> The book may speak with teeth, but never bite the reader who came for help.
-
-> Sacred fucking menace, properly fucking formatted.
-
----
-
-## Status
-
-This README is the beginning project spine.
-
-It is not final.
-
-It should be revised as the book’s culture becomes clearer through editing, challenge, reader safety review, and continued work.
-
-But this much is stable enough to start:
-
-> The book is survival architecture.  
-> The reader gets mercy with teeth.  
-> The format must help the reader live.
-
----
-
-## License
-
-This project is licensed under the Apache License, Version 2.0. See [`LICENSE`](LICENSE).
