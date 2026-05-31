@@ -42,7 +42,26 @@ Core rule:
 
 ---
 
-## 2. House Frame
+## 2. Governing Tension
+
+This project lives inside a real tension:
+
+- people can be triggered;
+- people also need language strong enough to reach them before the harm becomes final.
+
+The book must not choose one truth and erase the other.
+
+Too much bluntness can overwhelm a vulnerable reader.
+
+Too much softness can abandon the reader who needs the book to tell the truth plainly.
+
+The goal is not maximum softness.
+
+The goal is life-preserving precision.
+
+---
+
+## 3. House Frame
 
 Preferred working language:
 
@@ -68,7 +87,7 @@ Do not promote it into final reader-facing house language until separately adjud
 
 ---
 
-## 3. Plain Speech / Safe Speech
+## 4. Plain Speech / Safe Speech
 
 The book may name death.
 
@@ -82,7 +101,7 @@ The book's job is to keep a door open.
 
 ---
 
-## 4. Reader-at-the-Edge Rule
+## 5. Reader-at-the-Edge Rule
 
 The book must speak directly to the reader who is close to giving up.
 
@@ -96,7 +115,7 @@ It belongs in the book.
 
 ---
 
-## 5. Statistics Rule
+## 6. Statistics Rule
 
 Mortality and lifespan statistics require containment.
 
@@ -113,7 +132,7 @@ They should not become doom.
 
 ---
 
-## 6. Platform / Filter Friction
+## 7. Platform / Filter Friction
 
 This project may encounter platform safety filters because it speaks directly about preventing premature inflicted death.
 
@@ -131,7 +150,7 @@ The goal is to keep life-preserving language intact.
 
 ---
 
-## 7. Working Sentence Tests
+## 8. Working Sentence Tests
 
 A sentence is likely working if it:
 
@@ -153,7 +172,7 @@ A sentence is in trouble if it:
 
 ---
 
-## 8. Status
+## 9. Status
 
 Draft v0.1.
 
