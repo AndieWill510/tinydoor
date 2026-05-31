@@ -20,10 +20,10 @@ SPDX-License-Identifier: Apache-2.0
 
 Author: Kevin "Andie" Williams  
 Prepared by: G  
-Status: Draft v0.2  
-Project: You Have Another Option  
-Repository: AnotherOption  
-Date: 2026-05-30
+Status: Draft v0.3  
+Project: Tiny Door / You Have Another Option  
+Repository: TinyDoor  
+Date: 2026-05-31
 
 ---
 
@@ -169,50 +169,101 @@ one leading question or action
 one to two examples
 ```
 
-Five examples is a hard ceiling, not a target.
+Three examples is the hard ceiling for reader-facing prose unless there is a deliberate, documented reason.
 
-Lists beyond five items violate the Bathroom Chapter Rule in spirit even when the word count is technically short.
+Five examples is no longer an acceptable default ceiling for Options.
+
+Lists beyond three examples usually violate the Bathroom Chapter Rule in spirit even when the word count is technically short.
 
 When examples are useful but excessive, move them to `Holding/move-examples-bank.md` instead of deleting them.
 
 ---
 
-## 9. Current Sprint
+## 9. Example Discipline Rule
+
+Reader-facing Options should not use long lists to simulate completeness.
+
+Tedium masquerading as thoroughness is an editorial failure mode.
+
+Default rule:
+
+```text
+No more than three examples to make a point.
+```
+
+If more than three examples are needed, choose one of these repairs:
+
+- split the point;
+- move the extras to Holding / evidence notes;
+- keep only the strongest three.
+
+Long lists are appropriate in:
+
+- evidence stores;
+- review packets;
+- appendices;
+- inventories;
+- source notes.
+
+They are not default reader-facing prose.
+
+---
+
+## 10. Evidence / Poetic Force Guardrail
+
+No sentence should use poetic force to carry a scientific or clinical claim that has not yet been supported.
+
+Beautiful language may hold the reader.
+
+It must not launder uncertainty.
+
+Before promotion or evidence review, distinguish:
+
+- memoir / lived experience;
+- practical suggestion;
+- clinical claim;
+- public-health claim;
+- research-supported statement;
+- uncertain hypothesis;
+- metaphor.
+
+If a sentence is doing scientific, clinical, or public-health work, it needs an evidence path.
+
+If no evidence path exists yet, mark it for evidence review or soften the claim.
+
+---
+
+## 11. Current Sprint
 
 Current sprint:
 
 ```text
-Bridge from Doorway to Stakes
+Options Under Stress
 ```
 
 Source:
 
 ```text
-Chapters/010.md
-README.md
-rfc/safety-style-guide.md
-rfc/doorway-pilot-promotion.md
+Chapters/060.md
 ```
 
 Output target:
 
 ```text
-Repair and promote Options 006–008.
+Promote Options 037–039 and carry safety / evidence flags forward.
 ```
 
 Candidate Options:
 
 ```text
-Option 1.6 — Why This Book Exists
-Option 1.7 — The Problem Is Not Autistic Behavior
-Option 1.8 — The Number Is Not Destiny
+Option 2.17 — Positive Is Not the Point
+Option 2.18 — Keep One Door Unlocked
+Option 2.19 — Hope With Handles
 ```
-
-C checkpoint after the Bridge Sprint is repaired.
 
 ---
 
-## 10. Current Open Decisions
+## 12. Current Open Decisions
 
 Open decisions requiring future adjudication:
 
@@ -227,11 +278,11 @@ Open decisions requiring future adjudication:
 9. Citation source for mortality / lifespan claims.
 10. Whether Blue Zones framing returns in back matter or evidence notes.
 
-Do not block the Bridge Sprint on these decisions.
+Do not block the current sprint on these decisions.
 
 ---
 
-## 11. Repo Practice
+## 13. Repo Practice
 
 Record decisions in `rfc/`.
 
@@ -247,27 +298,14 @@ Do not overwrite source imports while architecture is unstable.
 
 ---
 
-## 12. Momentum Guardrail
+## 14. Momentum Guardrail
 
 If the team starts looping on architecture, return to the smallest concrete next move.
 
 Current smallest concrete next move:
 
-> Repair and promote the Bridge Sprint.
+> Draft / repair / promote the next bounded sprint.
 
 The book moves by making one reader safer at a time.
 
 ---
-
-## 13. Status
-
-This cadence is provisional.
-
-It should be revised when it starts creating friction.
-
-Until then:
-
-> G moves.  
-> C challenges checkpoints.  
-> Andie adjudicates truth.  
-> The repo remembers.
