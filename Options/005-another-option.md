@@ -34,19 +34,17 @@ Not every option fixes everything.
 
 Not every option is fair.
 
-Not every option is easy, affordable, available, obvious, or immediately believable.
+Not every option is available right away.
 
 But an option does not have to solve your whole life to matter.
 
-Sometimes an option only has to keep the next door from disappearing.
+Sometimes it only has to keep the next door from disappearing.
 
 ## Pressure
 
 Many Autistic people are trained into corners.
 
 We are told the problem is our behavior when the problem is often the pressure around us.
-
-We are told to fit seamlessly into society when the fitting itself is making us sick.
 
 We are told to tolerate pain because other people find our distress inconvenient.
 
@@ -68,12 +66,11 @@ It is a design principle.
 
 It asks:
 
-- Is there another room?
-- Is there another schedule?
-- Is there another way to communicate?
-- Is there another person who understands?
-- Is there another explanation besides shame?
-- Is there another treatment, another boundary, another exit, another support, another community, another way to rest?
+Is there another room?
+
+Is there another way to communicate?
+
+Is there another explanation besides shame?
 
 Another option does not mean infinite options.
 
@@ -81,13 +78,7 @@ It means the first story may not be the whole story.
 
 The first authority may not be the right authority.
 
-The first tool may not be the right tool.
-
-The first explanation may not be true.
-
 The first room may not be survivable.
-
-The first demand may not deserve obedience.
 
 That is where hope begins to grow handles.
 
@@ -97,21 +88,11 @@ Today, choose one pressure.
 
 Small is good.
 
-Do not pick your entire life.
+Maybe mornings.
 
-Pick one repeatable pressure:
+Maybe meetings.
 
-- mornings;
-- meals;
-- meetings;
-- school pickup;
-- grocery stores;
-- phone calls;
-- medical appointments;
-- family texts;
-- transitions;
-- bedtime;
-- social recovery after being around people.
+Maybe transitions.
 
 Then ask:
 
@@ -123,40 +104,15 @@ Not the final option.
 
 One other option.
 
-Examples:
-
-- leave five minutes earlier;
-- wear headphones;
-- write instead of speak;
-- eat before the meeting;
-- sit near an exit;
-- ask for the agenda;
-- say no without explaining everything;
-- take the quiet route;
-- build recovery time into the calendar;
-- ask one safer person for help.
-
-If you cannot find an option, that is information too.
+If you cannot find one, that is information too.
 
 It may mean the pressure is too large to solve alone.
-
-That is not failure.
-
-That is evidence that support is needed.
 
 ## Mercy
 
 You do not have to believe in every possible future today.
 
-You do not have to become optimistic on command.
-
 You only need one honest opening.
-
-One breath.
-
-One crack in the story that says nothing can change.
-
-One place to begin.
 
 If you are reading this from somewhere very dark, you are exactly who I had in mind when I wrote it.
 
