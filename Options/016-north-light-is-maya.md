@@ -50,6 +50,8 @@ Berkeley as queer promise.
 
 Berkeley as the place where the next life would finally know what to do with me.
 
+Berkeley mattered.
+
 But the shape was not an address.
 
 The shape was a room.
@@ -60,9 +62,19 @@ After Charlottesville, I did what a person does when a home has done its work an
 
 I landed in Berkeley at the Pacific Center for Human Growth and started meeting with queer people.
 
+A queer therapist.
+
+A queer elder group.
+
+A trans biweekly group.
+
+Regular heartbeat.
+
 That mattered.
 
 It still matters.
+
+Formal queer infrastructure matters.
 
 But the room that became Maya again was not the abstract Berkeley of my longing.
 
@@ -122,7 +134,9 @@ The question was:
 
 Charlottesville taught me the shape.
 
-North Light proved I could find it again.
+Berkeley gave me formal queer ground.
+
+North Light gave me the heartbeat.
 
 ## Move
 
