@@ -28,7 +28,17 @@ Safety: masking / burnout / hostile environments / harm-reduction frame; no meth
 
 ## Doorway
 
-Masking is not only pretending.
+Masking can look like answering "I'm good" before you know whether you are.
+
+It can look like laughing half a second late because everyone else laughed.
+
+It can look like forcing eye contact with the manager while your thumb digs into your palm under the table.
+
+It can look like staying at the party for twenty more minutes because leaving now would start a conversation you cannot survive tonight.
+
+It can look like reading the group chat three times before choosing the safest possible punctuation.
+
+That is not only pretending.
 
 Sometimes it is compression.
 
@@ -39,24 +49,6 @@ The signal still exists.
 The pressure still rises.
 
 But the person learns to fold the signal smaller and smaller until the room can pretend nothing is happening.
-
-Hands stay still.
-
-Face performs.
-
-Voice calibrates.
-
-Questions get swallowed.
-
-Confusion gets hidden.
-
-Pain gets translated into politeness.
-
-Regulation gets postponed.
-
-The room calls this success.
-
-The body may call it debt.
 
 ## Pressure
 
@@ -77,6 +69,16 @@ But armor has weight.
 Strategy has cost.
 
 A door you can only pass through by leaving most of yourself behind is not free access.
+
+The cost is often ordinary before it becomes dramatic.
+
+You come home and cannot answer a text.
+
+You sit in the car for forty minutes before going inside.
+
+You snap at someone who asked a normal question because every answer you gave all day was edited before it left your mouth.
+
+You realize you do not know what you wanted for dinner because you spent the whole day wanting what would make you easiest.
 
 When regulation is compressed for too long, the body keeps the ledger.
 
@@ -120,13 +122,19 @@ And compression needs release somewhere.
 
 ## Move
 
-Ask one mask question:
+Pick one recent masked moment.
 
-> What is this costing, and what is it protecting?
+One meeting.
 
-One mask.
+One dinner.
 
-One situation.
+One text thread.
+
+One appointment.
+
+Ask:
+
+> What did this mask protect, and what did it cost?
 
 If you have capacity, name one place where the compression can loosen safely.
 
@@ -136,6 +144,6 @@ If not, noticing the cost is the whole move.
 
 You are not fake because you learned to survive the room.
 
-You are not weak because the armor got heavy.
+And you are allowed to be tired after surviving it.
 
-You are allowed to want a life where less of you has to be compressed to stay safe.
+That is enough honesty for one door.
