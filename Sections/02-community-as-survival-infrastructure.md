@@ -320,7 +320,81 @@ Preserve him as person, not symbol.
 
 ---
 
-### Movement 6 — Adoption by the Neurodivergent Community
+### Movement 6 — Gina and the Old Man's Club
+
+Working title:
+
+```text
+Gina and the Old Man's Club
+```
+
+Purpose:
+
+- introduce Gina as catalyst, wild permission, and social propulsion;
+- show belonging arriving through invitation rather than application;
+- connect Maya, Peter's art, Lee's jewelry store, and the old man's club as expanding infrastructure;
+- preserve Gina, Lee, Peter, and the club as real people / places, not symbols.
+
+Gina core beat:
+
+```text
+Then walked in Gina.
+
+Larger than her own life, much less everyone else's, she was Beanie in the 21st century.
+
+A flapper with a very punk rock edge.
+
+Gave no shits about anyone's attitude.
+
+And frankly, exactly what I needed.
+
+We are friends still.
+```
+
+Caribbean beat:
+
+```text
+I spent a magical week in the Caribbean with her and met her own version of what she was about to introduce me to next.
+```
+
+Invitation beat:
+
+```text
+Do you want to come to an art opening?
+
+Yes.
+
+It's Peter's.
+
+Oh hell yes.
+```
+
+Fateful turn:
+
+```text
+That decision and meeting Lee, who owned the jewelry store where Peter's collection of portraits of the old man's club was showing, would prove to be fateful in the most delicious way.
+```
+
+Old man's club beat:
+
+```text
+Lee invited me to join the old man's club, first for a single meeting and then as a member.
+
+Lee did not invite anyone to join.
+```
+
+Guardrail:
+
+```text
+Do not flatten Gina into comic relief.
+Do not flatten Lee into gatekeeper.
+Do not flatten the old man's club into novelty.
+This is an infrastructure expansion scene: one person invites, one space opens, one rare membership changes the social map.
+```
+
+---
+
+### Movement 7 — Adoption by the Neurodivergent Community
 
 Working title:
 
@@ -364,7 +438,7 @@ Show infrastructure: rides, rooms, messages, rituals, noticing, invitations, ord
 
 ---
 
-### Movement 7 — Ground Under My Feet
+### Movement 8 — Ground Under My Feet
 
 Working title:
 
@@ -395,7 +469,7 @@ Community gave me enough ground to live from.
 
 ---
 
-### Movement 8 — Becoming
+### Movement 9 — Becoming
 
 Working title:
 
@@ -450,9 +524,10 @@ Option 1.9 — Community Is Survival Infrastructure
 Option 1.10 — The First Big Family Holiday Alone
 Option 1.11 — Peter at Maya
 Option 1.12 — Ted Behind the Bar
-Option 1.13 — They Found Me Back
-Option 1.14 — Ground Under My Feet
-Option 1.15 — From That Ground, I Could Become
+Option 1.13 — Gina and the Old Man's Club
+Option 1.14 — They Found Me Back
+Option 1.15 — Ground Under My Feet
+Option 1.16 — From That Ground, I Could Become
 ```
 
 C checkpoint should occur after one bounded memoir cluster is drafted.
