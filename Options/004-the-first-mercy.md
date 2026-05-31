@@ -30,13 +30,9 @@ Safety: low direct crisis content; shame / ableism content present
 
 Now we take the saxophone story out of the band room and hand it to the reader as a concept.
 
-The first mercy is not what happened to me. It is what the story makes available to you.
+The first mercy is not what happened to me.
 
-The first mercy is not advice.
-
-It is not a technique.
-
-It is not a productivity system, a morning routine, a breathing exercise, a treatment plan, or a new personality to perform.
+It is what the story makes available to you.
 
 The first mercy is this:
 
@@ -50,33 +46,19 @@ It is the door.
 
 Autistic people are often asked to begin from self-correction.
 
-Fix your tone.
-
 Fix your face.
-
-Fix your posture.
 
 Fix your eye contact.
 
-Fix your interests.
-
-Fix your volume.
-
-Fix your reactions.
-
-Fix your honesty.
-
-Fix your need to leave.
-
 Fix the way your body tells the truth.
 
-There may be skills to learn. There may be supports that help. There may be ways to make life easier, relationships kinder, work more survivable, and daily routines less punishing.
+There may be skills to learn.
+
+There may be supports that help.
 
 But if every path begins with the assumption that the Autistic person is the defect, the path itself is already unsafe.
 
 A person cannot heal while being asked to disappear.
-
-A person cannot build a life while apologizing for having a nervous system.
 
 ## Reframe
 
@@ -84,13 +66,11 @@ Mercy does not mean pretending nothing is hard.
 
 Mercy does not mean nobody ever gets hurt.
 
-Mercy does not mean Autistic people never need help.
-
 Mercy means we stop starting with blame.
 
 We start with reality.
 
-The reality is that many Autistic people live inside environments that create avoidable suffering: noise without escape, lights without mercy, social rules without clarity, schedules without recovery, medical systems without listening, schools without accommodation, workplaces without honesty, families without enough support, and cultures that confuse compliance with health.
+Many Autistic people live inside environments that create avoidable suffering: noise without escape, lights without mercy, schedules without recovery.
 
 When those environments hurt us, the pain is real.
 
@@ -106,42 +86,22 @@ The next time you notice yourself thinking:
 
 Pause, if you can.
 
-Ask a slower question:
+Ask:
 
 > What is the pressure here?
 
 Name one pressure without judging it.
 
-Maybe the pressure is sound.
+Maybe sound.
 
-Maybe it is light.
+Maybe hunger.
 
-Maybe it is uncertainty.
-
-Maybe it is hunger.
-
-Maybe it is someone talking too fast.
-
-Maybe it is being touched.
-
-Maybe it is being watched.
-
-Maybe it is pretending to understand when you need more time.
-
-Maybe it is years of being told your distress is inconvenient.
+Maybe being watched.
 
 You do not have to solve the whole pressure.
 
 Just name it.
 
-Naming pressure is not weakness.
-
-It is the beginning of design.
-
 ## Mercy
-
-You are not required to earn compassion by becoming easier for other people to misunderstand.
-
-You are allowed to begin with mercy.
 
 You are allowed to ask what hurts before deciding you are wrong for hurting.
