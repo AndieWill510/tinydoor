@@ -122,4 +122,6 @@ You may have been trying to make music through a broken mouthpiece for a very lo
 
 That does not mean you were broken.
 
-It means we need to look at the instrument.
+It means we need to look at the instrument we're asked to play.  Or the room in which we play it. 
+
+Or both. 
