@@ -58,6 +58,32 @@ Those words carry different freight.
 
 ---
 
+### Conditional tolerance with better lighting
+
+Status: candidate canonical vocabulary.
+
+Source:
+
+```text
+Options/012-ted-behind-the-bar.md
+```
+
+Working meaning:
+
+```text
+partial or conditional acceptance that looks like belonging from a distance but still requires the person to divide, negotiate, hide, flatten, or ration the truth of who they are
+```
+
+Editorial note:
+
+This phrase distinguishes safety from tolerance.
+
+Do not replace it casually with `acceptance`, `inclusion`, or `conditional belonging` unless the sentence specifically needs a softer register.
+
+The phrase carries a useful diagnostic edge: it names the rooms that look welcoming until the person has to become whole inside them.
+
+---
+
 ## 3. Under Challenge
 
 ### MD / man-made death
@@ -79,6 +105,6 @@ No final replacement selected here.
 
 ## 4. Status
 
-Seed created.
+Seed updated with community-arc vocabulary.
 
 Expand as vocabulary stabilizes.
