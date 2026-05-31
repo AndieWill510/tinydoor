@@ -30,6 +30,10 @@ Safety: low direct crisis content; grief / validation content present
 
 "You were never going to make those notes."
 
+The saxophone story has one more room in it.
+
+This Option is not about the discovery itself. It is about the grief that becomes visible after the crack is found.
+
 That sentence can break your heart.
 
 It can also give your heart back.
@@ -118,31 +122,31 @@ You were never going to make those notes under those conditions.
 
 ## Move
 
-Say the sentence out loud once, if you can:
+Name one thing you grieved privately that someone taught you to call failure.
 
-> I was never going to make those notes under those conditions.
+One thing.
 
-Then add one real condition.
+Not the whole list.
 
-For example:
+Maybe it was a friendship that never formed. Maybe it was a class, a job, a room, a family role, a diagnosis, a performance, a childhood, a relationship, a body, a version of yourself you tried to become because people kept rewarding the mask.
 
-> I was never going to make those notes in that noisy room.
+Write it plainly, if writing helps:
 
-> I was never going to make those notes with no recovery time.
+> I grieved __________, and I was taught to call it my fault.
 
-> I was never going to make those notes while pretending pain was fine.
+Then ask:
 
-> I was never going to make those notes with people punishing every sign of distress.
+> Was I carrying grief, or was I carrying shame?
 
-> I was never going to make those notes while using tools built for someone else’s nervous system.
+You do not have to answer perfectly.
 
-Keep it honest.
+Just notice the difference.
 
-Do not turn the sentence into an excuse.
+Grief says something mattered.
 
-Turn it into evidence.
+Shame says you were the problem.
 
-Evidence helps you decide what has to change.
+Those are not the same thing.
 
 ## Mercy
 
