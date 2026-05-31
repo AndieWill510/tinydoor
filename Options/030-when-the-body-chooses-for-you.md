@@ -28,29 +28,35 @@ Safety: meltdown / shutdown / burnout / loss of control frame; no method detail;
 
 ## Doorway
 
-Sometimes the body chooses because the person was not allowed to choose earlier.
+It is 4:40 p.m.
 
-It chooses shutdown.
+The grocery store changed its layout.
 
-It chooses meltdown.
+The milk is not where it was.
 
-It chooses leaving.
+Someone's cart is blocking the aisle.
 
-It chooses silence.
+The speaker above you keeps cutting in and out.
 
-It chooses tears.
+Your phone buzzes twice.
 
-It chooses rage.
+You have not eaten enough.
 
-It chooses sleep.
+You cannot find the exit without turning around, and turning around would mean walking past the same person for the third time.
 
-It chooses numbness.
+Then your body chooses.
 
-It chooses the thing that looks like overreaction to people who did not see the thousand smaller choices that were denied.
+Maybe it freezes.
 
-This is not the same as saying every body response is safe.
+Maybe it cries.
 
-It is saying the body may be telling the truth about a load the room refused to measure.
+Maybe it snaps.
+
+Maybe it leaves the cart and gets out.
+
+To someone watching only the final thirty seconds, it looks sudden.
+
+It was not sudden.
 
 ## Pressure
 
@@ -77,6 +83,8 @@ Then everyone becomes an expert on self-control.
 That is a cruel timeline.
 
 It ignores every moment where regulation could have been supported before crisis had to speak.
+
+And it turns the last visible moment into the whole story.
 
 ## Reframe
 
@@ -112,6 +120,16 @@ Missed signals.
 
 Missed chances to make the channel safer before the river hit the wall.
 
+Maybe the missed choice was food.
+
+Maybe it was leaving ten minutes earlier.
+
+Maybe it was a written plan.
+
+Maybe it was permission to abandon the cart.
+
+Maybe it was someone else understanding that "I need to go" means now.
+
 ## Move
 
 After a shutdown, meltdown, collapse, or overload moment, ask gently:
@@ -136,10 +154,6 @@ That is enough for the first door.
 
 You are not only the moment other people noticed.
 
-You are the whole timeline.
+Start the timeline earlier.
 
-Your body may have chosen because nobody helped you keep enough choice.
-
-That does not make you bad.
-
-It means the next design question matters.
+That is where the next design question usually lives.
