@@ -158,4 +158,6 @@ One crack in the story that says nothing can change.
 
 One place to begin.
 
+If you are reading this from a place that feels impossibly hard, you are exactly who I had in mind when I wrote it.
+
 You have another option.
