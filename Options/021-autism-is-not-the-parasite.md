@@ -1,0 +1,163 @@
+<!--
+Copyright 2026 Kevin "Andie" Williams
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+SPDX-License-Identifier: Apache-2.0
+-->
+
+# Option 2.1 — Autism Is Not the Parasite
+
+Author: Kevin "Andie" Williams  
+Status: Social model sprint draft  
+Project: You Have Another Option  
+Source: Chapters/020.md  
+Safety: identity / disability / mortality frame implied; no method detail; evidence review required
+
+---
+
+## Doorway
+
+Imagine a room full of Autistic people.
+
+Not a clinic.
+
+Not an evaluation.
+
+Not a social skills class.
+
+Not a fluorescent waiting room where someone is measuring whether your face is doing the right thing.
+
+A real room.
+
+People who understand the pause before speech.
+
+People who do not need every movement explained.
+
+People who know that silence may be comfort, not rejection.
+
+People who know that joy can look strange from the outside and still be joy.
+
+Something changes in a room like that.
+
+Not everything.
+
+Not all pain.
+
+Not all disability.
+
+But something.
+
+The parasite loosens.
+
+And the parasite was never Autism.
+
+## Pressure
+
+A lot of us were taught the wrong story.
+
+We were told Autism was the problem.
+
+The disorder.
+
+The defect.
+
+The thing to manage, minimize, explain, treat, hide, cure, or overcome.
+
+Even when the language got gentler, the old story often stayed underneath it:
+
+> Your nervous system is the wrong shape for the world.
+
+That story does damage.
+
+If you believe the crisis is you, you will spend your life trying to become less visible to your own body.
+
+You will call masking maturity.
+
+You will call exhaustion responsibility.
+
+You will call collapse the cost of being loved.
+
+You will ask, again and again:
+
+> What is wrong with me?
+
+And sometimes the answer is:
+
+Nothing is wrong with your existence.
+
+Something is wrong with the conditions you are being asked to survive.
+
+## Reframe
+
+Autism is a neurotype.
+
+A way a nervous system can be built.
+
+That does not mean Autistic life is easy.
+
+It does not mean support needs are imaginary.
+
+It does not mean pain is fake, disability is fake, caregivers are lying, or accommodations are optional.
+
+It means the target has been wrong.
+
+The problem is not Autistic existence.
+
+The problem is an environment that treats Autistic existence as an emergency.
+
+The problem is a culture that mistakes difference for defect.
+
+The problem is a world that offers punishment where design is needed.
+
+The problem is not that we have bodies that signal distress.
+
+The problem is that too many people would rather silence the signal than change the conditions.
+
+That is the parasite:
+
+not Autism,
+
+but the story that Autism makes a person less legitimate, less believable, less welcome, less whole, and less worth designing around.
+
+## Move
+
+When the old question appears —
+
+> What is wrong with me?
+
+try adding one more question:
+
+> What condition is making this harder than it has to be?
+
+One condition.
+
+Maybe sound.
+
+Maybe uncertainty.
+
+Do not solve everything.
+
+Just move the question from self-blame toward design.
+
+## Mercy
+
+You are not required to hate your nervous system in order to take your suffering seriously.
+
+You can need help without being a defect.
+
+You can be disabled by the world and still not be wrong.
+
+Autism is not the parasite.
+
+Shame is.
