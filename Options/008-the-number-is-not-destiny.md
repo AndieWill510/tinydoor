@@ -30,7 +30,7 @@ Safety: mortality / lifespan / suicide-prevention frame; citation review require
 
 At some point, this book has to say the frightening part plainly.
 
-Autistic people are dying too young.
+Research increasingly shows that Autistic people face shorter average lifespans.
 
 That sentence is heavy.
 
@@ -72,8 +72,6 @@ The answer is to ask what conditions are shortening lives, what supports are mis
 
 ## Reframe
 
-This is where the Blue Zones idea matters.
-
 Researchers studying long-lived communities did not only ask why individual people lived longer.
 
 They looked at culture, habits, food, movement, relationships, purpose, place, and community.
@@ -112,11 +110,7 @@ Starting with the pressures closest to hand.
 
 When you encounter a frightening number, try not to hold it alone.
 
-Put it inside a better question:
-
-> What would make this less inevitable?
-
-Then make the question smaller:
+Ask one question:
 
 > What is one preventable pressure near me?
 
@@ -128,19 +122,7 @@ Not every statistic.
 
 One pressure.
 
-Maybe sleep.
-
-Maybe isolation.
-
 Maybe sensory overload.
-
-Maybe unsafe housing.
-
-Maybe unsupported burnout.
-
-Maybe medical dismissal.
-
-Maybe a school or workplace that treats distress as defiance.
 
 Maybe having no one to call before things get worse.
 
