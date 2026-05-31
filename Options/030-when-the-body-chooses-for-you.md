@@ -88,7 +88,7 @@ Important information.
 
 Information with consequences, yes.
 
-Information that may need repair afterward, yes.
+Information whose impact may need care, accountability, or repair afterward, yes.
 
 Information that may frighten you, yes.
 
