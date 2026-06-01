@@ -34,17 +34,9 @@ A look.
 
 A laugh.
 
-A hand pulled away.
-
 A door closed too fast.
 
-A teacher saying, "We don't do that here."
-
-A parent saying, "That's not appropriate," without explaining what would be appropriate, where, when, why, or with whom.
-
-A therapist counting the behavior but not asking what the body needed.
-
-A room getting tense around a question that was only a question.
+A parent says, "That's not appropriate," without explaining what would be appropriate, where, when, why, or with whom.
 
 The lesson lands:
 
@@ -58,19 +50,9 @@ Autistic people are often punished for not already knowing the invisible rules.
 
 When to move.
 
-When not to move.
-
 What can be asked.
 
-What cannot be asked.
-
 Which needs are allowed in public.
-
-Which needs are allowed in private.
-
-Which feelings can be spoken.
-
-Which feelings must be translated into something easier for other people.
 
 Stigma turns missing instruction into moral failure.
 
@@ -90,10 +72,6 @@ Boundaries are not shame.
 
 Consent is not shame.
 
-Context is not shame.
-
-Safety is not shame.
-
 Those are useful tools.
 
 Shame is different.
@@ -106,9 +84,7 @@ Tiny Door refuses that lesson.
 
 The body can learn safer channels without learning self-hatred.
 
-A person can learn what belongs in public, private, solitary, relational, medical, romantic, sexual, sensory, or social contexts without being told that their body is a problem.
-
-That distinction can save years.
+A person can learn context without being told their body is the problem.
 
 ## Move
 
