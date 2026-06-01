@@ -38,10 +38,6 @@ After food.
 
 After quiet.
 
-After sleep if sleep was needed.
-
-After you can think in more than one color again.
-
 Then you can look back.
 
 Not to prosecute yourself.
@@ -60,33 +56,19 @@ The store always does this to me.
 
 Family dinner always does this to me.
 
-Work always does this to me.
-
 I always ruin it.
-
-I always fail.
-
-I always end up here.
 
 Those sentences may feel true when you are exhausted.
 
 But they are too large to be useful.
 
-They make the whole world one undifferentiated hazard.
-
 The body may have better information than that.
-
-A specific aisle.
 
 A specific sound.
 
 A specific transition.
 
-A specific person.
-
 A specific missing exit.
-
-A specific hour when food, noise, and social demand collided.
 
 Specific is where the next option can hide.
 
@@ -110,17 +92,7 @@ But:
 
 > What would reduce the load next time?
 
-Not:
-
-> Who do I have to become so nobody is inconvenienced?
-
-But:
-
-> What support, exit, stim, script, timing, food, quiet, or boundary was missing?
-
 This is not a giant worksheet.
-
-This is not homework for the worst day of your week.
 
 It is one small note for future-you.
 
@@ -133,10 +105,6 @@ What loaded me?
 What helped even a little?
 What would I change by one notch next time?
 ```
-
-Three lines.
-
-Not a trial transcript.
 
 If three lines is too much, write one word.
 
