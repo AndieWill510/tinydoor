@@ -32,23 +32,15 @@ Sometimes people call it catastrophizing when you are actually remembering.
 
 You say the room will be too loud.
 
-You say the meeting will go sideways.
-
 You say the family dinner will turn into questions you cannot safely answer.
 
-You say the party will have nowhere to disappear for five minutes.
-
 You say the doctor will not believe you.
-
-You say the teacher will punish the signal instead of asking what pressure produced it.
 
 And someone says:
 
 > You are assuming the worst.
 
-But what if you are not assuming?
-
-What if your body is recognizing a pattern?
+But what if your body is recognizing a pattern?
 
 ## Pressure
 
@@ -56,15 +48,9 @@ Autistic people are often treated as unreliable witnesses to our own danger.
 
 Too sensitive.
 
-Too negative.
-
-Too rigid.
-
 Too anxious.
 
 Too dramatic.
-
-Too sure something bad will happen.
 
 But many of us have lived the same bad outcome enough times to know its weather.
 
@@ -72,9 +58,7 @@ We know what happens when there is no exit.
 
 We know what happens when the lights buzz and nobody cares.
 
-We know what happens when we ask for clarity and get mocked for needing it.
-
-We know what happens when we are told to calm down while the room keeps hurting us.
+We know what happens when asking for clarity becomes the problem.
 
 Then, when our bodies prepare for the next version of the same thing, people call that irrational.
 
@@ -106,13 +90,7 @@ That question does not make fear the boss.
 
 It makes fear evidence.
 
-Evidence can be checked.
-
-Evidence can be held gently.
-
-Evidence can be updated.
-
-But evidence should not be mocked just because it arrived through the body before it arrived through a spreadsheet.
+Evidence can be checked, held gently, and updated.
 
 ## Move
 
@@ -137,7 +115,5 @@ If not, naming the pattern is the whole move.
 ## Mercy
 
 You are not foolish because your body remembers.
-
-You are not broken because your fear has history.
 
 You are allowed to treat dread as information without letting it become destiny.
