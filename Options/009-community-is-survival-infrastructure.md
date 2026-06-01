@@ -36,11 +36,9 @@ maybe survival was never supposed to be individual.
 
 That sentence can sound simple if you have always had people.
 
-It does not sound simple when you have had to survive by rationing yourself.
-
 It does not sound simple when belonging has mostly meant negotiation.
 
-It does not sound simple when rooms have taught your body to ask, before anything else:
+It does not sound simple when every room has taught your body to ask:
 
 > What will this cost me?
 
@@ -50,23 +48,9 @@ Autistic people are often taught to think of survival as private performance.
 
 Regulate yourself.
 
-Explain yourself.
-
 Mask better.
 
-Recover faster.
-
-Notice the rule before the rule becomes punishment.
-
 Need less.
-
-Ask better.
-
-Be easier.
-
-Be clearer.
-
-Be grateful for partial welcome.
 
 But a person is not a closed system.
 
@@ -80,23 +64,17 @@ Community is not a cure.
 
 Community is not magic.
 
-Community is not guaranteed safe just because people share a diagnosis, a politics, a vocabulary, a grief, or a kind of weirdness.
+Community is not guaranteed safe.
 
 But community can become infrastructure.
-
-It can become the difference between a pressure and a catastrophe.
 
 It can become the person who notices when you disappear.
 
 It can become the room where you do not have to translate every signal before anyone believes you are real.
 
-It can become the table where you learn that belonging is not always an application process.
-
-It can become the chorus that says okay before exile can finish speaking.
+It can become the table where belonging is not an application process.
 
 Not perfect.
-
-Not permanent by default.
 
 Not owed the power to define you.
 
@@ -114,11 +92,11 @@ One person.
 
 One part.
 
-Let the answer be ordinary if it is ordinary.
-
 A ride counts.
 
 A text counts.
+
+A room where you can exhale counts.
 
 The point is not to prove you have enough community.
 
@@ -127,7 +105,5 @@ The point is to notice where infrastructure may already be trying to form.
 ## Mercy
 
 You were not meant to become a whole shelter by yourself.
-
-Sometimes another option is not a technique.
 
 Sometimes another option is a person.
