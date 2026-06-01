@@ -88,8 +88,6 @@ Rest pleasure.
 
 Relational pleasure.
 
-Sexual pleasure, for adults and only in lawful, consensual, appropriate contexts.
-
 No one gets to use pleasure as an excuse to cross another person's boundaries.
 
 No one gets to use shame as an excuse to erase yours.
