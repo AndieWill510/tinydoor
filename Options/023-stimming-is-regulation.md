@@ -34,14 +34,6 @@ A teenager taps.
 
 An adult paces the hallway after a meeting and pretends they are just stretching their legs.
 
-Someone flaps when joy arrives faster than language.
-
-Someone repeats a phrase until the world becomes less sharp.
-
-Someone rubs fabric between their fingers.
-
-Someone dances alone in the kitchen because the body found a door before the mind did.
-
 People call this stimming.
 
 Too often, they say it like a problem.
@@ -60,25 +52,11 @@ Quiet body.
 
 Look normal.
 
-Do not rock.
-
-Do not flap.
-
-Do not hum.
-
-Do not pace.
-
-Do not be embarrassing.
-
-Do not make other people uncomfortable by letting your body tell the truth.
-
 So the body learns to hold what it was trying to move.
 
 Stress has nowhere to go.
 
 Joy has nowhere to go.
-
-Fear has nowhere to go.
 
 Overload has nowhere to go.
 
@@ -98,25 +76,17 @@ A pressure valve.
 
 A rhythm.
 
-A return.
-
 A way for the body to say:
 
 > I am trying to stay with myself.
 
 That does not mean every stim is safe everywhere.
 
-It does not mean every environment will understand.
-
-It does not mean every body has the same options.
-
 Safety matters.
 
 Context matters.
 
-But the core truth remains:
-
-when a body is regulating, the wise question is not always, “How do I stop this?”
+But when a body is regulating, the wise question is not always, “How do I stop this?”
 
 Sometimes the wise question is:
 
@@ -145,5 +115,3 @@ Let it be yours.
 Your body is not betraying you when it reaches for rhythm.
 
 It may be trying to bring you home.
-
-You are allowed to regulate without apologizing for having a nervous system.
