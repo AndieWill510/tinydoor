@@ -36,25 +36,13 @@ The pleasure of the same song again.
 
 The pleasure of pressure.
 
-The pleasure of soft fabric.
-
-The pleasure of being alone after too many people.
-
-The pleasure of a safe crush that nobody gets to mock.
-
 The pleasure of a body finally unclenching when the door closes and the room is yours.
 
 Autistic pleasure is often treated like evidence.
 
 Too intense.
 
-Too repetitive.
-
 Too private.
-
-Too obvious.
-
-Too strange.
 
 Too much.
 
@@ -66,15 +54,9 @@ A body that cannot safely access pleasure may start to believe survival is only 
 
 Get through the school day.
 
-Get through the meeting.
-
 Get through the appointment.
 
 Get through the family dinner.
-
-Get through the relationship by being less inconvenient.
-
-Get through the week by hiding the things that make life feel like life.
 
 That is not neutral.
 
@@ -102,11 +84,7 @@ This applies across the body.
 
 Sensory pleasure.
 
-Movement pleasure.
-
 Rest pleasure.
-
-Solitude pleasure.
 
 Relational pleasure.
 
@@ -115,10 +93,6 @@ Sexual pleasure, for adults and only in lawful, consensual, appropriate contexts
 No one gets to use pleasure as an excuse to cross another person's boundaries.
 
 No one gets to use shame as an excuse to erase yours.
-
-Both things are true.
-
-Both matter.
 
 ## Move
 
@@ -131,12 +105,6 @@ Music.
 Texture.
 
 Warmth.
-
-Privacy.
-
-Movement.
-
-Rest.
 
 Then ask:
 
