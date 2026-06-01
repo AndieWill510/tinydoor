@@ -72,11 +72,15 @@ And when the reader cannot hold a whole plan, the book offers something smaller:
 > Tiny door.  
 > Just a door.
 
-The book should not use poetic force to carry a scientific or clinical claim that has not yet been supported.
+The book should not use poetic force to carry a scientific, clinical, public-health, historical, or legal claim that has not yet been supported.
 
 Beautiful language can hold a reader.
 
 It cannot launder uncertainty.
+
+Claims require evidence.
+
+If the evidence is not there, the claim does not go in.
 
 The book should also resist tedium masquerading as thoroughness.
 
@@ -186,6 +190,7 @@ The book should preserve these commitments:
 - Story before theory.
 - Safety before rhetoric.
 - Precision before urgency.
+- Evidence before claim.
 - Mercy before cleverness.
 - Brevity before throat-clearing.
 - Practicality before performance.
@@ -197,6 +202,7 @@ The book should preserve these commitments:
 - No false certainty.
 - No reader-blaming.
 - No clinical overclaiming.
+- No historical overclaiming.
 - No poetic force carrying unsupported claims.
 - No tedium masquerading as thoroughness.
 - No more than three examples to make a point.
@@ -217,6 +223,7 @@ The book refuses:
 - academic authority without lived accountability;
 - inspirational language that does not give the reader a usable next step;
 - suicide-prevention language that creates fatalism, contagion, glamour, or shame;
+- unsupported claims, no matter how emotionally true they feel;
 - politeness that protects harmful systems more than vulnerable readers.
 
 ---
