@@ -66,7 +66,7 @@ It may still say treatment.
 
 It may still say progress.
 
-But if the goal is to make the Autistic person easier for the room without making the room safer for the person, something has gone wrong.
+But if the goal is to make the Autistic person easier for the room without making the room safer for the Autistic person, something has gone wrong.
 
 ## Reframe
 
