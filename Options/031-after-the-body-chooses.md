@@ -34,15 +34,11 @@ It is not the time to explain your whole life.
 
 It is not the time to prove whether you are good.
 
-It is not the time to write the final report on what happened.
-
 It may be the minute when you are sitting on the bathroom floor with your back against the door.
 
 Or standing outside the grocery store without the groceries.
 
-Or staring at your phone because three people texted, "Are you okay?" and every possible answer feels too large.
-
-Or lying in bed with your shoes still on because taking them off is somehow one step too many.
+Or staring at your phone because "Are you okay?" is too large to answer.
 
 Start there.
 
@@ -60,12 +56,6 @@ Why did you leave?
 
 Why did you snap?
 
-Why did you stop talking?
-
-Why did you not just say something?
-
-Do you understand how that looked?
-
 Sometimes those questions matter.
 
 Sometimes there may be impact to repair.
@@ -78,8 +68,6 @@ Now the room wants a receipt.
 
 That does not usually produce truth.
 
-It produces performance, apology without understanding, shutdown, or another wave.
-
 ## Reframe
 
 Recovery comes before analysis.
@@ -90,7 +78,7 @@ Before.
 
 A body that is still in alarm cannot always tell the story cleanly.
 
-A person who has not eaten, slept, hydrated, cooled down, left the noise, or stopped shaking may not be ready to decide what the event means.
+A person who has not eaten, slept, hydrated, cooled down, or left the noise may not be ready to decide what the event means.
 
 That is not avoidance.
 
@@ -101,12 +89,6 @@ First reduce the load.
 Then look at the timeline.
 
 Then, if needed, repair what the moment affected.
-
-The order matters.
-
-A smoke alarm does not need a philosophical conversation while the smoke is still in the room.
-
-It needs air.
 
 ## Move
 
@@ -121,10 +103,6 @@ Water.
 Dark.
 
 Quiet.
-
-Food.
-
-Distance.
 
 No explanation yet.
 
