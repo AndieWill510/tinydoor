@@ -28,13 +28,11 @@ Safety: memoir / near-death holiday context / loneliness / belonging wound; disc
 
 ## Doorway
 
-Peter asked me what I was doing there.
+He, I'll call him "Coach," asked me what brought me to town.
 
-It is an ordinary question.
+It's an ordinary question.
 
 It is also a question every Autistic person knows.
-
-Why are you here?
 
 Why do you think you belong here?
 
@@ -54,7 +52,7 @@ It was Memorial Day 2024, my first big family holiday after a Christmas holiday 
 
 I needed something to do.
 
-Then Peter asked what I was doing there.
+Then Coach asked what I was doing there.
 
 My answer was armor and angst and bluster and dissociation.
 
@@ -86,7 +84,7 @@ I lived there almost full time for the next year and a half.
 
 And they adopted me.
 
-The entire Maya family.
+The entire "Cheers bar" family.
 
 ## Move
 
