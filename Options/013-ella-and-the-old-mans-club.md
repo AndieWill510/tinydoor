@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 1.13 — Gina and the Old Man's Club
+# Option 1.13 — Ella and the Old Man's Club
 
 Author: Kevin "Andie" Williams  
 Status: Community section memoir draft  
@@ -28,7 +28,7 @@ Safety: memoir / belonging / chosen-community arc; disclosure review required
 
 ## Doorway
 
-Then walked in Gina.
+Then walked in Ella.
 
 Larger than her own life, much less everyone else's.
 
@@ -64,19 +64,19 @@ Did I want to come to an art opening?
 
 Yes.
 
-It was Peter's.
+It was Coach's.
 
 Oh hell yes.
 
 That decision, and meeting Lee, would prove fateful in the most delicious way.
 
-Lee invited me to join the old man's club.
+Dave invited me to join the old man's club.
 
 First for a single meeting.
 
 Then as a member.
 
-Lee did not invite anyone to join.
+Dave did not invite anyone to join.
 
 Sometimes the beam that carries the house is an invitation someone almost never gives.
 
