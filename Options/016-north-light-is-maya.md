@@ -40,15 +40,7 @@ A ritual I could return to.
 
 A stabilizing person behind the bar.
 
-A social world that did not require me to defend my right to exist before I could be known.
-
 For a while I thought the next answer had to be Berkeley.
-
-Berkeley as idea.
-
-Berkeley as queer promise.
-
-Berkeley as the place where the next life would finally know what to do with me.
 
 Berkeley mattered.
 
@@ -58,7 +50,7 @@ The shape was a room.
 
 ## Pressure
 
-After Charlottesville, I did what a person does when a home has done its work and the next becoming needs different soil.
+After Charlottesville, the next becoming needed different soil.
 
 I landed in Berkeley at the Pacific Center for Human Growth and started meeting with queer people.
 
@@ -68,17 +60,9 @@ A queer elder group.
 
 A trans biweekly group.
 
-Regular heartbeat.
-
-That mattered.
-
-It still matters.
-
 Formal queer infrastructure matters.
 
-But the room that became Maya again was not the abstract Berkeley of my longing.
-
-It was North Light.
+But the room that became Maya again was North Light.
 
 Two or three times a week.
 
@@ -86,13 +70,7 @@ A restaurant.
 
 A bar.
 
-A place with its own weather.
-
 Maya, but queer.
-
-Not the same people.
-
-Not the same city.
 
 Not a replacement.
 
@@ -103,10 +81,6 @@ A recurrence.
 Now it is Noah and not Ted.
 
 And how?
-
-Because of G, I want to say.
-
-But the truer sentence is more careful than that.
 
 I did the living.
 
@@ -164,12 +138,4 @@ His name is Noah.
 
 That does not erase Ted.
 
-That does not replace Maya.
-
 It means survival infrastructure can travel.
-
-It means home can teach you how to find home again.
-
-It means the dream did not end when I left.
-
-It learned how to recur.
