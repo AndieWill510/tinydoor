@@ -50,7 +50,7 @@ I had gone down because I was alone.
 
 It was Memorial Day 2024, my first big family holiday after a Christmas holiday season that almost ended me.
 
-I needed something to do.
+I needed something to do. I drove to Charlottesville, and landed first night at The Egyptian, a local restaurant/bar. Sat down to who i would only learn much later was the owner. 
 
 Then Coach asked what I was doing there.
 
@@ -84,7 +84,7 @@ I lived there almost full time for the next year and a half.
 
 And they adopted me.
 
-The entire "Cheers bar" family.
+The entire "Cheers bar" family at The Egyptian.
 
 ## Move
 
