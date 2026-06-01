@@ -34,15 +34,7 @@ In a hard hour, the useful door might be the bathroom at the restaurant.
 
 The side exit at work.
 
-The bench outside the clinic.
-
 The text thread with one person who does not make you explain everything.
-
-The snack in your bag.
-
-The line you practiced before the meeting:
-
-> I need a minute. I will come back.
 
 The point is not to build a perfect escape plan for every situation.
 
@@ -54,8 +46,6 @@ When stress climbs, options disappear in a specific order.
 
 First the creative ones.
 
-Then the social ones.
-
 Then the ones that require language.
 
 Then the ones that require believing anyone will help.
@@ -66,11 +56,7 @@ This is why people say things afterward that make no sense from the outside.
 
 Why didn't you just leave?
 
-Why didn't you call me?
-
-Why didn't you say no?
-
-Why didn't you eat?
+Why didn't you call?
 
 Why didn't you ask for help?
 
@@ -85,12 +71,6 @@ Planning is not pessimism.
 A named door is not doom.
 
 A script is not weakness.
-
-A snack is not childish.
-
-An exit plan is not drama.
-
-A support person is not dependency.
 
 These are option-preservation tools.
 
@@ -114,13 +94,7 @@ Exit.
 
 Text.
 
-Snack.
-
-Quiet place.
-
 Script.
-
-Ride home.
 
 Write it where you can find it, or tell one safe person.
 
