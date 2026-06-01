@@ -34,7 +34,7 @@ That is not exactly true.
 
 Nobody arrives from nowhere.
 
-There is always a history, a road, a sibling, a room, a road trip, a terrible car, a thing you survived and almost did not understand as survival at the time.
+There is always a history, a road, a sibling, a room, a terrible car, a thing you survived and almost did not understand as survival at the time.
 
 But that is what it felt like.
 
@@ -46,27 +46,15 @@ The sister of my longest friend.
 
 The friend who now lives in Paris.
 
-The friend I once barrel rolled with on an ill-advised road trip in a 1987 Acura while my mom was in Germany.
-
 ## Pressure
 
-That Acura had its own mythology.
+There was once an ill-advised road trip in a 1987 Acura.
 
-I negotiated the best price on it by playing one dealership against another.
-
-As a sixteen-year-old.
+I had negotiated the best price on it as a sixteen-year-old.
 
 For fun.
 
 Then I destroyed it.
-
-For fun is the wrong phrase.
-
-For teenage chaos.
-
-For the kind of unearned immortality sixteen pretends to have.
-
-For the wild, stupid confidence of a body that does not yet understand how close a life can come to changing forever.
 
 I did not kill my best friend.
 
@@ -90,17 +78,7 @@ Not through the people you expected.
 
 Not through the map you drew.
 
-Through the sibling of a friend.
-
 Through a social thread you did not know was still connected.
-
-Through a room you enter after everything has already happened to you and somehow the old world is not only old.
-
-It is seed.
-
-The past was not redeemed by nostalgia.
-
-It was reactivated by care.
 
 A life I thought had been severed still had filaments.
 
@@ -120,18 +98,10 @@ Let it count even if it arrived late.
 
 Not every friendship arrives on time.
 
-Some arrive decades after the first road.
-
-Some arrive by accident.
-
-Some arrive through someone else's sister.
-
 Some arrive after you have stopped expecting the old world to send anything back but grief.
 
 And then, somehow, there they are.
 
 Friends from nowhere.
 
-Which is to say:
-
-friends from somewhere you did not know still loved you.
+Which is to say: friends from somewhere you did not know still loved you.
