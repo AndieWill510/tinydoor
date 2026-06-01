@@ -34,13 +34,9 @@ The lights are loud.
 
 The cart wheel keeps clicking.
 
-Someone behind you is talking on speakerphone.
-
-You have three items, one hand on the cart, and a body that has started counting exits without asking your permission.
+Your body has started counting exits without asking your permission.
 
 This is not the moment for a poster that says, "Choose joy."
-
-This is not the moment for someone to tell you to look on the bright side.
 
 This is not the moment to pretend the room is fine.
 
@@ -62,15 +58,9 @@ Just change your attitude.
 
 Other people have it worse.
 
-Focus on gratitude.
-
-Smile.
-
-Do not be negative.
-
 But an Autistic person in an unsafe or overwhelming environment does not need a prettier story about the room.
 
-They need access to enough thinking to find the next workable move.
+They need enough access to find the next workable move.
 
 Panic narrows the field.
 
@@ -78,11 +68,9 @@ Shame narrows it more.
 
 Despair can make every door look painted on.
 
-That is why mindset matters.
+Mindset matters only because options can disappear under stress.
 
 Not because suffering is imaginary.
-
-Because under stress, the mind can lose sight of options that still exist.
 
 ## Reframe
 
@@ -96,8 +84,6 @@ That does not require cheerfulness.
 
 It does not require pretending harm is harmless.
 
-It does not require forgiving the room, loving the room, or thanking the room for the lesson.
-
 It means interrupting the collapse from:
 
 > I cannot survive this
@@ -106,21 +92,11 @@ into:
 
 > What is the next smallest survivable move?
 
-Pay for the food.
-
 Leave the cart.
 
 Step outside.
 
 Text one sentence.
-
-Put on headphones.
-
-Find water.
-
-Sit on the curb.
-
-Ask for a ride.
 
 Those are not inspirational slogans.
 
@@ -145,8 +121,6 @@ One next.
 No speech.
 
 No life plan.
-
-Just the next handle.
 
 ## Mercy
 
