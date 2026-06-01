@@ -36,19 +36,11 @@ The milk is not where it was.
 
 Someone's cart is blocking the aisle.
 
-The speaker above you keeps cutting in and out.
-
-Your phone buzzes twice.
-
 You have not eaten enough.
-
-You cannot find the exit without turning around, and turning around would mean walking past the same person for the third time.
 
 Then your body chooses.
 
 Maybe it freezes.
-
-Maybe it cries.
 
 Maybe it snaps.
 
@@ -66,14 +58,6 @@ Not when the room got too loud.
 
 Not when the schedule changed without warning.
 
-Not when the joke became humiliation.
-
-Not when the fluorescent lights became pain.
-
-Not when the meeting skipped clarity.
-
-Not when the family kept asking the same unsafe question.
-
 Not when the person asked for help and was told to stop being difficult.
 
 Only when the body finally chose for them.
@@ -82,9 +66,7 @@ Then everyone becomes an expert on self-control.
 
 That is a cruel timeline.
 
-It ignores every moment where regulation could have been supported before crisis had to speak.
-
-And it turns the last visible moment into the whole story.
+It turns the last visible moment into the whole story.
 
 ## Reframe
 
@@ -92,13 +74,9 @@ A body choosing for you is not moral failure.
 
 It is information.
 
-Important information.
-
 Information with consequences, yes.
 
 Information whose impact may need care, accountability, or repair afterward, yes.
-
-Information that may frighten you, yes.
 
 But still information.
 
@@ -110,25 +88,11 @@ Sometimes the better first question is:
 
 > Where did choice disappear before my body had to choose?
 
-That question moves the story backward.
-
-It looks for missed exits.
-
-Missed ramps.
-
-Missed signals.
-
-Missed chances to make the channel safer before the river hit the wall.
-
 Maybe the missed choice was food.
 
 Maybe it was leaving ten minutes earlier.
 
-Maybe it was a written plan.
-
 Maybe it was permission to abandon the cart.
-
-Maybe it was someone else understanding that "I need to go" means now.
 
 ## Move
 
@@ -155,5 +119,3 @@ That is enough for the first door.
 You are not only the moment other people noticed.
 
 Start the timeline earlier.
-
-That is where the next design question usually lives.
