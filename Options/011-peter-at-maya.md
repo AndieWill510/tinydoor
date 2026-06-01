@@ -36,17 +36,13 @@ It is also a question every Autistic person knows.
 
 Why are you here?
 
-Why do you think you can be here?
-
 Why do you think you belong here?
 
 Or anywhere?
 
-Some questions arrive wearing ordinary clothes. They look like small talk. They sound like curiosity. They may even be kindness.
+Some questions arrive wearing ordinary clothes.
 
 But the body hears the older version first.
-
-The body hears the hallway, the cafeteria, the family table, the classroom, the office, the church, the bar, the party, the room where everyone else seemed to know the rules before you arrived.
 
 The body hears exile.
 
@@ -57,22 +53,6 @@ I had gone down because I was alone.
 It was Memorial Day 2024, my first big family holiday after a Christmas holiday season that almost ended me.
 
 I needed something to do.
-
-There were two UNESCO World Heritage Sites two hours south, in a town I knew only in the worst way.
-
-And that never stopped an Autistic person.
-
-We know what it is to be blamed for something that has nothing to do with us.
-
-So I went.
-
-Not because I was brave.
-
-Not because I was healed.
-
-Not because I had a plan that deserved a movie soundtrack.
-
-I went because the day needed somewhere to put me.
 
 Then Peter asked what I was doing there.
 
@@ -90,13 +70,9 @@ He believed the answer enough to help me.
 
 Or maybe he heard something under the answer.
 
-Maybe it does not matter which.
-
 He spent the next hour finding me a place to live.
 
 That is what community often looks like before anyone knows to call it community.
-
-Not a mission statement.
 
 Not a theory.
 
@@ -112,32 +88,18 @@ And they adopted me.
 
 The entire Maya family.
 
-It was a Cheers bar.
-
-Everyone knew my name.
-
-And it only took a couple of months.
-
-For a 53-year-old "guy," that might as well have been an instant.
-
 ## Move
 
 Think of one place where someone answered the need under your sentence.
 
 Maybe they did not understand the whole story.
 
-Maybe they did not know what they were interrupting.
-
 Maybe they simply made one practical thing easier.
 
 Let that count.
-
-Do not make the mercy smaller because it arrived through an ordinary door.
 
 ## Mercy
 
 Sometimes belonging begins before you believe it.
 
 Sometimes the first person in the new life does not know they are the first person.
-
-Sometimes a question that sounds like exile becomes the doorway back into the world.
