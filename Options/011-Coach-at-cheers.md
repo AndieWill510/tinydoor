@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 1.11 — Peter at Maya
+# Option 1.11 — Coach at Cheers
 
 Author: Kevin "Andie" Williams  
 Status: Community section memoir draft  
