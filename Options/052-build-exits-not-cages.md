@@ -29,6 +29,14 @@ Safety: personal ABA harm / family harm / repair architecture; no trauma spectac
 
 ## Doorway
 
+In a house with a measuring stick, everyone learns where to stand.
+
+The children learn which version of themselves receives warmth.
+
+The parent learns which version of the children keeps the room from turning cold.
+
+That is the room repair has to answer.
+
 If a house teaches contingent value, repair cannot be another system of control.
 
 It cannot say:
