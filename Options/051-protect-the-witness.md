@@ -69,9 +69,9 @@ And I was still being judged directly by the same standard.
 
 Both.
 
-A witness carrying both injuries cannot be treated like a recording device.
-
 ## Reframe
+
+A witness carrying both injuries cannot be treated like a recording device.
 
 Protection is not avoidance.
 
