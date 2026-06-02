@@ -1,16 +1,16 @@
 # ABA-EVIDENCE-MAP.md
 
-Author: Kevin “Andie” Williams, with C (Claude)
-Status: Draft v0.1 — unverified claims mapped, gaps named
-Project: Tiny Door — You Have Another Option
-Evidence standard: proof, not citation
-See also: `rfc/proof-not-citation-standard.md`
+Author: Kevin “Andie” Williams, with C (Claude) and G  
+Status: Draft v0.2 — claim-control map, gaps named, references cross-linked  
+Project: Tiny Door — You Have Another Option  
+Evidence standard: proof, not citation  
+See also: `Chapters/REFERENCES.md`; `rfc/proof-not-citation-standard.md`
 
 -----
 
 ## Purpose
 
-This file maps specific claims about ABA to the sources in REFERENCES.md.
+This file maps specific claims about ABA to the sources in `Chapters/REFERENCES.md`.
 
 For each claim it records:
 
@@ -26,21 +26,104 @@ A source that touches a topic is not a source that proves a claim.
 A source that proves a claim must be read, its actual content confirmed,
 and its limitations named.
 
-This map is not a proof store. It is a gap register and a scrutiny record.
+This map is not a proof store.
+
+It is a gap register, claim-control map, and scrutiny record.
+
 It does not become a proof store until each entry has been verified and signed off.
+
+-----
+
+## Drafting Gate
+
+Before drafting or revising ABA / institutional-harm chapters or Options, check this file.
+
+Applies especially to:
+
+```text
+Chapters/070.md
+Chapters/080.md
+Chapters/090.md
+Chapters/100.md
+Options/040–053
+future ABA / institutional harm / family logic / compliance / conversion-history pieces
+```
+
+Required workflow:
+
+```text
+Chapters/REFERENCES.md -> ABA-EVIDENCE-MAP.md -> claim review -> reader-facing chapter/Option
+```
+
+Do not move directly from a raw URL in `REFERENCES.md` to reader-facing prose.
+
+Do not use this map to make a claim stronger than the evidence register allows.
+
+-----
+
+## Relationship to REFERENCES.md
+
+`Chapters/REFERENCES.md` is the canonical reference store.
+
+`Chapters/ABA-EVIDENCE-MAP.md` is the ABA-specific claim-control layer.
+
+This file should not duplicate every reference in `REFERENCES.md`.
+
+It should collect and evaluate the references that matter for ABA, institutional harm, compliance, conversion-history, intervention goals, outcome measures, workforce/training, and harm claims.
+
+If a new ABA-relevant source is found:
+
+1. add it to `Chapters/REFERENCES.md`;
+2. add or update the relevant claim entry here;
+3. mark what the source proves, does not prove, and whether it has been verified;
+4. only then allow reader-facing prose to depend on it.
 
 -----
 
 ## Claim Status Key
 
-|Status        |Meaning                                                                                       |
-|--------------|----------------------------------------------------------------------------------------------|
-|`PROVABLE`    |Source read, content confirmed, claim language calibrated to evidence                         |
-|`SUPPORTABLE` |Source exists and is directionally relevant; language must be softened to match evidence level|
-|`CONTESTED`   |Source exists but has methodological limitations that must be named in book                   |
-|`THIN`        |Source is advocacy, journalism, or lay; not peer-reviewed; must be labeled as such            |
-|`MISSING`     |No adequate source currently in REFERENCES.md; must be found before claim is made             |
-|`WRONG SOURCE`|Source in list does not support this claim; must be corrected or removed                      |
+|Status|Meaning|
+|---|---|
+|`PROVABLE`|Source read, content confirmed, claim language calibrated to evidence.|
+|`SUPPORTABLE`|Source exists and is directionally relevant; language must be softened to match evidence level.|
+|`CONTESTED`|Source exists but has methodological limitations that must be named in book.|
+|`THIN`|Source is advocacy, journalism, or lay; not peer-reviewed; must be labeled as such.|
+|`MISSING`|No adequate source currently in `REFERENCES.md`; must be found before claim is made.|
+|`WRONG SOURCE`|Source in list does not support this claim; must be corrected or removed.|
+|`VERIFY`|Source has been added or identified, but the actual content has not yet been read closely enough to support prose.|
+
+-----
+
+## ABA-Relevant Reference Crosswalk
+
+Known ABA / institutional-harm reference region in `Chapters/REFERENCES.md`:
+
+|Ref|Use|
+|---:|---|
+|34|Autistic-led research priorities / ethics context.|
+|35|Autistic / intervention ethics context; verify before claim use.|
+|36|Autism intervention / neurodiversity context; verify before claim use.|
+|37–40|Conversion-therapy bans / legal-policy context; advocacy and legal sources must be separated.|
+|52|Gibson & Douglas, queer history of autism science / Lovaas interpretive scholarship.|
+|126|Lovaas interview; primary-ish source via docplayer mirror; verify before quotation.|
+|127|Wikipedia locator only; not a proof source.|
+|128|LA Times obituary; journalism/historical locator.|
+|129|Crime and Justice article; content unverified.|
+|130|JABA expression/editorial note source; verify before quoting.|
+|135–136|ABA industry / private equity journalism.|
+|137|Kupferstein (2018) peer-reviewed ABA/PTSD association; contested.|
+|138|Frontiers in Psychiatry perspective on autonomy and autistic clients; perspective, not trial.|
+|139|Autism intervention / ethics source; verify before claim use.|
+|140|Legal scholarship on autistic and trans children / personhood.|
+|141|Springer article; content unverified.|
+|142–146|Advocacy / lived-experience sources; useful as testimony, not clinical proof.|
+|147|Wrong source for ABA/PTSD; synaptic pruning / brain development, not ABA harm.|
+|148–154|RBT pay, workforce, credential, and teacher-comparison sources; prefer primary sources where possible.|
+|209|Ne'eman, AMA Journal of Ethics, outcome measures should not promote passing.|
+|210|Rekers & Lovaas (1974), JABA primary paper; primary source, verify before detailed use.|
+|211|Federal Register 2020 FDA final rule on electrical stimulation devices; verify legal status and later developments.|
+|212|Reuters 2024 reporting on FDA proposed second ban; journalism, not final legal status.|
+|213|BACB RBT page; primary source for RBT credential/training pathway; verify exact requirements before use.|
 
 -----
 
@@ -51,41 +134,46 @@ ABA and conversion therapy were developed by the same person using the same beha
 
 **Sources in current list:**
 
-- Ref 127: Wikipedia — Ole Ivar Lovaas
+- Ref 52: Gibson & Douglas, queer history of autism science / Lovaas scholarship
+- Ref 127: Wikipedia — Ole Ivar Lovaas; locator only
 - Ref 128: LA Times obituary
-- Ref 129: crimeandjustice.org.uk — content unverified; URL suggests criminology journal but actual article not confirmed
+- Ref 129: crimeandjustice.org.uk — content unverified
+- Ref 210: Rekers & Lovaas (1974), JABA primary paper
 
-**Status: SUPPORTABLE for historical fact / THIN for harm inference**
+**Status: SUPPORTABLE for narrow historical connection / VERIFY before stronger claims**
 
-**What these sources prove:**
-Lovaas worked on both interventions. The LA Times obituary is a published record.
-Wikipedia is not a citable source but points toward primary sources.
-The historical connection between ABA and aversion-based behavioral methods is
-well-documented in the scholarly literature on behavior analysis history.
+**What these sources can support, if verified:**
+
+Lovaas worked in both autism behavior-intervention history and published behavioral intervention work targeting gender-nonconforming behavior.
+
+The Rekers & Lovaas 1974 paper is the primary source for the gender-nonconforming behavior intervention claim.
+
+Gibson & Douglas is likely the stronger interpretive source for the queer-history frame.
 
 **What these sources do not prove:**
+
 That modern ABA practitioners share Lovaas’s intentions.
+
 That all current ABA is equivalent to conversion therapy.
-That harm to Autistic people is equivalent in mechanism or severity to harm
-documented in conversion therapy for LGBTQ+ people (though the argument has
-been made and is worth naming).
+
+That harm to Autistic people is equivalent in mechanism or severity to harm documented in conversion therapy for LGBTQ+ people.
 
 **Book treatment:**
 
-> “ABA was developed by the same researcher who also developed aversion-based
-> behavioral interventions targeting gay men. The behavioral logic — extinguish
-> unwanted behavior, reinforce desired behavior — is the same in both.”
+Safer:
 
-This is supportable with the LA Times obituary and academic sources on Lovaas.
-The word “same” requires precision: same researcher, same behavioral framework,
-not necessarily same intent or same outcomes.
+> “Some ABA history directly overlaps with conversion-therapy history. That does not prove every present-day ABA practice is identical to conversion therapy, but it means normalization goals deserve careful scrutiny.”
+
+Avoid:
+
+> “ABA is conversion therapy.”
 
 **Action required:**
 
-- Confirm ref 129 content before citing.
-- Add: Rekers & Lovaas (1974) is the primary source documenting both lines of work
-  and is frequently cited in conversion therapy scholarship. Locate and read it.
-- Add: Zucker (2008) or similar conversion therapy history source for framework comparison.
+- Read Ref 210 before making claims about the 1974 paper’s contents.
+- Read Ref 52 before using the queer-history interpretation.
+- Confirm Ref 129 content before citing.
+- If using “same behavioral framework,” define the framework carefully and avoid overclaiming sameness of intent or effect.
 
 -----
 
@@ -96,207 +184,195 @@ Some laws banning conversion therapy explicitly cover ABA or ABA-style intervent
 
 **Sources in current list:**
 
-- Ref 37: bornperfect.org — conversion therapy ban tracker (advocacy org)
-- Ref 38: Victorian legislation (Change or Suppression Practices Prohibition Bill 2020)
-- Ref 39: equality caucus country list
-- Ref 140: Cambridge law journal — legal/clinical personhood for autistic and trans children in Ontario
+- Ref 37: Born Perfect conversion therapy ban tracker; advocacy org
+- Ref 38: Victorian legislation
+- Ref 39: Equality Caucus country list
+- Ref 140: Cambridge legal scholarship on autistic and trans children in Ontario
 
-**Status: SUPPORTABLE with jurisdiction precision / THIN without it**
+**Status: SUPPORTABLE only with jurisdiction precision / THIN without it**
 
-**What these sources prove:**
-Ref 38 is actual legislation. It can be cited directly for what the Victorian law
-covers. Ref 140 is peer-reviewed legal scholarship making the ABA/conversion therapy
-argument in a Canadian legal context.
+**What these sources may support:**
+
+Ref 38 can support claims about the exact language of Victorian law, if read directly.
+
+Ref 140 can support claims about a legal-scholarship argument connecting clinical/legal personhood, autistic children, and trans children, if read directly.
 
 **What these sources do not prove:**
+
 That ABA is universally classified as conversion therapy.
+
 That any US federal law classifies ABA this way.
+
 That individual practitioners have been prosecuted under these laws.
 
 **Book treatment:**
 
-> “In at least one jurisdiction — Victoria, Australia — legislation banning
-> conversion practices has been interpreted to cover behavioral interventions that
-> suppress identity expression in autistic people. Legal scholars have made the
-> same argument in Canadian courts.”
+Safer:
 
-Do not write: “ABA is conversion therapy and is banned.” That is not what the
-sources prove at this time.
+> “Some legal scholars and advocates have argued that behavioral suppression of identity expression belongs in the same ethical conversation as conversion practices. The exact legal status varies by jurisdiction.”
+
+Avoid:
+
+> “ABA is conversion therapy and is banned.”
 
 **Action required:**
 
-- Read ref 38 (Victorian bill) for exact definitional language before quoting it.
-- Read ref 140 for the specific legal argument made and its outcome.
-- Verify whether any US state ban explicitly names ABA.
+- Read Ref 38 for exact statutory language.
+- Read Ref 140 for the precise legal argument and outcome.
+- Verify whether any US state ban explicitly names ABA before making any US-law claim.
 
 -----
 
-## Claim C: ABA causes PTSD or trauma symptoms in Autistic people
+## Claim C: ABA exposure is associated with PTSD or trauma symptoms in Autistic people
 
 **Claim as currently implied in book:**
 ABA exposure is associated with PTSD symptoms in Autistic people.
 
 **Sources in current list:**
 
-- Ref 55: embrace-autism.com — lay/advocacy website
-- Ref 147: PMC7368197 — **WRONG SOURCE**
+- Ref 55: Embrace Autism; lay / advocacy website
+- Ref 137: Kupferstein (2018), *Advances in Autism*, peer-reviewed but contested
+- Ref 147: PMC7368197 — WRONG SOURCE for ABA/PTSD
 
-**Status: MISSING adequate peer-reviewed source / WRONG SOURCE identified**
+**Status: CONTESTED for peer-reviewed association / WRONG SOURCE corrected**
 
-**Critical error:**
-Ref 147 (PMC7368197) does not support this claim. It is a 2020 PNAS article
-about synaptic pruning in brain development (Sakai, 2020). It has no connection
-to ABA or PTSD. This reference must be corrected or removed from any claim about
-ABA harm.
+**Correction to prior map:**
 
-**What ref 55 proves:**
-Nothing at the peer-reviewed level. It is a lay summary on an advocacy website.
-It may accurately represent the autistic community’s reported experience, but it
-cannot carry a clinical claim.
+Kupferstein (2018) is already present in `Chapters/REFERENCES.md` as Ref 137.
 
-**What is missing:**
-The primary peer-reviewed source for this claim is:
+The prior action item “Add Kupferstein” is resolved.
 
-> Kupferstein, H. (2018). Evidence of increased PTSD symptoms in autistic adults
-> whose caregivers administered applied behavior analysis. *Advances in Autism*,
-> 4(1), 5–14. <https://doi.org/10.1108/AIA-08-2017-0016>
+Ref 147 remains a wrong source for this claim.
 
-**Status of Kupferstein (2018):** CONTESTED
-This study is real peer-reviewed research published in a legitimate journal.
-It found a correlation between ABA exposure and PTSD checklist scores in
-retrospective self-report data. It has been widely cited by critics of ABA.
+**What Ref 137 supports, if read and characterized accurately:**
 
-However, it has documented methodological limitations that must be named:
+At least one peer-reviewed study reported an association between ABA exposure and elevated PTSD symptom scores in a retrospective, self-report sample.
 
-- Self-selected sample recruited through Autistic advocacy networks
-- Retrospective self-report for both ABA exposure and PTSD symptoms
-- No control for confounding variables (trauma history, diagnosis severity, etc.)
-- Single study; not yet replicated
+**Limitations that must travel with the claim:**
+
+- Self-selected sample.
+- Retrospective self-report.
+- Confounding variables not fully controlled.
+- Single study.
+- Replication status uncertain.
 
 **Book treatment:**
 
-> “At least one peer-reviewed study has found a correlation between ABA exposure
-> and elevated PTSD symptoms in Autistic adults. The study’s methodology has been
-> criticized, and it has not been replicated. Autistic adults have also reported
-> these experiences in their own words, consistently and in large numbers.”
+Safer:
 
-Do not write: “Research proves ABA causes PTSD.” The word “causes” requires
-evidence that this single contested study does not provide.
-Do write: survivor testimony is real evidence, clearly labeled as such.
+> “At least one peer-reviewed study has reported an association between ABA exposure and elevated PTSD symptoms in Autistic adults. The study is contested and limited; it does not prove causation. Autistic survivor testimony should be treated as real evidence of lived experience, clearly labeled as testimony.”
+
+Avoid:
+
+> “Research proves ABA causes PTSD.”
 
 **Action required:**
 
-- Add Kupferstein (2018) to REFERENCES.md.
-- Fix or remove ref 147.
-- Search for any replication studies or systematic reviews citing Kupferstein.
-- Consider adding: Devita-Raeburn (2016), The Atlantic, for journalistic
-  documentation of the PTSD debate — labeled as journalism.
+- Read Ref 137 directly before reader-facing use.
+- Search for systematic reviews, replications, or critiques citing Kupferstein.
+- Do not attach Ref 147 to ABA/PTSD claims.
 
 -----
 
 ## Claim D: ABA prioritizes compliance and behavioral appearance over wellbeing
 
 **Claim as currently implied in book:**
-ABA is structured to produce behaviors that look neurotypical, not to improve
-autistic quality of life or self-determined wellbeing.
+ABA is structured to produce behaviors that look neurotypical, not to improve autistic quality of life or self-determined wellbeing.
 
 **Sources in current list:**
 
-- Ref 135: Fortune (2022) — investigative journalism on ABA industry
-- Ref 136: Forbes (2023) — journalism on ABA industry financial practices
-- Ref 138: Frontiers in Psychiatry (2023) — peer-reviewed perspective on clinician
-  autonomy and autistic client autonomy in mental health treatment
-- Ref 141: Springer article — content unverified
-- Refs 142–146: Advocacy and lived experience sources
+- Ref 135: Fortune (2022), investigative journalism on ABA industry
+- Ref 136: Forbes (2023), journalism on ABA industry financial practices
+- Ref 138: Frontiers in Psychiatry (2023), perspective on autonomy and autistic clients
+- Ref 141: Springer article, content unverified
+- Refs 142–146: advocacy and lived-experience sources
+- Ref 209: Ne'eman, AMA Journal of Ethics, outcome measures should not promote passing
 
-**Status: SUPPORTABLE with correct source labeling**
+**Status: SUPPORTABLE with source labeling / PROVABLE for narrow outcome-measure critique after Ref 209 verified**
 
-**What these sources prove:**
-Refs 135–136 document financial incentives within the ABA industry that critics
-argue misalign practitioner motivation with client welfare. These are journalism,
-not clinical trials, and should be labeled as investigative reporting.
+**What these sources can support:**
 
-Ref 138 (McVey et al., 2023, Frontiers in Psychiatry) is a peer-reviewed
-perspective article arguing that autistic clients’ treatment autonomy is routinely
-subordinated to caregiver preferences. It is not specific to ABA but is directly
-relevant to the structural critique. It is a perspective article, not a trial —
-this must be noted.
+Refs 135–136 can support claims about investigative reporting on ABA industry structures, if labeled as journalism.
 
-Refs 142–146 are advocacy sources and lived experience testimony. These are
-legitimate forms of evidence for what autistic people report experiencing. They
-should not be presented as clinical research.
+Ref 138 can support autonomy concerns in mental-health treatment settings, if labeled as a perspective article and not overgeneralized to all ABA.
+
+Refs 142–146 can support testimony and advocacy claims, not clinical proof.
+
+Ref 209 supports the ethical claim that outcome measures should not promote passing when disability is defined by behavior.
 
 **What these sources do not prove:**
-That every ABA practitioner or program operates this way.
-That compliance focus is unique to ABA versus other pediatric behavioral interventions.
-That ABA outcomes data systematically measures compliance rather than wellbeing
-(though critics make this argument — it needs a source if stated as fact).
+
+That every ABA practitioner or program prioritizes compliance over wellbeing.
+
+That compliance focus is unique to ABA.
+
+That ABA outcomes data systematically measures compliance rather than wellbeing in every study.
 
 **Book treatment:**
 
-> “Autistic adults who experienced ABA as children have described it consistently
-> as focused on making them appear less autistic rather than on reducing their
-> distress or building their self-knowledge. Investigative reporting has documented
-> financial structures within the ABA industry that critics say incentivize hours
-> over outcomes. A 2023 peer-reviewed perspective in Frontiers in Psychiatry found
-> that autistic clients’ own treatment goals are routinely overridden by caregiver
-> preferences in mental health settings.”
+Safer:
+
+> “Autistic critics have argued that some intervention goals reward appearing less Autistic rather than becoming safer, freer, or better supported. Ari Ne'eman argues in the AMA Journal of Ethics that outcome measures should not promote passing when disability is defined by behavior.”
+
+Avoid:
+
+> “ABA is only about compliance.”
 
 **Action required:**
 
-- Read and confirm ref 141 content before citing.
-- Add: any peer-reviewed outcome study that measures ABA outcomes against
-  self-determined wellbeing versus behavioral compliance. This is a known gap
-  in the literature; naming that gap is itself an honest move.
-- Consider: Bottema-Beutel et al. (2021) on outcome measurement in autism
-  intervention research is relevant here.
+- Read and confirm Ref 141 before using it.
+- Continue searching for peer-reviewed outcome-measure critiques specific to autism intervention research.
+- When discussing lived experience, label it as lived experience rather than clinical trial evidence.
 
 -----
 
 ## Claim E: ABA practitioners are often undertrained relative to intervention intensity
 
 **Claim as currently implied in book:**
-The Registered Behavior Technician (RBT) credential requires minimal training
-for a role that involves intensive, consequential behavioral intervention with
-Autistic children.
+The Registered Behavior Technician (RBT) credential requires minimal training for a role that involves intensive, consequential behavioral intervention with Autistic children.
 
 **Sources in current list:**
 
-- Ref 148: discoveryaba.com — average RBT salary
-- Ref 149: NCES — education statistics
-- Ref 150: psychcentral.com — mental health professional statistics
-- Ref 151: thetreetop.com — ABA therapist demographics
-- Ref 152: songbirdcare.com — RBT certification
-- Ref 153: elemy.com — ABA therapist degree requirements
-- Ref 154: edsource.org — teacher credential comparison (California)
+- Ref 148: Discovery ABA, average RBT salary; industry/SEO source
+- Ref 149: NCES, education statistics
+- Ref 150: PsychCentral, mental-health professional statistics
+- Ref 151: Treetop, ABA therapist demographics; industry/SEO source
+- Ref 152: Songbird, RBT certification; industry/SEO source
+- Ref 153: Elemy, ABA therapist degree requirements; industry/SEO source
+- Ref 154: EdSource, teacher credential comparison in California
+- Ref 213: BACB RBT page; primary source for credential pathway
 
-**Status: PROVABLE for the credential facts / THIN for the harm inference**
+**Status: SUPPORTABLE after primary-source verification / THIN for harm inference**
 
-**What these sources prove:**
-The RBT certification requires 40 hours of training. This is a publicly documented
-credentialing standard from the Behavior Analyst Certification Board (BACB).
-The comparison to teacher credentialing requirements is factually supportable.
+**What these sources can support:**
+
+BACB should be used as the primary source for RBT credential/training requirements.
+
+Teacher comparisons may be supportable with NCES / California credentialing sources, but must be jurisdiction-specific.
 
 **What these sources do not prove:**
+
 That low credentials cause harm.
+
 That all RBTs are unprepared or harmful.
-That BCBA supervision (required by the credential) is inadequate.
+
+That BCBA supervision is categorically inadequate.
 
 **Book treatment:**
 
-> “A Registered Behavior Technician — the front-line provider in most ABA programs
-> — can begin working with an Autistic child after 40 hours of training. A
-> California teacher requires over 600 hours of supervised practice before
-> independent licensure.”
+Safer:
 
-This is a factual comparison. It supports a question — is this enough? — without
-asserting a causal harm claim the data does not support.
+> “The front-line RBT credential has a much lower training threshold than many readers may expect for someone working intensively with disabled children. That fact raises a governance question: what safeguards, supervision, and consent structures are enough?”
+
+Avoid:
+
+> “Barely trained workers are doing all this damage.”
 
 **Action required:**
 
-- Verify the 40-hour figure directly against BACB published credentialing standards.
-  Use BACB.com as the primary source, not ABA industry websites.
-- Add BACB as a direct source.
+- Read Ref 213 directly for exact RBT requirements before claiming a 40-hour number.
+- Prefer BACB over ABA-industry blog sources.
+- Verify any teacher-comparison number by jurisdiction and source.
 
 -----
 
@@ -304,75 +380,102 @@ asserting a causal harm claim the data does not support.
 
 **Claim as currently implied in book:**
 Early ABA used aversive interventions including electric shock.
-Some programs continued using these methods into the recent past.
+Some programs continued using electric shock devices into the recent past.
 
 **Sources in current list:**
 
-- Ref 126: docplayer — Lovaas interview (“A Conversation with Ivar Lovaas”)
-- Ref 127: Wikipedia — Ole Ivar Lovaas
+- Ref 126: Lovaas interview; docplayer mirror
+- Ref 127: Wikipedia; locator only
 - Ref 128: LA Times obituary
+- Ref 211: Federal Register 2020 FDA final rule on electrical stimulation devices
+- Ref 212: Reuters 2024 reporting on FDA proposed second ban
 
-**Status: PROVABLE for early history / requires temporal precision for recent history**
+**Status: SUPPORTABLE for early history / VERIFY legal timeline before use**
 
-**What these sources prove:**
-Lovaas used electric shock and aversive conditioning. This is documented in his
-own published work and interviews. The LA Times obituary references this directly.
-Ref 126 is a primary source — Lovaas in his own words — but its content must be
-confirmed before quoting.
+**What these sources can support:**
+
+Ref 126 may support direct claims about Lovaas’s own words, if read and verified carefully.
+
+Ref 128 can support a journalistic obituary-level summary of Lovaas’s use of aversives.
+
+Ref 211 can support that FDA issued a 2020 final rule banning certain electrical stimulation devices for self-injurious or aggressive behavior.
+
+Ref 212 can support journalism-level context that FDA later proposed a new ban, but does not itself settle current legal status.
 
 **What these sources do not prove:**
+
 That current mainstream ABA uses electric shock.
-The FDA banned the Graduated Electronic Decelerator (GED) device at the Judge
-Rotenberg Center in 2020. That regulatory action is public record but is NOT
-currently in REFERENCES.md.
+
+That the 2020 FDA ban remained continuously in force without litigation or legal change.
+
+That all aversive history generalizes to all current practice.
 
 **Book treatment:**
 
-> “ABA’s founder used electric shock as an aversive stimulus. In his own words,
-> he described it as a tool. Some programs continued using electric shock devices
-> on autistic people until the FDA banned the practice in 2020.”
+Safer:
 
-The 2020 date requires the FDA source. Do not write it without it.
+> “Early ABA history included aversive conditioning, including electric shock. Later regulatory fights over electrical stimulation devices show that the aversive-history question is not merely ancient history. The exact legal timeline should be stated carefully.”
+
+Avoid:
+
+> “ABA still uses electric shock.”
 
 **Action required:**
 
-- Add: FDA (2020) final rule banning electrical stimulation devices for self-injurious
-  or aggressive behavior. Available at FDA.gov.
-- Confirm ref 126 content before quoting Lovaas directly.
+- Read Ref 211 and verify later legal developments before writing the current-status claim.
+- Find court / FDA follow-up sources for the legal status after 2020.
+- Confirm Ref 126 before quoting Lovaas directly.
 
 -----
 
 ## Sources Requiring Content Verification Before Use
 
-The following references are in REFERENCES.md but their actual content has not
-been confirmed. Do not write claims based on these until they are read.
+The following references are in `Chapters/REFERENCES.md` but their actual content has not been confirmed. Do not write claims based on these until they are read.
 
-|Ref|URL                                                 |Reason for flag                                          |
-|---|----------------------------------------------------|---------------------------------------------------------|
-|126|docplayer.net/Lovaas-interview                      |Primary source claim depends on what he actually said    |
-|129|crimeandjustice.org.uk                              |Journal article content unknown; URL alone proves nothing|
-|130|onlinelibrary.wiley.com/doi/full/10.1002/jaba.768   |JABA article — may be ABA-favorable; read before citing  |
-|141|link.springer.com/article/10.1007/s41252-021-00201-1|Content unverified                                       |
+|Ref|URL / Source|Reason for flag|
+|---:|---|---|
+|126|Lovaas interview mirror|Primary-source-style claim depends on what he actually said.|
+|129|Crime and Justice article|Journal article content unknown; URL alone proves nothing.|
+|130|JABA editorial / expression note|Must verify exact language and whether it is expression of concern, editor’s note, or retraction.|
+|137|Kupferstein (2018)|Must read directly and name limitations.|
+|140|Legal scholarship|Must read before jurisdiction/legal claim.|
+|141|Springer article|Content unverified.|
+|210|Rekers & Lovaas (1974)|Primary source; must read before detailed claim.|
+|211|Federal Register 2020 FDA rule|Must verify scope and later legal status.|
+|213|BACB RBT page|Must verify exact RBT credential language.|
 
 -----
 
-## Sources That Must Be Added
+## Sources Added from ABA Evidence Map Review
 
-|Claim                                      |Source to add                                       |Why                                                                 |
-|-------------------------------------------|----------------------------------------------------|--------------------------------------------------------------------|
-|ABA/PTSD association                       |Kupferstein (2018), *Advances in Autism*, 4(1), 5–14|Only peer-reviewed study directly measuring this; contested but real|
-|ABA/conversion therapy framework comparison|Rekers & Lovaas (1974)                              |Primary source for both lines of Lovaas’s work                      |
-|Electric shock ban                         |FDA (2020) final rule on GED device                 |Regulatory record for recent aversive use claim                     |
-|Outcome measurement critique               |Bottema-Beutel et al. (2021)                        |Documents how ABA outcome research measures compliance proxies      |
-|Conversion therapy legal classification    |Primary text of any US state ban                    |Verify whether any explicitly names ABA                             |
+These have now been added to `Chapters/REFERENCES.md`:
+
+|Ref|Source|Why added|
+|---:|---|---|
+|209|Ne'eman, AMA Journal of Ethics, “When Disability Is Defined by Behavior...”|Outcome-measure / passing critique.|
+|210|Rekers & Lovaas (1974), JABA|Primary source for gender-nonconforming behavior intervention claim.|
+|211|Federal Register 2020 FDA rule|Regulatory source for electrical stimulation device ban claim.|
+|212|Reuters 2024 FDA proposed ban reporting|Journalism-level context on later FDA action; not final legal proof.|
+|213|BACB RBT page|Primary credential source for RBT requirements.|
+
+-----
+
+## Sources Still Missing / To Search
+
+|Claim|Source needed|Why|
+|---|---|---|
+|Outcome measurement critique specific to autism interventions|Peer-reviewed source beyond Ne'eman if making empirical claims|Avoid making AMA ethics critique carry all outcome-measure claims.|
+|Conversion therapy legal classification in US|Primary text of any state ban, if it exists|Do not imply US classification without proof.|
+|FDA legal timeline after 2020|Court opinion / FDA follow-up / Federal Register updates|2020 ban status changed or was challenged; do not state current status casually.|
+|Replications / critiques of Kupferstein|Systematic review or scholarly critique|ABA/PTSD claim is contested and must be bounded.|
 
 -----
 
 ## Sources That Must Be Corrected
 
-|Ref|Current claim it is attached to|Actual content                                                            |Action                                           |
-|---|-------------------------------|--------------------------------------------------------------------------|-------------------------------------------------|
-|147|ABA/PTSD harm                  |Synaptic pruning in brain development (Sakai, 2020, PNAS) — no ABA content|Remove from ABA claim or replace with Kupferstein|
+|Ref|Current claim it has been attached to|Actual content|Action|
+|---:|---|---|---|
+|147|ABA/PTSD harm|Synaptic pruning in brain development; no ABA content|Do not use for ABA/PTSD. Keep only if relevant to brain-development chapter.|
 
 -----
 
@@ -380,20 +483,30 @@ been confirmed. Do not write claims based on these until they are read.
 
 This map does not settle the question of whether ABA harms Autistic people.
 
-The evidence that it does — survivor testimony, the Kupferstein study, the
-conversion therapy framework argument, the credential comparison, the financial
-incentive documentation — is real and serious.
+The evidence that it may — survivor testimony, the Kupferstein study, conversion-therapy overlap arguments, credential comparisons, industry incentive documentation, and aversive-history records — is real and serious.
 
 The evidence is also incomplete, contested, and in some places thin.
 
 The book’s job is to hold both of those things at once:
+
 to speak with teeth about what is documented,
+
 and to speak with precision about what is not yet proved.
 
 The reader deserves both.
 
 -----
 
-Status: Draft v0.1
-Date: 2026-06-02
-Next action: Verify flagged sources; add missing sources; update status column
+## Next Action
+
+Before any new ABA / institutional-harm reader-facing chapter or Option is drafted:
+
+1. identify the claim;
+2. identify its evidence register;
+3. check this map;
+4. verify the source if required;
+5. narrow the prose until it matches the proof.
+
+Status: Draft v0.2  
+Date: 2026-06-02  
+Next action: Verify flagged sources; use this file as drafting gate for ABA/institutional-harm chapters.
