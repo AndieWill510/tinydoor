@@ -53,7 +53,7 @@ Its mercy is a tiny door: a small survivable opening that does not pretend to so
 
 ## Project Culture
 
-This book is **sacred fucking menace, properly fucking formatted**.
+This book is **sacred menace, properly formatted**.
 
 That phrase is not decoration.
 
