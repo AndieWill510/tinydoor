@@ -25,11 +25,11 @@ SPDX-License-Identifier: Apache-2.0
 [![Form](https://img.shields.io/badge/form-book%20project-purple)]()
 [![Focus](https://img.shields.io/badge/focus-Autistic%20longevity-black)]()
 
-**A survival-oriented book project for Autistic people and those who care about them.**
+**A survival-oriented book project for Autistic/ADHDers and those who care about them.**
 
 **Why?**
 
-**Autistic people deserve lives that are stayable, joyful, safer, and longer.**
+**Autistic/ADHDers deserve lives that are stayable, joyful, safer, and longer.**
 
 ---
 
@@ -37,7 +37,7 @@ SPDX-License-Identifier: Apache-2.0
 
 *Tiny Door: You Have Another Option* is a book, not software.
 
-It is a survival artifact about Autistic life, suicide prevention, lifespan, joy, regulation, community, and the conditions that allow Autistic people to live longer and freer lives.
+It is a survival artifact about Autistic life, suicide prevention, lifespan, joy, regulation, community, and the conditions that allow Autistic/ADHDers to live longer and freer lives.
 
 Its hidden engine is suicide prevention.
 
@@ -53,7 +53,7 @@ Its mercy is a tiny door: a small survivable opening that does not pretend to so
 
 ## Who This Is For
 
-Tiny Door is for Autistic people, neurodivergent people, and people carrying executive-function load who are too often treated as unreliable, noncompliant, difficult, lazy, or morally failing when the actual failure is system design.
+Tiny Door is for Autistic/ADHDers, neurodivergent people, and people carrying executive-function load who are too often treated as unreliable, noncompliant, difficult, lazy, or morally failing when the actual failure is system design.
 
 It is for people whose ordinary life admin has become dangerous, exhausting, humiliating, or impossible.
 
@@ -106,9 +106,9 @@ Long lists belong in evidence stores, appendices, inventories, holding files, or
 
 ## What This Book Is For
 
-The book is not asking Autistic people to survive harder.
+The book is not asking Autistic/ADHDers to survive harder.
 
-It is asking why Autistic people were made to survive so much — and what we can build instead.
+It is asking why Autistic/ADHDers were made to survive so much — and what we can build instead.
 
 The book exists to:
 
@@ -231,7 +231,7 @@ The book refuses:
 - cure narratives that treat Autism as the problem;
 - shame disguised as treatment;
 - compliance sold as care;
-- rhetoric that blames Autistic people for surviving hostile environments;
+- rhetoric that blames Autistic/ADHDers for surviving hostile environments;
 - advice that assumes unlimited money, time, energy, executive function, transportation, or social support;
 - chapters that become so long they abandon the reader mid-crisis;
 - academic authority without lived accountability;
@@ -255,7 +255,7 @@ That means:
 - avoid method detail;
 - avoid fatalistic framing;
 - avoid glamorizing despair;
-- avoid implying suicide is inevitable for Autistic people;
+- avoid implying suicide is inevitable for Autistic/ADHDers;
 - avoid telling readers that solutions are easy;
 - avoid language that turns inability into failure;
 - provide crisis direction where needed;
