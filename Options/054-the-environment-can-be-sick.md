@@ -101,6 +101,6 @@ No full life audit today.
 
 ## Mercy
 
-You are not automatically sick because the room cannot tolerate your truth.
+You are not automatically sick because the room cannot tolerate what pressure does to your body.
 
 Sometimes the environment is asking the wrong thing.
