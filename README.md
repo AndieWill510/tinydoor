@@ -51,6 +51,20 @@ Its mercy is a tiny door: a small survivable opening that does not pretend to so
 
 ---
 
+## Who This Is For
+
+Tiny Door is for Autistic people, neurodivergent people, and people carrying executive-function load who are too often treated as unreliable, noncompliant, difficult, lazy, or morally failing when the actual failure is system design.
+
+It is for people whose ordinary life admin has become dangerous, exhausting, humiliating, or impossible.
+
+It is for people who need support that is humane, low-friction, non-punitive, and usable while overwhelmed.
+
+It is for people who do not need another lecture about trying harder.
+
+They need another option.
+
+---
+
 ## Project Culture
 
 This book is **sacred menace, properly formatted**.
