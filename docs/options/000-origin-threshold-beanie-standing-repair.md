@@ -1,11 +1,11 @@
-# Option Cluster 050 — Beanie, Standing, and Repair That Reaches the Body
+# Section 4 Option Cluster 057–059 — Beanie, Standing, and Repair That Reaches the Body
 
 Status: Draft option cluster  
 Date: 2026-06-06  
 Source: Andie / G / C discussion  
 Related CDP culture anchor: `AndieWill510/cdp@579426e17db0534a168298fe5e8cd60331daf50d`, `docs/context/CULTURE.md` sections 3.1–3.3
 
-> Placement note: this file name is a legacy holding path. Do not use the `000` prefix as sequence authority. This cluster belongs in the late option set, approximately the 40s or 50s, after the saxophone has already opened the book.
+> Placement note: this file name is a legacy holding path. Do not use the `000` prefix as sequence authority. This cluster belongs in **Section 4**, as **Options 057–059**, after the saxophone has already opened the book and after the reader has learned enough TinyDoor architecture to understand standing, blocked access, and embodied repair.
 
 ---
 
@@ -21,7 +21,7 @@ The saxophone establishes the first TinyDoor truth:
 Something was wrong with the instrument, not the child.
 ```
 
-The Beanie cluster comes much later, after the reader already understands shame, systems, access, design, and the difference between being broken and being blocked.
+The Beanie cluster comes later, in Section 4, after the reader already understands shame, systems, access, design, and the difference between being broken and being blocked.
 
 Its later truth is:
 
@@ -40,7 +40,7 @@ This is the moment the architecture becomes bone.
 
 ---
 
-## Option 050.1 — The First Adult Standing
+## Option 057 — The First Adult Standing
 
 Sometimes the person most affected is the only one willing to tell the truth about what care is owed.
 
@@ -88,7 +88,7 @@ Standing is how a person refuses to let someone else’s failure become destiny.
 
 ---
 
-## Option 050.2 — The Old Promise Still Opens
+## Option 058 — The Old Promise Still Opens
 
 Sometimes the tiny door is not new.
 
@@ -156,7 +156,7 @@ Some old promises still open.
 
 ---
 
-## Option 050.3 — Repair That Reaches the Body
+## Option 059 — Repair That Reaches the Body
 
 Repair is not real because someone says the right words.
 
