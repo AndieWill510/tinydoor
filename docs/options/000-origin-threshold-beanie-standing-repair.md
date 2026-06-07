@@ -1,75 +1,82 @@
-# TinyDoor Option Entries — Beanie, Standing, and Repair That Reaches the Body
+# Option Cluster 050 — Beanie, Standing, and Repair That Reaches the Body
 
-Status: Draft placement proposal  
+Status: Draft option cluster  
 Date: 2026-06-06  
 Source: Andie / G / C discussion  
 Related CDP culture anchor: `AndieWill510/cdp@579426e17db0534a168298fe5e8cd60331daf50d`, `docs/context/CULTURE.md` sections 3.1–3.3
 
----
-
-## Placement Recommendation
-
-These entries should not be buried only under `Institutional Harm`.
-
-Institutional harm is present: failed stewards, captured trust, and a child forced to invoke standing to receive care that should already have been reachable.
-
-But the primary TinyDoor placement is earlier and more foundational:
-
-```text
-Origin / Threshold / First Tiny Door
-```
-
-Secondary tags:
-
-```text
-Institutional Harm
-Captured Trust
-Affected-Party Standing
-Repair That Reaches the Body
-Body as Record
-Quinceañera Gift
-Ancestral Intervention
-```
-
-TinyDoor use:
-
-These are three option entries because the story carries three distinct survival moves:
-
-1. the affected party claims standing;
-2. the trust answers after stewards fail;
-3. repair reaches the body and interrupts a possible future.
+> Placement note: this file name is a legacy holding path. Do not use the `000` prefix as sequence authority. This cluster belongs in the late option set, approximately the 40s or 50s, after the saxophone has already opened the book.
 
 ---
 
-## Option 0.1 — The First Adult Standing
+## Sequence Lock
 
-### Reader-facing title
+The saxophone story remains first.
 
-The first door may be the one where you stop waiting for failed stewards to agree.
+The Beanie story does not precede the saxophone in outline, manuscript order, option order, reader-facing sequence, or generated chapter order.
 
-### Core claim
+The saxophone establishes the first TinyDoor truth:
+
+```text
+Something was wrong with the instrument, not the child.
+```
+
+The Beanie cluster comes much later, after the reader already understands shame, systems, access, design, and the difference between being broken and being blocked.
+
+Its later truth is:
+
+```text
+Care existed.
+Stewards failed.
+The affected party invoked standing.
+The trust answered.
+Repair reached the body.
+A possible future was interrupted.
+```
+
+This is not the opening door.
+
+This is the moment the architecture becomes bone.
+
+---
+
+## Option 050.1 — The First Adult Standing
 
 Sometimes the person most affected is the only one willing to tell the truth about what care is owed.
 
-### Story anchor
+And sometimes that person is still a child.
 
-At fifteen, Andie needed braces. The money existed. The adults responsible for care turned that need into a dispute over who should pay.
+At fifteen, Andie needed braces. The money existed. The adults responsible for care turned the need into a dispute over who should pay.
 
-Andie invoked Beanie’s name and the entrusted money Beanie had left.
+One said the other should pay.
 
-That was not betrayal.
+The other did the same.
 
-That was standing.
+The child was left holding a bodily need inside an adult stalemate.
 
-### TinyDoor reframe
+So Andie invoked Beanie.
 
-You are not selfish for naming care that was already meant for you.
+Beanie had left money for Andie’s education and care. The trust existed for this kind of future-facing repair. Naming it was not greed. It was not betrayal. It was not drama.
 
-You are not disloyal for refusing to let other people’s conflict swallow your need.
+It was standing.
+
+The first adult door may be the one where you stop waiting for failed stewards to agree.
+
+Not because you should have had to.
+
+Because someone has to tell the truth before the need disappears into process.
 
 A trust that cannot be invoked by the person it was meant to protect is not sacred. It is captured.
 
-### One practical move
+A support that requires you to remain powerless in order to deserve it is not support. It is control.
+
+A system that makes the affected person beg for standing has already begun to fail.
+
+Tiny door:
+
+```text
+This was meant to help me, and I need access to it now.
+```
 
 Ask:
 
@@ -77,29 +84,15 @@ Ask:
 What care, support, accommodation, record, promise, fund, policy, or relationship already exists for my protection — and who is blocking my access to it?
 ```
 
-Then write down the plainest possible sentence:
-
-```text
-This was meant to help me, and I need access to it now.
-```
-
-### Closing line
-
 Standing is how a person refuses to let someone else’s failure become destiny.
 
 ---
 
-## Option 0.2 — The Trust Answered
+## Option 050.2 — The Old Promise Still Opens
 
-### Reader-facing title
+Sometimes the tiny door is not new.
 
-Sometimes the tiny door is not new. It was left for you.
-
-### Core claim
-
-A governed promise matters only if it can still reach the person it was meant to protect when the ordinary stewards fail.
-
-### Story anchor
+Sometimes someone left it for you.
 
 Beanie had been dead for five years.
 
@@ -111,45 +104,63 @@ The trust answered.
 
 The braces happened.
 
-### TinyDoor reframe
+This matters because help does not always come from the person currently holding power.
 
-Help may not always come from the person currently holding power.
+Sometimes help comes from an older promise.
 
-Sometimes help comes from an older promise, a buried document, a policy, a friend, an ancestor, a record, a benefit, a name, a diagnosis, a note, a law, an accommodation letter, a chosen-family agreement, or a tiny piece of infrastructure someone left behind.
+A buried document.
 
-The door may already exist.
+A policy.
 
-The work is finding the handle.
+A friend.
 
-### One practical move
+An ancestor.
 
-Look for one existing promise:
+A record.
 
-```text
-Who or what has already said yes to my care, safety, access, rest, money, treatment, accommodation, or belonging?
-```
+A benefit.
+
+A diagnosis.
+
+A note.
+
+A law.
+
+An accommodation letter.
+
+A chosen-family agreement.
+
+A tiny piece of infrastructure someone left behind because they knew the day might come when ordinary care failed.
 
 Do not start with the person saying no.
 
 Start with the promise that already said yes.
 
-### Closing line
+Tiny door:
 
-A tiny door can be an old promise that still opens.
+```text
+Who or what has already said yes to my care, safety, access, rest, money, treatment, accommodation, or belonging?
+```
+
+Then look for the handle.
+
+Not every door opens.
+
+Not every promise can be enforced.
+
+Not every old yes survives contact with the present.
+
+But some do.
+
+Some old promises still open.
 
 ---
 
-## Option 0.3 — Repair That Reaches the Body
+## Option 050.3 — Repair That Reaches the Body
 
-### Reader-facing title
+Repair is not real because someone says the right words.
 
-Repair is not real until it reaches the life.
-
-### Core claim
-
-Repair is not symbolism. Repair is what happens when care reaches the body, the record, the room, the future, or the person it was meant to protect.
-
-### Story anchor
+Repair is real when it reaches the life.
 
 The braces were not metaphor.
 
@@ -157,21 +168,19 @@ The repair reached Andie’s teeth.
 
 It reached the bones of her skull.
 
-It prevented poverty and powerlessness from becoming a bodily verdict.
+It interrupted poverty before poverty could become a bodily verdict.
+
+It interrupted powerlessness before powerlessness could become a permanent shape.
 
 It became a quinceañera gift in another register: not a party, not a dress, not a staged entrance into adulthood, but the right to invoke care, cross the threshold, and refuse to let failed stewardship define the body or the future.
 
-### TinyDoor reframe
+The goal was not to win the argument.
 
-The goal is not to win the argument.
+The goal was for care to arrive.
 
-The goal is for care to arrive.
+The goal was for repair to reach the place where harm would otherwise live.
 
-The goal is for the repair to reach the place where harm would otherwise live.
-
-### One practical move
-
-Ask:
+Tiny door:
 
 ```text
 What would repair have to reach to be real?
@@ -195,13 +204,13 @@ Choose one.
 
 Make the next request concrete enough that repair has somewhere to land.
 
-### Closing line
+Beanie did not merely leave money.
 
-Beanie did not merely leave money. She interrupted a possible future.
+She interrupted a possible future.
 
 ---
 
-## Notes for Later Drafting
+## Back Matter / Evidence Note
 
 Do not over-explain Getty in the reader-facing TinyDoor chapter.
 
@@ -209,15 +218,6 @@ The archival lineage belongs in evidence notes or back matter unless it is neede
 
 The reader-facing point is not wealth adjacency.
 
-The point is:
+The point is that care can exist and still be unreachable when stewards fail.
 
-```text
-care existed;
-stewards failed;
-the affected party invoked standing;
-the trust answered;
-repair reached the body;
-a possible future was interrupted.
-```
-
-That is TinyDoor.
+The TinyDoor question is what allows the person most affected to find the handle.
