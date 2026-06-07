@@ -51,10 +51,6 @@ No from a parent.
 
 No from a school.
 
-No from a doctor.
-
-No from a workplace.
-
 No from an office that has a form but no mercy.
 
 No can become so loud that you forget to look for the older yes.
@@ -129,11 +125,7 @@ A receipt.
 
 A person who remembers.
 
-Not every door opens.
-
-Not every promise can be enforced.
-
-Not every old yes survives contact with the present.
+Not every old yes still opens.
 
 But some do.
 
