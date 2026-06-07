@@ -57,12 +57,6 @@ The child learns the terrible question:
 
 That question can become a cage.
 
-It can make care feel like greed.
-
-It can make access feel like betrayal.
-
-It can make the person most affected wait outside the very promise that was made for them.
-
 ## Reframe
 
 Invoking care that was meant for you is not betrayal.
