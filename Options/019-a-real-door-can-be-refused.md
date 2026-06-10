@@ -112,13 +112,11 @@ Do not start with the biggest one.
 
 Start with something small enough to look at without flooding.
 
-Ask:
+Ask three questions:
 
-1. What happens if I say no?
-2. What happens if I ask for a different version?
-3. Does the helper stay kind when I am honest?
-4. Does this option still belong to me after I question it?
-5. Is my yes coming from relief, fear, exhaustion, or actual consent?
+1. What happens if I say no, or ask for a different version?
+2. Does the helper stay kind when I am honest?
+3. Is my yes actual choice, or fear, exhaustion, or needing the pressure to stop?
 
 Then write one sentence you do not have to send:
 
