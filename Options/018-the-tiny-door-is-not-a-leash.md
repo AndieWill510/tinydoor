@@ -19,7 +19,7 @@ SPDX-License-Identifier: Apache-2.0
 # Chapter 2.1 / Option 018 — The Tiny Door Is Not a Leash
 
 Author: Kevin "Andie" Williams  
-Status: doorway draft  
+Status: promoted  
 Project: You Have Another Option  
 Chapter: 2.1  
 Option: 018  
