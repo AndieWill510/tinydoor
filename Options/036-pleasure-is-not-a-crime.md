@@ -32,7 +32,7 @@ Pleasure is one of the places shame likes to set up camp.
 
 Not only sexual pleasure.
 
-The pleasure of the same song again.
+The pleasure of the same song again. and again. in a koop. 
 
 The pleasure of pressure.
 
