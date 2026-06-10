@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 3.12 — The Letter That Arrives After the Hospital
+# Option 4.12 — The Letter That Arrives After the Hospital
 
 Author: Kevin "Andie" Williams  
 Status: Memoir-adjacent institutional harm draft  
