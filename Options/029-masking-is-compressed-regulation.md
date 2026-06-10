@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 2.9 — Masking Is Compressed Regulation
+# Option 3.9 — Masking Is Compressed Regulation
 
 Author: Kevin "Andie" Williams  
 Status: Regulation / harm-reduction sprint draft  
