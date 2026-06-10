@@ -112,7 +112,7 @@ Hiding may be how you stayed alive.
 
 Visibility is not the price of worth.
 
-But I am not an accusation.
+And I am not an accusation.
 
 You are not an accusation.
 
