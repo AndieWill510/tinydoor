@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 2.3 — Stimming Is Regulation
+# Option 3.3 — Stimming Is Regulation
 
 Author: Kevin "Andie" Williams  
 Status: Social model sprint draft  
