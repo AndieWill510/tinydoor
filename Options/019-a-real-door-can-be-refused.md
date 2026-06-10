@@ -16,11 +16,13 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 019 — A Real Door Can Be Refused
+# Chapter 2.2 / Option 019 — A Real Door Can Be Refused
 
 Author: Kevin "Andie" Williams  
 Status: doorway draft  
 Project: You Have Another Option  
+Chapter: 2.2  
+Option: 019  
 Source: Option 018; ConstantC covenant / reciprocal guardrails  
 Safety: low direct crisis content; coercion / compliance / shame content present
 
