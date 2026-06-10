@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 2.15 — Stigma Teaches the Body to Hide
+# Option 3.15 — Stigma Teaches the Body to Hide
 
 Author: Kevin "Andie" Williams  
 Status: Body / shame / consent bridge sprint draft  
