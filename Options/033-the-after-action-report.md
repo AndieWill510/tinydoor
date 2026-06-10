@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 2.13 — The After-Action Report
+# Option 3.13 — The After-Action Report
 
 Author: Kevin "Andie" Williams  
 Status: Recovery / harm-reduction sprint draft  
