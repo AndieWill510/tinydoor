@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 3.5 — A Good Goal Leaves You More Whole
+# Option 4.5 — A Good Goal Leaves You More Whole
 
 Author: Kevin "Andie" Williams  
 Status: Institutional harm / evidence-bounded draft  
