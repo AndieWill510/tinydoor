@@ -87,9 +87,12 @@ This index tracks the current normalized `Options/` sequence for *Tiny Door / Yo
 063. [The Game Was Unwinnable](063-the-game-was-unwinnable.md)
 064. [What Distracts One Body Can Injure Another](064-what-distracts-one-body-can-injure-another.md)
 065. [The Shame Cycle Is Not Your Character](065-the-shame-cycle-is-not-your-character.md)
+066. [Protective Mimicry Was Not Your Failure](066-protective-mimicry-was-not-your-failure.md)
+067. [The Advice Did Not Fit the Room](067-the-advice-did-not-fit-the-room.md)
+068. [The One-Item Menu Was Never the Whole World](068-the-one-item-menu-was-never-the-whole-world.md)
 
 ## Cleanup notes
 
-The filename sequence has been normalized from `001` through `065`.
+The filename sequence has been normalized from `001` through `068`.
 
 Some chapters may still contain historical internal metadata or source notes from the pre-normalization decimal sequence. Those should be handled as a separate metadata/reference sweep so chapter text is not accidentally altered during filename cleanup.
