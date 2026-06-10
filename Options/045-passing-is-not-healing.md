@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 4.4 — Passing Is Not Healing
+# Option 4.6 — Passing Is Not Healing
 
 Author: Kevin "Andie" Williams  
 Status: Institutional harm / evidence-bounded draft  
