@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 4.11 — Build Exits, Not Cages
+# Option 4.13 — Build Exits, Not Cages
 
 Author: Kevin "Andie" Williams  
 Status: Memoir-adjacent institutional harm draft  
