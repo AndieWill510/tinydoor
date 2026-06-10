@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 2.12 — Autistic First Aid
+# Option 3.12 — Autistic First Aid
 
 Author: Kevin "Andie" Williams  
 Status: Recovery / harm-reduction sprint draft  
