@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 4.15 — Ask Why the Room Needs This to Stop
+# Option 4.17 — Ask Why the Room Needs This to Stop
 
 Author: Kevin "Andie" Williams  
 Status: Way Home draft / source-witness translation  
