@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 4.3 — Repair That Reaches the Body
+# Option 4.18 — Repair That Reaches the Body
 
 Author: Kevin "Andie" Williams  
 Status: Way Home draft / source-witness translation  
