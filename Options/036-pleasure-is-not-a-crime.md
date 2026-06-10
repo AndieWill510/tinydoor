@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 2.16 — Pleasure Is Not a Crime
+# Option 3.16 — Pleasure Is Not a Crime
 
 Author: Kevin "Andie" Williams  
 Status: Body / shame / consent bridge sprint draft  
