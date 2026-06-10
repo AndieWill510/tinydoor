@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 2.14 — The Body Was Never the Problem
+# Option 3.14 — The Body Was Never the Problem
 
 Author: Kevin "Andie" Williams  
 Status: Body / shame / consent bridge sprint draft  
