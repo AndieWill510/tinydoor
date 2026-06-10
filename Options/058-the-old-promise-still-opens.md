@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 4.2 — The Old Promise Still Opens
+# Option 4.17 — The Old Promise Still Opens
 
 Author: Kevin "Andie" Williams  
 Status: Way Home draft / source-witness translation  
