@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 4.1 — The First Adult Standing
+# Option 4.16 — The First Adult Standing
 
 Author: Kevin "Andie" Williams  
 Status: Way Home draft / source-witness translation  
