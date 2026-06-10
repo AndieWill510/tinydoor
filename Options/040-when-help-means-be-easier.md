@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 3.1 — When Help Means “Be Easier”
+# Option 4.1 — When Help Means “Be Easier”
 
 Author: Kevin "Andie" Williams  
 Status: Institutional harm sprint draft  
