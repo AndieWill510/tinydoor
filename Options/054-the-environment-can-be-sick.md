@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 3.13 — The Environment Can Be Sick
+# Option 4.13 — The Environment Can Be Sick
 
 Author: Kevin "Andie" Williams  
 Status: Way Home draft / source-witness translation  
