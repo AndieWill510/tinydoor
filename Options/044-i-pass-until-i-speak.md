@@ -106,6 +106,12 @@ The parts covered over by patriarchy, colonialism, hierarchy, respectability, fa
 
 When someone has spent years hiding from themselves, a person who refuses disappearance can feel like an accusation.
 
+And if you are still hiding, this is not a rebuke.
+
+Hiding may be how you stayed alive.
+
+Visibility is not the price of worth.
+
 But I am not an accusation.
 
 You are not an accusation.
