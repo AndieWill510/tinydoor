@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 4.6 — Expert Words Travel
+# Option 4.8 — Expert Words Travel
 
 Author: Kevin "Andie" Williams  
 Status: Institutional harm / evidence-bounded draft  
