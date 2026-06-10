@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 3.10 — Protect the Witness
+# Option 4.10 — Protect the Witness
 
 Author: Kevin "Andie" Williams  
 Status: Memoir-adjacent institutional harm draft  
