@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 4.14 — Shame Looks for a Scapegoat
+# Option 4.16 — Shame Looks for a Scapegoat
 
 Author: Kevin "Andie" Williams  
 Status: Way Home draft / source-witness translation  
