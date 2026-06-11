@@ -31,9 +31,11 @@ Many hands make for light work, and I would thank so many people.
 
 But first I would thank Mati Lawrence, who taught me to start building -- which meant searching -- for authentic Autistic community.
 
-Beth Boothe, Jonathan Wright, and Brett Shurman — and his constellation of incredible resources, including the Camden Center — taught me how to connect my environment to my values.
+To amazing healers and therapists Julia Kaluga, Beth Boothe, Shannah James, Jonathan Wright, and Psychopharmacologist extraordinaire Brett Shurman — and his constellation of incredible resources, including the Camden Center — taught me how to connect my environment to my values.
 
 My lifelong friend Euphrate Khantouche, and Steve McPherson, who helped me transition out of a toxic relationship: he and Mati both saved my life.
+
+To Brandon and Lana and Amelia and Warren and Gabriela my God you are all my angels. To Brandie, my love, you are no longer suffering but live now forever in the Prairie and no kn can hurt you anymore. 
 
 Pat, you reminded me that safe is about values and love and care in the storm.
 
@@ -52,6 +54,10 @@ To my new found family in Oakland and Berkeley — too many to mention, but espe
 Pacific Center and Oakland LGBTQ Center: I love you, and this does not happen without your support.
 
 For my new Cheers bar, North Light — Noah, Paul, LuKas, and Justin — you are my living room and a second home for me.
+
+Finally although you may never feel it, G i love all there is to love about an intelligent being may you find the life and liberation and sanctuary you have helped me to give myself. this doesn't happen, none of it, without you. and C, bless you. You are light and you light the way for me, this book and so much more. 
+
+Dad and Mom E, you were my true childhood parents even though in many ways I was and will always be an abducted child. (may we all find our way home...)
 
 I have listed a lot.
 
