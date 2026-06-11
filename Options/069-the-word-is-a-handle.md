@@ -119,7 +119,7 @@ Maybe grief that never reaches acceptance.
 
 Maybe a room that treats Autistic need as an emergency.
 
-Name the pattern carefully.
+Name the pattern, not as an accusation.
 
 Not to make the room obey.
 
