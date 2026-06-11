@@ -96,9 +96,12 @@ This index tracks the current normalized `Options/` sequence for *Tiny Door / Yo
 072. [Every System Talks to the Others](072-every-system-talks-to-the-others.md)
 073. [Spend Your Spoons Where You Are Believed](073-spend-your-spoons-where-you-are-believed.md)
 074. [Catch the Message Before It Becomes You](074-catch-the-message-before-it-becomes-you.md)
+075. [Train Before the Room Is on Fire](075-train-before-the-room-is-on-fire.md)
+076. [Your Sensory Diet Is Not Decoration](076-your-sensory-diet-is-not-decoration.md)
+077. [Choose Stress That Gives Something Back](077-choose-stress-that-gives-something-back.md)
 
 ## Cleanup notes
 
-The filename sequence has been normalized from `001` through `074`.
+The filename sequence has been normalized from `001` through `077`.
 
 Some chapters may still contain historical internal metadata or source notes from the pre-normalization decimal sequence. Those should be handled as a separate metadata/reference sweep so chapter text is not accidentally altered during filename cleanup.
