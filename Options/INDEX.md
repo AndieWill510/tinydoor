@@ -118,9 +118,12 @@ This index tracks the current normalized `Options/` sequence for *Tiny Door / Yo
 094. [Your Recovery Is Not a Revenue Stream](094-your-recovery-is-not-a-revenue-stream.md)
 095. [Personal Branding Is Another Masking Demand](095-personal-branding-is-another-masking-demand.md)
 096. [The Side Hustle Is Not a Solution to the Hostile Room](096-the-side-hustle-is-not-a-solution-to-the-hostile-room.md)
+097. [The Pillow Fort Was Always Architecture](097-the-pillow-fort-was-always-architecture.md)
+098. [Build the Room That Fits](098-build-the-room-that-fits.md)
+099. [Warmth Is Not a Luxury. It Is What Life Feels Like From the Inside.](099-warmth-is-not-a-luxury.md)
 
 ## Cleanup notes
 
-The filename sequence has been normalized from `001` through `096`.
+The filename sequence has been normalized from `001` through `099`.
 
 Some chapters may still contain historical internal metadata or source notes from the pre-normalization decimal sequence. Those should be handled as a separate metadata/reference sweep so chapter text is not accidentally altered during filename cleanup.
