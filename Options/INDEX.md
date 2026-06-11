@@ -105,7 +105,7 @@ This index tracks the current normalized `Options/` sequence for *Tiny Door / Yo
 081. [The Door Must Fit the Whole Person](081-the-door-must-fit-the-whole-person.md)
 082. [Find the People Who Know the Road](082-find-the-people-who-know-the-road.md)
 083. [Older Is Not Too Late](083-older-is-not-too-late.md)
-084. [Good Help Has To Be Good](083-older-is-not-too-late.md)
+084. [Good Help Has To Be Good](084-good-help-has-to-be-good.md)
 
 ## Cleanup notes
 
