@@ -112,9 +112,12 @@ This index tracks the current normalized `Options/` sequence for *Tiny Door / Yo
 088. [You Can Be Right Without Staying in the Fight](088-you-can-be-right-without-staying-in-the-fight.md)
 089. [Not Every Room Is Trying to Tell the Truth](089-not-every-room-is-trying-to-tell-the-truth.md)
 090. [Spend Your Accuracy Where It Can Move Something](090-spend-your-accuracy-where-it-can-move-something.md)
+091. [Safety Comes Before Self-Improvement](091-safety-comes-before-self-improvement.md)
+092. [The Wrong Blend Will Drain Your Life](092-the-wrong-blend-will-drain-your-life.md)
+093. [Tune, Prune, Ground, Shape](093-tune-prune-ground-shape.md)
 
 ## Cleanup notes
 
-The filename sequence has been normalized from `001` through `090`.
+The filename sequence has been normalized from `001` through `093`.
 
 Some chapters may still contain historical internal metadata or source notes from the pre-normalization decimal sequence. Those should be handled as a separate metadata/reference sweep so chapter text is not accidentally altered during filename cleanup.
