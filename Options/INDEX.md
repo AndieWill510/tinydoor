@@ -121,9 +121,11 @@ This index tracks the current normalized `Options/` sequence for *Tiny Door / Yo
 097. [The Pillow Fort Was Always Architecture](097-the-pillow-fort-was-always-architecture.md)
 098. [Build the Room That Fits](098-build-the-room-that-fits.md)
 099. [Warmth Is Not a Luxury. It Is What Life Feels Like From the Inside.](099-warmth-is-not-a-luxury.md)
+100. [Benediction and Closing Thoughts](100-benediction-and-closing-thoughts.md)
+101. [Epilogue](101-epilogue.md)
 
 ## Cleanup notes
 
-The filename sequence has been normalized from `001` through `099`.
+The filename sequence has been normalized from `001` through `101`.
 
 Some chapters may still contain historical internal metadata or source notes from the pre-normalization decimal sequence. Those should be handled as a separate metadata/reference sweep so chapter text is not accidentally altered during filename cleanup.
