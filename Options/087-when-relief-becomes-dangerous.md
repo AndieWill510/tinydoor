@@ -23,7 +23,7 @@ Status: Way Home draft / source-witness translation
 Project: Tiny Door / You Have Another Option  
 Source: Chapters/400.md; Options/084-good-help-has-to-be-good.md; Options/085-serious-support-is-not-shame.md  
 Evidence: source-witness frame / harm-reduction-and-support frame; no treatment instruction; no substance-use instruction  
-Safety: addiction / substance harm / trauma / toxic stress / qualified support / harm reduction; urgent risk requires immediate qualified help
+Safety: substance-use harm / trauma / toxic stress / qualified support / harm reduction; urgent risk requires immediate qualified help
 
 ---
 
@@ -51,7 +51,7 @@ Help might.
 
 ## Pressure
 
-People love turning addiction into a morality play.
+People love turning substance-use harm into a morality play.
 
 They point at the substance.
 
