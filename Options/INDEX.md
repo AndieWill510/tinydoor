@@ -109,6 +109,6 @@ This index tracks the current normalized `Options/` sequence for *Tiny Door / Yo
 
 ## Cleanup notes
 
-The filename sequence has been normalized from `001` through `083`.
+The filename sequence has been normalized from `001` through `084`.
 
 Some chapters may still contain historical internal metadata or source notes from the pre-normalization decimal sequence. Those should be handled as a separate metadata/reference sweep so chapter text is not accidentally altered during filename cleanup.
