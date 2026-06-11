@@ -79,7 +79,7 @@ A supported wound has a chance.
 
 ## Reframe
 
-Recovery does not have to begin with hating yourself.
+Getting safer does not have to begin with hating yourself.
 
 It can begin with honesty.
 
