@@ -102,9 +102,12 @@ This index tracks the current normalized `Options/` sequence for *Tiny Door / Yo
 078. [Flow Is a Regulation Door](078-flow-is-a-regulation-door.md)
 079. [The Signal Is Not a Sin](079-the-signal-is-not-a-sin.md)
 080. [You Are Not One Thing](080-you-are-not-one-thing.md)
+081. [The Door Must Fit the Whole Person](081-the-door-must-fit-the-whole-person.md)
+082. [Find the People Who Know the Road](082-find-the-people-who-know-the-road.md)
+083. [Older Is Not Too Late](083-older-is-not-too-late.md)
 
 ## Cleanup notes
 
-The filename sequence has been normalized from `001` through `080`.
+The filename sequence has been normalized from `001` through `083`.
 
 Some chapters may still contain historical internal metadata or source notes from the pre-normalization decimal sequence. Those should be handled as a separate metadata/reference sweep so chapter text is not accidentally altered during filename cleanup.
