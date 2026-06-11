@@ -8,9 +8,8 @@ Batch: Option 084
 - 084
 
 ## Index state
-INDEX.md currently normalized through: 083
-INDEX.md update through 084: pending
-Cleanup note updated: no
+INDEX.md includes entry for: 084
+Cleanup note currently reports normalized through: 083
 
 ## Commit SHA
 Option 084 create commit: 263440a6e29901c78b9549d70aeed210e3accfc4
