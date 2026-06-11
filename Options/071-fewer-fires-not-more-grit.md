@@ -75,7 +75,7 @@ That is continuing exposure with better manners.
 
 Burnout is not proof that you failed to become strong enough.
 
-It is information about load, threat, mismatch, unmet need, and recovery debt.
+It is information about load, threat, mismatch, unmet need, and recovery debt — the cost the body carries when rest keeps getting postponed.
 
 Support may include therapy.
 
