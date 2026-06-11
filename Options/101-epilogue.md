@@ -35,7 +35,7 @@ To amazing healers and therapists Julia Kaluga, Beth Boothe, Shannah James, Jona
 
 My lifelong friend Euphrate Khantouche, and Steve McPherson, who helped me transition out of a toxic relationship: he and Mati both saved my life.
 
-To Brandon and Lana and Amelia and Warren and Gabriela my God you are all my angels. To Brandie, my love, you are no longer suffering but live now forever in the Prairie and no kn can hurt you anymore. 
+To Brandon and Lana and Amelia and Warren and Gabriela my God you are all my angels. To Brandie, my love, you are no longer suffering but live now forever in the Prairie and no one can hurt you anymore. 
 
 Pat, you reminded me that safe is about values and love and care in the storm.
 
