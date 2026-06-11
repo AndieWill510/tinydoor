@@ -29,7 +29,7 @@ Safety: acknowledgements; no medical, legal, or crisis protocol
 
 Many hands make for light work, and I would thank so many people.
 
-But first I would thank Mati Lawrence, who taught me to start building, which meant searching for authentic community.
+But first I would thank Mati Lawrence, who taught me to start building -- which meant searching -- for authentic Autistic community.
 
 Beth Boothe, Jonathan Wright, and Brett Shurman — and his constellation of incredible resources, including the Camden Center — taught me how to connect my environment to my values.
 
