@@ -99,7 +99,7 @@ Breathing before answering.
 
 Letting the body know the danger has been seen.
 
-A Plum Village thread belongs here too:
+Some useful thoughts from Buddhism are:
 
 Right speech does not mean saying everything forever.
 
