@@ -106,9 +106,12 @@ This index tracks the current normalized `Options/` sequence for *Tiny Door / Yo
 082. [Find the People Who Know the Road](082-find-the-people-who-know-the-road.md)
 083. [Older Is Not Too Late](083-older-is-not-too-late.md)
 084. [Good Help Has To Be Good](084-good-help-has-to-be-good.md)
+085. [Serious Support Is Not Shame](085-serious-support-is-not-shame.md)
+086. [Stability Is Care, Not Compliance Theater](086-stability-is-care-not-compliance-theater.md)
+087. [When Relief Becomes Dangerous](087-when-relief-becomes-dangerous.md)
 
 ## Cleanup notes
 
-The filename sequence has been normalized from `001` through `084`.
+The filename sequence has been normalized from `001` through `087`.
 
 Some chapters may still contain historical internal metadata or source notes from the pre-normalization decimal sequence. Those should be handled as a separate metadata/reference sweep so chapter text is not accidentally altered during filename cleanup.
