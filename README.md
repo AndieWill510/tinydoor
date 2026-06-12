@@ -51,6 +51,40 @@ Its mercy is a tiny door: a small survivable opening that does not pretend to so
 
 ---
 
+## 30–3 Summary
+
+### 30-second blurb
+
+*Tiny Door: You Have Another Option* is a survival book for Autistic/ADHD people and the people who love them. It is built for the moment when shame, burnout, sensory overload, grief, or bad systems make life feel impossible. Each short chapter offers one small door: a concrete reframe, a tiny next move, and a mercy. The book refuses to blame the person for surviving hostile rooms. It asks what would make life stayable: safety, community, habitat, joy, and another option.
+
+### 3-minute summary
+
+*Tiny Door: You Have Another Option* is a book about staying alive without being reduced to survival.
+
+Its hidden engine is suicide prevention, but it does not begin with crisis language. It begins with mercy. It begins with the reader who has been called difficult, lazy, too sensitive, dramatic, noncompliant, broken, or impossible when the real problem was often the room, the system, the demand, the noise, the shame, or the lack of support.
+
+The book is written for Autistic and ADHD people, neurodivergent people, and anyone carrying too much executive-function load. It is also for the people who love them and need a better way to understand what helps. The chapters are short on purpose. They are meant to fit in one private pause: a bathroom, a parked car, a bed after shutdown, the edge of a party, the few minutes before a meeting, or the moment before despair starts sounding persuasive.
+
+The form is simple. Each option gives the reader one survivable thought, one practical move, and one mercy. Not a ten-step plan. Not a lecture. Not a demand to become easier for other people. A tiny door.
+
+Across the book, the reader is invited to stop treating Autism, ADHD, distress, sensory need, stimming, shutdown, masking, pleasure, support, and community as moral failures. The book challenges cure narratives, shame disguised as care, compliance theater, hostile environments, and advice that assumes unlimited money, time, energy, executive function, transportation, or social support.
+
+The central claim is not that life is easy. It is that the vulnerable reader deserves more than blame. A body in distress needs safety before performance. A nervous system needs habitat, not just coping skills. A person needs community, not isolation. Joy is not decoration. Regulation is not misbehavior. Comfort is not a luxury. The room has to change too.
+
+By the end, the tiny door becomes more than an exit. It becomes a way into sanctuary: a pillow fort, a safer room, a chosen table, a familiar light, a community that does not require disappearance as the price of belonging.
+
+This is a book about building a life your nervous system can survive long enough to love.
+
+It says, again and again:
+
+You are not the problem.
+
+You are not out of options.
+
+They don’t get to win.
+
+---
+
 ## Who This Is For
 
 Tiny Door is for Autistic/ADHDers, neurodivergent people, and people carrying executive-function load who are too often treated as unreliable, noncompliant, difficult, lazy, or morally failing when the actual failure is system design.
