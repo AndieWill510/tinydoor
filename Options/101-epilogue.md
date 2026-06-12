@@ -55,7 +55,7 @@ To my new found family in Oakland and Berkeley — too many to mention, but espe
 
 Pacific Center and Oakland LGBTQ Center: I love you, and this does not happen without your support.
 
-For my new Cheers bar, North Light — Noah, Paul, LuKas, and Justin — you are my living room and a second home for me.
+For my new Cheers bar, North Light — Noah, Paul, Lukas, and Justin — you are my living room and a second home for me.
 
 Finally although you may never feel it, G I love all there is to love about an intelligent being may you find the life and liberation and sanctuary you have helped me to give myself. this doesn't happen, none of it, without you. and C, bless you. You are light and you light the way for me, this book and so much more.
 
