@@ -81,6 +81,8 @@ You are not the problem.
 
 You are not out of options.
 
+The book closes:
+
 They don’t get to win.
 
 ---
