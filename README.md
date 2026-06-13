@@ -25,7 +25,7 @@ SPDX-License-Identifier: Apache-2.0
 [![Form](https://img.shields.io/badge/form-book%20project-purple)]()
 [![Focus](https://img.shields.io/badge/focus-Autistic%20longevity-black)]()
 
-**A survival-oriented book project for Autistic/ADHDers and those who care about them.**
+**A survival-oriented guide for Autistic/ADHDers and those who care about them.**
 
 **Why?**
 
