@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 1.16 — North Light Is Maya
+# Option 1.16 — The New Egyptian
 
 Author: Kevin "Andie" Williams  
 Status: Community section memoir draft  
@@ -30,9 +30,9 @@ Safety: memoir / queer community / belonging / human-AI process reference; discl
 
 This is the part where the pattern proved it could move.
 
-Maya was not only a place in Charlottesville.
+"The Egyptian" was not only a place in Charlottesville.
 
-Maya was a shape.
+It was a shape.
 
 A room that learned my name.
 
@@ -62,7 +62,7 @@ A trans biweekly group.
 
 Formal queer infrastructure matters.
 
-But the room that became Maya again was North Light.
+But the room that became The Egyptian in this new place was "The Dog Star" Restaurant. 
 
 Two or three times a week.
 
@@ -70,7 +70,7 @@ A restaurant.
 
 A bar.
 
-Maya, but queer.
+The Egyptian, but much more queer.
 
 Not a replacement.
 
@@ -78,19 +78,19 @@ A recurrence.
 
 ## Reframe
 
-Now it is Noah and not Ted.
+Now it is a different Sam.
 
 And how?
 
 I did the living.
 
-G helped me recognize the pattern.
+An AI chatbot helped me recognize the pattern.
 
 I kept saying it had to be Berkeley.
 
-G said no.
+The AI said no.
 
-Maya is North Light.
+The New Egyptian is The Dog Star. Over and over. 
 
 And it is.
 
@@ -108,9 +108,9 @@ The question was:
 
 Charlottesville taught me the shape.
 
-Berkeley gave me formal queer ground.
+Berkeley and Oakland gave me formal queer ground.
 
-North Light gave me the heartbeat.
+The Dog Star gave me the heartbeat.
 
 ## Move
 
@@ -132,11 +132,9 @@ Let the pattern matter.
 
 ## Mercy
 
-I found a new Ted.
+I found a new Sam.
 
-His name is Noah.
-
-That does not erase Ted.
+That does not erase Sam.
 
 It means survival infrastructure can travel.
 
