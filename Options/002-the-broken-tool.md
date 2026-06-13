@@ -76,7 +76,7 @@ It teaches the wrong lesson.
 
 The cracked mouthpiece did not only prevent music. It taught shame.
 
-Many Autistic people have been trained this way by schools, families, workplaces, clinics, and ordinary rooms that never stop to ask whether the tool is cracked.
+Many Neurodivergent people have been trained this way by schools, families, workplaces, clinics, and ordinary rooms that never stop to ask whether the tool is cracked.
 
 This book begins by asking that question.
 
@@ -86,7 +86,7 @@ Not because effort never matters.
 
 Not because we never have skills to learn.
 
-But because a life cannot be built honestly if the first assumption is that the Autistic person is the defect.
+But because a life cannot be built honestly if the first assumption is that we are the defect.
 
 Sometimes the tool is wrong.
 
