@@ -50,7 +50,7 @@ I had gone down because I was alone.
 
 It was Memorial Day 2024, my first big family holiday after a Christmas holiday season that almost ended me.
 
-I needed something to do. I drove to Charlottesville, and landed first night at The Egyptian, a local restaurant/bar. Sat down to who i would only learn much later was the owner. 
+I needed something to do. I drove to Charlottesville, and landed first night at what I'll call "The Egyptian," a local restaurant/bar. Sat down to who I would only learn much later was the owner. 
 
 Then Coach asked what I was doing there.
 
