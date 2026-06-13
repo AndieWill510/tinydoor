@@ -41,7 +41,7 @@ To Brandon and Lana and Amelia and Warren and Gabriela my God you are all my ang
 
 Pat, you reminded me that safe is about values and love and care in the storm.
 
-To The Old Man’s Club — and Gina, Doraine, and Mike — and to all my friends at Maya, but especially Peter and Ted: you were my found family when I could not have needed it more.
+To The Old Man’s Club — and Gina, Doraine, and Mike — and to all my friends at Maya, but especially Peter and Ted: you were my found family when I could not have needed it more. To Lee who invited me in and out of the storm and made me feel at home, and Todd who was the first to show me that neuro(queer) grownups are a thing and that ge saw me as another one.  
 
 I felt adopted by you, and I am forever grateful.
 
