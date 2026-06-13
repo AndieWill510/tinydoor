@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 3.6 — Autistic Joy Is Not Decoration
+# Option 3.6 — Our Joy Is Not Decoration
 
 Author: Kevin "Andie" Williams  
 Status: Regulation sprint draft  
@@ -28,7 +28,7 @@ Safety: joy / regulation / burnout-prevention frame; no method detail; evidence 
 
 ## Doorway
 
-Autistic joy is not cute extra frosting on the survival cake.
+Our version of joy is not cute frosting on the survival cake.
 
 It is not a reward for behaving well enough.
 
@@ -36,19 +36,19 @@ Joy is one of the serious things.
 
 The body knows this before the culture does.
 
-A person hears the right song and starts moving.
+A person hears the right song and starts moving. And then needs to hear it **_again_**. 
 
 A hand finds the right texture.
 
 A mind locks onto the beloved subject and the room becomes brighter.
 
-Not because they are broken.
+Not because we are broken.
 
-Because something in them is alive.
+Because something in us is alive.
 
 ## Pressure
 
-Too many Autistic people are taught that our joy is embarrassing.
+Too many of us are taught that our joy is embarrassing.
 
 Too much.
 
@@ -68,7 +68,7 @@ Then people wonder why we are exhausted.
 
 A life without safe access to joy is not neutral.
 
-It is deprivation.
+It is **_starvation_**.
 
 ## Reframe
 
@@ -80,7 +80,7 @@ Sometimes the nervous system does not need less feeling.
 
 Sometimes it needs a safe path for the right feeling.
 
-Autistic joy can be that path.
+Neurodivergent joy can be that path.
 
 Not as a substitute for care, medication, accommodation, food, sleep, housing, community, or safety.
 
