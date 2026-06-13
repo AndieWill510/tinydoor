@@ -44,7 +44,8 @@ It does not sound simple when every room has taught your body to ask:
 
 ## Pressure
 
-Autistic people are often taught to think of survival as private performance.
+Autistic 
+We are often taught to think of survival as private performance.
 
 Regulate yourself.
 
