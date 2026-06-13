@@ -37,17 +37,17 @@ SPDX-License-Identifier: Apache-2.0
 
 *Tiny Doors and Pillow Forts: You Have Another Option* is a book, not software.
 
-It is a survival manual for Neurodivergent life, suicide prevention, lifespan, joy, regulation, community, and the conditions that allow Autistic/ADHDers to live longer and freer lives.
+It is a survival manual for Neurodivergent life, suicide prevention, lifespan, joy, regulation, community, and the conditions that allow Autistic/ADHDers (NDers) to live longer and freer lives.
 
 Its hidden engine is suicide prevention.
 
-Its larger purpose is ADHD/Autistic longevity.
+Its larger purpose is longevity.
 
 Its method is another option. Lots of them. 
 
 Its mercy is a tiny door: a small survivable opening that does not pretend to solve the whole crisis, but gives the reader one safe next passage.
 
-> This is a book about building a Neurodivergent life your nervous system can survive long enough to love.
+> This is a book about building a life your nervous system can survive long enough to love.
 
 ---
 
@@ -59,11 +59,11 @@ Its mercy is a tiny door: a small survivable opening that does not pretend to so
 
 ### 3-minute summary
 
-*Tiny Doors and Pillow Forts: You Have Another Option* is a guide for staying alive without being reduced to mere survival.
+*Tiny Doors and Pillow Forts: You Have Another Option* is a guide for Autistic/ADHD people staying alive without being reduced to mere survival.
 
 Its hidden engine is suicide prevention, but it does not begin with crisis language. It begins with mercy. It begins with the reader who has been called difficult, lazy, too sensitive, dramatic, noncompliant, broken, or impossible when the real problem was often the room, the system, the demand, the noise, the shame, or the lack of support.
 
-The book is written for Autistic and ADHD people, also known as Neurodivergent (ND) people, and anyone in our modern times carrying too much executive-function load. It is also for the people who love them and need a better way to understand what helps; and what doesn't. The chapters or "Options" are short on purpose. They are meant to fit in one private pause: a bathroom, a parked car, a bed after shutdown, the edge of a party, the few minutes before a meeting, or the moment before despair starts sounding persuasive.
+The book is written for Autistic and ADHD people, also known as Neurodivergent (ND) people or as we'll say NDers, and anyone in our modern times carrying too much executive-function load. It is also for the people who love them and need a better way to understand what helps; and what doesn't. The chapters or "Options" are short on purpose. They are meant to fit in one private pause: a bathroom, a parked car, a bed after shutdown, the edge of a party, the few minutes before a meeting, or the moment before despair starts sounding persuasive.
 
 The form is simple. Each option gives the reader one survivable thought, one practical move, and one mercy. Not a ten-step plan. Not a lecture. Not a demand to become easier for other people. A tiny door.
 
