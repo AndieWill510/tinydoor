@@ -40,7 +40,7 @@ And frankly, she was exactly what I needed.
 
 Some people enter a room like permission.
 
-Ella entered like the room had already lost the argument.
+Ella in entered like the room had already lost the argument.
 
 ## Pressure
 
@@ -54,7 +54,7 @@ Safe because she did not seem to organize herself around whether other people ap
 
 Sometimes belonging kicks the door open and says:
 
-> Come on. We're going somewhere.
+> Come on. We're going somewhere better.
 
 ## Reframe
 
@@ -70,11 +70,11 @@ Oh hell yes.
 
 That decision, and meeting Dave, would prove fateful in the most delicious way.
 
-Dave invited me to join the old man's club.
+Dave invited me to join the "old man's club."
 
 First for a single meeting.
 
-Then as a member.
+Then later, much later, as a member.
 
 Dave did not invite anyone to join.
 
