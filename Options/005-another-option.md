@@ -42,7 +42,7 @@ Sometimes it only has to keep the next door from disappearing.
 
 ## Pressure
 
-Many Autistic people are trained into corners.
+We are trained to live inside the corner of a room:
 
 We are told the problem is our behavior when the problem is often the pressure around us.
 
@@ -56,7 +56,7 @@ This book does not begin from the belief that Autistic people are broken.
 
 It begins from a different question:
 
-> What would change if we stopped treating Autistic distress as the problem and started treating it as information?
+> What would change if we stopped treating our distress as the problem and started treating it as information?
 
 ## Reframe
 
@@ -114,9 +114,9 @@ You do not have to believe in every possible future today.
 
 You only need one honest opening.
 
-If you are reading this from somewhere very dark, you are exactly who I had in mind when I wrote it.
+If you are reading this from somewhere very dark, you are exactly who I had in mind when I wrote this:
 
-You have another option.
+You have another option. I'm glad you're here.  
 
 ---
 
