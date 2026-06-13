@@ -74,7 +74,7 @@ And still the room says: fourth chair.
 
 ## Reframe
 
-My tutor eventually asked to see the saxophone.
+My tutor of six weeks eventually asked to see the saxophone.
 
 He played it.
 
