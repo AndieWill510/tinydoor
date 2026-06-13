@@ -30,7 +30,7 @@ Safety: sexuality-adjacent / body shame / consent / privacy; no explicit sexual 
 
 A person learns body shame in small rooms.
 
-A hand is moved away from a harmless touch.
+A hand is pushed away from a harmless touch.
 
 A teenager is told their crush is a phase, a problem, a threat, or a joke.
 
