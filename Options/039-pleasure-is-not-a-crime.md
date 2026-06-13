@@ -32,13 +32,13 @@ Pleasure is one of the places shame likes to set up camp.
 
 Not only sexual pleasure.
 
-The pleasure of the same song again. and again. in a koop. 
+The pleasure of the same song again. and again. in a loop. 
 
 The pleasure of pressure.
 
 The pleasure of a body finally unclenching when the door closes and the room is yours.
 
-Autistic pleasure is often treated like evidence.
+Our pleasure is often treated like evidence.
 
 Too intense.
 
