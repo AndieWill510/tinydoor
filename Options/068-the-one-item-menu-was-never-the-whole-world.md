@@ -134,3 +134,13 @@ Your body was not foolish for using the only strategy it knew.
 And your future does not have to keep ordering from the same old menu.
 
 You have more options than the room taught you.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 069 — The Word Is a Handle →](069-the-word-is-a-handle.md)
+<!-- TINYDOOR_NAV_END -->

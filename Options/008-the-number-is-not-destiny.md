@@ -117,3 +117,13 @@ A frightening number can tell the truth without owning the future.
 You are not a statistic.
 
 You are a life.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 009 — Community Is Survival Infrastructure →](009-community-is-survival-infrastructure.md)
+<!-- TINYDOOR_NAV_END -->

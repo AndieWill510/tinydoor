@@ -107,3 +107,13 @@ or hold this as permission for when you can.
 Your joy does not have to look respectable to be worthy of protection.
 
 You are allowed to build survival around what brings you back to life.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 030 — You Can Always Stim →](030-you-can-always-stim.md)
+<!-- TINYDOOR_NAV_END -->

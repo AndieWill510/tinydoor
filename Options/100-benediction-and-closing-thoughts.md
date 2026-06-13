@@ -56,3 +56,13 @@ Whoever has hurt you,
 whoever hurts you still —
 
 **they don’t get to win.**
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 101 — Epilogue →](101-epilogue.md)
+<!-- TINYDOOR_NAV_END -->

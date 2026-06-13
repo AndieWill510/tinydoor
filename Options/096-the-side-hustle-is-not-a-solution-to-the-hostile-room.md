@@ -220,3 +220,13 @@ The world owes you work that does not cost you your health.
 The side hustle was not the answer.
 
 It was the system handing you the bill for its own failure.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 097 — The Pillow Fort Was Always Architecture →](097-the-pillow-fort-was-always-architecture.md)
+<!-- TINYDOOR_NAV_END -->

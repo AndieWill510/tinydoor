@@ -140,3 +140,13 @@ You do not have to heal inside the same fire that burned you.
 Recovery is not more grit.
 
 Recovery starts when the body gets less to survive.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 072 — Every System Talks to the Others →](072-every-system-talks-to-the-others.md)
+<!-- TINYDOOR_NAV_END -->

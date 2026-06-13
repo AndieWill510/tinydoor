@@ -96,3 +96,13 @@ try:
 You are allowed to reject a question that was built to erase you.
 
 A better question can be a tiny door.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 053 — The Fire Was Not the Lesson →](053-the-fire-was-not-the-lesson.md)
+<!-- TINYDOOR_NAV_END -->

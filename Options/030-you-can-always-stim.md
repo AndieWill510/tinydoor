@@ -123,3 +123,13 @@ Rank it by whether it helps you stay safer with yourself.
 You are not wrong because your body keeps searching for a door.
 
 A hidden stim is not a failed stim.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 031 — The Safe Channel →](031-the-safe-channel.md)
+<!-- TINYDOOR_NAV_END -->

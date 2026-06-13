@@ -117,3 +117,13 @@ Just refuse the shortcut.
 ## Mercy
 
 You are more than the part of you other people found easiest to measure.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 045 — Normal Was Never the Goal →](045-normal-was-never-the-goal.md)
+<!-- TINYDOOR_NAV_END -->

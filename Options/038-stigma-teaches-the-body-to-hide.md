@@ -105,3 +105,13 @@ Shame only makes you smaller.
 You were allowed to need guidance.
 
 You were not supposed to be made ashamed for needing it.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 039 — Pleasure Is Not a Crime →](039-pleasure-is-not-a-crime.md)
+<!-- TINYDOOR_NAV_END -->

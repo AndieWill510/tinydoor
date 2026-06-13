@@ -121,3 +121,13 @@ The goal is to stop mistaking the signal for the source.
 You are not a behavior problem.
 
 You are a person whose body has been trying to communicate under pressure.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 008 — The Number Is Not Destiny →](008-the-number-is-not-destiny.md)
+<!-- TINYDOOR_NAV_END -->

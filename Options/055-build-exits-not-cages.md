@@ -136,3 +136,13 @@ Name the missing door.
 You do not have to become fire to prove the fire was real.
 
 Build exits.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 056 — The Letter That Arrives After the Hospital →](056-the-letter-that-arrives-after-the-hospital.md)
+<!-- TINYDOOR_NAV_END -->

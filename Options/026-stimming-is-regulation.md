@@ -115,3 +115,13 @@ Let it be yours.
 Your body is not betraying you when it reaches for rhythm.
 
 It may be trying to bring you home.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 027 — You May Not Be at Peace →](027-you-may-not-be-at-peace.md)
+<!-- TINYDOOR_NAV_END -->

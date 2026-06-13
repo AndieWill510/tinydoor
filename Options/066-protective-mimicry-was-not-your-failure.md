@@ -122,3 +122,13 @@ You are not fake because you learned to survive being noticed.
 A protected self is still a self.
 
 And when the room becomes safer, that self may not have to hide as hard.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 067 — The Advice Did Not Fit the Room →](067-the-advice-did-not-fit-the-room.md)
+<!-- TINYDOOR_NAV_END -->

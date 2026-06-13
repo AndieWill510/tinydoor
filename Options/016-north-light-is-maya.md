@@ -139,3 +139,13 @@ His name is Noah.
 That does not erase Ted.
 
 It means survival infrastructure can travel.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 017 — Friends from Nowhere →](017-friends-from-nowhere.md)
+<!-- TINYDOOR_NAV_END -->

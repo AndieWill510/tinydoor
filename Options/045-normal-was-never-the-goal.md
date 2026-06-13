@@ -95,3 +95,13 @@ One honest answer.
 You did not come here to become acceptable enough to be spared.
 
 You came here to live.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 046 — Normal Is Not Okay →](046-normal-is-not-okay.md)
+<!-- TINYDOOR_NAV_END -->

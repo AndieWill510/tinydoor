@@ -103,3 +103,13 @@ You are not failing because you did not notice the overload sooner.
 Many of us were trained not to notice.
 
 Now your body gets to be heard earlier.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 028 — Cassandra Was Not Catastrophizing →](028-cassandra-was-not-catastrophizing.md)
+<!-- TINYDOOR_NAV_END -->

@@ -127,3 +127,13 @@ You are not required to hate your nervous system in order to take your suffering
 Autism is not the parasite.
 
 Shame is.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 025 — The Missing Ramp →](025-the-missing-ramp.md)
+<!-- TINYDOOR_NAV_END -->

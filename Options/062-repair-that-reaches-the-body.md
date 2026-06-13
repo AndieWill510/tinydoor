@@ -136,3 +136,13 @@ Beanie did not merely leave money.
 She interrupted a possible future.
 
 Repair is what happens when care reaches the life before harm gets the final word.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 063 — The Game Was Unwinnable →](063-the-game-was-unwinnable.md)
+<!-- TINYDOOR_NAV_END -->

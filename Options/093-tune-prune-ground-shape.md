@@ -160,3 +160,13 @@ Bodies tell the truth before systems do.
 You are not a machine failing specifications.
 
 You are a living creature asking for a livable world.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 094 — Your Recovery Is Not a Revenue Stream →](094-your-recovery-is-not-a-revenue-stream.md)
+<!-- TINYDOOR_NAV_END -->

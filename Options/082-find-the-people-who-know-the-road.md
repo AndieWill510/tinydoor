@@ -138,3 +138,13 @@ You were never supposed to be the only map.
 Someone else has seen some part of this terrain.
 
 Let their knowing become a handrail.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 083 — Older Is Not Too Late →](083-older-is-not-too-late.md)
+<!-- TINYDOOR_NAV_END -->

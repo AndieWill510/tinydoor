@@ -112,3 +112,13 @@ Let protection be part of the truth.
 You are not required to become a public utility powered by your own trauma.
 
 The witness gets a door too.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 055 — Build Exits, Not Cages →](055-build-exits-not-cages.md)
+<!-- TINYDOOR_NAV_END -->

@@ -104,3 +104,13 @@ If there is only discomfort, question the demand.
 Not every correction is care.
 
 Sometimes the first tiny door is asking why the door was closed.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 060 — The First Adult Standing →](060-the-first-adult-standing.md)
+<!-- TINYDOOR_NAV_END -->

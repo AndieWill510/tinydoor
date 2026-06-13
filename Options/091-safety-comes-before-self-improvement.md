@@ -174,3 +174,13 @@ That counts.
 You do not owe the world proof that you are trying.
 
 You are allowed to need material safety before anyone asks you for transformation.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 092 — The Wrong Blend Will Drain Your Life →](092-the-wrong-blend-will-drain-your-life.md)
+<!-- TINYDOOR_NAV_END -->

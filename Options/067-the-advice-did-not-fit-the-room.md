@@ -116,3 +116,13 @@ Name the mismatch.
 You are not a failed advice machine.
 
 You are a person whose situation deserved a strategy designed for the actual room.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 068 — The One-Item Menu Was Never the Whole World →](068-the-one-item-menu-was-never-the-whole-world.md)
+<!-- TINYDOOR_NAV_END -->

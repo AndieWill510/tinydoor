@@ -117,3 +117,13 @@ If not, naming the pattern is the whole move.
 You are not foolish because your body remembers.
 
 You are allowed to treat dread as information without letting it become destiny.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 029 — Autistic Joy Is Not Decoration →](029-autistic-joy-is-not-decoration.md)
+<!-- TINYDOOR_NAV_END -->

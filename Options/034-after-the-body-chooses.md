@@ -113,3 +113,13 @@ Just the next ten minutes.
 You do not have to understand the whole fire before you open a window.
 
 Start with air.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 035 — Autistic First Aid →](035-autistic-first-aid.md)
+<!-- TINYDOOR_NAV_END -->

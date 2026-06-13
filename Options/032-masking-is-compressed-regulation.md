@@ -117,3 +117,13 @@ If not, noticing the cost is the whole move.
 You are not fake because you learned to survive the room.
 
 And you are allowed to be tired after surviving it.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 033 — When the Body Chooses for You →](033-when-the-body-chooses-for-you.md)
+<!-- TINYDOOR_NAV_END -->

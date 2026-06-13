@@ -110,3 +110,13 @@ If the answer is only "more normal-looking," keep asking.
 You do not have to disappear well to prove you are getting better.
 
 Passing is not healing.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 049 — A Good Goal Leaves You More Whole →](049-a-good-goal-leaves-you-more-whole.md)
+<!-- TINYDOOR_NAV_END -->

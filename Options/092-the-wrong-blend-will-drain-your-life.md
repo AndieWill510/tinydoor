@@ -170,3 +170,13 @@ This is learning which parts of your life give you back to yourself.
 Your energy is not a luxury budget.
 
 It is the weather system your life has to live inside.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 093 — Tune, Prune, Ground, Shape →](093-tune-prune-ground-shape.md)
+<!-- TINYDOOR_NAV_END -->

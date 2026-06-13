@@ -130,3 +130,13 @@ You are not too sensitive because a room has teeth.
 A room can be ordinary to someone else and still be too much for you.
 
 Your body is allowed to tell the truth about design.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 065 — The Shame Cycle Is Not Your Character →](065-the-shame-cycle-is-not-your-character.md)
+<!-- TINYDOOR_NAV_END -->

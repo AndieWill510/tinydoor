@@ -105,3 +105,13 @@ Just name it.
 ## Mercy
 
 You are allowed to ask what hurts before deciding you are wrong for hurting.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 005 — Another Option →](005-another-option.md)
+<!-- TINYDOOR_NAV_END -->

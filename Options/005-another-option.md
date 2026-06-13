@@ -117,3 +117,13 @@ You only need one honest opening.
 If you are reading this from somewhere very dark, you are exactly who I had in mind when I wrote it.
 
 You have another option.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 006 — Why This Book Exists →](006-why-this-book-exists.md)
+<!-- TINYDOOR_NAV_END -->

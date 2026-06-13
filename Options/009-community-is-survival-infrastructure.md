@@ -107,3 +107,13 @@ The point is to notice where infrastructure may already be trying to form.
 You were not meant to become a whole shelter by yourself.
 
 Sometimes another option is a person.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 010 — The First Big Family Holiday Alone →](010-the-first-big-family-holiday-alone.md)
+<!-- TINYDOOR_NAV_END -->

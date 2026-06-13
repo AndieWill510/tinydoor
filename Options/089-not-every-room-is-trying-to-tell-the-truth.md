@@ -154,3 +154,13 @@ If the room only wants discomfort to end, make your next move outside that room.
 You do not need to win a trial the other person refuses to attend honestly.
 
 You are allowed to stop asking a stage to become a court.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 090 — Spend Your Accuracy Where It Can Move Something →](090-spend-your-accuracy-where-it-can-move-something.md)
+<!-- TINYDOOR_NAV_END -->

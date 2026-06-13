@@ -111,3 +111,13 @@ Let the answer matter.
 You were allowed to need help.
 
 You were not supposed to be trained out of yourself to receive it.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 044 — Behavior Is Not the Whole Person →](044-behavior-is-not-the-whole-person.md)
+<!-- TINYDOOR_NAV_END -->

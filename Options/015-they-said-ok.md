@@ -129,3 +129,13 @@ It gave me nourishment to launch.
 And I needed to leave home and make community with other trans people.
 
 But part of me could have stayed there forever.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 016 — North Light Is Maya →](016-north-light-is-maya.md)
+<!-- TINYDOOR_NAV_END -->

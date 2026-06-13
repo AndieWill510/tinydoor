@@ -103,3 +103,13 @@ If all you can do is notice the door, that counts.
 ## Mercy
 
 You are allowed to prepare for hard things without being accused of making them happen.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 042 — Hope With Handles →](042-hope-with-handles.md)
+<!-- TINYDOOR_NAV_END -->

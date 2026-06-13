@@ -134,3 +134,13 @@ You are not complicated as an accusation.
 You are interconnected.
 
 That means small care can travel farther than shame told you it could.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 073 — Spend Your Spoons Where You Are Believed →](073-spend-your-spoons-where-you-are-believed.md)
+<!-- TINYDOOR_NAV_END -->

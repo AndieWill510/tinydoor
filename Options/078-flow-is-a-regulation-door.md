@@ -138,3 +138,13 @@ Your focus is not a defect because others cannot see what it gives you.
 A horizon can save a body from spinning.
 
 You are allowed to find yours.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 079 — The Signal Is Not a Sin →](079-the-signal-is-not-a-sin.md)
+<!-- TINYDOOR_NAV_END -->

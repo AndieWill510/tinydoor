@@ -130,3 +130,13 @@ Isolation can lie.
 It can make a social pattern feel like a personal truth.
 
 You are not the verdict of the room that refused to make space.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 071 — Fewer Fires, Not More Grit →](071-fewer-fires-not-more-grit.md)
+<!-- TINYDOOR_NAV_END -->

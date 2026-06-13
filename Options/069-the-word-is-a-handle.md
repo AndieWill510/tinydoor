@@ -132,3 +132,13 @@ You are not required to lose the pattern just because the room refuses the word.
 A name can be a first handhold.
 
 A handhold can become a door.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 070 — Shunning Is a System, Not a Verdict →](070-shunning-is-a-system-not-a-verdict.md)
+<!-- TINYDOOR_NAV_END -->

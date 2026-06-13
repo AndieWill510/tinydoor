@@ -116,3 +116,13 @@ You are allowed to ask whether the goal itself deserves your trust.
 That is not resistance.
 
 That is discernment.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 050 — Expert Words Travel →](050-expert-words-travel.md)
+<!-- TINYDOOR_NAV_END -->

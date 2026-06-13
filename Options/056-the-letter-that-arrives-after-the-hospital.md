@@ -116,3 +116,13 @@ You deserved someone at the door of that hospital.
 The letter that came instead does not cancel that.
 
 It confirms it.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 057 — The Environment Can Be Sick →](057-the-environment-can-be-sick.md)
+<!-- TINYDOOR_NAV_END -->

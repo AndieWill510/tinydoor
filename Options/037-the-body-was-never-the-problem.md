@@ -103,3 +103,13 @@ Just let the signal exist.
 ## Mercy
 
 Before anyone taught shame, your body was already trying to tell the truth.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 038 — Stigma Teaches the Body to Hide →](038-stigma-teaches-the-body-to-hide.md)
+<!-- TINYDOOR_NAV_END -->

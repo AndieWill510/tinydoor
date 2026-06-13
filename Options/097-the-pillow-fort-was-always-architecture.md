@@ -228,3 +228,13 @@ You were not wrong to build it.
 You were right early.
 
 The world just had not caught up to what your body already knew.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 098 — Build the Room That Fits →](098-build-the-room-that-fits.md)
+<!-- TINYDOOR_NAV_END -->

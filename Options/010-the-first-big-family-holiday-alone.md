@@ -109,3 +109,13 @@ Let small motion count.
 A distraction can still be mercy.
 
 And sometimes the thing you do because you cannot bear the day becomes the first road toward home.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 011 — Coach at Cheers →](011-coach-at-cheers.md)
+<!-- TINYDOOR_NAV_END -->

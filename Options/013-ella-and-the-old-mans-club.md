@@ -95,3 +95,13 @@ Do not make it smaller because you did not know yet what it would become.
 Belonging does not always arrive as a plan.
 
 Sometimes it arrives through a door nobody was supposed to open for you.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 014 — OMC Second Bite at the Apple →](014-omc-second-bite-at-the-apple.md)
+<!-- TINYDOOR_NAV_END -->

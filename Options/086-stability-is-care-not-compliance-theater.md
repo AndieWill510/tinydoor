@@ -142,3 +142,13 @@ Let it be care.
 You do not have to earn care by becoming convenient.
 
 A good plan protects your life without erasing your personhood.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 087 — When Relief Becomes Dangerous →](087-when-relief-becomes-dangerous.md)
+<!-- TINYDOOR_NAV_END -->

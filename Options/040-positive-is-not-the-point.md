@@ -125,3 +125,13 @@ No life plan.
 ## Mercy
 
 You do not have to feel positive to keep one option alive.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 041 — Keep One Door Unlocked →](041-keep-one-door-unlocked.md)
+<!-- TINYDOOR_NAV_END -->

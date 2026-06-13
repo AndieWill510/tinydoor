@@ -139,3 +139,13 @@ You are not ungrateful because your body knows the difference between support an
 A real door does not need your self-erasure to open.
 
 A real door can be refused.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 020 — Help Has to Fit the Body →](020-help-has-to-fit-the-body.md)
+<!-- TINYDOOR_NAV_END -->

@@ -105,3 +105,13 @@ And then, somehow, there they are.
 Friends from nowhere.
 
 Which is to say: friends from somewhere you did not know still loved you.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 018 — The Tiny Door Is Not a Leash →](018-the-tiny-door-is-not-a-leash.md)
+<!-- TINYDOOR_NAV_END -->

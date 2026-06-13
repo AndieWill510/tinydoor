@@ -119,3 +119,13 @@ That is enough for the first door.
 You are not only the moment other people noticed.
 
 Start the timeline earlier.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 034 — After the Body Chooses →](034-after-the-body-chooses.md)
+<!-- TINYDOOR_NAV_END -->

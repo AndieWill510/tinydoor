@@ -140,3 +140,13 @@ You are not the worst moment of your stress response.
 You are a person whose body learned patterns under pressure.
 
 Patterns can change when the room stops making shame the weather.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 066 — Protective Mimicry Was Not Your Failure →](066-protective-mimicry-was-not-your-failure.md)
+<!-- TINYDOOR_NAV_END -->

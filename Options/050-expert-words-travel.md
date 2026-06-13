@@ -104,3 +104,13 @@ You are allowed to question the frame before you accept the sentence.
 Expert words travel.
 
 So should truth.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 051 — The Goal Leaves the Room →](051-the-goal-leaves-the-room.md)
+<!-- TINYDOOR_NAV_END -->

@@ -231,3 +231,13 @@ Whether or not they feel the cost, whether or not they learn, you are still allo
 You do not have to prove your suffering has clean motives before you are allowed to stop.
 
 Let the symptom count.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 024 — Autism Is Not the Parasite →](024-autism-is-not-the-parasite.md)
+<!-- TINYDOOR_NAV_END -->

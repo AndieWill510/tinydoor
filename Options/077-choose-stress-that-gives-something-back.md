@@ -148,3 +148,13 @@ You do not have to become harder to harm.
 You get to build a life with fewer harms and better kinds of effort.
 
 That is strength with a door in it.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 078 — Flow Is a Regulation Door →](078-flow-is-a-regulation-door.md)
+<!-- TINYDOOR_NAV_END -->

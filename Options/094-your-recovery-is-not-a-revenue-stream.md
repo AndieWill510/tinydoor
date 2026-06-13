@@ -202,3 +202,13 @@ Just the thing itself.
 You are allowed to have something the market cannot buy.
 
 Not everything that has value needs to be sold.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 095 — Personal Branding Is Another Masking Demand →](095-personal-branding-is-another-masking-demand.md)
+<!-- TINYDOOR_NAV_END -->

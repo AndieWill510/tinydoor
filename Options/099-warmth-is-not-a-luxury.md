@@ -236,3 +236,13 @@ You were right to want it.
 You were right to build it.
 
 You are allowed to have it.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 100 — Benediction and Closing Thoughts →](100-benediction-and-closing-thoughts.md)
+<!-- TINYDOOR_NAV_END -->

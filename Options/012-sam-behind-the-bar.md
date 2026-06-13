@@ -93,3 +93,13 @@ Let that count.
 You are allowed to need people who make your body believe the room is safe.
 
 You are allowed to be changed by being accepted.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 013 — Ella and the Old Man's Club →](013-ella-and-the-old-mans-club.md)
+<!-- TINYDOOR_NAV_END -->

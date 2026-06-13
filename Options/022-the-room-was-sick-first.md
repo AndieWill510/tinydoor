@@ -258,3 +258,13 @@ You are allowed to leave before the room understands why.
 You are allowed to begin with the sentence the room can hear.
 
 You are allowed to practice the exit before you can explain the whole prison.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 023 — Let the Symptom Count →](023-let-the-symptom-count.md)
+<!-- TINYDOOR_NAV_END -->

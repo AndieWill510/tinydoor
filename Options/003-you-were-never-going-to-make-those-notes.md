@@ -127,3 +127,13 @@ Just notice the difference.
 The fact that the notes did not come does not prove you failed.
 
 It may prove the conditions were impossible.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 004 — The First Mercy →](004-the-first-mercy.md)
+<!-- TINYDOOR_NAV_END -->

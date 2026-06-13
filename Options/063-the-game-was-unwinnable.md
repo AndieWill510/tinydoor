@@ -128,3 +128,13 @@ You were not born to pass a test nobody will admit they wrote.
 The game was unwinnable.
 
 That does not make you unwinnable.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 064 — What Distracts One Body Can Injure Another →](064-what-distracts-one-body-can-injure-another.md)
+<!-- TINYDOOR_NAV_END -->

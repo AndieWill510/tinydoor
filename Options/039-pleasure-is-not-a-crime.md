@@ -115,3 +115,13 @@ If that is too much today, just name the pleasure.
 A stayable life needs more than less pain.
 
 It needs boundaried, consenting, safe ways to feel good inside your own body.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 040 — Positive Is Not the Point →](040-positive-is-not-the-point.md)
+<!-- TINYDOOR_NAV_END -->

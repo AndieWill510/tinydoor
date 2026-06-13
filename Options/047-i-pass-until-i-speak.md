@@ -191,3 +191,13 @@ Somewhere real enough.
 Somewhere your life can hear itself come back.
 
 Because the thing they could not stand may be the thing that proves you are still here.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 048 — Passing Is Not Healing →](048-passing-is-not-healing.md)
+<!-- TINYDOOR_NAV_END -->

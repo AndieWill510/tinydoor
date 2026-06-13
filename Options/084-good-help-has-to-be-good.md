@@ -178,3 +178,13 @@ You are allowed to keep looking for help that can hold more of the truth.
 You are not only a diagnosis.
 
 You are a person who has survived so much and still deserves care that is worthy of you.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 085 — Serious Support Is Not Shame →](085-serious-support-is-not-shame.md)
+<!-- TINYDOOR_NAV_END -->

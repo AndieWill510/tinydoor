@@ -123,3 +123,13 @@ A pause in the old blame pattern.
 You are allowed to inspect the instrument.
 
 You are allowed to stop calling every broken tool your failure.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 003 — You Were Never Going to Make Those Notes →](003-you-were-never-going-to-make-those-notes.md)
+<!-- TINYDOOR_NAV_END -->

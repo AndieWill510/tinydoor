@@ -172,3 +172,13 @@ You do not become less real when you become harder to summarize.
 A constellation is not confusion.
 
 It is many lights belonging to one sky.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 081 — The Door Must Fit the Whole Person →](081-the-door-must-fit-the-whole-person.md)
+<!-- TINYDOOR_NAV_END -->

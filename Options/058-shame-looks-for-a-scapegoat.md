@@ -96,3 +96,13 @@ You do not have to solve the whole room.
 You were not made to carry every feeling the room refuses to name.
 
 Someone else's shame does not become your truth.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 059 — Ask Why the Room Needs This to Stop →](059-ask-why-the-room-needs-this-to-stop.md)
+<!-- TINYDOOR_NAV_END -->

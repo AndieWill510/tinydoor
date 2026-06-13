@@ -102,3 +102,13 @@ Let that answer matter.
 A goal is not small just because it starts on one page.
 
 What follows you should help you live.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 052 — Bad Help Teaches Bad Questions →](052-bad-help-teaches-bad-questions.md)
+<!-- TINYDOOR_NAV_END -->

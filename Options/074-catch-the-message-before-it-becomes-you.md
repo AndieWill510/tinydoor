@@ -143,3 +143,13 @@ A message can be learned.
 A message can be interrupted.
 
 You are allowed to answer before it becomes your name.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 075 — Train Before the Room Is on Fire →](075-train-before-the-room-is-on-fire.md)
+<!-- TINYDOOR_NAV_END -->

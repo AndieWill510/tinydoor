@@ -158,3 +158,13 @@ You are not too complicated for care.
 Care that cannot make room for the whole person was too small already.
 
 You are allowed to need a door shaped like you.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 082 — Find the People Who Know the Road →](082-find-the-people-who-know-the-road.md)
+<!-- TINYDOOR_NAV_END -->

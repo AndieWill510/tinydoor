@@ -119,3 +119,13 @@ Tiny if tiny is what the room allows.
 You should not have to become a river under a wall.
 
 But one crack in the wall can still help you get through this room.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 032 — Masking Is Compressed Regulation →](032-masking-is-compressed-regulation.md)
+<!-- TINYDOOR_NAV_END -->

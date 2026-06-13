@@ -161,3 +161,13 @@ You are allowed to need a smaller step, a different shape, a quieter room, a slo
 A door is not merciful because it exists.
 
 A door becomes merciful when it opens for the person standing in front of it.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 021 — Survival in the Gap →](021-survival-in-the-gap.md)
+<!-- TINYDOOR_NAV_END -->

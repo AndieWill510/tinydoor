@@ -124,3 +124,13 @@ You were not born to become evidence for someone else's standard.
 The fire was not the lesson.
 
 The survival was.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 054 — Protect the Witness →](054-protect-the-witness.md)
+<!-- TINYDOOR_NAV_END -->

@@ -224,3 +224,13 @@ You are allowed to need the room to fit.
 You are not too sensitive.
 
 The room was wrong.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 099 — Warmth Is Not a Luxury. It Is What Life Feels Like From the Inside. →](099-warmth-is-not-a-luxury.md)
+<!-- TINYDOOR_NAV_END -->

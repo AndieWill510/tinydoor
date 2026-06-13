@@ -150,3 +150,13 @@ You are not guilty because your body told the truth in a language the room disli
 The signal is not the enemy.
 
 The signal is where the tiny door needs to be installed sooner.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 080 — You Are Not One Thing →](080-you-are-not-one-thing.md)
+<!-- TINYDOOR_NAV_END -->

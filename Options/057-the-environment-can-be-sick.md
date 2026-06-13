@@ -104,3 +104,13 @@ No full life audit today.
 You are not automatically sick because the room cannot tolerate what pressure does to your body.
 
 Sometimes the environment is asking the wrong thing.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 058 — Shame Looks for a Scapegoat →](058-shame-looks-for-a-scapegoat.md)
+<!-- TINYDOOR_NAV_END -->

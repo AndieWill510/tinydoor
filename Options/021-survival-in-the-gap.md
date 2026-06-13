@@ -153,3 +153,13 @@ A quiet no can still belong to you.
 A hidden door is still a door.
 
 The hinge can be inside.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 022 — The Room Was Sick First →](022-the-room-was-sick-first.md)
+<!-- TINYDOOR_NAV_END -->

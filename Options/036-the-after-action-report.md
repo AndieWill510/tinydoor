@@ -121,3 +121,13 @@ That still counts.
 A post-mortem is for systems, not self-hatred.
 
 You are allowed to learn from the day without becoming the crime scene.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 037 — The Body Was Never the Problem →](037-the-body-was-never-the-problem.md)
+<!-- TINYDOOR_NAV_END -->

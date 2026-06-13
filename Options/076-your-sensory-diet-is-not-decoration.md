@@ -156,3 +156,13 @@ Your body is allowed to need conditions.
 Conditions are not weakness.
 
 They are how living things stay alive.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 077 — Choose Stress That Gives Something Back →](077-choose-stress-that-gives-something-back.md)
+<!-- TINYDOOR_NAV_END -->

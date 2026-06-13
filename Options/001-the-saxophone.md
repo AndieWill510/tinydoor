@@ -124,4 +124,14 @@ That does not mean you were broken.
 
 It means we need to look at the instrument we're asked to play.  Or the room in which we play it. 
 
-Or both. 
+Or both.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 002 — The Broken Tool →](002-the-broken-tool.md)
+<!-- TINYDOOR_NAV_END -->

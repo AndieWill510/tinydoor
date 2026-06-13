@@ -107,3 +107,13 @@ Start by naming what access would change.
 You are not weak because stairs are hard without a ramp.
 
 You are allowed to need design, not just endurance.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 026 — Stimming Is Regulation →](026-stimming-is-regulation.md)
+<!-- TINYDOOR_NAV_END -->

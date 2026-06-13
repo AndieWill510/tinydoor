@@ -199,3 +199,13 @@ And maybe that is why you are still reading.
 Not because normal saved us.
 
 Because something truer is still calling us home.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 047 — I Pass Until I Speak →](047-i-pass-until-i-speak.md)
+<!-- TINYDOOR_NAV_END -->

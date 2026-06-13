@@ -148,3 +148,13 @@ But the loop does not get to keep your whole body tonight.
 You do not have to betray the truth to stop carrying the trial.
 
 You can hold the truth without gripping the person who refuses it.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 089 — Not Every Room Is Trying to Tell the Truth →](089-not-every-room-is-trying-to-tell-the-truth.md)
+<!-- TINYDOOR_NAV_END -->

@@ -116,3 +116,13 @@ You do not have to keep auditioning for care.
 There are rooms where your needs arrive already legible.
 
 Spend some of your life there.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 074 — Catch the Message Before It Becomes You →](074-catch-the-message-before-it-becomes-you.md)
+<!-- TINYDOOR_NAV_END -->

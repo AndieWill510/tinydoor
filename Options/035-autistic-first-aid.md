@@ -111,3 +111,13 @@ Put it somewhere easier to reach.
 Care that you can reach counts.
 
 Especially when it is ordinary.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 036 — The After-Action Report →](036-the-after-action-report.md)
+<!-- TINYDOOR_NAV_END -->

@@ -138,3 +138,13 @@ One safer support is enough for today.
 You do not lose dignity because the help you need is serious.
 
 You are worth support strong enough to hold the truth.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 086 — Stability Is Care, Not Compliance Theater →](086-stability-is-care-not-compliance-theater.md)
+<!-- TINYDOOR_NAV_END -->

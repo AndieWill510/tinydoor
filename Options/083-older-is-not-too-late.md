@@ -152,3 +152,13 @@ You are here.
 Here still counts.
 
 And the door can still open from here.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 084 — Good Help Has To Be Good →](084-good-help-has-to-be-good.md)
+<!-- TINYDOOR_NAV_END -->

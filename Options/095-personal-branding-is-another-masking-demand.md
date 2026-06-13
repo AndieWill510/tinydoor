@@ -208,3 +208,13 @@ Let it breathe there.
 You do not have to perform your healing for an audience to make it real.
 
 The work does not become more valuable when it is watched.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 096 — The Side Hustle Is Not a Solution to the Hostile Room →](096-the-side-hustle-is-not-a-solution-to-the-hostile-room.md)
+<!-- TINYDOOR_NAV_END -->

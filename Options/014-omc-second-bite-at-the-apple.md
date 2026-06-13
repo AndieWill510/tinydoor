@@ -113,3 +113,13 @@ Let the evidence matter.
 A second social life is not a small thing.
 
 Sometimes a table becomes a cocoon.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 015 — They Said OK →](015-they-said-ok.md)
+<!-- TINYDOOR_NAV_END -->

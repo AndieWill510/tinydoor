@@ -138,3 +138,13 @@ That is training.
 You are not weak for needing a plan.
 
 You are wise for refusing to let the worst moment be the first rehearsal.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 076 — Your Sensory Diet Is Not Decoration →](076-your-sensory-diet-is-not-decoration.md)
+<!-- TINYDOOR_NAV_END -->

@@ -150,3 +150,13 @@ Choose one support that reduces harm without requiring you to hate yourself firs
 You are not a moral failure because pain found a dangerous door.
 
 You are still allowed to find a safer one.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 088 — You Can Be Right Without Staying in the Fight →](088-you-can-be-right-without-staying-in-the-fight.md)
+<!-- TINYDOOR_NAV_END -->

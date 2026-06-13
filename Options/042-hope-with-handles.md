@@ -117,3 +117,13 @@ Leave the rest blank.
 ## Mercy
 
 A handle is not small when it keeps the door from becoming a wall.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 043 — When Help Means Be Easier →](043-when-help-means-be-easier.md)
+<!-- TINYDOOR_NAV_END -->

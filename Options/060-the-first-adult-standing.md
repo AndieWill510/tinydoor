@@ -92,3 +92,13 @@ Make it true.
 ## Mercy
 
 Standing is how a person refuses to let someone else’s failure become destiny.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 061 — The Old Promise Still Opens →](061-the-old-promise-still-opens.md)
+<!-- TINYDOOR_NAV_END -->

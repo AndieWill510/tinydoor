@@ -155,3 +155,13 @@ You are allowed to ask whether the thing called care is actually control.
 You are not ungrateful for wanting a door that opens.
 
 You are not difficult for noticing the leash.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 019 — A Real Door Can Be Refused →](019-a-real-door-can-be-refused.md)
+<!-- TINYDOOR_NAV_END -->

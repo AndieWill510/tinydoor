@@ -154,3 +154,13 @@ You can answer:
 You are not less committed to truth because you stopped feeding the loop.
 
 You are practicing where truth can live.
+
+---
+
+<!-- TINYDOOR_NAV_START -->
+## Continue reading
+
+[Options Index](INDEX.md)
+
+[Next: 091 — Safety Comes Before Self-Improvement →](091-safety-comes-before-self-improvement.md)
+<!-- TINYDOOR_NAV_END -->
