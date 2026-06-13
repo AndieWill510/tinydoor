@@ -44,7 +44,7 @@ It has something the body can actually grab.
 
 ## Pressure
 
-Autistic people are often handed abstract hope while being denied practical access.
+We are often handed abstract hope while being denied practical next steps. 
 
 You will find your people.
 
