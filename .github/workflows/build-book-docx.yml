@@ -44,3 +44,5 @@ jobs:
           else
             echo "No DOCX manuscript changes needed."
           fi
+
+# Touch this file to trigger a rebuild when needed.
