@@ -52,7 +52,7 @@ Too many eyes.
 
 Too little exit.
 
-Too much pretending that none of this should matter.
+Too much pretending when none of this should matter.
 
 For an Autistic or ADHD person, that is not neutral.
 
@@ -62,7 +62,7 @@ And sometimes the body names the cost as anxiety.
 
 Sometimes as panic.
 
-Sometimes as dizziness, migraine, nausea, stomach pain, shutdown, rage, tears, silence, or the sudden need to disappear.
+Sometimes as dizziness, migraine, nausea, stomach pain, rage, tears, silence, or the sudden need to disappear.
 
 What may look from the outside like a false illness may be a body finally refusing to keep carrying a room that is injuring it.
 
@@ -98,9 +98,9 @@ Too inconvenient.
 
 Not a need.
 
-But it was a need.
+But it _was_ a need.
 
-It is a need.
+It _is_ a need.
 
 They may understand only this:
 
@@ -233,11 +233,11 @@ Use it to stop calling illness a moral failure.
 
 ## Mercy
 
-You were not too sensitive.
+You are not too sensitive.
 
-You were not dramatic.
+You are not dramatic.
 
-You were not weak because a room without mercy made your body revolt.
+You are not weak because a room without mercy made your body revolt.
 
 Maybe nobody meant to build a room that hurt you.
 
