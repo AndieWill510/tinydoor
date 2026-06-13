@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Tiny Door
+# Tiny Doors and Pillow Forts
 
 ## You Have Another Option
 
@@ -35,19 +35,19 @@ SPDX-License-Identifier: Apache-2.0
 
 ## TL;DR
 
-*Tiny Door: You Have Another Option* is a book, not software.
+*Tiny Doors and Pillow Forts: You Have Another Option* is a book, not software.
 
-It is a survival artifact about Autistic life, suicide prevention, lifespan, joy, regulation, community, and the conditions that allow Autistic/ADHDers to live longer and freer lives.
+It is a survival manual for Neurodivergent life, suicide prevention, lifespan, joy, regulation, community, and the conditions that allow Autistic/ADHDers to live longer and freer lives.
 
 Its hidden engine is suicide prevention.
 
-Its larger purpose is Autistic longevity.
+Its larger purpose is ADHD/Autistic longevity.
 
-Its method is another option.
+Its method is another option. Lots of them. 
 
 Its mercy is a tiny door: a small survivable opening that does not pretend to solve the whole crisis, but gives the reader one safe next passage.
 
-> This is a book about building an Autistic life your nervous system can survive long enough to love.
+> This is a book about building a Neurodivergent life your nervous system can survive long enough to love.
 
 ---
 
@@ -55,19 +55,19 @@ Its mercy is a tiny door: a small survivable opening that does not pretend to so
 
 ### 30-second blurb
 
-*Tiny Door: You Have Another Option* is a survival book for Autistic/ADHD people and the people who love them. It is built for the moment when shame, burnout, sensory overload, grief, or bad systems make life feel impossible. Each short chapter offers one small door: a concrete reframe, a tiny next move, and a mercy. The book refuses to blame the person for surviving hostile rooms. It asks what would make life stayable: safety, community, habitat, joy, and another option.
+*Tiny Doors and Pillow Forts: You Have Another Option* is a survival manual for Autistic/ADHD people and the people who love them. It is built for the moment when shame, burnout, sensory overload, grief, or bad systems make life feel impossible. Each very short chapter offers one small door: a concrete reframe, a tiny next move, and a mercy. The book refuses to blame the person for surviving hostile rooms. It asks what would make life stayable: safety, community, habitat, joy, and another option.
 
 ### 3-minute summary
 
-*Tiny Door: You Have Another Option* is a book about staying alive without being reduced to survival.
+*Tiny Doors and Pillow Forts: You Have Another Option* is a book about staying alive without being reduced to mere survival.
 
 Its hidden engine is suicide prevention, but it does not begin with crisis language. It begins with mercy. It begins with the reader who has been called difficult, lazy, too sensitive, dramatic, noncompliant, broken, or impossible when the real problem was often the room, the system, the demand, the noise, the shame, or the lack of support.
 
-The book is written for Autistic and ADHD people, neurodivergent people, and anyone carrying too much executive-function load. It is also for the people who love them and need a better way to understand what helps. The chapters are short on purpose. They are meant to fit in one private pause: a bathroom, a parked car, a bed after shutdown, the edge of a party, the few minutes before a meeting, or the moment before despair starts sounding persuasive.
+The book is written for Autistic and ADHD people, also known as neurodivergent people, and anyone in our modern times carrying too much executive-function load. It is also for the people who love them and need a better way to understand what helps; and what doesn't. The chapters or "Options" are short on purpose. They are meant to fit in one private pause: a bathroom, a parked car, a bed after shutdown, the edge of a party, the few minutes before a meeting, or the moment before despair starts sounding persuasive.
 
 The form is simple. Each option gives the reader one survivable thought, one practical move, and one mercy. Not a ten-step plan. Not a lecture. Not a demand to become easier for other people. A tiny door.
 
-Across the book, the reader is invited to stop treating Autism, ADHD, distress, sensory need, stimming, shutdown, masking, pleasure, support, and community as moral failures. The book challenges cure narratives, shame disguised as care, compliance theater, hostile environments, and advice that assumes unlimited money, time, energy, executive function, transportation, or social support.
+Across the book, the reader is invited to stop treating Autism, ADHD, distress, sensory need, stimming, shutdown, masking, pleasure, support, and community as moral failures. The book challenges: cure narratives, shame disguised as care, compliance theater, hostile environments, and advice that assumes unlimited money, time, energy, executive function, transportation, or social support.
 
 The central claim is not that life is easy. It is that the vulnerable reader deserves more than blame. A body in distress needs safety before performance. A nervous system needs habitat, not just coping skills. A person needs community, not isolation. Joy is not decoration. Regulation is not misbehavior. Comfort is not a luxury. The room has to change too.
 
@@ -83,13 +83,13 @@ You are not out of options.
 
 The book closes:
 
-They don’t get to win.
+**They don’t get to win.**
 
 ---
 
 ## Who This Is For
 
-Tiny Door is for Autistic/ADHDers, neurodivergent people, and people carrying executive-function load who are too often treated as unreliable, noncompliant, difficult, lazy, or morally failing when the actual failure is system design.
+Tiny Doors and Pillow Forts is for Autistic/ADHDers, neurodivergent people, and people carrying executive-function load who are too often treated as unreliable, noncompliant, difficult, lazy, or morally failing when the actual failure is system design.
 
 It is for people whose ordinary life admin has become dangerous, exhausting, humiliating, or impossible.
 
@@ -97,7 +97,7 @@ It is for people who need support that is humane, low-friction, non-punitive, an
 
 It is for people who do not need another lecture about trying harder.
 
-They need another option.
+**They need another option.**
 
 ---
 
@@ -110,7 +110,7 @@ That phrase is not decoration.
 It means:
 
 - **sacred** because Autistic lives are sacred;
-- **menace** because systems that shorten those lives should feel pressure;
+- **menace** because systems that shorten those lives should feel pressure..._now_;
 - **properly formatted** because survival knowledge must be readable, findable, usable, and beautiful enough to stay with.
 
 The book should feel like contraband kindness:
@@ -122,7 +122,7 @@ And when the reader cannot hold a whole plan, the book offers something smaller:
 > Tiny door.  
 > Just a door.
 
-The book should not use poetic force to carry a scientific, clinical, public-health, historical, or legal claim that has not yet been supported.
+The book does not use poetic force to carry a scientific, clinical, public-health, historical, or legal claim that has not yet been supported.
 
 Beautiful language can hold a reader.
 
@@ -136,7 +136,7 @@ The book should also resist tedium masquerading as thoroughness.
 
 No more than three examples should be used to make a point in reader-facing prose unless there is a deliberate, documented reason.
 
-Long lists belong in evidence stores, appendices, inventories, holding files, or review packets — not inside a Tiny Door unless the list itself is the point.
+Long lists belong in evidence stores, appendices, inventories, holding files, or review packets — not inside a Tiny Door _or Pillow Fort_ unless the list itself is the point.
 
 ---
 
