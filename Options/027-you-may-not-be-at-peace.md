@@ -36,7 +36,7 @@ You can be quiet and still be carrying a room full of alarms.
 
 That distinction matters.
 
-A lot of Autistic distress gets missed because people look for the wrong evidence.
+A lot of our distress gets missed because people look for the wrong evidence.
 
 They look for tears.
 
@@ -44,7 +44,7 @@ They look for shouting.
 
 They look for the visible collapse.
 
-But some bodies go quiet under pressure.
+But some bodies, especially us women and girls, go quiet under pressure.
 
 ## Pressure
 
