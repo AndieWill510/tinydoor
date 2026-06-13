@@ -30,7 +30,7 @@ Safety: sexuality-adjacent / body shame / consent / privacy; no explicit sexual 
 
 A person learns body shame in small rooms.
 
-A hand is moved away from a sleeve cuff.
+A hand is moved away from a harmless touch.
 
 A teenager is told their crush is a phase, a problem, a threat, or a joke.
 
@@ -44,7 +44,7 @@ The body remembers the room.
 
 ## Pressure
 
-Autistic bodies are corrected early and often.
+Our bodies are corrected early and often.
 
 Hands down.
 
@@ -68,9 +68,7 @@ It can make a person less able to know what they feel, what they want, what feel
 
 ## Reframe
 
-The body was never the problem.
-
-Not the Autistic body.
+Our body was never the problem.
 
 Not the body that moves, freezes, wants pressure, avoids touch, seeks touch, asks questions, refuses, consents, withdraws, or needs time to know.
 
@@ -103,6 +101,8 @@ Just let the signal exist.
 ## Mercy
 
 Before anyone taught shame, your body was already trying to tell the truth.
+
+After you unlearn shame, your body will again. 
 
 ---
 
