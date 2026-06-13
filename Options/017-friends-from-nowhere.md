@@ -50,7 +50,7 @@ The friend who now lives in Paris.
 
 There was once an ill-advised road trip in a 1987 Acura.
 
-I had negotiated the best price on it as a sixteen-year-old.
+I had negotiated the best price on it, in a car dealership, as a sixteen-year-old.
 
 For fun.
 
@@ -68,7 +68,7 @@ Some futures exist because disaster missed by just enough.
 
 ## Reframe
 
-Decades later, the world curved back through a sister I barely knew.
+Decades later, the world curved back through a sister he had, who I barely knew.
 
 Community does this sometimes.
 
