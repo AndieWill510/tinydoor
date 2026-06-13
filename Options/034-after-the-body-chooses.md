@@ -44,7 +44,7 @@ Start there.
 
 Not with judgment.
 
-With recovery.
+With harm reduction.
 
 ## Pressure
 
@@ -70,9 +70,9 @@ That does not usually produce truth.
 
 ## Reframe
 
-Recovery comes before analysis.
+Harm reduction comes before understanding.
 
-Not instead of analysis.
+Not instead of understanding.
 
 Before.
 
@@ -94,7 +94,7 @@ Then, if needed, repair what the moment affected.
 
 After overload, ask only this first:
 
-> What does my body need in the next ten minutes?
+> What does my body need in the next five minutes?
 
 One need.
 
@@ -106,13 +106,13 @@ Quiet.
 
 No explanation yet.
 
-Just the next ten minutes.
+Just the next five minutes.
 
 ## Mercy
 
-You do not have to understand the whole fire before you open a window.
+You do not have to understand the hot, stuffy room before you open a window.
 
-Start with air.
+Start with fresh air.
 
 ---
 
