@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 3.1 — Autism Is Not the Parasite
+# Option 3.1 — Neurodivergence Is Not the Parasite
 
 Author: Kevin "Andie" Williams  
 Status: Social model sprint draft  
@@ -28,7 +28,7 @@ Safety: identity / disability / mortality frame implied; no method detail; evide
 
 ## Doorway
 
-Imagine a room full of Autistic people.
+Imagine a room full of Neurodivergent people.
 
 Not a clinic.
 
@@ -50,13 +50,13 @@ But something.
 
 The parasite loosens.
 
-And the parasite was never Autism.
+And the parasite was never Neurodivergence.
 
 ## Pressure
 
 A lot of us were taught the wrong story.
 
-We were told Autism was the problem.
+We were told Autism and ADHD was the problem.
 
 The disorder.
 
@@ -80,11 +80,11 @@ You will call collapse the cost of being loved.
 
 ## Reframe
 
-Autism is a neurotype.
+Autism is a neurotype. So is ADHD. 
 
 A way a nervous system can be built.
 
-That does not mean Autistic life is easy.
+That does not mean our life is easy.
 
 It does not mean support needs are imaginary.
 
@@ -92,15 +92,15 @@ It does not mean pain, disability, caregivers, or accommodations do not matter.
 
 It means the target has been wrong.
 
-The problem is not Autistic existence.
+The problem is not our existence.
 
-The problem is an environment that treats Autistic existence as an emergency.
+The problem is an environment that treats our existence as an emergency.
 
 That is the parasite:
 
-not Autism,
+not Autism or ADHD,
 
-but the story that Autism makes a person less legitimate, less believable, less welcome, less whole, or less worth designing around.
+but the story that it makes a person less legitimate, less believable, less welcome, less whole, or less worth designing around.
 
 ## Move
 
@@ -124,7 +124,7 @@ Just move the question from self-blame toward design.
 
 You are not required to hate your nervous system in order to take your suffering seriously.
 
-Autism is not the parasite.
+Autism/ADHD is not the parasite.
 
 Shame is.
 
