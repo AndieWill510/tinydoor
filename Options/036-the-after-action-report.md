@@ -56,7 +56,7 @@ The store always does this to me.
 
 Family dinner always does this to me.
 
-I always ruin it.
+I hate parties. 
 
 Those sentences may feel true when you are exhausted.
 
@@ -82,7 +82,7 @@ Not:
 
 But:
 
-> What loaded the system?
+> What overloaded my system?
 
 Not:
 
@@ -101,7 +101,7 @@ It is one small note for future-you.
 When you have recovered enough, write three lines:
 
 ```text
-What loaded me?
+What overloaded me?
 What helped even a little?
 What would I change by one notch next time?
 ```
