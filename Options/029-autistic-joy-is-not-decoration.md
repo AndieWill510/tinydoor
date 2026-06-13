@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 3.6 — Our Joy Is Not Frosting
+# Option 3.6 — Joy Is Not Frosting
 
 Author: Kevin "Andie" Williams  
 Status: Regulation sprint draft  
