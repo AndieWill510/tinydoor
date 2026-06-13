@@ -46,7 +46,7 @@ That is the gap.
 
 People love to give exit advice from outside the room.
 
-Just say no.
+Just stop masking.
 
 Just quit.
 
@@ -60,11 +60,9 @@ Sometimes that advice is right.
 
 Sometimes it is wildly unsafe.
 
-A no can bring punishment.
+An unmasking can bring punishment.
 
 A refusal can bring escalation.
-
-A report can bring disbelief.
 
 Leaving can cost housing, income, medical care, custody, community, or the only fragile support a person has.
 
@@ -85,10 +83,6 @@ It is the work of keeping enough self alive until more choice becomes possible.
 Not every door is an exit.
 
 Some doors are internal.
-
-A protected sentence.
-
-A private record.
 
 A body signal you stop mocking.
 
@@ -112,14 +106,14 @@ Compliance is not proof of flourishing.
 
 ## Move
 
-Choose one gap where leaving is not available yet.
+Choose one gap, where leaving it, is not available yet.
 
 Keep it small enough to hold.
 
 Ask three questions:
 
-1. What do I need to do to stay safe enough here?
-2. What truth do I need not to forget?
+1. What do I need to do to stay safe (enough) here?
+2. What truth do I need _not_ to forget?
 3. What one small thing could protect my body, my memory, or my future options?
 
 The truth can be one small sentence; it does not have to be a defended argument.
@@ -148,11 +142,7 @@ If you cannot leave yet, you are still allowed to know.
 
 Knowledge without exit is not failure.
 
-A quiet no can still belong to you.
-
 A hidden door is still a door.
-
-The hinge can be inside.
 
 ---
 
