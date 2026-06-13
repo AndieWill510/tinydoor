@@ -28,7 +28,7 @@ Safety: low direct crisis content; shame / ableism content present
 
 ## Doorway
 
-Now we take the saxophone story out of the band room and hand it to the reader as a concept.
+Now we take the saxophone story out of the band room and hand it to you, the reader, as a concept.
 
 The first mercy is not what happened to me.
 
