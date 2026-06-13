@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 3.12 — Autistic First Aid
+# Option 3.12 — Our First Aid
 
 Author: Kevin "Andie" Williams  
 Status: Recovery / harm-reduction sprint draft  
@@ -32,7 +32,7 @@ A first-aid kit does not ask whether you deserved the cut.
 
 It has the boring, practical things a body needs after something happens.
 
-Autistic overload needs the same kind of respect.
+Neurodivergent overload needs the same kind of respect.
 
 Not drama.
 
@@ -70,7 +70,7 @@ It is what comes after strain, shock, or overload.
 
 ## Reframe
 
-Autistic first aid is not a cure.
+Our first aid is not a cure.
 
 It is a recovery sequence.
 
@@ -108,9 +108,9 @@ Put it somewhere easier to reach.
 
 ## Mercy
 
-Care that you can reach counts.
+Care that you can reach, counts.
 
-Especially when it is ordinary.
+**_Especially_** when it is ordinary.
 
 ---
 
