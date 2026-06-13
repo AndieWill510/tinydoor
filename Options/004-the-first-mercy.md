@@ -44,7 +44,7 @@ It is the door.
 
 ## Pressure
 
-Autistic people are often asked to begin from self-correction.
+We are often asked to begin from self-correction.
 
 Fix your face.
 
@@ -56,7 +56,7 @@ There may be skills to learn.
 
 There may be supports that help.
 
-But if every path begins with the assumption that the Autistic person is the defect, the path itself is already unsafe.
+But if every path begins with the assumption that we are the defect, the path itself is already unsafe.
 
 A person cannot heal while being asked to disappear.
 
@@ -70,7 +70,7 @@ Mercy means we stop starting with blame.
 
 We start with reality.
 
-Many Autistic people live inside environments that create avoidable suffering: noise without escape, lights without mercy, schedules without recovery.
+We live inside environments that create avoidable suffering: noise without escape, lights without mercy, schedules without recovery.
 
 When those environments hurt us, the pain is real.
 
