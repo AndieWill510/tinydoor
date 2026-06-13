@@ -30,7 +30,7 @@ Safety: memoir / belonging / transition arc context; disclosure review required
 
 There was something I did not say yet.
 
-Sam was behind the bar at The Egyptian.
+Sam was behind the bar at The Egyptian, a "Cheers" bar, _where everyone knows your name_.
 
 Yes, Sam.
 
@@ -68,7 +68,7 @@ Sam mattered because he did not make me keep negotiating my own existence.
 
 He accepted all of who and what I was.
 
-And that made all that was next possible.
+And that made all of what was next possible.
 
 That sentence needs to stay plain because the thing itself was plain.
 
