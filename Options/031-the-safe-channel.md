@@ -28,9 +28,9 @@ Safety: stimming / hostile environments / harm-reduction frame; no method detail
 
 ## Doorway
 
-Picture a staff meeting where the lights are too bright and the agenda changed without warning.
+Picture a meeting (or party) where the lights are too bright and things changed without warning.
 
-You are not melting down.
+You are not melting down..._yet_.
 
 You are not fine either.
 
@@ -50,9 +50,9 @@ A hostile room turns regulation into a risk calculation.
 
 Can I rock here?
 
-Can I leave here?
+Can I leave?
 
-Can I ask for quiet here?
+Can I ask for a quiet(er) room?
 
 Some rooms punish visible regulation.
 
@@ -64,7 +64,7 @@ Not because visible stimming is wrong.
 
 Not because the hostile room is right.
 
-Because survival sometimes means finding the version of truth that can pass through the room without getting you harmed.
+Because survival sometimes means finding the version of you that can pass through the room without getting you harmed.
 
 ## Reframe
 
@@ -102,7 +102,7 @@ They make one moment more survivable.
 
 ## Move
 
-Pick one current or recent room.
+Pick a current or recent room.
 
 Ask:
 
@@ -116,7 +116,7 @@ Tiny if tiny is what the room allows.
 
 ## Mercy
 
-You should not have to become a river under a wall.
+You should not have to become a fast-moving river under a wall.
 
 But one crack in the wall can still help you get through this room.
 
