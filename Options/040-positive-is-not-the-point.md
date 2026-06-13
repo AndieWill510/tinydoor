@@ -58,9 +58,9 @@ Just change your attitude.
 
 Other people have it worse.
 
-But an Autistic person in an unsafe or overwhelming environment does not need a prettier story about the room.
+But when we are in an unsafe or overwhelming environment, **_we don't need a prettier story about the room_**.
 
-They need enough access to find the next workable move.
+We need enough access to find the next workable move.
 
 Panic narrows the field.
 
@@ -76,7 +76,7 @@ Not because suffering is imaginary.
 
 The old phrase was Positive Mental Attitude.
 
-Tiny Door needs a sharper translation:
+Tiny Door needs a better way:
 
 > protect access to options under stress.
 
