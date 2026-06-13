@@ -28,7 +28,7 @@ Safety: premature death / suicide-prevention frame implied; no method detail
 
 ## Doorway
 
-This book exists because too many Autistic people are carrying pain that gets misnamed.
+This book exists because too many Neurodivergent people are carrying pain that gets misnamed.
 
 Pain gets called behavior.
 
@@ -42,11 +42,11 @@ This book exists to interrupt that story.
 
 ## Pressure
 
-Autistic people are often told the crisis is Autism.
+Neurodivergent people are often told the crisis is Autism of ADHD.
 
-But Autism is not the crisis.
+But being Neurodivergent is not the crisis.
 
-The crisis is what happens when Autistic people are asked to survive environments, expectations, treatments, and relationships that do not listen to Autistic bodies.
+The crisis is what happens when we are asked to survive environments, expectations, treatments, and relationships that do not listen to our bodies.
 
 The crisis is not that we stim.
 
@@ -56,7 +56,7 @@ The crisis is not that we need support.
 
 The crisis is that needing support is made humiliating.
 
-Autistic hardship is often made harder by shame.
+Our hardship is made harder by shame.
 
 ## Reframe
 
