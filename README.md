@@ -59,7 +59,7 @@ Its mercy is a tiny door: a small survivable opening that does not pretend to so
 
 ### 3-minute summary
 
-*Tiny Doors and Pillow Forts: You Have Another Option* is a book about staying alive without being reduced to mere survival.
+*Tiny Doors and Pillow Forts: You Have Another Option* is a guide for staying alive without being reduced to mere survival.
 
 Its hidden engine is suicide prevention, but it does not begin with crisis language. It begins with mercy. It begins with the reader who has been called difficult, lazy, too sensitive, dramatic, noncompliant, broken, or impossible when the real problem was often the room, the system, the demand, the noise, the shame, or the lack of support.
 
