@@ -38,6 +38,8 @@ Someone's cart is blocking the aisle.
 
 You have not eaten enough.
 
+You have been racially profiled. 
+
 Then your body chooses.
 
 Maybe it freezes.
@@ -118,7 +120,9 @@ That is enough for the first door.
 
 You are not only the moment other people noticed.
 
-Start the timeline earlier.
+Start the timeline earlier. 
+
+And then notice the next time. Earlier. And earlier, still.  
 
 ---
 
