@@ -30,13 +30,13 @@ Safety: regulation / overwhelm / meltdown-shutdown-burnout frame; no method deta
 
 A child rocks.
 
-A teenager taps.
+A teenager doodles.
 
 An adult paces the hallway after a meeting and pretends they are just stretching their legs.
 
 People call this stimming.
 
-Too often, they say it like a problem.
+Too often, they say it like it is a problem.
 
 But stimming is not the problem.
 
@@ -44,13 +44,15 @@ Stimming is regulation.
 
 ## Pressure
 
-Many Autistic people were taught to stop.
+Many of us were taught to stop.
 
 Hands down.
 
-Quiet body.
+Sit still.
 
-Look normal.
+Be quiet. 
+
+Look "normal."
 
 So the body learns to hold what it was trying to move.
 
@@ -60,9 +62,9 @@ Joy has nowhere to go.
 
 Overload has nowhere to go.
 
-And the person is praised for looking calm while becoming less safe inside.
+And the person is praised for looking calm while becoming less safe **_inside_**.
 
-This is one of the cruelest trades Autistic people are asked to make:
+This is one of the cruelest trades we are asked to make:
 
 other people's comfort in exchange for our regulation.
 
@@ -70,7 +72,7 @@ other people's comfort in exchange for our regulation.
 
 To stim is not merely to stimulate.
 
-It can be a way the nervous system moves toward equilibrium.
+It is a way the nervous system moves toward equilibrium.
 
 A pressure valve.
 
@@ -106,13 +108,15 @@ Maybe pacing.
 
 Maybe pressure.
 
+Maybe carressing.
+
 Let it be small enough to do.
 
 Let it be yours.
 
 ## Mercy
 
-Your body is not betraying you when it reaches for rhythm.
+Your body is not betraying you when it reaches for motion or noise.
 
 It may be trying to bring you home.
 
