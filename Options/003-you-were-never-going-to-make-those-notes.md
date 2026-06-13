@@ -92,9 +92,9 @@ The room that judged the sound without understanding the instrument.
 
 This is one of the central movements of the book:
 
-> Move the failure out of the Autistic person when the failure belongs somewhere else.
+> Move the failure out of the Neurodivergent person when the failure belongs somewhere else.
 
-That does not mean Autistic people never need support, skill-building, care, therapy, medicine, rest, community, or change.
+That does not mean we never need support, skill-building, care, therapy, medicine, rest, community, or change.
 
 We do.
 
