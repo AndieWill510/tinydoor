@@ -29,13 +29,13 @@ Safety: personal ABA harm / family harm / witness protection; no trauma spectacl
 
 ## Doorway
 
-Inside the house, there was a measuring stick.
+Inside my old house, there was a measuring stick.
 
 It did not look like a measuring stick.
 
 It looked like standards.
 
-It looked like wanting the children to succeed.
+It looked like wanting our children to succeed.
 
 It looked like love with a clipboard hidden inside it.
 
@@ -53,8 +53,6 @@ They had value.
 
 When they could not, their value disappeared from the room.
 
-And neither did I.
-
 ## Pressure
 
 That is a hard sentence to write because it holds two injuries at once.
@@ -63,31 +61,17 @@ I was watching my children be measured by a world that was not built for them.
 
 I was also being measured by it.
 
-My value was tied to whether they performed correctly.
-
-My value was also judged against the same neurotypical productivity standard.
-
-Both.
-
-That word is the room.
-
-Not just parent watching harm.
-
-Not just Autistic person receiving harm.
-
-Both.
+My value, my self worth, tied to whether they performed correctly.
 
 ## Reframe
 
-The fire was not the lesson.
+The fire -- of my life that ended -- was not the lesson.
 
 The fire was the system that made value contingent.
 
-You are okay if you resemble the approved child.
+> My kids were okay if you resemble the approved person.
 
-You are okay if your children resemble the approved children.
-
-You are okay if the house can point to your output and call it proof.
+> I was okay if my children resemble the approved person.
 
 That is not safety.
 
@@ -99,9 +83,9 @@ It is a way of making a person earn the right to remain fully human in the room.
 
 The lesson is not that the fire was good.
 
-The lesson is that fire has a shape.
+The lesson is that fire had a purpose.
 
-And once the shape is visible, someone can build a door where the wall used to be.
+And once the purpose is visible, we can punch in a door where a wall used to be.
 
 ## Move
 
@@ -119,12 +103,8 @@ Let the answer be plain.
 
 ## Mercy
 
-You were not born to become evidence for someone else's standard.
-
-The fire was not the lesson.
-
-The survival was.
-
+You were not born to meet someone else's standard.
+ 
 ---
 
 <!-- TINYDOOR_NAV_START -->
