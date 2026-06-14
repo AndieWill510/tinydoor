@@ -33,11 +33,11 @@ Bad help does not only hurt in the room where it happens.
 
 It teaches people what to ask next.
 
-How do we stop that behavior?
+> How do we stop that behavior?
 
-How do we make them comply?
+> How do we make them comply?
 
-How do we get them back to normal?
+> How do we get them back to normal?
 
 Those questions can sound practical.
 
