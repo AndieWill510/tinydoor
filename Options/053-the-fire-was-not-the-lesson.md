@@ -75,15 +75,13 @@ That is not safety.
 
 That is not love.
 
-That is not help.
+That is not hope.
 
 It is a way of making a person earn the right to remain fully human in their own house.
 
-The lesson is not that leaving that house was good.
+The lesson was not that leaving that house made me more safe, although it did. 
 
-The lesson is that leaving it had a purpose.
-
-And once the purpose is visible, I could punch a hole, and create a tiny door, where a wall used to be.
+The lesson is that leaving it had a purpose: that I could punch a hole, and create a tiny door, where a wall used to be.
 
 ## Move
 
@@ -101,7 +99,7 @@ Let the answer be plain.
 
 ## Mercy
 
-You were not born to meet someone else's standard of legible.
+You were not born to meet someone else's standard of valuable.
 
 Or lovable. 
  
