@@ -100,8 +100,6 @@ Let the answer be plain.
 ## Mercy
 
 You were not born to meet someone else's standard of valuable.
-
-Or lovable. 
  
 ---
 
