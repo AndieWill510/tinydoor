@@ -69,11 +69,7 @@ A goal can make the room easier without making your life more livable.
 
 A good goal leaves more of you alive.
 
-More safety.
-
-More usable energy.
-
-More connection to your own body.
+Gives you more safety, more usable energy and more connection to your own body.
 
 Not perfect comfort.
 
@@ -101,7 +97,7 @@ Pick one goal someone has for you, or one goal you have inherited.
 
 Ask:
 
-> What is this trying to optimize?
+> What is this trying to achieve?
 
 One goal.
 
