@@ -30,9 +30,9 @@ Safety: trans life / ableism / queer survival / anti-normalization; no method de
 
 I am not able to blend in anymore.
 
-Maybe I never was.
+Maybe I never could.
 
-I am a trans woman in 2026 America.
+I am a trans woman in 2026 United States of America.
 
 I have been a girl.
 
