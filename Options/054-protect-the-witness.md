@@ -29,25 +29,19 @@ Safety: personal ABA harm / family harm / witness protection; no trauma spectacl
 
 ## Doorway
 
-A witness is not always standing outside the harm.
+It's not unusual for Neurodivergent people to be as much or more witnesses to the lives we lead, than participants. 
 
-Sometimes the witness is inside it too.
+A witness is not always standing outside the harm done to others and ourselves as adults.
 
-Watching the children be measured.
-
-Being measured.
-
-Trying to protect them while also trying to remain valuable enough to be believed, trusted, loved, or spared.
+Sometimes we as witnesses are inside of that harm, too.
 
 That kind of witness needs protection.
 
-Not later.
-
-Now.
+Not later.  Now.
 
 ## Pressure
 
-It is easy to ask the parent to testify.
+It is easy to ask Neurodivergent parents to testify.
 
 > What happened?
 
@@ -57,23 +51,21 @@ It is easy to ask the parent to testify.
 
 Those questions matter.
 
-But the parent in this story was not only the reporter.
+But the parent in this story was not only the witness.
 
 The parent was also inside the blast radius.
 
 If the children performed correctly, that meant something about them.
 
-If they did not, and after all how could they not, that meant something about me.
+If they did not, and after all how could they not, that means something about us.
 
 ## Reframe
 
-A witness carrying both injuries cannot be treated like a recording device.
+When we carry the injuries of both our family members (kids, siblings, parents) and ourselves, we are literally **_disabled by those injuries_**.
 
-A witness can choose the level of detail.
+We can witness. We can render aid. 
 
-The witness can say:
-
-> This is enough for this page.
+But not much else.
 
 ## Move
 
