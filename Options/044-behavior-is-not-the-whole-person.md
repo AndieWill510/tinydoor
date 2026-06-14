@@ -42,7 +42,9 @@ You can punish it.
 
 You can say the plan is working because the behavior changed.
 
-But a person is not only what can be observed from across the room.
+But a person is what can be observed from across the room.
+
+Not by a long shot. 
 
 ## Pressure
 
@@ -102,7 +104,7 @@ It is:
 
 ## Move
 
-Choose one behavior you have seen judged too quickly.
+Choose one behavior for which you have been judged too quickly.
 
 One.
 
