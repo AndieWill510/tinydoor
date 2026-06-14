@@ -49,10 +49,6 @@ The answer to a cage is not a prettier cage.
 
 The answer is an exit.
 
-A way to stop.
-
-A way to be believed.
-
 A way to remain valuable without performing someone else's idea of worth.
 
 ## Pressure
@@ -60,10 +56,6 @@ A way to remain valuable without performing someone else's idea of worth.
 Harm can make control feel righteous.
 
 After the fire, it is tempting to build walls so high that nothing can move.
-
-No ambiguity.
-
-No risk.
 
 No one allowed to get close enough to hurt anyone again.
 
@@ -85,29 +77,13 @@ Repair needs architecture.
 
 Not just outrage.
 
-Not just testimony.
-
-Architecture.
-
-Boundaries.
-
-Documentation.
-
-Consent.
-
-Escalation paths.
+Not just testimony, but consent.
 
 Ways to challenge a decision before harm becomes normal.
 
 These are not cold words.
 
 They are lanterns.
-
-Maps.
-
-Witnesses.
-
-Exits.
 
 The work is not to become fire.
 
@@ -126,8 +102,6 @@ One exit.
 A person to tell.
 
 A way to stop.
-
-A record that could not be erased.
 
 Name the missing door.
 
