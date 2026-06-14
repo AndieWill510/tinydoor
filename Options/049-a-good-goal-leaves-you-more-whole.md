@@ -111,7 +111,7 @@ You are allowed to ask whether the goal itself deserves your trust.
 
 That is not resistance.
 
-That is discernment.
+And it would be OK if it were.
 
 ---
 
