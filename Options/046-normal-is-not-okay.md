@@ -62,7 +62,7 @@ But for some of us, "normal" is none of those things.
 
 "Normal" is the room that made us sick.
 
-"Normal" was the demand that we become smaller, quieter, straighter, easier, more legible, less strange, less bright, less true.
+"Normal" was the demand that we become smaller, quieter and less true.
 
 "Normal" asked me to betray the girl I was before my grandmother and great aunt agreed she existed.
 
@@ -116,15 +116,11 @@ Use whatever word lets the truth reach you:
 
 you are a gift.
 
-And so am I.
-
 ## Mercy
-
-I am glad you are here.
 
 In community, we can make a life that does not require us to disappear.
 
-Together, we can make rooms where Autistic people, queer people, ADHD people, disabled people, trans people, strange people, tired people, brilliant people, frightened people, and not-yet-ready people have more than endurance.
+Together, we can make rooms where Autistic people, ADHD people and not-yet-ready people have more than endurance.
 
 We can make exits.
 
@@ -133,10 +129,6 @@ We can make joy.
 We can make community.
 
 We can fight back against the lie that "normal" is the price of being loved.
-
-That is why I am writing this book.
-
-And maybe that is why you are still reading.
 
 Not because "normal" ever fit us, because something truer is still calling us home.
 
