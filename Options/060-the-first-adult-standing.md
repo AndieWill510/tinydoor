@@ -61,19 +61,11 @@ Invoking care that was meant for you is not betrayal.
 
 It is standing.
 
-My Great Aunt Beanie had left money for me in a college fund. The trust existed for my future, not this kind of repair. 
+My Great Aunt Beanie had left a most sum of money for me in a college trust. The trust existed for my future, not to pay an overdue bill. 
 
-Naming it, as I did, and breaking the impasse was not disloyalty.
+Naming it, as I did, and breaking the impasse was the kind of inappropriate expectations placed upon Neurodivergent people every day.
 
-It was the affected person telling the truth before the need disappeared further into squabble.
-
-A trust that cannot be invoked by the person it was meant to protect is not sacred.
-
-It is captured.
-
-A support that requires you to remain powerless in order to deserve it is not support.
-
-It is control.
+It was the affected person telling the truth, taking ownership, before the need disappeared further into endless, selfish squabble.
 
 ## Move
 
@@ -83,7 +75,7 @@ When care already exists but access is blocked, write one plain sentence:
 
 Then ask:
 
-> What care, support, accommodation, record, promise, fund, policy, or relationship already exists for my protection — and who is blocking my access to it?
+> What care, support or accommodation already exists for my protection — and who is blocking my access to it?
 
 Do not make the first draft elegant.
 
