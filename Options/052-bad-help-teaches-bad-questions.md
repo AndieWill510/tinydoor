@@ -51,7 +51,7 @@ If the question is only how to stop the behavior, the answer may ignore the pain
 
 If the question is only how to get compliance, the answer may ignore consent.
 
-If the question is only how to look normal, the answer may ignore the person.
+If the question is only how to look "normal," the answer may ignore the person.
 
 People may think they are solving the problem.
 
