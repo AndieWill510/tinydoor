@@ -32,11 +32,7 @@ Behavior is visible.
 
 That makes it tempting.
 
-You can count it.
-
-You can chart it.
-
-You can reward it.
+You can count it, chart it, reward it.
 
 You can punish it.
 
@@ -77,6 +73,8 @@ A quieter child is not always a safer child.
 A more compliant child is not always a more supported child.
 
 A still body is not always a healed body.
+
+And this is not just about children.
 
 ## Reframe
 
