@@ -49,47 +49,31 @@ Now.
 
 It is easy to ask the parent to testify.
 
-What happened?
+> What happened?
 
-What did the children hear?
+> What did the children hear?
 
-What did the house teach them?
+> What did the house teach them?
 
 Those questions matter.
 
 But the parent in this story was not only the reporter.
 
-The parent was also inside the same logic.
+The parent was also inside the blast radius.
 
-If the children performed correctly, that meant something about me.
+If the children performed correctly, that meant something about them.
 
-If they did not, that meant something about me too.
-
-And I was still being judged directly by the same standard.
-
-Both.
+If they did not, and after all how could they not, that meant something about me.
 
 ## Reframe
 
 A witness carrying both injuries cannot be treated like a recording device.
 
-Protection is not avoidance.
-
-It is design.
-
-The witness can choose the doorway.
-
-The witness can choose the level of detail.
+A witness can choose the level of detail.
 
 The witness can say:
 
 > This is enough for this page.
-
-A book can tell the truth without demanding every scar.
-
-A movement can build protection without consuming the person who saw the hazard first.
-
-The witness is part of the repair architecture, not fuel for it.
 
 ## Move
 
@@ -108,8 +92,6 @@ A detail left out.
 Let protection be part of the truth.
 
 ## Mercy
-
-You are not required to become a public utility powered by your own trauma.
 
 The witness gets a door too.
 
