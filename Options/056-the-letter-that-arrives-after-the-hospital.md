@@ -29,7 +29,7 @@ Safety: narcissistic family harm / DARVO / witness protection; no trauma spectac
 
 ## Doorway
 
-Sometimes the person who should have come to the hospital writes a letter instead.
+Sometimes the person who should have come to the hospital, or a crisis that should have put you in the hospital, writes a note or gives a speech instead.
 
 Not then.
 
@@ -37,11 +37,11 @@ Later.
 
 After the silence has stretched long enough to become a position.
 
-The letter does not say:
+The message isn't:
 
 > I’m sorry I wasn’t there.
 
-The letter says:
+The message is:
 
 > Let me tell you what you owe.
 
@@ -51,19 +51,17 @@ This is a specific kind of harm.
 
 It has a shape.
 
-The person who fails you first gets to the page before you do.
-
-They establish their generosity.
+The person who fails you first establishes their generosity.
 
 They name your debts.
 
-They question your judgment, your friends, your stability, your name.
+They question your judgment, your stability, your name.
 
 They close with something that sounds like love.
 
-And underneath all of it is the original failure, unremarked, unrepaired, quietly buried by everything that came after.
+And underneath all of it is the original failure, quietly buried by everything that came after.
 
-You were in the hospital.
+You were hurt.
 
 They did not come.
 
@@ -81,7 +79,7 @@ They reframe.
 
 Suddenly you are the one with debts.
 
-Suddenly the story begins after the hospital, not before it.
+Suddenly the story begins after the harm, not before it.
 
 Suddenly the question is what you owe, not what was owed to you.
 
@@ -97,15 +95,13 @@ You are allowed to write a different one.
 
 ## Move
 
-If you have received a letter that arrived instead of a person, read it once for what it says.
-
-Then read it again for what it does not say.
+If you have received a message that arrives like this, hear it for what it does not say.
 
 The silence in the letter is the real message.
 
 Name it.
 
-You do not have to respond to the letter that arrived.
+You do not have to respond to the message.
 
 You are allowed to respond to the one that should have.
 
