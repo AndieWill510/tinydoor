@@ -29,19 +29,17 @@ Safety: childhood neglect / family conflict / poverty shame; no parent-villain s
 
 ## Doorway
 
-At fifteen, Andie needed braces.
+At fifteen, I needed braces.
 
 The money existed.
 
-The adults responsible for care turned the need into a dispute over who should pay.
+The parents responsible for care turned the need into a dispute over who should pay.
 
 One said the other should pay.
 
 The other did the same.
 
 The child was left holding a bodily need inside an adult stalemate.
-
-So Andie invoked Beanie.
 
 ## Pressure
 
@@ -63,9 +61,11 @@ Invoking care that was meant for you is not betrayal.
 
 It is standing.
 
-Beanie had left money for Andie’s education and care. The trust existed for this kind of future-facing repair. Naming it was not drama. It was not selfishness. It was not disloyalty.
+My Great Aunt Beanie had left money for me in a college fund. The trust existed for my future, not this kind of repair. 
 
-It was the affected person telling the truth before the need disappeared into process.
+Naming it, as I did, and breaking the impasse was not disloyalty.
+
+It was the affected person telling the truth before the need disappeared further into squabble.
 
 A trust that cannot be invoked by the person it was meant to protect is not sacred.
 
