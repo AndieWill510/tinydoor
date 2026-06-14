@@ -69,11 +69,11 @@ The pressure disappears from the story.
 
 A better question can open a door.
 
-Is this hurting someone?
+> Is this hurting someone?
 
-Is this blocking access?
+> Is this blocking access?
 
-Is this a safety issue?
+> Is this a safety issue?
 
 Or is this only making the room confront its own discomfort?
 
