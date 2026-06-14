@@ -35,17 +35,17 @@ It did not look like a measuring stick.
 
 It looked like standards.
 
-It looked like wanting our children to succeed.
+It sounded like wanting our children to succeed.
 
-It looked like love with a clipboard hidden inside it.
+It felt like love with a clipboard hidden inside it.
 
-But the reference point was always somewhere else.
+But the reference point was:
 
-Neurotypical children.
+> Neurotypical children.
 
-Productive children.
+> Productive children.
 
-Children offering excellent service to the world.
+> Children offering excellent service to the world.
 
 So long as my children could be compared favorably to that image, they were okay.
 
@@ -65,13 +65,11 @@ My value, my self worth, tied to whether they performed correctly.
 
 ## Reframe
 
-The fire -- of my life that ended -- was not the lesson.
+The lesson -- of my life that ended -- was that some systems make value, and love, contingent.
 
-The fire was the system that made value contingent.
+> My kids were okay if they resembled the approved person.
 
-> My kids were okay if you resemble the approved person.
-
-> I was okay if my children resemble the approved person.
+> I was okay if my kids resembled the approved person.
 
 That is not safety.
 
@@ -79,11 +77,11 @@ That is not love.
 
 That is not help.
 
-It is a way of making a person earn the right to remain fully human in the room.
+It is a way of making a person earn the right to remain fully human in their own house.
 
-The lesson is not that the fire was good.
+The lesson is not that leaving that house was good.
 
-The lesson is that fire had a purpose.
+The lesson is that leaving it had a purpose.
 
 And once the purpose is visible, we can punch in a door where a wall used to be.
 
@@ -103,7 +101,9 @@ Let the answer be plain.
 
 ## Mercy
 
-You were not born to meet someone else's standard.
+You were not born to meet someone else's standard of legible.
+
+Or lovable. 
  
 ---
 
