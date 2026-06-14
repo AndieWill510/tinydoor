@@ -30,7 +30,7 @@ Safety: trans life / ableism / queer survival / passing / anti-normalization; no
 
 It's a legacy of racism, in the Indigenous culture in which I was raised, to talk about "passing."
 
-As in "you pass for white.". Or, increasingly to pass for Neurotypical or male or whateverr. It's the flip side of masking.  
+As in "you pass for white.". Or, increasingly to pass for Neurotypical or male or whatever. It's the flip side of masking.  
 
 I have often "passed" for Neurotypical masculine for about five minutes.
 
@@ -84,7 +84,7 @@ The buried selves.
 
 The shamed selves.
 
-The parts covered over by patriarchy, colonialism, hierarchy, respectability, family rules, church rules, school rules, workplace rules, and all the old instructions that said:
+The parts covered over by patriarchy, colonialism, hierarchy and all the old instructions that said:
 
 > Become neurotypical, or become unsafe.
 
