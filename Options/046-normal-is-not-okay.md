@@ -34,13 +34,11 @@ Maybe I never could.
 
 I am a trans woman in 2026 United States of America.
 
-I have been a girl.
-
-I tried hard to be a boy. 
+As a girl, I tried hard to be a boy. 
 
 I tried really hard to be a man.
 
-Regardless of what I tried to be, I have been Neurodivergent femme my whole life, even when the room had no language for me, no mercy for me, no category that did not turn me into a problem.
+Regardless of what I tried to be, I have been a Neurodivergent femme my whole life, even when the room had no language for me, no mercy for me, no category that did not turn me into a problem.
 
 I have never fit anyone’s concept of "normal."
 
@@ -66,7 +64,7 @@ But for some of us, "normal" is none of those things.
 
 "Normal" was the demand that we become smaller, quieter, straighter, easier, more legible, less strange, less bright, less true.
 
-"Normal" asked me to betray the girl I was before anyone agreed she existed.
+"Normal" asked me to betray the girl I was before my grandmother and great aunt agreed she existed.
 
 "Normal" asked me to hide the woman I am now because other people are frightened by what they cannot control.
 
