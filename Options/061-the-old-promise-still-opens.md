@@ -91,7 +91,7 @@ Start with the promise that already said yes.
 
 Ask one question:
 
-> Who or what has already said yes to my care, safety, access, rest, money, treatment, accommodation, or belonging?
+> Who or what has already said yes to my care, accomodatuon or belonging?
 
 Then look for the handle.
 
