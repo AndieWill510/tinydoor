@@ -80,7 +80,7 @@ That is violence with a blazer.
 
 "Normal" is a weapon.
 
-"Normal" is forever and always the word people use when they want the strange, disabled, queer, Autistic, ADHD, traumatized, trans, tender, brilliant, inconvenient person to disappear without anyone having to admit they asked for disappearance.
+"Normal" is forever and always the word people use when they want Autistic, ADHD and inconvenient person to disappear without anyone having to admit they asked for disappearance.
 
 So no, not this time, and not any more.
 
