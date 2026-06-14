@@ -31,10 +31,6 @@ Safety: ableism / institutional harm / shame; no diagnostic labeling of groups; 
 
 Sometimes the room is wrong.
 
-Not your body.
-
-Not your face.
-
 Not the way your hands move when the pressure gets too loud.
 
 The room.
