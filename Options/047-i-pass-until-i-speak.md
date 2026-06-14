@@ -28,29 +28,25 @@ Safety: trans life / ableism / queer survival / passing / anti-normalization; no
 
 ## Doorway
 
-It is funny, in the old terrible way.
+It's a legacy of racism, in the Indigenous culture in which I was raised, to talk about "passing."
 
-I have often "passed" for about five minutes.
+As in "you pass for white.". Or, increasingly to pass for Neurotypical or male or whateverr. It's the flip side of masking.  
 
-I "pass" until I open my mouth.
+I have often "passed" for Neurotypical masculine for about five minutes.
+
+Until I open my mouth.
 
 There is an old saying:
 
 > Better to keep your mouth shut and appear stupid than open your mouth and remove all doubt.
 
-But there is nothing stupid about being Autistic.
-
-Nothing stupid about being ADHD.
-
-Nothing stupid about being trans.
-
-Nothing stupid about being queer.
+But there is nothing stupid about being Autistic, ADHD and trans.
 
 Nothing stupid about being too much for a room that has mistaken numbness for maturity.
 
 And yet, the moment I open my mouth, I do not remove doubt that I am stupid.
 
-I remove doubt that I am worthy of being alive, to those who embrace "normal."
+I remove doubt that I am "one of them."
 
 ## Pressure
 
@@ -68,21 +64,13 @@ Then I speak.
 
 Then the pattern changes.
 
-The room hears the brightness.
+The room hears the brightness, the speed.  
 
-The speed.
-
-The precision.
-
-The ache.
+Perhaps, too, the ache of trauma.
 
 The girl who was always there.
 
-The woman who is here now.
-
-The Autistic shape of my knowing.
-
-The queer refusal to become smaller for someone else’s comfort.
+The Autistic refusal to become smaller for someone else’s comfort.
 
 And suddenly the room has work to do: make sure I change or leave, and not necessarily in that order.
 
@@ -107,10 +95,6 @@ And if you are still hiding, this is not a rebuke.
 Hiding may be how you stayed alive.
 
 Visibility is not the price of worth.
-
-And I am not an accusation.
-
-You are not an accusation.
 
 Our existence is not an attack.
 
@@ -150,43 +134,13 @@ To protect it.
 
 ## Mercy
 
-No, I do not pass.
+No, I do not pass, even when I mask.  Maybe you don't, fully, either. 
 
-Even when I pass.
+It's OK. 
 
-Because passing asks us to remain a stranger to myself for the room’s convenience.
+Because passing asks us to remain inauthentic for the room’s convenience.
 
-And I am done paying that price. You may be, too. 
-
-Passing is not okay in the same way "normal" is not okay.
-
-Because "normal" does not make sense.
-
-"Normal" asks the living to impersonate the living dead.
-
-"Normal" asks the glorious to become manageable.
-
-"Normal" asks the wounded to become quiet.
-
-"Normal" asks the gifted to apologize for bringing light into a room built around dimness.
-
-Dear reader, when it is safe, open your mouth.
-
-Not everywhere.
-
-Not for everyone.
-
-Not when it would put you in danger.
-
-But somewhere.
-
-Somewhere safe enough.
-
-Somewhere real enough.
-
-Somewhere your life can hear itself come back.
-
-Because the thing they could not stand may be the thing that proves you are still here.
+And their convenience pales to insignificance to your brilliance. 
 
 ---
 
