@@ -29,7 +29,7 @@ Safety: institutional harm / passing / masking / intervention goals; no trauma s
 
 ## Doorway
 
-A child looks less Autistic.
+A child looks less Autistic (or less ADHD). 
 
 The chart says progress.
 
@@ -73,7 +73,7 @@ Ari Ne'eman argues in the *AMA Journal of Ethics* that when disability is define
 
 That matters here.
 
-If success means looking less Autistic, the measure itself needs to be challenged.
+If success means looking less Neurodivergent, the measure itself needs to be challenged.
 
 The better question is not only:
 
