@@ -31,17 +31,17 @@ Safety: shame / stigma / social standards / gaslighting / bullying; no trauma sp
 
 Some standards are not standards.
 
-They are traps with manners.
+They are traps with manners:
 
-Be natural, but not too much.
+> Be natural, but not too much.
 
-Be friendly, but not intense.
+> Be friendly, but not intense.
 
-Be honest, but not inconvenient.
+> Be honest, but not inconvenient.
 
-Be calm, but never visibly regulate.
+> Be calm, but never visibly regulate.
 
-Be social, but understand every rule nobody said out loud.
+> Be social, but understand every rule nobody said out loud.
 
 Then the room calls the failure yours.
 
@@ -123,11 +123,11 @@ Let the answer reduce the shame by one notch.
 
 ## Mercy
 
-You were not born to pass a test nobody will admit they wrote.
+You were not born to pass a test nobody will admit they delivered.
 
 The game was unwinnable.
 
-That does not make you unwinnable.
+The only way to win is not to play. 
 
 ---
 
