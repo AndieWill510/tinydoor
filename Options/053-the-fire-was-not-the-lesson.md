@@ -83,7 +83,7 @@ The lesson is not that leaving that house was good.
 
 The lesson is that leaving it had a purpose.
 
-And once the purpose is visible, we can punch in a door where a wall used to be.
+And once the purpose is visible, I could punch a hole, and create a tiny door, where a wall used to be.
 
 ## Move
 
