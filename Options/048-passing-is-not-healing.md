@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 4.6 — Passing Is Not Healing
+# Option 4.6 — Passing Isn't Healing
 
 Author: Kevin "Andie" Williams  
 Status: Institutional harm / evidence-bounded draft  
@@ -43,6 +43,8 @@ From the outside, passing can look like healing.
 
 From the inside, it may feel like hiding with better grades.
 
+And this is not just about kids.  
+
 ## Pressure
 
 Passing can be rewarded quickly.
@@ -61,11 +63,9 @@ An adult may need a job, a doctor's appointment, or one quiet hour without being
 
 But survival strategy is not the same as healing.
 
-A person can pass and still be exhausted.
+A person can pass and still be exhausted and unsupported.
 
-A person can pass and still be unsupported.
-
-A person can pass and still be losing contact with themselves.
+A person can pass and still lose contact with themselves.
 
 ## Reframe
 
