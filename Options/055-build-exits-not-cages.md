@@ -75,7 +75,7 @@ The goal is not to reproduce control in the name of repair.
 
 The goal is fewer trapped people.
 
-Children should not have to earn value by resembling neurotypical productivity.
+Children should not have to earn value from productivity.
 
 Parents should not have to earn value by producing children who satisfy the room.
 
