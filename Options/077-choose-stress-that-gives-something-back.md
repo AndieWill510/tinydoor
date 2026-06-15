@@ -98,19 +98,19 @@ It may still need recovery.
 
 But it leaves something behind.
 
-A skill.
+> A skill
 
-A cleaner room.
+> A cleaner room
 
-A safer script.
+> A safer script
 
-A stronger body.
+> A stronger body
 
-A calmer system.
+> A calmer system
 
-A deeper friendship.
+> A deeper friendship
 
-A more usable life.
+> A more usable life
 
 Distress leaves only debt.
 
