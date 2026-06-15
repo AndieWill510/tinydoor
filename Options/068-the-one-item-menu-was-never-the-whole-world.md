@@ -41,7 +41,9 @@ Perform.
 
 Freeze.
 
-But the one-item menu was never the whole world.
+But the one-item menu was never the whole set of options. 
+
+Just the ones you used to be allowed.
 
 ## Pressure
 
