@@ -34,7 +34,7 @@ Not because behavior is meaningless.
 
 Behavior means something.
 
-Behavior is often the body speaking in the only language available to it.
+Behavior is often the body speaking in the only language available to it.  I had a friend tell me recently, "if it's too loud, cover your ears" which I thought made a lot of sense. 
 
 The distraction begins when people treat the behavior as the whole problem.
 
