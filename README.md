@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Tiny Doors and Pillow Forts
 
-## You Have Another Option
+## A Frontier Guide to Neurodivergent Survival
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/status-early--stage-orange)]()
