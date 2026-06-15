@@ -39,21 +39,21 @@ Not one role.
 
 Not one story the room tells about you.
 
-You may be Autistic and a woman.
+You may be Neurodivergent and 
 
-Autistic and queer.
+> a woman trans or otherwise
 
-Autistic and trans.
+> queer in any fabulous way
 
-Autistic and disabled in other ways.
+> disabled in other ways
 
-Autistic and traumatized.
+> traumatized
 
-Autistic and brilliant.
+> brilliant
 
-Autistic and tired.
+> tired
 
-Autistic and still becoming.
+> still becoming
 
 You are not one thing.
 
@@ -61,25 +61,27 @@ You are not one thing.
 
 Rooms often prefer a single explanation.
 
-Autism.
+> ADHD
 
-Gender.
+> Autism
 
-Trauma.
+> Gender
 
-Anxiety.
+> Trauma
 
-Class.
+> Anxiety
 
-Race.
+> Class
 
-Disability.
+> Race (it's almost always Race)
 
-Pain.
+> Disability. Pick what.
 
-Work.
+> Pain
 
-Family.
+> Work
+
+> Family
 
 But a life does not arrive in separate folders.
 
@@ -149,19 +151,19 @@ For now.
 
 Give that need one practical answer.
 
-Less light.
+> Less light
 
-A medical appointment.
+> A medical appointment
 
-A boundary.
+> A boundary
 
-A safer person.
+> A safer person
 
-A meal.
+> A meal
 
-A nap.
+> A nap
 
-A stim.
+> A stim
 
 A room where your whole self does not have to fight to exist.
 
