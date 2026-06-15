@@ -103,7 +103,7 @@ Less masking.
 
 Medical support.
 
-Autistic community.
+Neurodivergent community.
 
 A safer room.
 
