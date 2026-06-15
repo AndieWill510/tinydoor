@@ -43,7 +43,7 @@ Freeze.
 
 But the menu you were given was never the whole set of options. 
 
-It's just the items **_you used to be** allowed_**.
+It's just the items **_you used to be_** allowed.
 
 ## Pressure
 
