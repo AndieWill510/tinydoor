@@ -29,7 +29,7 @@ Safety: shame / masking / meltdown / shutdown / burnout / complex trauma; no tra
 
 ## Doorway
 
-A shame cycle can make survival look like personality.
+A cycle of shame can make survival look like personality.
 
 Masking looks like being easy.
 
@@ -55,13 +55,11 @@ Get pleasing.
 
 Get invisible.
 
-Get out.
-
 Freeze.
 
 Fight.
 
-Fold.
+Flee.
 
 These are not character defects.
 
@@ -84,8 +82,6 @@ That means the answer cannot only be:
 > Be less reactive.
 
 Sometimes the better answer is:
-
-> Reduce the shame input.  
 
 > Restore choice.  
 
@@ -139,7 +135,7 @@ You are not the worst moment of your stress response.
 
 You are a person whose body learned patterns under pressure.
 
-Patterns can change when the room stops making shame the weather.
+Patterns can change when the room stops making shame the purpose.
 
 ---
 
