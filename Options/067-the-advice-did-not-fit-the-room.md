@@ -29,41 +29,39 @@ Safety: bullying / ableism / internalized shame / social survival advice; no met
 
 ## Doorway
 
-Some advice is not wrong in every world.
+Some advice is flat wrong for Neurodivergent people:
 
-It is wrong for this room.
+> Ignore them.
 
-Ignore them.
+> Blend in.
 
-Blend in.
+> Be nice and they will stop.
 
-Be nice and they will stop.
+> Stand up for yourself.
 
-Stand up for yourself.
+> Do not give them a reaction.
 
-Do not give them a reaction.
-
-Make friends with their friends.
+> Make friends with their friends.
 
 Each sentence may have worked for someone, somewhere.
 
-But it may not fit the room you are in.
+But it won't consistently work for us.
 
 ## Pressure
 
-Autistic people are often handed advice built for a different nervous system and a different danger pattern.
+We are often handed advice built for a different nervous system and a different danger pattern.
 
-Then, when the advice fails, the failure is handed back to the Autistic person.
+Then, when the advice fails, the failure is handed back to us.
 
-You did not ignore hard enough.
+> You did not ignore hard enough.
 
-You did not blend in correctly.
+> You did not blend in correctly.
 
-You were too passive.
+> You were too passive.
 
-You were too intense.
+> You were too intense.
 
-You should have known when to speak and when to stop.
+> You should have known when to speak and when to stop.
 
 That is not help.
 
@@ -77,7 +75,7 @@ A strategy can fail because the room is wrong for it.
 
 A strategy can fail because the cost is too high.
 
-A strategy can fail because it solves the observer’s discomfort instead of the Autistic person’s danger.
+A strategy can fail because it solves the observer’s discomfort instead of our danger.
 
 The better question is not:
 
@@ -101,8 +99,6 @@ Then ask:
 
 One assumption.
 
-Maybe it assumed you could leave.
-
 Maybe it assumed you could speak.
 
 Maybe it assumed the other person would stop when ignored.
@@ -113,7 +109,7 @@ Name the mismatch.
 
 ## Mercy
 
-You are not a failed advice machine.
+You are not a failed advice recipient.
 
 You are a person whose situation deserved a strategy designed for the actual room.
 
