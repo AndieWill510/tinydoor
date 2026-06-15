@@ -47,7 +47,7 @@ Not fully.
 
 Not on purpose.
 
-But enough repetitions can make a message feel like weather.
+But enough repetitions can make a message feel like the very air you must breathe.
 
 Catch the message before it becomes you.
 
