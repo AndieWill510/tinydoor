@@ -26,6 +26,12 @@ The root README carries the project spine: sacred menace, properly formatted; ev
 
 This folder carries durable culture notes that should be treated as active context, not loose scraps.
 
+These are pillow fort bylaws that anyone can contribute to.
+
+Contribution is welcome because survival knowledge should not depend on one person carrying all the continuity alone.
+
+Contribution also carries care: not every note immediately becomes active culture. Active culture notes should be clear enough to guide future sessions, gentle enough not to harm the reader, precise enough not to overclaim, and linked here when they are ready to shape the work.
+
 ## How to use this index
 
 For TinyDoor work, read:
