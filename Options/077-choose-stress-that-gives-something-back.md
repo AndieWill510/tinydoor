@@ -79,7 +79,9 @@ That is endurance under poor conditions.
 
 Neurodivergent strength does not require adding more distress to an already overloaded life.
 
-It requires removing the stress that only drains and choosing the kinds of effort that build capacity.
+It requires removing the stress that only drains 
+
+and choosing the kinds of effort that build capacity.
 
 ## Reframe
 
@@ -143,7 +145,7 @@ Tiny things count.
 
 ## Mercy
 
-You do not have to become harder in the face if harm.
+You do not have to become harder in the face of harm.
 
 You get to build a life with fewer harms and better kinds of effort.
 
