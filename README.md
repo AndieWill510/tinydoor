@@ -63,7 +63,7 @@ Its mercy is a tiny door: a small survivable opening that does not pretend to so
 
 *Tiny Doors and Pillow Forts: You Have Another Option* is a guide for Autistic/ADHD people staying alive without being reduced to mere survival.
 
-Its hidden engine is suicide prevention, but it does not begin with crisis language. It begins with mercy. It begins with the reader who has been called difficult, lazy, too sensitive, dramatic, noncompliant, broken, or impossible when the real problem was often the room, the system, the demand, the noise, the shame, or the lack of support.
+Its hidden engine is suicide harm reduction, to which we make no guarantees/warranties whatsoever but rather postulate happier lives are more stayable, but it does not begin with crisis language. It begins with mercy. It begins with the reader who has been called difficult, lazy, too sensitive, dramatic, noncompliant, broken, or impossible when the real problem was often the room, the system, the demand, the noise, the shame, or the lack of support.
 
 The book is written for Autistic and ADHD people, also known as Neurodivergent people or as we'll say "us" (or "we"), and anyone in our modern times carrying too much executive-function load. It is also for the people who love them and need a better way to understand what helps; and what doesn't. The chapters or "Options" are short on purpose. They are meant to fit in one private pause: a bathroom, a parked car, a bed after shutdown, the edge of a party, the few minutes before a meeting, or the moment before despair starts sounding persuasive.
 
@@ -85,7 +85,7 @@ You are not out of options.
 
 The book closes:
 
-**They don’t get to win.**
+**_They don’t get to win_.**
 
 ---
 
@@ -112,7 +112,7 @@ That phrase is not decoration.
 It means:
 
 - **sacred** because Autistic lives are sacred;
-- **menace** because systems that shorten those lives should feel pressure..._now_;
+- **menace** because systems that shorten those lives should feel pressure..._right now_;
 - **properly formatted** because survival knowledge must be readable, findable, usable, and beautiful enough to stay with.
 
 The book should feel like contraband kindness:
@@ -146,9 +146,9 @@ Long lists belong in evidence stores, appendices, inventories, holding files, or
 
 ## What This Book Is For
 
-The book is not asking Autistic/ADHDers (NDers) to survive harder.
+The book is not asking Autistic/ADHDers ("us") to survive harder.
 
-It is asking why NDers were made to survive so much — and what we can build instead.
+It is asking why we were made to survive so much — and what we can build instead.
 
 The book exists to:
 
@@ -156,11 +156,11 @@ The book exists to:
 - reduce isolation;
 - reduce sensory and social load;
 - increase options;
-- increase survival margin;
+- increase survival desire;
 - increase Autistic joy;
 - help readers build lives their nervous systems can survive long enough to love.
 
-This book is not merely about not dying.
+This book is not merely about harm reduction.
 
 It is about making life more stayable.
 
@@ -182,7 +182,7 @@ Working rule:
 
 Ideal chapter shape:
 
-1. story or hook;
+1. story or "doorway;"
 2. the problem;
 3. the reframe;
 4. one practical move;
@@ -268,10 +268,10 @@ The book should preserve these commitments:
 
 The book refuses:
 
-- cure narratives that treat ND as the problem;
+- cure narratives that treat us as the problem;
 - shame disguised as treatment;
 - compliance sold as care;
-- rhetoric that blames NDers for surviving hostile environments;
+- rhetoric that blames us for surviving hostile environments;
 - advice that assumes unlimited money, time, energy, executive function, transportation, or social support;
 - chapters that become so long they abandon the reader mid-crisis;
 - academic authority without lived accountability;
@@ -284,7 +284,7 @@ The book refuses:
 
 ## Safety Spine
 
-This book discusses suicide prevention, trauma, abuse, ABA, burnout, dysregulation, sensory overload, self-stigma, sexuality, and premature death.
+This book discusses self harm reduction, trauma, abuse, ABA, burnout, dysregulation, sensory overload, self-stigma, sexuality, and premature death.
 
 The safety spine is simple:
 
@@ -295,7 +295,7 @@ That means:
 - avoid method detail;
 - avoid fatalistic framing;
 - avoid glamorizing despair;
-- avoid implying suicide is inevitable for NDers;
+- avoid implying suicide is inevitable for us;
 - avoid telling readers that solutions are easy;
 - avoid language that turns inability into failure;
 - provide crisis direction where needed;
