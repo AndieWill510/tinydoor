@@ -37,17 +37,9 @@ Please.
 
 Disappear.
 
-Perform fine.
+Perform.
 
 Freeze.
-
-Push harder.
-
-Try again.
-
-Go longer.
-
-Turn up the response because nothing else seems available.
 
 But the one-item menu was never the whole world.
 
@@ -59,11 +51,11 @@ A response that helped once can become the only response the body can find.
 
 A mask becomes a life.
 
-A shutdown becomes a schedule.
+A meltdown becomes a schedule.
 
-A push becomes a collapse waiting its turn.
+A shutdown becomes a collapse waiting its turn.
 
-Then people call the outcome weakness.
+Then people call our behavior, which was caused by rooms they created, weakness.
 
 They miss the sequence.
 
@@ -73,7 +65,7 @@ The body was ordering from the only menu it had been shown.
 
 ## Reframe
 
-Beginning to end destructive mimicry does not mean ripping every strategy away.
+Beginning to end this cycle does not mean ripping every strategy away.
 
 It means adding options before the old response becomes automatic.
 
@@ -81,11 +73,7 @@ Earlier exits.
 
 Better rooms.
 
-Clearer scripts.
-
 More recovery.
-
-Trusted witnesses.
 
 Less shame input.
 
@@ -123,7 +111,7 @@ Eat first.
 
 Cancel before collapse.
 
-Tell one safe person the room is getting expensive.
+Tell one safe person the room is getting expensive, or spicy, for you.
 
 One added option is still a door.
 
