@@ -34,17 +34,26 @@ Not all stress is the same.
 Some stress 
 
 > takes and takes
+
 > asks the body to become smaller
+
 > keeps the nervous system rehearsing danger
-> steals sleep and calls it discipline.
+
+> steals sleep and calls it discipline
+
 
 But some stress gives something back.
 
 > Learning a skill.
+
 > Building a community.
-> Making art. Music. Dance. 
+
+> Making art. Music. Dance.
+
 > Stimming without apology.
+
 > Walking farther than yesterday.
+
 > Practicing a boundary before it is needed.
 
 Choose stress that gives something back.
