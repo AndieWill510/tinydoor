@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 5.4 — Protective Mimicry Was Not Your Failure
+# Option 5.4 — Protective Mimicry Was Not Your Choice
 
 Author: Kevin "Andie" Williams  
 Status: Way Home draft / source-witness translation  
@@ -45,17 +45,13 @@ That does not mean the body is false.
 
 It means the body learned a protective move.
 
-Protective mimicry was not your failure.
+Protective mimicry was not your choice.
 
 ## Pressure
 
 When a room punishes difference, the body studies the room.
 
-It learns what gets noticed.
-
-It learns what gets mocked.
-
-It learns what gets corrected.
+It learns what gets noticed, mocked and corrected.
 
 It learns what must be hidden before the next correction arrives.
 
@@ -93,9 +89,7 @@ A strategy can be honored for helping you get through and still be questioned wh
 
 ## Move
 
-Name one protective move you learned.
-
-One.
+Name one protective move you learned.  Just one. 
 
 Masking.
 
@@ -110,10 +104,6 @@ Working too hard to look easy.
 Then ask:
 
 > What did this protect, and what is it costing now?
-
-No prosecution.
-
-Just information.
 
 ## Mercy
 
