@@ -39,9 +39,9 @@ Be resilient.
 
 Hold it together.
 
-But a body in burnout does not need a speech about fireproofing.
+But a body in Autistitc burnout does not need a speech about fireproofing.
 
-It needs fewer fires.
+It needs less radiation exposure.
 
 ## Pressure
 
@@ -69,7 +69,7 @@ More pretending the body has not already sent the warning.
 
 That is not recovery.
 
-That is continuing exposure with better manners.
+That is radiation exposure with better manners.
 
 ## Reframe
 
@@ -91,7 +91,7 @@ Not a perfect life.
 
 Less flame.
 
-More air.
+More soothing water.
 
 One place where the body is not required to keep proving it can survive what is hurting it.
 
@@ -139,7 +139,7 @@ You do not have to heal inside the same fire that burned you.
 
 Recovery is not more grit.
 
-Recovery starts when the body gets less to survive.
+Recovery starts when the body gets less radiation exposure.
 
 ---
 
