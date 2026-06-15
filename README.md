@@ -39,7 +39,7 @@ SPDX-License-Identifier: Apache-2.0
 
 It is a survival manual for Neurodivergent life, suicide prevention, lifespan, joy, regulation, community, and the conditions that allow Autistic/ADHDers ("us") to live longer and freer lives.
 
-Its hidden engine is suicide prevention.
+Its hidden engine is self harm reduction.
 
 Its larger purpose is longevity.
 
@@ -57,7 +57,7 @@ Its mercy is a tiny door: a small survivable opening that does not pretend to so
 
 ### 30-second blurb
 
-*Tiny Doors and Pillow Forts: You Have Another Option* is a survival manual for Autistic/ADHD people and the people who love them. It is built for the moment when shame, burnout, sensory overload, grief, or bad systems make life feel impossible. Each very short chapter offers one small door: a concrete reframe, a tiny next move, and a mercy. The book refuses to blame the person for surviving hostile rooms. It asks what would make life stayable: safety, community, habitat, joy, and another option.
+*Tiny Doors and Pillow Forts: You Have Another Option* is a survival manual for Autistic/ADHD people ("us") and the people who love us. It is built for the moment when shame, burnout, sensory overload, grief, or bad systems make life feel impossible. Each very short chapter offers one small door: a concrete reframe, a tiny next move, and a mercy. The book refuses to blame the person for surviving hostile rooms. It asks what would make life stayable: safety, community, habitat, joy, and always another option.
 
 ### 3-minute summary
 
