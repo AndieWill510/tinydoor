@@ -89,7 +89,7 @@ It can simply say:
 
 > Something specific is happening here.
 
-For this book, we name fear-shaped hostility toward our existence: the pressure to make us less visible, less disruptive, less believed, less accommodated, less ourselves.
+For this book, we name fear-shaped hostility toward our existence as _ableism_: the pressure to make us less visible, less disruptive, less believed, less accommodated, less ourselves.
 
 The word is not a weapon for winning every argument.
 
@@ -115,7 +115,7 @@ Maybe grief that never reaches acceptance.
 
 Maybe a room that treats our need as an emergency.
 
-Name the pattern, not as an accusation: ableism. 
+Name the pattern, not as an accusation: _ableism_.
 
 Not to make the room obey.
 
