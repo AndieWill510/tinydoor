@@ -129,7 +129,9 @@ Isolation can lie.
 
 It can make a social pattern feel like a personal truth.
 
-You are not the verdict of the room that refused to make space.
+You are not the verdict of the people in a room that refused to make space.
+
+_They are_. 
 
 ---
 
