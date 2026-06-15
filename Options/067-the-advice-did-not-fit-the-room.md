@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 5.5 — The Advice Did Not Fit the Room
+# Option 5.5 — That Advice Did Not Fit the Room
 
 Author: Kevin "Andie" Williams  
 Status: Way Home draft / source-witness translation  
