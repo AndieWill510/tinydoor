@@ -51,7 +51,7 @@ Train before the room is on fire.
 
 ## Pressure
 
-Autistic people are often expected to improvise under impossible load.
+We are often expected to improvise under impossible load.
 
 Explain while panicking.
 
@@ -79,7 +79,7 @@ The practice does not make the crisis imaginary.
 
 It makes response possible.
 
-Autistic first aid can work the same way.
+Neurodivergent first aid can work the same way.
 
 A grounding script.
 
