@@ -122,6 +122,8 @@ And when the reader cannot hold a whole plan, the book offers something smaller:
 > Tiny door.  
 > Just a door.
 
+Culture orientation belongs in [`culture/README.md`](culture/README.md). Future sessions should read that index after this README and treat linked culture notes as active project context.
+
 The book does not use poetic force to carry a scientific, clinical, public-health, historical, or legal claim that has not yet been supported.
 
 Beautiful language can hold a reader.
