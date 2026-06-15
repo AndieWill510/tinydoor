@@ -35,7 +35,7 @@ Ableism may be true.
 
 Discrimination may be true.
 
-Bias may be true.
+Patriarch or colonialism may be true.
 
 But the room may still be missing the specific shape of the harm.
 
@@ -63,7 +63,7 @@ They call it concern.
 
 They call it helping.
 
-The Autistic person is left arguing about each separate incident while the pattern stays unnamed.
+We are left arguing with ourselves, internally, about each separate incident while the pattern stays unnamed.
 
 One meeting.
 
@@ -71,11 +71,7 @@ One correction.
 
 One exclusion.
 
-One denial.
-
-One cure story.
-
-One family grief story.
+One more bit of gaslighting.
 
 One social punishment for being too visibly real.
 
@@ -93,7 +89,7 @@ It can simply say:
 
 > Something specific is happening here.
 
-For this book, autistiphobia names fear-shaped hostility toward Autistic existence: the pressure to make Autistic people less visible, less disruptive, less believed, less accommodated, less themselves.
+For this book, we name fear-shaped hostility toward our existence: the pressure to make us less visible, less disruptive, less believed, less accommodated, less ourselves.
 
 The word is not a weapon for winning every argument.
 
@@ -117,9 +113,9 @@ Maybe social punishment.
 
 Maybe grief that never reaches acceptance.
 
-Maybe a room that treats Autistic need as an emergency.
+Maybe a room that treats our need as an emergency.
 
-Name the pattern, not as an accusation.
+Name the pattern, not as an accusation: ableism. 
 
 Not to make the room obey.
 
