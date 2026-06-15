@@ -69,7 +69,7 @@ Hard to please.
 
 But a body living inside the wrong sensory conditions is doing extra work all day.
 
-Every tag.
+Every scratchy tag.
 
 Every fluorescent light.
 
@@ -79,7 +79,7 @@ Every unexpected touch.
 
 Every crowded aisle.
 
-Every smell that goes straight to memory and emotion.
+Every smell that goes straight to memory and emotion and trauma.
 
 Each one may be small to someone else.
 
