@@ -49,49 +49,23 @@ The same room can distract one body and injure another.
 
 Many everyday environments are designed as if attention is a resource to be captured.
 
-Classrooms.
-
-Meetings.
-
-Stores.
-
-Waiting rooms.
-
-Open offices.
+Classrooms. Meetings. Stores.
 
 Social events that never tell you when the demand will end.
 
 When a person becomes dysregulated inside one of those rooms, the room often protects itself first.
 
-It asks what is wrong with the person.
-
-Not what the light is doing.
-
-Not what the noise is doing.
-
-Not what the uncertainty is doing.
-
-Not what the lack of exit is doing.
-
-The environment disappears.
+It asks what is wrong with the person -- not what the light, noise or uncertainty is doing.
 
 The distressed person becomes the evidence.
 
 ## Reframe
 
-Access begins when the room becomes visible again.
+Access for us begins when the room becomes visible again.
 
-Not as background.
-
-As an active force.
-
-A room can raise the cost of speech.
-
-A room can lower the cost of shame.
+A room can raise the cost of speech or lower the cost of shame.
 
 A room can make leaving feel like disobedience.
-
-A room can teach a body that every need will have to arrive disguised as failure before anyone takes it seriously.
 
 That does not mean every room is malicious.
 
@@ -109,17 +83,7 @@ Not:
 
 > What is wrong with me here?
 
-Name one force.
-
-Light.
-
-Sound.
-
-Crowding.
-
-Unclear timing.
-
-No visible exit.
+Name one force: light, sound, crowding, or no visible exit.
 
 Then name one design correction that would lower the cost.
 
