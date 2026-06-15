@@ -41,9 +41,9 @@ Perform.
 
 Freeze.
 
-But the one-item menu was never the whole set of options. 
+But the menu you were given was never the whole set of options. 
 
-Just the ones you used to be allowed.
+It's just the items **_you used to be** allowed_**.
 
 ## Pressure
 
