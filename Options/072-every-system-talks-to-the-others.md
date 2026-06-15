@@ -45,6 +45,8 @@ A sound can become a mood.
 
 A mood can become a shutdown.
 
+A smell can trigger a trauma memory.
+
 Every sense talks to the others.
 
 ## Pressure
