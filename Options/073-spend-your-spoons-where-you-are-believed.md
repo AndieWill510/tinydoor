@@ -73,7 +73,7 @@ Leaving the black-hole room is not the same as giving up on people.
 
 It is choosing where life can grow.
 
-Autistic community is not decoration.
+Neurodivergent community is not decoration.
 
 It is regulation infrastructure.
 
@@ -83,7 +83,7 @@ Being believed can return energy.
 
 Being met by people who understand sensory cost, social cost, masking cost, and recovery debt can give the body fewer fires to manage.
 
-This does not mean every Autistic space will be perfect.
+This does not mean every Neurodivergent space will be perfect.
 
 It means you are allowed to seek rooms that do not require you to become smaller to be tolerated.
 
@@ -105,7 +105,7 @@ One message.
 
 One meeting skipped.
 
-One Autistic voice read instead of one hostile thread answered.
+One Neurodivergent voice heard (yours) instead of one hostile thread answered.
 
 One tiny transfer of energy toward the life that can hold you.
 
@@ -115,7 +115,7 @@ You do not have to keep auditioning for care.
 
 There are rooms where your needs arrive already legible.
 
-Spend some of your life there.
+Spend some of your life there, and get some of it back. 
 
 ---
 
