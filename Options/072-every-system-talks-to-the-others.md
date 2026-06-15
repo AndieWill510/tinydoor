@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 5.10 — Every System Talks to the Others
+# Option 5.10 — Every Sense of Yours Talks to the Others
 
 Author: Kevin "Andie" Williams  
 Status: Way Home draft / source-witness translation  
@@ -29,7 +29,7 @@ Safety: dysregulation / sensory overload / sleep / emotion / cognition / body sy
 
 ## Doorway
 
-Your body is not a set of separate rooms.
+Your body is not a set of separate senses, like separate houses. We're learning, it's more like connected rooms in the same house. 
 
 Light can change emotion.
 
@@ -45,7 +45,7 @@ A sound can become a mood.
 
 A mood can become a shutdown.
 
-Every system talks to the others.
+Every sense talks to the others.
 
 ## Pressure
 
