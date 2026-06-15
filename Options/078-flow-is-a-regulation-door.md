@@ -49,7 +49,7 @@ Flow is a regulation door.
 
 ## Pressure
 
-People may treat Autistic focus as a problem.
+People may treat our focus as a problem.
 
 Too intense.
 
@@ -101,19 +101,19 @@ Pick one flow that helps you regulate.
 
 One.
 
-Reading.
+> Reading
 
-Coding.
+> Coding
 
-Music.
+> Music
 
-Research.
+> Research
 
-Drawing.
+> Drawing
 
-Beading.
+> Beading
 
-Organizing.
+> Organizing
 
 Watching one fixed thing until the body comes back.
 
@@ -137,7 +137,7 @@ Your focus is not a defect because others cannot see what it gives you.
 
 A horizon can save a body from spinning.
 
-You are allowed to find yours.
+You are allowed, and in fact empowered, to find yours.
 
 ---
 
