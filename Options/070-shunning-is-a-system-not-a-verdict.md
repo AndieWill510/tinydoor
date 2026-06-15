@@ -37,7 +37,7 @@ The invitations stopped.
 
 The group chat moved without you.
 
-The family learned to talk around your needs instead of with them.
+The family learned to talk around your needs instead of with you.
 
 A teacher, boss, parent, friend, or stranger decided you were too much trouble to understand.
 
@@ -63,7 +63,7 @@ Someone else decides not to get involved.
 
 A loved one explains that you need to learn how people are.
 
-A helper says you should try harder to fit.
+A helper says you should try harder to fit in.
 
 The room begins to teach the same lesson from several directions:
 
@@ -73,7 +73,7 @@ That lesson is not neutral.
 
 It pushes the body toward masking, appeasing, compensating, shutting down, or burning out just to stay near people.
 
-Then the room mistakes the survival response for personality.
+Then the room mistakes "trauma response" for personality.
 
 ## Reframe
 
