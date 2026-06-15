@@ -49,7 +49,7 @@ Its mercy is a tiny door: a small survivable opening that does not pretend to so
 
 > This is a book about building a life your nervous system can survive long enough to love...
 
-> ...and then you live happier in a life you love!
+> ...and then you stay happier in a life you love!
 
 ---
 
