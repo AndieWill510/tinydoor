@@ -165,7 +165,7 @@ Give that need one practical answer.
 
 > A stim
 
-A room where your whole self does not have to fight to exist.
+Always: A room where your whole self does not have to fight to exist.
 
 ## Mercy
 
