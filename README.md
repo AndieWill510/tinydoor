@@ -47,7 +47,8 @@ Its method is another option. Lots of them.
 
 Its mercy is a tiny door: a small survivable opening that does not pretend to solve the whole crisis, but gives the reader one safe next passage.
 
-> This is a book about building a life your nervous system can survive long enough to love.
+> This is a book about building a life your nervous system can survive long enough to love...
+
 > ...and then you live happier in a life you love!
 
 ---
