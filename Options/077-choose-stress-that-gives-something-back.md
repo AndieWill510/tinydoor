@@ -62,17 +62,17 @@ Choose stress that gives something back.
 
 The world may call toxic stress normal.
 
-Doomscrolling.
+> Doomscrolling
 
-Constant alerts.
+> Constant alerts
 
-Argument loops.
+> Argument loops
 
-Rooms that punish access.
+> Rooms that punish access
 
-Work that eats recovery.
+> Work that eats recovery
 
-People who turn every need into a debate.
+> People who turn every need into a debate
 
 Then the same world praises resilience when the body survives the damage.
 
