@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 5.6 — The One-Item Menu Was Never the Whole World
+# Option 5.6 — The Menu You Were Given, Sucks
 
 Author: Kevin "Andie" Williams  
 Status: Way Home draft / source-witness translation  
