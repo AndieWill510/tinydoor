@@ -77,7 +77,7 @@ That is not anti-fragility.
 
 That is endurance under poor conditions.
 
-Autistic strength does not require adding more distress to an already overloaded life.
+Neurodivergent strength does not require adding more distress to an already overloaded life.
 
 It requires removing the stress that only drains and choosing the kinds of effort that build capacity.
 
@@ -139,11 +139,11 @@ A few minutes doing nothing that the market can use.
 
 Trade one draining stress for one building stress.
 
-Tiny counts.
+Tiny things count.
 
 ## Mercy
 
-You do not have to become harder to harm.
+You do not have to become harder in the face if harm.
 
 You get to build a life with fewer harms and better kinds of effort.
 
