@@ -29,23 +29,23 @@ Safety: homelessness / material insecurity / toxic stress / urgent support; no r
 
 ## Doorway
 
-Safety comes before self-improvement.
+Safety comes before 
 
-Before the better attitude.
+> self-improvement
 
-Before the perfect plan.
+> a better attitude
 
-Before the morning routine.
+> the perfect plan
 
-Before the inspirational quote.
+> the morning routine
+
+> the inspirational quote
 
 Before the world gets to ask why you are not more resilient.
 
 If you are cold, hungry, exposed, unsafe, isolated, or one bad phone battery away from being unreachable, the first option is not becoming a better person.
 
 The first option is reducing danger.
-
-A door.
 
 A meal.
 
@@ -63,13 +63,13 @@ People love to spiritualize survival from a warm room.
 
 They say:
 
-Be grateful.
+> be grateful
 
-Be strong.
+> be strong
 
-Make better choices.
+> make better choices
 
-Take responsibility.
+> take responsibility
 
 They may mean well.
 
@@ -81,23 +81,9 @@ Toxic stress is not a bad mood.
 
 It is what happens when danger keeps arriving and the body cannot find an ending.
 
-If the nervous system has been living outside its safe range for too long, ordinary tasks can become impossible-looking.
+If the nervous system has been living outside its safe range for too long, ordinary tasks can become impossible-looking: appointments, paperwork or phone calls.
 
-Appointments.
-
-Paperwork.
-
-Phone calls.
-
-Forms.
-
-Laundry.
-
-Sleep.
-
-Eating.
-
-Trusting one more person with one more story.
+Or trusting one more person with one more story.
 
 That is not laziness.
 
@@ -154,10 +140,6 @@ Maybe shade.
 Maybe a charged phone.
 
 Maybe a safe public place.
-
-Maybe keeping documents together.
-
-Maybe sending one message that says where you are.
 
 Maybe sitting near another human being who is not trying to use you.
 
