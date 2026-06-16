@@ -49,14 +49,6 @@ Family.
 
 Noise.
 
-Explaining.
-
-Masking.
-
-Recovering from explaining.
-
-Recovering from masking.
-
 Recovering from being around people who do not mean harm but still take more than your body has to give.
 
 The blend matters.
@@ -69,17 +61,11 @@ Sometimes harm is real and needs to be named.
 
 But not every drain is villainy.
 
-Some people give spoons.
+Some people give spoons. Some people take spoons.
 
-Some people take spoons.
+Some places give spoons. Some places take spoons.
 
-Some places give spoons.
-
-Some places take spoons.
-
-Some tasks cost a little.
-
-Some tasks cost the whole next day.
+Some tasks cost a little.  Some tasks cost the whole next day.
 
 Some joys are worth spending energy on.
 
@@ -87,11 +73,7 @@ Some obligations are invoices you never agreed to pay.
 
 The painful thing is that a so-called good day can create a bad day.
 
-Too much effort.
-
-Too much brightness.
-
-Too much social repair.
+Too much effort, brightness or social repair.
 
 Too much being brave.
 
@@ -159,17 +141,13 @@ Take one quiet hour before the room takes it first.
 
 Say no to one optional thing that costs like a required thing.
 
-This is not optimization culture.
-
-This is not hustle with a wellness sticker.
-
-This is learning which parts of your life give you back to yourself.
+This is not hustle culture: this is learning which parts of your life you give back to yourself.
 
 ## Mercy
 
 Your energy is not a luxury budget.
 
-It is the weather system your life has to live inside.
+It is the spoons you were given to live with.
 
 ---
 
