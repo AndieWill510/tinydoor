@@ -33,29 +33,31 @@ A tiny door still has to fit the person using it.
 
 Not the average person.
 
-Not the generic Autistic person.
-
 Not the version of you that makes the room more comfortable.
 
 You.
 
-Your body.
+Your
 
-Your age.
+> body
 
-Your gender.
+> age
 
-Your race.
+> gender/gender expression
 
-Your culture.
+> sexuality
 
-Your disability.
+> race
 
-Your pain.
+> culture
 
-Your history.
+> disability
 
-Your community.
+> pain
+
+> history
+
+> community
 
 The door must fit the whole person.
 
