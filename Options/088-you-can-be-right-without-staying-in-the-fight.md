@@ -145,9 +145,7 @@ But the loop does not get to keep your whole body tonight.
 
 ## Mercy
 
-You do not have to betray the truth to stop carrying the trial.
-
-You can hold the truth without gripping the person who refuses it.
+You can hold the truth without holding onto the person who refuses it.
 
 ---
 
