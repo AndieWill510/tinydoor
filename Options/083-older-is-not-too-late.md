@@ -99,7 +99,7 @@ Leave earlier.
 
 Say no faster.
 
-Let younger Autistic people teach you things they had language for before you did.
+Let younger Neurodivergent people teach you things they had language for before you did.
 
 Let your own hard-won wisdom count too.
 
@@ -137,7 +137,7 @@ A different chair.
 
 A planned exit.
 
-A younger or older Autistic voice in your corner.
+A younger or older Neurodivergent voice in your corner.
 
 A rest day after.
 
