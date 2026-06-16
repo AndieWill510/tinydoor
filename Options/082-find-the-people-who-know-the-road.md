@@ -59,7 +59,7 @@ No one else understands this identity, this body, this danger, this exhaustion, 
 
 So the person tries to survive by translating everything alone.
 
-One translation for Autism.
+One translation for Neurodivergence.
 
 One for queerness.
 
