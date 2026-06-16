@@ -65,33 +65,23 @@ Personal branding is another masking demand.
 
 Autistic and ADHD people may already spend the day performing a version of themselves that other people can tolerate.
 
-At work.
+At work. In meetings.  In classrooms.  On calls.  In family rooms.  In group chats.
 
-In meetings.
+> Smile here
 
-In classrooms.
+> Explain less there
 
-On calls.
+> Sound confident
 
-In family rooms.
+> Do not sound too intense
 
-In group chats.
+> Make eye contact
 
-Smile here.
+> Do not interrupt
 
-Explain less there.
+> Do not go blank
 
-Sound confident.
-
-Do not sound too intense.
-
-Make eye contact.
-
-Do not interrupt.
-
-Do not go blank.
-
-Do not disappear.
+> Do not disappear
 
 Then personal branding adds a second shift.
 
