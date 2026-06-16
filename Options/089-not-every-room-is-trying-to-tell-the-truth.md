@@ -51,7 +51,7 @@ But the problem may be the room.
 
 ## Pressure
 
-The Autistic fairness system can be precise.
+Our fairness system can be precise.
 
 It can hear the contradiction.
 
