@@ -29,33 +29,31 @@ Safety: masking cost / public performance / privacy / identity / performance exh
 
 ## Doorway
 
-The advice arrives with a smile.
+The advice arrives with a smile: build your personal brand...
 
-Build your personal brand.
+> Put yourself out there
 
-Put yourself out there.
+> Share your story
 
-Share your story.
+> Be consistent
 
-Be consistent.
+> Post on LinkedIn
 
-Post on LinkedIn.
+> Make the newsletter
 
-Make the newsletter.
+> Record the podcast
 
-Record the podcast.
+> Show your process
 
-Show your process.
+> Let people see your authentic self
 
-Let people see your authentic self.
+> But make it engaging
 
-But make it engaging.
+> But keep it professional
 
-But keep it professional.
+> But stay on message
 
-But stay on message.
-
-But do it every week.
+> But do it every week
 
 For some bodies, that is not freedom.
 
