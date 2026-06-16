@@ -95,21 +95,19 @@ So does not being reduced to the hardest thing in your chart.
 
 Name one serious support that might help you stay well.
 
-One.
+> A provider who listens
 
-A provider who listens.
+> A second opinion
 
-A second opinion.
+> A crisis plan made before crisis
 
-A crisis plan made before crisis.
+> A medication conversation with a qualified clinician
 
-A medication conversation with a qualified clinician.
+> A sleep plan
 
-A sleep plan.
+> A peer group
 
-A peer group.
-
-A trusted person who can sit beside you in the appointment.
+> A trusted person who can sit beside you in the appointment.
 
 Then ask:
 
