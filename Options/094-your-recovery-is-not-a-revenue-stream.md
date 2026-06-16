@@ -31,23 +31,23 @@ Safety: burnout / energy depletion / restoration activities / monetization press
 
 Maybe it starts as the thing you do after the day takes too much.
 
-Drawing small animals in the margin.
+> Drawing small animals in the margin.
 
-Making playlists.
+> Making playlists.
 
-Fixing old radios.
+> Fixing old radios.
 
-Baking bread.
+> Baking bread.
 
-Learning train maps.
+> Learning train maps.
 
-Writing fanfic.
+> Writing fanfic.
 
-Growing tomatoes.
+> Growing tomatoes.
 
-Taking photos of doors.
+> Taking photos of doors.
 
-Building tiny tools no one asked for.
+> Building tiny tools no one asked for.
 
 The thing is yours.
 
@@ -55,43 +55,43 @@ It helps you come home to yourself.
 
 Then someone says:
 
-You should sell these.
+> You should sell these.
 
-You could make money from this.
+> You could make money from this.
 
-Have you thought about doing this professionally?
+> Have you thought about doing this professionally?
 
-You should start a shop.
+> You should start a shop.
 
-You should make content.
+> You should make content.
 
-You should monetize your passion.
+> You should monetize your passion.
 
 And suddenly the thing that gave you back to yourself is being measured for a cash register.
 
-Your recovery is not a revenue stream.
+Your passion is not a revenue stream.
 
 ## Pressure
 
 Hustle culture has a simple trap.
 
-If you love it, it is an opportunity.
+> If you love it, it is an opportunity.
 
-If it is an opportunity, you should use it.
+> If it is an opportunity, you should use it.
 
-If you do not use it, you are wasting it.
+> If you do not use it, you are wasting it.
 
 That logic is a thief with motivational posters.
 
 It looks at a nervous system finding one small harbor and says:
 
-Can this scale?
+> Can this scale?
 
-Can this sell?
+> Can this sell?
 
-Can this become a brand?
+> Can this, and you, become a brand?
 
-Can this become a second shift?
+> Can this become a second shift?
 
 For Autistic and ADHD people, deep interest may not be decoration.
 
@@ -127,13 +127,13 @@ The restoration is the point.
 
 Not the product.
 
-Value does not require a market.
+> Value does not require a market.
 
-Depth does not require an audience.
+> Depth does not require an audience.
 
-Skill does not require a shop.
+> Skill does not require a shop.
 
-Beauty does not require a price tag.
+> Beauty does not require a price tag.
 
 The thing that gives you back to yourself is doing its job when it stays yours.
 
@@ -149,11 +149,11 @@ A place where nothing has to convert.
 
 A place where the body can say:
 
-This is mine.
+> This is mine.
 
-This gives back.
+> This gives back.
 
-This is not for sale today.
+> This is not for sale today.
 
 ## Move
 
@@ -179,13 +179,7 @@ Let it be useless in the most holy way.
 
 If it has already been converted, name what it felt like before.
 
-Before the audience.
-
-Before the order.
-
-Before the metric.
-
-Before the customer.
+Before the audience, order or customer.
 
 Before the need to be good at it for someone else.
 
