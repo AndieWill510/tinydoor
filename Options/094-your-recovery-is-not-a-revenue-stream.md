@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 8.4 — Your Recovery Is Not a Revenue Stream
+# Option 8.4 — Your Respite Is Not a Revenue Stream
 
 Author: Kevin "Andie" Williams  
 Status: Way Home draft / source-witness translation  
@@ -69,7 +69,7 @@ Then someone says:
 
 And suddenly the thing that gave you back to yourself is being measured for a cash register.
 
-Your passion is not a revenue stream.
+Your respite is not a revenue stream.
 
 ## Pressure
 
