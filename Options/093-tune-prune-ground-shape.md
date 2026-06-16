@@ -29,9 +29,7 @@ Safety: sensory load / burnout / environment design / disability support; no med
 
 ## Doorway
 
-Autistic lives do not become healthy by willpower alone.
-
-They need design.
+Neorodivergent lives do not become healthy by willpower alone, they need design.
 
 Tune.
 
@@ -51,21 +49,21 @@ And some environments make our bodies pay rent in pain.
 
 The usual demand is simple:
 
-Adapt.
+> Adapt
 
-Try harder.
+> Try harder
 
-Be flexible.
+> Be flexible
 
-Be normal.
+> Be normal
 
-Stay longer.
+> Stay longer
 
-Listen better.
+> Listen better
 
-Stop reacting.
+> Stop reacting
 
-Use your coping skills.
+> Use your coping skills
 
 But coping skills cannot turn a hostile environment into a safe one.
 
