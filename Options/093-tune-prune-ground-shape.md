@@ -45,7 +45,7 @@ Not because you are fragile.
 
 Because every body lives inside an environment.
 
-And some environments make Autistic bodies pay rent in pain.
+And some environments make our bodies pay rent in pain.
 
 ## Pressure
 
