@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 6.4 — Good Help Has to Be Good
+# Option 6.4 — Good Help Has to Help
 
 Author: Kevin "Andie" Williams  
 Status: Way Home draft / source-witness translation  
@@ -49,7 +49,7 @@ What matters first is this:
 
 You have options.
 
-And good help has to be good.
+And good help has to help.
 
 ## Pressure
 
@@ -109,19 +109,19 @@ Good help gives you more room to live.
 
 Think of one kind of support in your life right now.
 
-A doctor.
+> A doctor
 
-A therapist.
+> A therapist
 
-A group.
+> A group
 
-A coach.
+> A coach
 
-A friend.
+> A friend
 
-A clinic.
+> A clinic
 
-A plan.
+> A plan
 
 Ask:
 
@@ -129,39 +129,41 @@ Ask:
 
 Write down one answer.
 
-ADHD.
+> ADHD
 
-Autism.
+> Autism
 
-Trauma.
+> Trauma
 
-Sleep.
+> Sleep
 
-Fear.
+> Fear
 
-Pain.
+> Pain
 
-Family harm.
+> Family harm
 
-Gender.
+> Gender/Gender expression
 
-Race.
+> Sexuality
 
-Communication needs.
+> Race
+
+> Communication needs
 
 Then look for one step toward better-fitting help.
 
-A second opinion.
+> A second opinion
 
-A referral.
+> A referral
 
-A written note before the appointment.
+> A written note before the appointment
 
-A trusted person in the room.
+> A trusted person in the room
 
-A provider who does not rush you.
+> A provider who does not rush you
 
-A plan for what to do if safety becomes urgent.
+> A plan for what to do if safety becomes urgent.
 
 Small steps count.
 
