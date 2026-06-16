@@ -31,14 +31,6 @@ Safety: sensory load / burnout / environment design / disability support; no med
 
 Neorodivergent lives do not become healthy by willpower alone, they need design.
 
-Tune.
-
-Prune.
-
-Ground.
-
-Shape.
-
 Not because you are fragile.
 
 Because every body lives inside an environment.
@@ -115,11 +107,7 @@ It is habitat repair.
 
 The goal is not a more compliant person.
 
-The goal is fewer fires.
-
-More signal.
-
-More recovery.
+The goal is fewer fires, and more recovery.
 
 More life left after the day is done.
 
@@ -127,23 +115,21 @@ More life left after the day is done.
 
 Pick one verb.
 
-Only one.
-
 Tune:
 
-Lower one sensory input or feed one needed input.
+> Lower one sensory input or feed one needed input.
 
 Prune:
 
-Remove, shorten, or postpone one spoon-taking exposure.
+> Remove, shorten, or postpone one spoon-taking exposure.
 
 Ground:
 
-Use one thing that brings the body back: floor, breath, texture, weight, water, nature, movement, stillness.
+> Use one thing that brings the body back: floor, breath, texture, weight, water, nature, movement, stillness.
 
 Shape:
 
-Ask what structure would help next time: agenda, break, quiet room, written instructions, fewer transitions, different timing, safer people.
+> Ask what structure would help next time: agenda, break, quiet room, written instructions, fewer transitions, different timing, safer people.
 
 Do not redesign the whole life tonight.
 
@@ -155,7 +141,7 @@ Bodies tell the truth before systems do.
 
 ## Mercy
 
-You are not a machine failing specifications.
+You are not a machine failing to perform.
 
 You are a living creature asking for a livable world.
 
