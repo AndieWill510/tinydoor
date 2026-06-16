@@ -55,7 +55,7 @@ Your
 
 > pain
 
-> history
+> spirituality/history
 
 > community
 
