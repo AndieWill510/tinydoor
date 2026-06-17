@@ -18,14 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 3.4 — You May Not Be at Peace
 
-Author: Kevin "Andie" Williams  
-Status: Regulation sprint draft  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/030.md  
-Safety: regulation / anxiety / alexithymia / overwhelm frame; no method detail; evidence review required
-
----
-
 ## Doorway
 
 You can look still and not be at peace.
