@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 6.6 — Stability Is Care, Not Compliance Theater
+# Option 6.6
+# Stability Is Care, Not Compliance Theater
 
 ## A Way In
 
