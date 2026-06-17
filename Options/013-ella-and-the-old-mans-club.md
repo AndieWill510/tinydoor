@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 1.13 — Ella and the Old Man's Club
+# Option 1.13
+# Ella and the Old Man's Club
 
 ## A Way In
 
