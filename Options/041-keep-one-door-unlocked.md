@@ -18,14 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 3.18 — Keep One Door Unlocked
 
-Author: Kevin "Andie" Williams  
-Status: Options Under Stress sprint draft  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/060.md  
-Safety: survival mindset / stress / low-capacity planning / toxic positivity risk; no method detail
-
----
-
 ## Doorway
 
 A door does not have to be grand to matter.
