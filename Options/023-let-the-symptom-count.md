@@ -14,16 +14,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Chapter 2.6 / Option 020.3 — Let the Symptom Count
 
-Author: Kevin "Andie" Williams  
-Status: doorway draft  
-Project: You Have Another Option  
-Chapter: 2.6  
-Option: 020.3  
-Source: Options 018-020.2; ConstantC covenant / reciprocal guardrails; lived experience in marriage, consulting, friendship, medical, and social settings  
-Safety: health-boundary content; do not fabricate or worsen symptoms; urgent symptoms require medical care
-
----
-
 ## Background
 
 I learned this in a thirty-year marriage that was making me physically sick.
