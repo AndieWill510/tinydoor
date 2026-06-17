@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 8.6 — The Side Hustle Is Not a Solution to a Hostile Room
+# Option 8.6
+# The Side Hustle Is Not a Solution to a Hostile Room
 
 ## A Way In
 
