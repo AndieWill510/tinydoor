@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 8.5 — Personal Branding Is Another Masking Demand
 
-## Doorway
+## A Way In
 
 The advice arrives with a smile: build your personal brand...
 
