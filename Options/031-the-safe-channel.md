@@ -18,14 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 3.8 — A Safe Way Through
 
-Author: Kevin "Andie" Williams  
-Status: Regulation / harm-reduction sprint draft  
-Project: Tiny Door / You Have Another Option  
-Source: Options/030-you-can-always-stim.md; Chapters/030.md  
-Safety: stimming / hostile environments / harm-reduction frame; no method detail; safety-style review required
-
----
-
 ## Doorway
 
 Picture a meeting (or party) where the lights are too bright and things changed without warning.
