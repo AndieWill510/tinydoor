@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 4.10 — Bad Help Teaches Bad Questions
 
-## Doorway
+## A Way In
 
 Bad help does not only hurt in the room where it happens.
 
