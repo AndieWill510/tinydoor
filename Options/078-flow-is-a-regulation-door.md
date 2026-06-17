@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 5.16 — Flow Is a Regulation Door
 
-Author: Kevin "Andie" Williams  
-Status: Way Home draft / source-witness translation  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/290.md; Options/026-stimming-is-regulation.md; Options/072-every-system-talks-to-the-others.md  
-Evidence: source-witness frame / monotropism-and-regulation frame; no unsupported clinical or evolutionary claim  
-Safety: dysregulation / hyperfocus / sensory overload / interoception; not medical advice; persistent symptoms require qualified help
-
----
-
 ## Doorway
 
 Flow is not an escape from reality.
