@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 5.10 — Every Sense of Yours Talks to the Others
 
-## Doorway
+## A Way In
 
 Your body is not a set of separate senses, like separate houses. We're learning, it's more like connected rooms in the same house. 
 
