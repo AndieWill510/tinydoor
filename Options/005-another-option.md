@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 1.5 — Another Option
 
-## Doorway
+## A Way In
 
 This book is called *You Have Another Option* because that sentence can matter when almost nothing else gets through.
 
