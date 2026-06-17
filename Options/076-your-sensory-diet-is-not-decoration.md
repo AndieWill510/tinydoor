@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 5.14 — Your Sensory Diet Is Not Decoration
+# Option 5.14
+# Your Sensory Diet Is Not Decoration
 
 ## A Way In
 
