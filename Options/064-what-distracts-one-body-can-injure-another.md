@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 5.2 — What Distracts One Body Can Injure Another
 
-## Doorway
+## A Way In
 
 A supermarket can feel like a casino with groceries.
 
