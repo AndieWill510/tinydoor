@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 6.1 — The Door Must Fit the Whole Person
 
-Author: Kevin "Andie" Williams  
-Status: Way Home draft / source-witness translation  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/330.md; Chapters/340.md; Chapters/350.md; Chapters/360.md; Options/080-you-are-not-one-thing.md  
-Evidence: source-witness frame / whole-person access frame; no claim to speak for all lived experiences  
-Safety: intersectionality / disability / identity / access / medical complexity / support communities; no trauma spectacle; urgent medical or safety concerns require qualified help
-
----
-
 ## Doorway
 
 A tiny door still has to fit the person using it.
