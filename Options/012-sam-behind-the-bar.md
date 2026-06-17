@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 1.12 — Sam Behind the Bar
 
-## Doorway
+## A Way In
 
 There was something I did not say yet.
 
