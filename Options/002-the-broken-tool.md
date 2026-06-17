@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 1.2 — The Broken Tool
 
-## Doorway
+## A Way In
 
 The hardest part of the saxophone story is not that the mouthpiece was cracked.
 
