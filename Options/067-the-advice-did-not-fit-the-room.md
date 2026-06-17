@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 5.5 — That Advice Did Not Fit the Room
 
-Author: Kevin "Andie" Williams  
-Status: Way Home draft / source-witness translation  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/150.md; Options/063-the-game-was-unwinnable.md; Options/066-protective-mimicry-was-not-your-failure.md  
-Evidence: source-witness frame / analogy held as analogy; no unsupported clinical claim  
-Safety: bullying / ableism / internalized shame / social survival advice; no method detail
-
----
-
 ## Doorway
 
 Some advice is flat wrong for Neurodivergent people:
