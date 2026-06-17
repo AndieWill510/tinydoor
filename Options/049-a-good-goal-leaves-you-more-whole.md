@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 4.7 — A Good Goal Leaves You More Whole
 
-## Doorway
+## A Way In
 
 Someone calls it help.
 
