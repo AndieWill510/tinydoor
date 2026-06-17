@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 5.12 — Catch the Message Before It Becomes You
 
-Author: Kevin "Andie" Williams  
-Status: Way Home draft / source-witness translation  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/230.md; Chapters/240.md; Options/069-the-word-is-a-handle.md; Options/073-spend-your-spoons-where-you-are-believed.md  
-Evidence: source-witness frame / self-stigma frame; no medical advice; no unsupported clinical claim  
-Safety: self-stigma / shame / family gatherings / meltdown / shutdown / burnout / social exclusion; no method detail
-
----
-
 ## Doorway
 
 A message can arrive before you notice it.
