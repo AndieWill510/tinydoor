@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 3.13 — The After-Action Repair
 
-## Doorway
+## A Way In
 
 Later is different from never, after a meltdown.
 
