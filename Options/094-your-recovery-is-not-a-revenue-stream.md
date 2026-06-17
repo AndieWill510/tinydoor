@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 8.4 — Your Respite Is Not a Revenue Stream
+# Option 8.4
+# Your Respite Is Not a Revenue Stream
 
 ## A Way In
 
