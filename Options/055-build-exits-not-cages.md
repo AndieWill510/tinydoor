@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 4.13 — Build Exits, Not Cages
 
-Author: Kevin "Andie" Williams  
-Status: Memoir-adjacent institutional harm draft  
-Project: Tiny Door / You Have Another Option  
-Source: Andie / C conversation; Options/046-a-good-goal-leaves-you-more-whole.md; Options/049-bad-help-teaches-bad-questions.md; Options/050-the-fire-was-not-the-lesson.md  
-Evidence: memoir / ethical frame; no unsupported historical claim  
-Safety: personal ABA harm / family harm / repair architecture; no trauma spectacle; no method detail
-
----
-
 ## Doorway
 
 In a house with a measuring stick, everyone learns where to stand.
