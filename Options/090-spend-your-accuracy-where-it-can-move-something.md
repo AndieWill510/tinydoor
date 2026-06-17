@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 7.3 — Spend Your Accuracy Where It Can Move Something
 
-Author: Kevin "Andie" Williams  
-Status: Way Home draft / source-witness translation  
-Project: Tiny Door / You Have Another Option  
-Source: user-provided work-rumination prompt; Options/036-the-after-action-report.md; Options/071-fewer-fires-not-more-grit.md; Options/088-you-can-be-right-without-staying-in-the-fight.md; Options/089-not-every-room-is-trying-to-tell-the-truth.md  
-Evidence: source-witness frame / strategic-action frame; no legal, HR, or employment instruction  
-Safety: workplace conflict / rumination / energy protection / documentation / boundaries; no legal, medical, or employment advice
-
----
-
 ## Doorway
 
 Accuracy is precious.
