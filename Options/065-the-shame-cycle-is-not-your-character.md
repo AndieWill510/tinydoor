@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 5.3 — The Shame Cycle Is Not Your Character
+# Option 5.3
+# The Shame Cycle Is Not Your Character
 
 ## A Way In
 
