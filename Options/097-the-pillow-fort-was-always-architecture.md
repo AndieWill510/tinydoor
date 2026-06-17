@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 8.7 — The Pillow Fort Was Always Architecture
 
-## Doorway
+## A Way In
 
 Maybe it was couch cushions first.
 
