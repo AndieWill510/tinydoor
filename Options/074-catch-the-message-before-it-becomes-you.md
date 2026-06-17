@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 5.12 — Catch the Message Before It Becomes You
+# Option 5.12
+# Catch the Message Before It Becomes You
 
 ## A Way In
 
