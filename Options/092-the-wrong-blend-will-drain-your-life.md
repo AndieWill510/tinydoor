@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 8.2 — The Wrong Blend Will Drain Your Life
 
-Author: Kevin "Andie" Williams  
-Status: Way Home draft / source-witness translation  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/410.md; Options/073-spend-your-spoons-where-you-are-believed.md; Options/077-choose-stress-that-gives-something-back.md  
-Evidence: source-witness frame / spoon-makers, spoon-takers, and energy-blend frame  
-Safety: burnout / exhaustion / relational drain / energy accounting; no medical, legal, or employment advice
-
----
-
 ## Doorway
 
 The wrong blend will drain your life.
