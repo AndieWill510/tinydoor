@@ -18,14 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 1.16 — The New Egyptian
 
-Author: Kevin "Andie" Williams  
-Status: Community section memoir draft  
-Project: You Have Another Option  
-Source: Andie live dictation; Sections/02-community-as-survival-infrastructure.md  
-Safety: memoir / queer community / belonging / human-AI process reference; disclosure review required
-
----
-
 ## Doorway
 
 This is the part where the pattern proved it could move.
