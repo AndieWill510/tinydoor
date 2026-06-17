@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 3.17 — Positive Is Not the Point
 
-## Doorway
+## A Way In
 
 You are in the supermarket and the line has stopped moving.
 
