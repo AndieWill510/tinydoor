@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 4.20 — Repair That Reaches the Body
 
-Author: Kevin "Andie" Williams  
-Status: Way Home draft / source-witness translation  
-Project: Tiny Door / You Have Another Option  
-Source: CDP CULTURE.md sections 3.1–3.3; Options/060-the-first-adult-standing.md; Options/061-the-old-promise-still-opens.md  
-Evidence: family account / source-witness frame; archival bridge preserved in CDP culture; no unsupported empirical claim  
-Safety: childhood neglect / family conflict / poverty shame; no parent-villain spectacle; no wealth-adjacency claim as legitimacy
-
----
-
 ## Doorway
 
 The braces were not metaphor.
