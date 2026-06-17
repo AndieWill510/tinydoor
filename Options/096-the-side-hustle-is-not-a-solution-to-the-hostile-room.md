@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 8.6 — The Side Hustle Is Not a Solution to the Hostile Room
+# Option 8.6 — The Side Hustle Is Not a Solution to a Hostile Room
 
 Author: Kevin "Andie" Williams  
 Status: Way Home draft / source-witness translation  
@@ -29,49 +29,47 @@ Safety: financial precarity / isolation / burnout / structural harm; no medical,
 
 ## Doorway
 
-The advice sounds like freedom.
+The advice sounds like freedom:
 
-Go freelance.
+> Go freelance
 
-Work from home.
+> Work from home
 
-Start your own thing.
+> Start your own thing
 
-Be your own boss.
+> Be your own boss
 
-The nine-to-five was not made for you.
+> The nine-to-five was not made for you
 
-The office is too loud anyway.
+> The office is too loud anyway
 
-The meetings are too much.
+> The meetings are too much
 
-The lights are too bright.
+> The lights are too bright
 
-The people are too confusing.
+> The people are too confusing
 
-The review system rewards the wrong things.
+> The review system rewards the wrong things
 
 So the side hustle looks like a door.
 
-More control.
+> More control.
 
-Your own schedule.
+> Your own schedule.
 
-Fewer forced smiles.
+> Fewer forced smiles.
 
-Less office noise.
+> Less office noise.
 
 Then the other costs arrive.
 
-No floor.
+> No floor.
 
-No backup.
+> No backup.
 
-No paid recovery.
+> No paid recovery.
 
-No colleague who can cover when capacity drops.
-
-No structure that has to change.
+> No colleague who can cover when capacity drops.
 
 Only you, the market, and the bill.
 
@@ -81,37 +79,31 @@ It is what happens when the hostile room refuses to change.
 
 ## Pressure
 
-The trick is quiet.
-
 The demand to adapt moves locations.
 
 At first, the office would not change.
-
-Now the market will not care.
-
-The sensory load the room refused to lower is now yours to solve alone.
 
 The flexible schedule that sounded like relief can become the absence of any floor when the body has a bad month.
 
 The freedom from masking can become the demand to sell yourself in public.
 
-Write the pitch.
+> Write the pitch.
 
-Find the client.
+> Find the client.
 
-Post the update.
+> Post the update.
 
-Send the invoice.
+> Send the invoice.
 
-Track the tax.
+> Track the tax.
 
-Answer the message.
+> Answer the message.
 
-Be professional while exhausted.
+> Be professional while exhausted.
 
-Be visible while overloaded.
+> Be visible while overloaded.
 
-Be charming while trying not to disappear.
+> Be charming while trying not to disappear.
 
 The hostile employer may be gone.
 
@@ -135,13 +127,7 @@ But it is not structural repair by itself.
 
 It can hand one person a portable version of the same problem.
 
-More admin.
-
-More selling.
-
-More isolation.
-
-More risk.
+More admin, more selling, more isolation and more risk.
 
 More days where capacity drops and nothing catches you.
 
@@ -169,19 +155,13 @@ First:
 
 Name one.
 
-Sensory load.
+> Sensory load.
 
-Rigid schedule.
+> Rigid schedule.
 
-Masking performance.
+> Masking performance.
 
-Social demand.
-
-Review system.
-
-Context switching.
-
-Unwritten rules.
+> Social demand.
 
 Then ask:
 
@@ -217,7 +197,7 @@ You are not the accommodation.
 
 The world owes you work that does not cost you your health.
 
-The side hustle was not the answer.
+The side hustle may not be not the answer.
 
 It was the system handing you the bill for its own failure.
 
