@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 4.8 — Expert Words Travel
+# Option 4.8
+# Expert Words Travel
 
 ## A Way In
 
