@@ -18,14 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 1.17 — Friends From Nowhere
 
-Author: Kevin "Andie" Williams  
-Status: Community section memoir draft  
-Project: You Have Another Option  
-Source: Andie live dictation  
-Safety: memoir / teenage car crash reference / friendship / survival / disclosure review required
-
----
-
 ## Doorway
 
 Friends started arriving from nowhere.
