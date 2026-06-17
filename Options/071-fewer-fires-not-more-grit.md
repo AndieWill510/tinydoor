@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 5.9 — Fewer Fires, Not More Grit
 
-## Doorway
+## A Way In
 
 When everything is on fire, people may praise grit.
 
