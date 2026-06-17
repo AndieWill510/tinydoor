@@ -18,14 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 1.5 — Another Option
 
-Author: Kevin "Andie" Williams  
-Status: Doorway pilot draft  
-Project: You Have Another Option  
-Source: Chapters/010.md; README.md; rfc/000.md  
-Safety: mortality / suicide-prevention frame implied; no method detail; "break down" phrase in Pressure section flagged for safety-style-guide review
-
----
-
 ## Doorway
 
 This book is called *You Have Another Option* because that sentence can matter when almost nothing else gets through.
