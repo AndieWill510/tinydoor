@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 4.17 — Ask Why the Room Needs This to Stop
 
-Author: Kevin "Andie" Williams  
-Status: Way Home draft / source-witness translation  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/110.md; Options/049-bad-help-teaches-bad-questions.md; Options/054-the-environment-can-be-sick.md  
-Evidence: ethical frame / Five Whys source witness; no unsupported empirical claim  
-Safety: ableism / behavior correction / shame; no diagnostic labeling of groups; no trauma spectacle
-
----
-
 ## Doorway
 
 A hand flaps.
