@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 4.5 — I Pass Until I Start Speaking
 
-## Doorway
+## A Way In
 
 It's a legacy of racism, in the Indigenous culture in which I was raised, to talk about "passing."
 
