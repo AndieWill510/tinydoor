@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 7.1 — You Can Be Right Without Staying in the Fight
 
-Author: Kevin "Andie" Williams  
-Status: Way Home draft / source-witness translation  
-Project: Tiny Door / You Have Another Option  
-Source: user-provided work-rumination prompt; Options/079-the-signal-is-not-a-sin.md; Options/084-good-help-has-to-be-good.md  
-Evidence: source-witness frame / workplace fairness and rumination frame; autonomic language used as metaphor, not medical claim  
-Safety: workplace conflict / rumination / anger / unfairness / nervous-system activation; no legal, medical, or employment advice
-
----
-
 ## Doorway
 
 You can be right without staying in the fight.
