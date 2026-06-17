@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 8.3 — Tune, Prune, Ground, Shape
 
-Author: Kevin "Andie" Williams  
-Status: Way Home draft / source-witness translation  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/410.md; Chapters/440.md; Options/071-fewer-fires-not-more-grit.md; Options/076-your-sensory-diet-is-not-decoration.md  
-Evidence: source-witness frame / tuning, pruning, grounding, shaping frame  
-Safety: sensory load / burnout / environment design / disability support; no medical, legal, or employment advice
-
----
-
 ## Doorway
 
 Neorodivergent lives do not become healthy by willpower alone, they need design.
