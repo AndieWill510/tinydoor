@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 5.15 — Choose Stress That Gives Something Back
 
-## Doorway
+## A Way In
 
 Not all stress is the same.
 
@@ -31,7 +31,6 @@ Some stress
 > keeps the nervous system rehearsing danger
 
 > steals sleep and calls it discipline
-
 
 But some stress gives something back.
 
