@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Chapter 2.5 / Option 020.2 — The Room Was Sick First
 
-## Doorway
+## A Way In
 
 A room can make you sick without anyone in it deciding to hurt you.
 
