@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 1.9 — Community Is Survival Infrastructure
 
-## Doorway
+## A Way In
 
 The first part of this book says: maybe the failure was not you.
 
