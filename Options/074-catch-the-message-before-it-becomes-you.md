@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 5.12 — Catch the Message Before It Becomes You
 
-## Doorway
+## A Way In
 
 A message can arrive before you notice it.
 
