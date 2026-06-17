@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 1.13 — Ella and the Old Man's Club
 
-## Doorway
+## A Way In
 
 Then walked in Ella.
 
