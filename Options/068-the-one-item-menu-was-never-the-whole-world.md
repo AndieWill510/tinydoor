@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 5.6 — The Menu You Were Given, Sucks
 
-## Doorway
+## A Way In
 
 When the body has been trained by pressure, it may offer the same old menu.
 
