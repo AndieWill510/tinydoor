@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 3.16 — Pleasure Is Not a Crime
 
-## Doorway
+## A Way In
 
 Pleasure is one of the places shame likes to set up camp.
 
