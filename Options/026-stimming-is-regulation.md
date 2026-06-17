@@ -18,14 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 3.3 — Stimming Is Regulation
 
-Author: Kevin "Andie" Williams  
-Status: Social model sprint draft  
-Project: You Have Another Option  
-Source: Chapters/030.md  
-Safety: regulation / overwhelm / meltdown-shutdown-burnout frame; no method detail; evidence review required
-
----
-
 ## Doorway
 
 A child rocks.
