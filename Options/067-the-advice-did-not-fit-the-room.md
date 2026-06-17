@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 5.5 — That Advice Did Not Fit the Room
 
-## Doorway
+## A Way In
 
 Some advice is flat wrong for Neurodivergent people:
 
