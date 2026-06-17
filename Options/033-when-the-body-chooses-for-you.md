@@ -18,14 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 3.10 — When the Body Chooses for You
 
-Author: Kevin "Andie" Williams  
-Status: Regulation / harm-reduction sprint draft  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/030.md; Options/027-you-may-not-be-at-peace.md; Options/030-you-can-always-stim.md  
-Safety: meltdown / shutdown / burnout / loss of control frame; no method detail; safety-style review required
-
----
-
 ## Doorway
 
 It is 4:40 p.m.
