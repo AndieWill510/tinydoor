@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 6.3 — Older Is Not Too Late
+# Option 6.3
+# Older Is Not Too Late
 
 ## A Way In
 
