@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 1.16 — The New Egyptian
 
-## Doorway
+## A Way In
 
 This is the part where the pattern proved it could move.
 
