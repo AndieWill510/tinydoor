@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 8.6 — The Side Hustle Is Not a Solution to a Hostile Room
 
-## Doorway
+## A Way In
 
 The advice sounds like freedom:
 
