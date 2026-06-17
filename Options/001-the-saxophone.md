@@ -18,14 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 1.1 — The Saxophone
 
-Author: Kevin "Andie" Williams  
-Status: Doorway pilot draft  
-Project: You Have Another Option  
-Source: FrontMatter/001-prelude-the-saxophone.md  
-Safety: low direct crisis content; childhood abandonment / shame content present
-
----
-
 ## Doorway
 
 Before we talk about a Neurodivergent life worth living, I want to start with a saxophone.
