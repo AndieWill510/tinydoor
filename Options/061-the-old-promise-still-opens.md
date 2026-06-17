@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 4.19 — The Old Promise Still Opens
 
-## Doorway
+## A Way In
 
 Sometimes the tiny door is not new.
 
