@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 6.6 — Stability Is Care, Not Compliance Theater
 
-## Doorway
+## A Way In
 
 Stability is not obedience theater.
 
