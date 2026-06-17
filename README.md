@@ -182,7 +182,7 @@ Working rule:
 
 Ideal chapter shape:
 
-1. story or "doorway;"
+1. A Way In;
 2. the problem;
 3. the reframe;
 4. one practical move;
