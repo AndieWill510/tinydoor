@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 1.8 — The Number Is Not Destiny
+# Option 1.8
+# The Number Is Not Destiny
 
 ## A Way In
 
