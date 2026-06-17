@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 4.12 — Protect the Witness
+# Option 4.12
+# Protect the Witness
 
 ## A Way In
 
