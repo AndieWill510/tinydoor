@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 5.11 — Spend Your Spoons Where You Are Believed
 
-Author: Kevin "Andie" Williams  
-Status: Way Home draft / source-witness translation  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/220.md; Options/070-shunning-is-a-system-not-a-verdict.md; Options/071-fewer-fires-not-more-grit.md  
-Evidence: source-witness frame / community-and-load frame; no unsupported population claim  
-Safety: bullying / shunning / gaslighting / isolation / community repair; no spectacle; no method detail
-
----
-
 ## Doorway
 
 Some rooms take spoons and give nothing back.
