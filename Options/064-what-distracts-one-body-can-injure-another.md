@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 5.2 — What Distracts One Body Can Injure Another
 
-Author: Kevin "Andie" Williams  
-Status: Way Home draft / source-witness translation  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/120.md  
-Evidence: source-witness frame / environmental access frame; no unsupported empirical claim  
-Safety: sensory overload / institutional design / shame / dysregulation; no trauma spectacle; no method detail
-
----
-
 ## Doorway
 
 A supermarket can feel like a casino with groceries.
