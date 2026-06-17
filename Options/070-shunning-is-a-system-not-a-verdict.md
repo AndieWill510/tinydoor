@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 5.8 — Shunning Is a System, Not a Verdict
 
-## Doorway
+## A Way In
 
 Being left out can feel like a verdict.
 
