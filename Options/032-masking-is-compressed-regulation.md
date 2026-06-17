@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 3.9 — Masking Is Compressed Regulation
 
-## Doorway
+## A Way In
 
 Masking can look like answering "I'm good" before you know whether you are.
 
