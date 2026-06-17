@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 3.13 — The After-Action Repair
+# Option 3.13
+# The After-Action Repair
 
 ## A Way In
 
