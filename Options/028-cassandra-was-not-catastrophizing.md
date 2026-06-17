@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 3.5 — Cassandra Was Not Catastrophizing, Either
+# Option 3.5
+# Cassandra Was Not Catastrophizing, Either
 
 ## A Way In
 
