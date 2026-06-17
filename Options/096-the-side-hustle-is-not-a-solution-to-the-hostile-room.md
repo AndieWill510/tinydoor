@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 8.6 — The Side Hustle Is Not a Solution to a Hostile Room
 
-Author: Kevin "Andie" Williams  
-Status: Way Home draft / source-witness translation  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/410.md; Chapters/440.md; Options/089-not-every-room-is-trying-to-tell-the-truth.md; Options/093-tune-prune-ground-shape.md  
-Evidence: source-witness frame / gig-economy-and-structural-harm frame  
-Safety: financial precarity / isolation / burnout / structural harm; no medical, legal, or employment advice; no crisis protocol; no resource directory; no claim that all self-employment is wrong
-
----
-
 ## Doorway
 
 The advice sounds like freedom:
