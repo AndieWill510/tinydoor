@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 4.15 — The Environment Can Be Sick
 
-Author: Kevin "Andie" Williams  
-Status: Way Home draft / source-witness translation  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/110.md; Options/046-a-good-goal-leaves-you-more-whole.md; Options/055-build-exits-not-cages.md  
-Evidence: ethical frame / social model / source witness; no unsupported clinical claim  
-Safety: ableism / institutional harm / shame; no diagnostic labeling of groups; no trauma spectacle
-
----
-
 ## Doorway
 
 Sometimes the room is wrong.
