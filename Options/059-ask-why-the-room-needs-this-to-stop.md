@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 4.17 — Ask Why the Room Needs This to Stop
 
-## Doorway
+## A Way In
 
 A hand flaps.
 
