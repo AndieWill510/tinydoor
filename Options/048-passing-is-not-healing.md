@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 4.6 — Passing Isn't Healing
+# Option 4.6
+# Passing Isn't Healing
 
 ## A Way In
 
