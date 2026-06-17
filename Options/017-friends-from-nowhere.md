@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 1.17 — Friends From Nowhere
+# Option 1.17
+# Friends From Nowhere
 
 ## A Way In
 
