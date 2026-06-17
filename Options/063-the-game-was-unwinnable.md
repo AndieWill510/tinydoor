@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 5.1 — The Game Was Unwinnable
 
-## Doorway
+## A Way In
 
 Some standards are not standards.
 
