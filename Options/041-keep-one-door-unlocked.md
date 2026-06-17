@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 3.18 — Keep One Door Unlocked
+# Option 3.18
+# Keep One Door Unlocked
 
 ## A Way In
 
