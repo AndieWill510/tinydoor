@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 6.4 — Good Help Has to Help
 
-## Doorway
+## A Way In
 
 I am not writing this from far away.
 
