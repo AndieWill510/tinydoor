@@ -18,14 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 3.13 — The After-Action Repair
 
-Author: Kevin "Andie" Williams  
-Status: Recovery / harm-reduction sprint draft  
-Project: Tiny Door / You Have Another Option  
-Source: You Have Another Option_type_II.docx memory; Options/030-when-the-body-chooses-for-you.md  
-Safety: overload recovery / repair / accountability / reflection frame; no method detail
-
----
-
 ## Doorway
 
 Later is different from never, after a meltdown.
