@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 5.7 — The Word Is a Handle
+# Option 5.7
+# The Word Is a Handle
 
 ## A Way In
 
