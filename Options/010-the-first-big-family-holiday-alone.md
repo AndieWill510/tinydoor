@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 1.10 — The First Big Family Holiday Alone
 
-## Doorway
+## A Way In
 
 Memorial Day 2024 was the first big family holiday after the Christmas holiday season that almost ended me.
 
