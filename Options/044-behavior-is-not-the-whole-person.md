@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 4.2 — Behavior Is Not the Whole Person
 
-## Doorway
+## A Way In
 
 Behavior is visible.
 
