@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 5.16 — Flow Is a Regulation Door
 
-## Doorway
+## A Way In
 
 Flow is not an escape from reality.
 
