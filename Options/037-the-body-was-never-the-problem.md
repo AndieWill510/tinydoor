@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 3.14 — Your Body Was Never the Problem
+# Option 3.14
+# Your Body Was Never the Problem
 
 ## A Way In
 
