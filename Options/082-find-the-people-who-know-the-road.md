@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 6.2 — Find the People Who Know the Road
+# Option 6.2
+# Find the People Who Know the Road
 
 ## A Way In
 
