@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 5.3 — The Shame Cycle Is Not Your Character
 
-## Doorway
+## A Way In
 
 A cycle of shame can make survival look like personality.
 
