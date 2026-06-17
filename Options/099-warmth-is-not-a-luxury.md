@@ -29,25 +29,15 @@ Safety: sensory overwhelm / regulation / emotional wellbeing; no medical advice,
 
 ## Doorway
 
-The mug is heavy enough.
-
-The handle fits two fingers.
+The mug is heavy enough. The handle fits two fingers.
 
 The tea is warm against your palms before you drink it.
 
-The blanket has the right weight.
-
-Not too soft.
-
-Not scratchy.
+The blanket has the right weight. Not too soft. Not scratchy.
 
 It lands on your legs and the body drops one inch.
 
-The lamp is in the corner.
-
-Not overhead.
-
-Not buzzing.
+The lamp is in the corner. Not overhead. Not buzzing.
 
 A small circle of amber light on the page.
 
@@ -56,8 +46,6 @@ The dog leans against your shin.
 The cat chooses your lap and makes a little engine there.
 
 Rain taps the window.
-
-The door closes.
 
 The sound of the world goes down one register.
 
@@ -69,19 +57,15 @@ This is comfort as what being alive can feel like when the body is not under thr
 
 The world called comfort suspicious.
 
-Soft.
+> Soft. Lazy. Indulgent.
 
-Lazy.
+> Too sensitive.
 
-Indulgent.
+> Too particular.
 
-Too sensitive.
+> High maintenance.
 
-Too particular.
-
-High maintenance.
-
-Needs everything just right.
+> Needs everything just right.
 
 Real life is hard.
 
@@ -91,23 +75,23 @@ You cannot always have the room exactly how you want it.
 
 So people learned to brace.
 
-Through the light.
+> Through the light.
 
-Through the noise.
+> Through the noise.
 
-Through the scratchy collar.
+> Through the scratchy collar.
 
-Through the chair that faces the wrong way.
+> Through the chair that faces the wrong way.
 
-Through the open office.
+> Through the open office.
 
-Through the cold room.
+> Through the cold room.
 
-Through the meeting after the meeting.
+> Through the meeting after the meeting.
 
-Through the smell no one else notices.
+> Through the smell no one else notices.
 
-Through the day everyone says is normal.
+> Through the day everyone says is normal.
 
 Years can disappear like that.
 
@@ -139,29 +123,29 @@ It is a condition for life.
 
 A nervous system that is not bracing can do things a bracing nervous system cannot.
 
-It can rest.
+> It can rest.
 
-It can recover.
+> It can recover.
 
-It can relate.
+> It can relate.
 
-It can create.
+> It can create.
 
 It can feel what it feels instead of spending every ounce managing what the room will accept.
 
 Some cultures have a word for this kind of lived warmth.
 
-Candles.
+> Candles.
 
-Blankets.
+> Blankets.
 
-Known people.
+>. Known people.
 
-Chosen solitude.
+>. Chosen solitude.
 
-Food that is good enough.
+> Food that is good enough.
 
-Weather outside and safety inside.
+> Weather outside and safety inside.
 
 Autistic and ADHD bodies did not need a lifestyle brand to know this.
 
