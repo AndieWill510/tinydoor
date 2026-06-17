@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 5.6 — The Menu You Were Given, Sucks
 
-Author: Kevin "Andie" Williams  
-Status: Way Home draft / source-witness translation  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/160.md; Options/065-the-shame-cycle-is-not-your-character.md; Options/066-protective-mimicry-was-not-your-failure.md; Options/067-the-advice-did-not-fit-the-room.md  
-Evidence: source-witness frame / paradigm-shift frame; no unsupported clinical or evolutionary claim  
-Safety: burnout / dysregulation / shame / social threat / recovery; no medical advice; no method detail
-
----
-
 ## Doorway
 
 When the body has been trained by pressure, it may offer the same old menu.
