@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 8.5 — Personal Branding Is Another Masking Demand
 
-Author: Kevin "Andie" Williams  
-Status: Way Home draft / source-witness translation  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/440.md; Options/032-masking-is-compressed-regulation.md; Options/048-passing-is-not-healing.md; Options/088-you-can-be-right-without-staying-in-the-fight.md; Options/093-tune-prune-ground-shape.md  
-Evidence: source-witness frame / personal-branding-and-public-performance frame  
-Safety: masking cost / public performance / privacy / identity / performance exhaustion; no medical, legal, or employment advice; no claim that all public sharing is harmful
-
----
-
 ## Doorway
 
 The advice arrives with a smile: build your personal brand...
