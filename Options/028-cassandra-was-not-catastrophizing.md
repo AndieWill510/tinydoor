@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 3.5 — Cassandra Was Not Catastrophizing, Either
 
-## Doorway
+## A Way In
 
 Sometimes people call it catastrophizing when you are actually remembering.
 
