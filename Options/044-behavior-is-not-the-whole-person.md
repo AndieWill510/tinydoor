@@ -18,14 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 4.2 — Behavior Is Not the Whole Person
 
-Author: Kevin "Andie" Williams  
-Status: Institutional harm sprint draft  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/070.md  
-Safety: ABA / behaviorism / clinical history / institutional harm; no method detail; evidence review required
-
----
-
 ## Doorway
 
 Behavior is visible.
