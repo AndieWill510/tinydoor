@@ -18,14 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 3.2 — The Missing Ramp
 
-Author: Kevin "Andie" Williams  
-Status: Social model sprint draft  
-Project: You Have Another Option  
-Source: Chapters/020.md  
-Safety: disability / accommodation / mortality frame implied; no method detail
-
----
-
 ## Doorway
 
 A person who uses a wheelchair arrives at a building with stairs and no ramp.
