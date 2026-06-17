@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 5.15 — Choose Stress That Gives Something Back
 
-Author: Kevin "Andie" Williams  
-Status: Way Home draft / source-witness translation  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/280.md; Options/071-fewer-fires-not-more-grit.md; Options/073-spend-your-spoons-where-you-are-believed.md  
-Evidence: source-witness frame / anti-fragility frame; no medical advice; no unsupported clinical claim  
-Safety: stress / distraction / pain / burnout / community-building; no medical advice; persistent pain or medical concerns require qualified help
-
----
-
 ## Doorway
 
 Not all stress is the same.
