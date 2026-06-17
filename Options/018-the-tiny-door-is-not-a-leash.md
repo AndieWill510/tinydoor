@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Chapter 2.1 / Option 018 — The Tiny Door Is Not a Leash
 
-## Doorway
+## A Way In
 
 Some doors are not doors.
 
