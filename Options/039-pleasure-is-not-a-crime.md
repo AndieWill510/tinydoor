@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 3.16 — Pleasure Is Not a Crime
+# Option 3.16
+# Pleasure Is Not a Crime
 
 ## A Way In
 
