@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 6.4 — Good Help Has to Help
 
-Author: Kevin "Andie" Williams  
-Status: Way Home draft / source-witness translation  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/380.md; Chapters/390.md; Chapters/400.md; Options/020-help-has-to-fit-the-body.md; Options/043-when-help-means-be-easier.md; Options/083-older-is-not-too-late.md  
-Evidence: source-witness frame / serious-support frame; lived-experience witness; no diagnostic instruction; no treatment instruction  
-Safety: serious mental health support / trauma / medical support / bad help; urgent risk requires immediate qualified help
-
----
-
 ## Doorway
 
 I am not writing this from far away.
