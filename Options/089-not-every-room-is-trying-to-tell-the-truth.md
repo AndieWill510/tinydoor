@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 7.2 — Not Every Room Is Trying to Tell the Truth
 
-## Doorway
+## A Way In
 
 Not every room is trying to tell the truth.
 
