@@ -18,14 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 1.13 — Ella and the Old Man's Club
 
-Author: Kevin "Andie" Williams  
-Status: Community section memoir draft  
-Project: You Have Another Option  
-Source: Sections/02-community-as-survival-infrastructure.md; Andie live dictation  
-Safety: memoir / belonging / chosen-community arc; disclosure review required
-
----
-
 ## Doorway
 
 Then walked in Ella.
