@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 4.12 — Protect the Witness
 
-## Doorway
+## A Way In
 
 It's not unusual for Neurodivergent people to be as much or more witnesses to the lives we lead, than participants. 
 
