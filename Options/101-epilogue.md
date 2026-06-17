@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # 101 — Epilogue
 
-Author: Kevin "Andie" Williams  
-Status: Epilogue / acknowledgements  
-Project: Tiny Door / You Have Another Option  
-Source: Andie direct epilogue draft  
-Evidence: lived community / source-witness frame  
-Safety: acknowledgements; no medical, legal, or crisis protocol
-
----
-
 Many hands make for light work, and I would thank so many people.
 
 But first I would thank Mati Lawrence, who taught me to start building -- which meant searching -- for authentic Autistic community. One of which he helped build, and continues to do so. To Chris Norton who also believed in this book and pointed me to a simpler version that you all have in your hands. Both Mati and Chris saw the need for this book almost before I did.
