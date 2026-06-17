@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 8.2 — The Wrong Blend Will Drain Your Life
+# Option 8.2
+# The Wrong Blend Will Drain Your Life
 
 ## A Way In
 
