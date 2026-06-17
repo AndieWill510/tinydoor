@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 6.3 — Older Is Not Too Late
 
-## Doorway
+## A Way In
 
 Older is not too late.
 
