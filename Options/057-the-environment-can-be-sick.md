@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 4.15 — The Environment Can Be Sick
 
-## Doorway
+## A Way In
 
 Sometimes the room is wrong.
 
