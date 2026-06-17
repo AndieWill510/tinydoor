@@ -18,14 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 3.15 — Stigma Teaches the Body to Hide
 
-Author: Kevin "Andie" Williams  
-Status: Body / shame / consent bridge sprint draft  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/040.md; Chapters/050.md  
-Safety: stigma / sexuality-adjacent / body shame / consent / privacy; no explicit sexual detail
-
----
-
 ## Doorway
 
 Stigma often arrives before language.
