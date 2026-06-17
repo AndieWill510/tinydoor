@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 1.11 — Coach at Cheers
 
-## Doorway
+## A Way In
 
 He, I'll call him "Coach," asked me what brought me to town.
 
