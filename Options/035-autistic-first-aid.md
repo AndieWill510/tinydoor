@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 3.12 — Our First Aid
+# Option 3.12
+# Our First Aid
 
 ## A Way In
 
