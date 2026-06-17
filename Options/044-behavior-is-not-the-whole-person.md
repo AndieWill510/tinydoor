@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 4.2 — Behavior Is Not the Whole Person
+# Option 4.2
+# Behavior Is Not the Whole Person
 
 ## A Way In
 
