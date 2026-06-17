@@ -18,14 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 3.11 — After the Body Chooses
 
-Author: Kevin "Andie" Williams  
-Status: Recovery / harm-reduction sprint draft  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/030.md; Options/033-when-the-body-chooses-for-you.md  
-Safety: meltdown / shutdown / overload / recovery frame; no method detail; safety-style review required
-
----
-
 ## Doorway
 
 The first minute after overload is not a courtroom.
