@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 7.1 — You Can Be Right Without Staying in the Fight
 
-## Doorway
+## A Way In
 
 You can be right without staying in the fight.
 
