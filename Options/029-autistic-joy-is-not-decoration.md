@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 3.6 — Joy Is Not Frosting
 
-## Doorway
+## A Way In
 
 Our version of joy is not cute frosting on the survival cake.
 
