@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Chapter 2.1 — The Tiny Door Is Not a Leash
+# Option 2.1
+# The Tiny Door Is Not a Leash
 
 ## A Way In
 
