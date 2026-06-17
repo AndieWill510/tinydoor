@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 5.18 — You Are Not One Thing
 
-## Doorway
+## A Way In
 
 You are not one thing.
 
