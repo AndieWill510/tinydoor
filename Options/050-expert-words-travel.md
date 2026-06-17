@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 4.8 — Expert Words Travel
 
-## Doorway
+## A Way In
 
 An expert says the behavior is the problem.
 
