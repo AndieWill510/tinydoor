@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Chapter 2.3 — Help Has to Fit the Body
+# Option 2.3
+# Help Has to Fit the Body
 
 ## A Way In
 
