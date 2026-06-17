@@ -18,14 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 3.1 — Neurodivergence Is Not The Parasite
 
-Author: Kevin "Andie" Williams  
-Status: Social model sprint draft  
-Project: You Have Another Option  
-Source: Chapters/020.md  
-Safety: identity / disability / mortality frame implied; no method detail; evidence review required
-
----
-
 ## Doorway
 
 Imagine a room full of Neurodivergent people.
