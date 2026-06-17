@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 5.4 — Protective Mimicry Was Not Your Choice
+# Option 5.4
+# Protective Mimicry Was Not Your Choice
 
 ## A Way In
 
