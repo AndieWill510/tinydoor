@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 4.14 — The Letter That Arrives After the Hospital
+# Option 4.14
+# The Letter That Arrives After the Hospital
 
 ## A Way In
 
