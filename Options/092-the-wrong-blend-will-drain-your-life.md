@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 8.2 — The Wrong Blend Will Drain Your Life
 
-## Doorway
+## A Way In
 
 The wrong blend will drain your life.
 
