@@ -34,7 +34,7 @@ It was refusing to make the headache smaller, the dizziness quieter, or the stom
 
 Sometimes that was the only tiny door available.
 
-## Doorway
+## A Way In
 
 Sometimes the body gives the boundary before words can.
 
