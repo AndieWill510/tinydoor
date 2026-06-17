@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 5.7 — The Word Is a Handle
 
-Author: Kevin "Andie" Williams  
-Status: Way Home draft / source-witness translation  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/170.md; Options/063-the-game-was-unwinnable.md; Options/065-the-shame-cycle-is-not-your-character.md  
-Evidence: source-witness frame / proposed-language frame; no claim that the term is settled public vocabulary  
-Safety: ableism / stigma / social exclusion / family grief / bullying; no spectacle; no method detail
-
----
-
 ## Doorway
 
 Sometimes the available word is too small.
