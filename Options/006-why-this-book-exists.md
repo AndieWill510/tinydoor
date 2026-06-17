@@ -18,14 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 1.6 — Why This Book Exists
 
-Author: Kevin "Andie" Williams  
-Status: Bridge sprint draft  
-Project: You Have Another Option  
-Source: Chapters/010.md; README.md; rfc/safety-style-guide.md  
-Safety: premature death / suicide-prevention frame implied; no method detail
-
----
-
 ## Doorway
 
 This book exists because too many Neurodivergent people are carrying pain that gets misnamed.
