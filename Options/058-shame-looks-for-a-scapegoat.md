@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 4.16 — Shame Looks for a Scapegoat
+# Option 4.16
+# Shame Looks for a Scapegoat
 
 ## A Way In
 
