@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 1.4 — The First Mercy
+# Option 1.4
+# The First Mercy
 
 ## A Way In
 
