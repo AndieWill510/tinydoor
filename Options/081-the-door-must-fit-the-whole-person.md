@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 6.1 — The Door Must Fit the Whole Person
+# Option 6.1
+# The Door Must Fit the Whole Person
 
 ## A Way In
 
