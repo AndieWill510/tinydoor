@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 3.10 — When the Body Chooses for You
 
-## Doorway
+## A Way In
 
 It is 4:40 p.m.
 
