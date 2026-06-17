@@ -28,7 +28,7 @@ Safety: low direct crisis content; childhood abandonment / shame content present
 
 ## Doorway
 
-Before we talk about Autism, lifespan, or survival, I want to start with a saxophone.
+Before we talk about a Neurodivergent life worth living, I want to start with a saxophone.
 
 I was eleven years old, standing in Texas winter cold before dawn, waiting for school and band and another day of trying to make something beautiful happen with an instrument that would not cooperate.
 
