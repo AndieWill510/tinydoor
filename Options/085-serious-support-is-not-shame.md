@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 6.5 — Serious Support Is Not Shame
 
-## Doorway
+## A Way In
 
 Some things deserve serious support.
 
