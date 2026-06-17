@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 3.15 — Stigma Teaches the Body to Hide
+# Option 3.15
+# Stigma Teaches the Body to Hide
 
 ## A Way In
 
