@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 5.17 — The Signal Is Not a Sin
 
-## Doorway
+## A Way In
 
 A signal is not a sin.
 
