@@ -18,14 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 1.4 — The First Mercy
 
-Author: Kevin "Andie" Williams  
-Status: Doorway pilot draft  
-Project: You Have Another Option  
-Source: FrontMatter/001-prelude-the-saxophone.md; Chapters/010.md  
-Safety: low direct crisis content; shame / ableism content present
-
----
-
 ## Doorway
 
 Now we take the saxophone story out of the band room and hand it to you, the reader, as a concept.
