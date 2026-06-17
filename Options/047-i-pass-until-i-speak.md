@@ -18,14 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 4.5 — I Pass Until I Start Speaking
 
-Author: Kevin "Andie" Williams  
-Status: Source-witness draft  
-Project: Tiny Door / You Have Another Option  
-Source: Andie dictation; Options/046-normal-is-not-okay.md; Options/048-passing-is-not-healing.md  
-Safety: trans life / ableism / queer survival / passing / anti-normalization; no method detail; protective address to reader
-
----
-
 ## Doorway
 
 It's a legacy of racism, in the Indigenous culture in which I was raised, to talk about "passing."
