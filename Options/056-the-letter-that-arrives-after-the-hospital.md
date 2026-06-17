@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 4.14 — The Letter That Arrives After the Hospital
 
-## Doorway
+## A Way In
 
 Sometimes the person who should have come to the hospital, or a crisis that should have put you in the hospital, writes a note or gives a speech instead.
 
