@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 4.4 — "Normal" Is Not Okay
 
-## Doorway
+## A Way In
 
 I am not able to blend in anymore.
 
