@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 4.1 — When Help Means “Be Easier”
 
-## Doorway
+## A Way In
 
 A child is brought to a room because adults say they need help.
 
