@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 4.9 — The Goal Leaves the Room
+# Option 4.9
+# The Goal Leaves the Room
 
 ## A Way In
 
