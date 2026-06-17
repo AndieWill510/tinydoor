@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 5.11 — Spend Your Spoons Where You Are Believed
 
-## Doorway
+## A Way In
 
 Some rooms take spoons and give nothing back.
 
