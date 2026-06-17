@@ -18,14 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 1.10 — The First Big Family Holiday Alone
 
-Author: Kevin "Andie" Williams  
-Status: Community section bridge draft  
-Project: You Have Another Option  
-Source: Sections/02-community-as-survival-infrastructure.md; Andie live dictation  
-Safety: memoir / loneliness / near-death holiday context / survival motion; no method detail
-
----
-
 ## Doorway
 
 Memorial Day 2024 was the first big family holiday after the Christmas holiday season that almost ended me.
