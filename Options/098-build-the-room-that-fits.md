@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 8.8 — Build the Room That Fits
 
-Author: Kevin "Andie" Williams  
-Status: Way Home draft / source-witness translation  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/410.md; Chapters/440.md; Options/076-your-sensory-diet-is-not-decoration.md; Options/093-tune-prune-ground-shape.md; Options/097-the-pillow-fort-was-always-architecture.md  
-Evidence: source-witness frame / adult-habitat-design frame  
-Safety: sensory overwhelm / housing / access / economic limits; no medical advice, interior design instruction, or economic prescription; no claim that all habitat design is available at all economic conditions
-
----
-
 ## Doorway
 
 The adult fort may be a whole apartment.
