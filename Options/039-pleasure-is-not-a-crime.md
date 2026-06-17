@@ -18,14 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 3.16 — Pleasure Is Not a Crime
 
-Author: Kevin "Andie" Williams  
-Status: Body / shame / consent bridge sprint draft  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/040.md; Chapters/050.md  
-Safety: sexuality-adjacent / pleasure / consent / privacy / shame-reduction; no explicit sexual detail; evidence review required
-
----
-
 ## Doorway
 
 Pleasure is one of the places shame likes to set up camp.
