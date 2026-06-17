@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 3.7 — You Can Always Stim
 
-## Doorway
+## A Way In
 
 You can always find some way to stim.
 
