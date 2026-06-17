@@ -12,7 +12,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Chapter 2.6 — Let the Symptom Count
+# Option 2.6
+# Let the Symptom Count
 
 ## Background
 
