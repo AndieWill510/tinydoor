@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 1.1 — The Saxophone
+# Option 1.1
+# The Saxophone
 
 ## A Way In
 
