@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 4.11 — The Fire Was Not the Lesson
+# Option 4.11
+# The Fire Was Not the Lesson
 
 ## A Way In
 
