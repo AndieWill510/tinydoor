@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 4.15 — The Environment Can Be Sick
+# Option 4.15
+# The Environment Can Be Sick
 
 ## A Way In
 
