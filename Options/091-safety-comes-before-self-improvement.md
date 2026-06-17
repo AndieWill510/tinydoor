@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 8.1 — Safety Comes Before Self-Improvement
+# Option 8.1
+# Safety Comes Before Self-Improvement
 
 ## A Way In
 
