@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 6.6 — Stability Is Care, Not Compliance Theater
 
-Author: Kevin "Andie" Williams  
-Status: Way Home draft / source-witness translation  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/380.md; Chapters/390.md; Options/084-good-help-has-to-be-good.md; Options/085-serious-support-is-not-shame.md  
-Evidence: source-witness frame / stability-and-agency frame; no diagnostic instruction; no treatment instruction  
-Safety: serious support / stability / sleep / routines / qualified care / agency; urgent risk requires immediate qualified help
-
----
-
 ## Doorway
 
 Stability is not obedience theater.
