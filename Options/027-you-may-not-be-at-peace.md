@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 3.4 — You May Not Be at Peace
 
-## Doorway
+## A Way In
 
 You can look still and not be at peace.
 
