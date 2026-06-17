@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 6.3 — Older Is Not Too Late
 
-Author: Kevin "Andie" Williams  
-Status: Way Home draft / source-witness translation  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/370.md; Options/071-fewer-fires-not-more-grit.md; Options/080-you-are-not-one-thing.md  
-Evidence: source-witness frame / aging-and-self-protection frame; no medical advice; no unsupported aging claim  
-Safety: aging / late diagnosis / exhaustion / disability / family boundaries / masking; no trauma spectacle; urgent medical or safety concerns require qualified help
-
----
-
 ## Doorway
 
 Older is not too late.
