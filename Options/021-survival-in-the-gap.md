@@ -18,16 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Chapter 2.4 / Option 021 — Survival in the Gap
 
-Author: Kevin "Andie" Williams  
-Status: promoted  
-Project: You Have Another Option  
-Chapter: 2.4  
-Option: 021  
-Source: Options 018-020; ConstantC covenant / reciprocal guardrails  
-Safety: coercion / compliance / constrained-exit content present; no method detail
-
----
-
 ## Doorway
 
 Sometimes you find the leash and still cannot leave.
