@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 6.2 — Find the People Who Know the Road
 
-## Doorway
+## A Way In
 
 Some roads cannot be explained well by people who have never had to walk them.
 
