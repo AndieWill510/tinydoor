@@ -61,8 +61,6 @@ Then someone says:
 
 And suddenly the thing that gave you back to yourself is being measured for a cash register.
 
-Your respite is not a revenue stream.
-
 ## Pressure
 
 Hustle culture has a simple trap.
