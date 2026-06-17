@@ -18,14 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 3.12 — Our First Aid
 
-Author: Kevin "Andie" Williams  
-Status: Recovery / harm-reduction sprint draft  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/030.md; You Have Another Option_type_II.docx memory  
-Safety: overload recovery / shutdown / meltdown / first-aid frame; no method detail; not medical advice
-
----
-
 ## Doorway
 
 A first-aid kit does not ask whether you deserved the cut.
