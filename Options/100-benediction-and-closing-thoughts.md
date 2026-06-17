@@ -55,7 +55,7 @@ Whoever has hurt you,
 
 whoever hurts you still —
 
-**they don’t get to win.**
+**_they don’t get to win_.**
 
 ---
 
