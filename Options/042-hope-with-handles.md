@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 3.19 — Hope With Handles
+# Option 3.19
+# Hope With Handles
 
 ## A Way In
 
