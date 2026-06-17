@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 6.1 — The Door Must Fit the Whole Person
 
-## Doorway
+## A Way In
 
 A tiny door still has to fit the person using it.
 
