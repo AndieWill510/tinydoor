@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 8.8 — Build the Room That Fits
 
-## Doorway
+## A Way In
 
 The adult fort may be a whole apartment.
 
