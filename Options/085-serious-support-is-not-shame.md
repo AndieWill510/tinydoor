@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 6.5 — Serious Support Is Not Shame
+# Option 6.5
+# Serious Support Is Not Shame
 
 ## A Way In
 
