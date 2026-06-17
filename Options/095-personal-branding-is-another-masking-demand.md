@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 8.5 — Personal Branding Is Another Masking Demand
+# Option 8.5
+# Personal Branding Is Another Masking Demand
 
 ## A Way In
 
