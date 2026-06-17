@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 5.2 — What Distracts One Body Can Injure Another
+# Option 5.2
+# What Distracts One Body Can Injure Another
 
 ## A Way In
 
