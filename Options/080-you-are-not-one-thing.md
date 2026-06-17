@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 5.18 — You Are Not One Thing
 
-Author: Kevin "Andie" Williams  
-Status: Way Home draft / source-witness translation  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/310.md; Chapters/320.md; Options/074-catch-the-message-before-it-becomes-you.md; Options/076-your-sensory-diet-is-not-decoration.md  
-Evidence: source-witness frame / intersectionality and priority-of-need frame; no medical advice; no unsupported identity claim  
-Safety: misogyny / masking / gaslighting / disability / dysregulation / identity complexity; no trauma spectacle; urgent medical or safety concerns require qualified help
-
----
-
 ## Doorway
 
 You are not one thing.
