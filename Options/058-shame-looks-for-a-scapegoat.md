@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 4.16 — Shame Looks for a Scapegoat
 
-## Doorway
+## A Way In
 
 A child stims in public.
 
