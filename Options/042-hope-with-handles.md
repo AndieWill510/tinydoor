@@ -18,14 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 3.19 — Hope With Handles
 
-Author: Kevin "Andie" Williams  
-Status: Options Under Stress sprint draft  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/060.md  
-Safety: hope / despair / survival planning / toxic positivity risk; no method detail
-
----
-
 ## Doorway
 
 Hope is a bad word when it has no handles.
