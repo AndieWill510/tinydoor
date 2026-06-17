@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 1.9 — Community Is Survival Infrastructure
+# Option 1.9
+# Community Is Survival Infrastructure
 
 ## A Way In
 
