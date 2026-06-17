@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 4.9 — The Goal Leaves the Room
 
-Author: Kevin "Andie" Williams  
-Status: Institutional harm / evidence-bounded draft  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/090.md; Options/045-passing-is-not-healing.md; Options/046-a-good-goal-leaves-you-more-whole.md  
-Evidence: authority / institutional goal transmission / ethical framing; no unsupported historical claim  
-Safety: institutional harm / normalization / school-family-clinical systems; no trauma spectacle; no method detail
-
----
-
 ## Doorway
 
 A goal does not always stay where it was written.
