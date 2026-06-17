@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 4.19 — The Old Promise Still Opens
+# Option 4.19
+# The Old Promise Still Opens
 
 ## A Way In
 
