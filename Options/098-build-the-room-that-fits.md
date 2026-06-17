@@ -31,39 +31,37 @@ Safety: sensory overwhelm / housing / access / economic limits; no medical advic
 
 The adult fort may be a whole apartment.
 
-A room with the right lamp.
+> A room with the right lamp.
 
-A blanket folded on the chair.
+> A blanket folded on the chair.
 
-A fan that makes the same sound every night.
+> A fan that makes the same sound every night.
 
-A mug that fits your hand.
+> A mug that fits your hand.
 
-A door that closes.
+> A door that closes.
 
-Or it may be smaller.
+> Or it may be smaller.
 
-One corner of a shared room.
+> One corner of a shared room.
 
-A cleared surface on a crowded table.
+> A cleared surface on a crowded table.
 
-A chair turned away from the hallway.
+> A library seat on Tuesday morning.
 
-A library seat on Tuesday morning.
-
-A coffee shop table where the light is low, the music is predictable, and no one needs you to talk before the first sip.
+> A coffee shop table where the light is low, the music is predictable, and no one needs you to talk before the first sip.
 
 It may be portable.
 
-Noise-cancelling headphones.
+> Noise-cancelling headphones.
 
-Light-sensitive glasses.
+> Light-sensitive glasses.
 
-A weighted blanket.
+> A weighted blanket.
 
-A scarf with the right texture.
+> A scarf with the right texture.
 
-A familiar smell in a small tin.
+> A familiar smell in a small tin.
 
 The room that fits is not a reward.
 
