@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# 100 — Benediction and Closing Thoughts
+# Option 100
+# Benediction and Closing Thoughts
 
 This book started with a little girl who was given a broken saxophone that was never going to produce the right notes. 
 
