@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 8.9 — Warmth Is Not a Luxury. It Is What Life Feels Like From the Inside.
+# Option 8.9
+# Warmth Is Not a Luxury. It Is What Life Feels Like From the Inside.
 
 ## A Way In
 
