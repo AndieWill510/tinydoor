@@ -18,14 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 3.14 — Your Body Was Never the Problem
 
-Author: Kevin "Andie" Williams  
-Status: Body / shame / consent bridge sprint draft  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/040.md; Chapters/050.md  
-Safety: sexuality-adjacent / body shame / consent / privacy; no explicit sexual detail; evidence review required
-
----
-
 ## Doorway
 
 A person learns body shame in small rooms.
