@@ -18,14 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 4.4 — "Normal" Is Not Okay
 
-Author: Kevin "Andie" Williams  
-Status: Source-witness draft  
-Project: Tiny Door / You Have Another Option  
-Source: Andie dictation; Options/045-normal-was-never-the-goal.md  
-Safety: trans life / ableism / queer survival / anti-normalization; no method detail; protective address to reader
-
----
-
 ## Doorway
 
 I am not able to blend in anymore.
