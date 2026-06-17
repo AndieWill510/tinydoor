@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 1.4 — The First Mercy
 
-## Doorway
+## A Way In
 
 Now we take the saxophone story out of the band room and hand it to you, the reader, as a concept.
 
