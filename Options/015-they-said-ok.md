@@ -18,8 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 1.15 — They Said Okay
 
----
-
 ## Doorway
 
 My friends gave birth.
