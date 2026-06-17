@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 3.1 — Neurodivergence Is Not The Parasite
+# Option 3.1
+# Neurodivergence Is Not The Parasite
 
 ## A Way In
 
