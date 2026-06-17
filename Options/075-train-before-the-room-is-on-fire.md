@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 5.13 — Train Before the Room Is on Fire
 
-## Doorway
+## A Way In
 
 The best time to learn the exit is before the room is on fire.
 
