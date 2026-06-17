@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 5.4 — Protective Mimicry Was Not Your Choice
 
-Author: Kevin "Andie" Williams  
-Status: Way Home draft / source-witness translation  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/140.md; Options/030-you-can-always-stim.md; Options/032-masking-is-compressed-regulation.md  
-Evidence: source-witness frame / analogy held as analogy; no unsupported evolutionary or clinical claim  
-Safety: bullying / masking / shutdown / meltdown / burnout / social pressure; no spectacle; no method detail
-
----
-
 ## Doorway
 
 A body under pressure may try to become harder to single out.
