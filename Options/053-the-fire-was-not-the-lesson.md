@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 4.11 — The Fire Was Not the Lesson
 
-Author: Kevin "Andie" Williams  
-Status: Memoir-adjacent institutional harm draft  
-Project: Tiny Door / You Have Another Option  
-Source: Andie / C conversation; Options/047-expert-words-travel.md; Options/052-bad-help-teaches-bad-questions.md  
-Evidence: memoir / ethical frame; no unsupported historical claim  
-Safety: personal ABA harm / family harm / witness protection; no trauma spectacle; no method detail
-
----
-
 ## Doorway
 
 Inside my old house, there was a measuring stick.
