@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 7.2 — Not Every Room Is Trying to Tell the Truth
 
-Author: Kevin "Andie" Williams  
-Status: Way Home draft / source-witness translation  
-Project: Tiny Door / You Have Another Option  
-Source: user-provided work-rumination prompt; Options/057-the-environment-can-be-sick.md; Options/088-you-can-be-right-without-staying-in-the-fight.md  
-Evidence: source-witness frame / workplace room-analysis frame; no legal, HR, or employment instruction  
-Safety: workplace conflict / unfairness / power / gaslighting / rumination; no legal, medical, or employment advice
-
----
-
 ## Doorway
 
 Not every room is trying to tell the truth.
