@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 4.1 — When Help Means “Be Easier”
+# Option 4.1
+# When Help Means “Be Easier”
 
 ## A Way In
 
