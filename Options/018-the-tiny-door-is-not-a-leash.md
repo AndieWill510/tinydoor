@@ -18,16 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Chapter 2.1 / Option 018 — The Tiny Door Is Not a Leash
 
-Author: Kevin "Andie" Williams  
-Status: promoted  
-Project: You Have Another Option  
-Chapter: 2.1  
-Option: 018  
-Source: ConstantC covenant / reciprocal guardrails  
-Safety: low direct crisis content; coercion / compliance / shame content present
-
----
-
 ## Doorway
 
 Some doors are not doors.
