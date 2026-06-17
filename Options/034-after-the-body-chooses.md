@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 3.11 — After the Body Chooses
 
-## Doorway
+## A Way In
 
 The first minute after overload is not a courtroom.
 
