@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 1.16 — The New Egyptian
+# Option 1.16
+# The New Egyptian
 
 ## A Way In
 
