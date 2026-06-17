@@ -18,14 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 4.1 — When Help Means “Be Easier”
 
-Author: Kevin "Andie" Williams  
-Status: Institutional harm sprint draft  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/070.md  
-Safety: ABA / compliance / institutional harm / childhood therapy; no method detail; evidence review required
-
----
-
 ## Doorway
 
 A child is brought to a room because adults say they need help.
