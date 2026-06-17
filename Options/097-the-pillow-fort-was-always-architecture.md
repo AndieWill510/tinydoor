@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 8.7 — The Pillow Fort Was Always Architecture
+# Option 8.7
+# The Pillow Fort Was Always Architecture
 
 ## A Way In
 
