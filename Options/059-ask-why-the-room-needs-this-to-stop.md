@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 4.17 — Ask Why the Room Needs This to Stop
+# Option 4.17
+# Ask Why the Room Needs This to Stop
 
 ## A Way In
 
