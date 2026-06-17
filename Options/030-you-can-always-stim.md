@@ -18,14 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 3.7 — You Can Always Stim
 
-Author: Kevin "Andie" Williams  
-Status: Regulation / harm-reduction sprint draft  
-Project: Tiny Door / You Have Another Option  
-Source: Andie premise; Chapters/030.md  
-Safety: stimming / hostile environments / policing / harm-reduction frame; no method detail; safety-style review required
-
----
-
 ## Doorway
 
 You can always find some way to stim.
