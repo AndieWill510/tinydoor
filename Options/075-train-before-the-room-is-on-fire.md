@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 5.13 — Train Before the Room Is on Fire
+# Option 5.13
+# Train Before the Room Is on Fire
 
 ## A Way In
 
