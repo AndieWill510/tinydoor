@@ -18,14 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 3.5 — Cassandra Was Not Catastrophizing, Either
 
-Author: Kevin "Andie" Williams  
-Status: Regulation sprint draft  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/030.md  
-Safety: anxiety / trauma memory / gaslighting / regulation frame; no method detail; evidence review required
-
----
-
 ## Doorway
 
 Sometimes people call it catastrophizing when you are actually remembering.
