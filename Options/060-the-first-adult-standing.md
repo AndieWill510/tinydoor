@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 4.18 — The First Adult Standing
+# Option 4.18
+# The First Adult Standing
 
 ## A Way In
 
