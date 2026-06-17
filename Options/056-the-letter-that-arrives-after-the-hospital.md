@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 4.14 — The Letter That Arrives After the Hospital
 
-Author: Kevin "Andie" Williams  
-Status: Memoir-adjacent institutional harm draft  
-Project: Tiny Door / You Have Another Option  
-Source: Andie / C conversation; Options/051-protect-the-witness.md; Options/050-the-fire-was-not-the-lesson.md  
-Evidence: memoir / ethical frame; no unsupported historical claim  
-Safety: narcissistic family harm / DARVO / witness protection; no trauma spectacle; no method detail
-
----
-
 ## Doorway
 
 Sometimes the person who should have come to the hospital, or a crisis that should have put you in the hospital, writes a note or gives a speech instead.
