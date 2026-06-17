@@ -75,10 +75,6 @@ Habitat is harder when money is tight.
 
 Harder in a shared room.
 
-Harder with a landlord.
-
-Harder when the light fixture cannot be changed.
-
 Harder when the walls are thin.
 
 Harder when family members do not understand why the bulb matters.
@@ -89,17 +85,17 @@ Harder when housing systems treat sensory life as decoration instead of access.
 
 The world may say:
 
-Just get used to it.
+> Just get used to it.
 
-It is only a light.
+> It is only a light.
 
-It is only noise.
+> It is only noise.
 
-It is only a smell.
+> It is only a smell.
 
-It is only a chair.
+> It is only a chair.
 
-It is only where your desk faces.
+> It is only where your desk faces.
 
 But the body knows the cost.
 
@@ -121,11 +117,7 @@ It is access.
 
 The headphones are not indulgence.
 
-They are what make the library usable.
-
-The lamp is not fussiness.
-
-It is what makes the desk workable.
+They are what make the noisy office usable.
 
 The corner table facing the wall is not antisocial.
 
@@ -145,15 +137,11 @@ Shape the space around the body that actually lives there.
 
 Build at whatever scale is available.
 
-One surface.
+> One chair.
 
-One chair.
+> One light.
 
-One light.
-
-One texture.
-
-One small no to the thing that keeps making fire.
+> One texture.
 
 The fort grows by inches.
 
@@ -167,51 +155,51 @@ The available one.
 
 Name one thing in it that works.
 
-The lamp.
+> The lamp.
 
-The blanket.
+> The blanket.
 
-The chair.
+> The chair.
 
-The window.
+> The window.
 
-The headphones.
+> The headphones.
 
-The wall behind you.
+> The wall behind you.
 
-The smell of coffee.
+> The smell of coffee.
 
-The sound of rain in the app.
+> The sound of rain in the app.
 
 Now name one thing that does not work.
 
-The glare.
+> The glare.
 
-The clutter.
+> The clutter.
 
-The fan.
+> The fan.
 
-The chair facing the door.
+> The chair facing the door.
 
-The scratchy throw.
+> The scratchy throw.
 
-The table that catches every object.
+> The table that catches every object.
 
 Make one notch of fit.
 
-Move the lamp.
+> Move the lamp.
 
-Clear the surface.
+> Clear the surface.
 
-Bring the headphones.
+> Bring the headphones.
 
-Choose the different table.
+> Choose the different table.
 
-Turn the chair.
+> Turn the chair.
 
-Add the curtain.
+> Add the curtain.
 
-Fold the blanket where your hand can find it.
+> Fold the blanket where your hand can find it.
 
 This is not a renovation.
 
@@ -223,7 +211,7 @@ You are allowed to need the room to fit.
 
 You are not too sensitive.
 
-The room was wrong.
+The room is wrong.
 
 ---
 
