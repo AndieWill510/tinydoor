@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 7.3 — Spend Your Accuracy Where It Can Move Something
+# Option 7.3
+# Spend Your Accuracy Where It Can Move Something
 
 ## A Way In
 
