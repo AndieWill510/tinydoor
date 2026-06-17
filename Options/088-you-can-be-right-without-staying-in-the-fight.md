@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 7.1 — You Can Be Right Without Staying in the Fight
+# Option 7.1
+# You Can Be Right Without Staying in the Fight
 
 ## A Way In
 
