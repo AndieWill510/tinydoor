@@ -68,9 +68,3 @@ For those I may have forgotten, know that I hold you dear, but perhaps at a dist
 For now.
 
 ---
-
-<!-- TINYDOOR_NAV_START -->
-## Continue reading
-
-[Options Index](INDEX.md)
-<!-- TINYDOOR_NAV_END -->
