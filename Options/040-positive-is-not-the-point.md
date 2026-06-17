@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 3.17 — Positive Is Not the Point
+# Option 3.17
+# Positive Is Not the Point
 
 ## A Way In
 
