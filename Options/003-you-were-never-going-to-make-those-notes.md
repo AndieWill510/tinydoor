@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 1.3 — You Were Never Going to Make Those Notes
 
-## Doorway
+## A Way In
 
 "You were never going to make those notes."
 
