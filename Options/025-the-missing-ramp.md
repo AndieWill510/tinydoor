@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 3.2 — The Missing Ramp
 
-## Doorway
+## A Way In
 
 A person who uses a wheelchair arrives at a building with stairs and no ramp.
 
