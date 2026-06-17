@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 1.1 — The Saxophone
 
-## Doorway
+## A Way In
 
 Before we talk about a Neurodivergent life worth living, I want to start with a saxophone.
 
