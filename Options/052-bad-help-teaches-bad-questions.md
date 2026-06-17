@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 4.10 — Bad Help Teaches Bad Questions
 
-Author: Kevin "Andie" Williams  
-Status: Institutional harm / evidence-bounded draft  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/090.md; Options/040-when-help-means-be-easier.md; Options/046-a-good-goal-leaves-you-more-whole.md  
-Evidence: authority / institutional goal transmission / ethical framing; no unsupported historical claim  
-Safety: institutional harm / ableism / support discernment; no trauma spectacle; no method detail
-
----
-
 ## Doorway
 
 Bad help does not only hurt in the room where it happens.
