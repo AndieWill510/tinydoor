@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # 100 — Benediction and Closing Thoughts
 
-Author: Kevin "Andie" Williams  
-Status: Closing mercy / final benediction  
-Project: Tiny Door / You Have Another Option  
-Source: Andie direct closing draft  
-Evidence: lived experience / source-witness frame  
-Safety: closing blessing; no medical, legal, or crisis protocol
-
----
-
 This book started with a little girl who was given a broken saxophone that was never going to produce the right notes. 
 
 A metaphor, perhaps, for the spaces neurodivergent people are so often forced into and would rightly never choose for themselves. 
