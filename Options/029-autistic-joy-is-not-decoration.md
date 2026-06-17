@@ -18,14 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 3.6 — Joy Is Not Frosting
 
-Author: Kevin "Andie" Williams  
-Status: Regulation sprint draft  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/030.md  
-Safety: joy / regulation / burnout-prevention frame; no method detail; evidence review required
-
----
-
 ## Doorway
 
 Our version of joy is not cute frosting on the survival cake.
