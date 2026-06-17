@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Chapter 2.4 / Option 021 — Survival in the Gap
 
-## Doorway
+## A Way In
 
 Sometimes you find the leash and still cannot leave.
 
