@@ -18,12 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 1.14 — OMC: A Second Bite at the Apple
 
-Author: Kevin "Andie" Williams  
-Status: Community section memoir draft  
-Project: You Have Another Option  
-Source: Sections/02-community-as-survival-infrastructure.md; Andie live dictation  
-Safety: memoir / adolescent social loss / isolation / ostracization / belonging / transition arc / alcohol context; disclosure review required
-
 ---
 
 ## Doorway
