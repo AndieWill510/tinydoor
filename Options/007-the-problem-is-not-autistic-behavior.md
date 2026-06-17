@@ -17,7 +17,7 @@ SPDX-License-Identifier: Apache-2.0
 -->
 
 # Option 1.7
-# The Problem Is Not Neurodivergent Behavior
+# The Problem Is Not Our Behavior
 
 ## A Way In
 
