@@ -26,7 +26,7 @@ To the amazing healers and therapists Julia Kaluga, Beth Boothe, Shannah James, 
 
 To Dr. Erika Kappes Bressette, who kept me more than alive for two years: you patched me up, gave me agency, and then patched me up again -- after I made a wreck of things -- so I could make a perilous journey and find my way home.
 
-My lifelong friend Euphrate Khantouche, and Steve McPherson, who helped me transition out of a toxic relationship: he and Mati both saved my life.  To my fourth mom, Joan Formby, who taught me there are many ways of being -- like my later mentor Oliver Sacks said so well -- but she said it first. To Paulina Krug, who was the first to teach me to Be The Standard.  To Julia Monks who will never read this, RIP, but who tsught me to fight using tools I was already born with but paradoxically didn't yet have. 
+My lifelong friend Euphrate Khantouche, and Steve McPherson, who helped me transition out of a toxic relationship: he and Mati both saved my life.  To my fourth mom, Joan Formby, who taught me there are many ways of being -- like my later mentor Oliver Sacks said so well -- but she said it first. To Paulina Krug, who was the first to teach me to Be The Standard.  To Julia Monks who will never read this, RIP, but who taught me to fight using tools I was already born with but, paradoxically, didn't yet have. 
 
 To Brandon and Lana and Amelia and Warren and Gabriela my God you are all my angels. To Brandie, my love, you are no longer suffering but live now forever in the Prairie and no one can hurt you anymore.
 
