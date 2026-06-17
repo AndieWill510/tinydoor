@@ -18,13 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 8.1 — Safety Comes Before Self-Improvement
 
-Author: Kevin "Andie" Williams  
-Status: Way Home draft / source-witness translation  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/410.md; Chapters/430.md; Options/021-survival-in-the-gap.md; Options/056-the-letter-that-arrives-after-the-hospital.md  
-Evidence: source-witness frame / material survival and toxic-stress frame  
-Safety: homelessness / material insecurity / toxic stress / urgent support; no resource directory, legal advice, medical advice, or crisis protocol
-
 ---
 
 ## Doorway
