@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 8.7 — The Pillow Fort Was Always Architecture
 
-Author: Kevin "Andie" Williams  
-Status: Way Home draft / source-witness translation  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/410.md; Chapters/440.md; Options/093-tune-prune-ground-shape.md  
-Evidence: source-witness frame / sensory-regulation-and-habitat-instinct frame  
-Safety: sensory overwhelm / regulation / safe space; no medical advice; no crisis protocol; no claim that all retreat is healthy avoidance
-
----
-
 ## Doorway
 
 Maybe it was couch cushions first.
