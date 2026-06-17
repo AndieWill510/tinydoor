@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 3.15 — Stigma Teaches the Body to Hide
 
-## Doorway
+## A Way In
 
 Stigma often arrives before language.
 
