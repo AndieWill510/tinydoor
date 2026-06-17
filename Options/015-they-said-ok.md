@@ -18,12 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 1.15 — They Said Okay
 
-Author: Kevin "Andie" Williams  
-Status: Community section memoir draft  
-Project: You Have Another Option  
-Source: Sections/02-community-as-survival-infrastructure.md; Andie live dictation  
-Safety: memoir / bisexuality / trans identity / family rejection / life-saving acceptance; disclosure review required
-
 ---
 
 ## Doorway
