@@ -18,16 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Chapter 2.5 / Option 020.2 — The Room Was Sick First
 
-Author: Kevin "Andie" Williams  
-Status: doorway draft  
-Project: You Have Another Option  
-Chapter: 2.5  
-Option: 020.2  
-Source: Options 018-020.1; precedes Option 020.3 / Let the Symptom Count; ConstantC covenant / reciprocal guardrails  
-Safety: anxiety / panic / health-boundary content; not medical diagnosis; urgent or frightening symptoms require medical care
-
----
-
 ## Doorway
 
 A room can make you sick without anyone in it deciding to hurt you.
