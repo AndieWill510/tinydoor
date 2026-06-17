@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 1.6 — Why This Book Exists
+# Option 1.6
+# Why This Book Exists
 
 ## A Way In
 
