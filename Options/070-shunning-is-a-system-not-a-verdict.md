@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 5.8 — Shunning Is a System, Not a Verdict
+# Option 5.8
+# Shunning Is a System, Not a Verdict
 
 ## A Way In
 
