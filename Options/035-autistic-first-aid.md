@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 3.12 — Our First Aid
 
-## Doorway
+## A Way In
 
 A first-aid kit does not ask whether you deserved the cut.
 
