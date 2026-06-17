@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 3.18 — Keep One Door Unlocked
 
-## Doorway
+## A Way In
 
 A door does not have to be grand to matter.
 
