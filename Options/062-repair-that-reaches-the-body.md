@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 4.20 — Repair That Reaches the Body
 
-## Doorway
+## A Way In
 
 The braces were not metaphor.
 
