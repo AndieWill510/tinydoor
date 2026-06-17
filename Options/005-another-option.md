@@ -21,7 +21,7 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-This book is about giving you another option because that sentence can matter when almost nothing else gets through.
+This book is about giving you another option because this can matter when almost nothing else gets through.
 
 Not every option fixes everything.
 
