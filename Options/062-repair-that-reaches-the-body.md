@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 4.20 — Repair That Reaches the Body
+# Option 4.20
+# Repair That Reaches the Body
 
 ## A Way In
 
