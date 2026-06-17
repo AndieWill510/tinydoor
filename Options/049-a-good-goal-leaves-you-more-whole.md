@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 4.7 — A Good Goal Leaves You More Whole
 
-Author: Kevin "Andie" Williams  
-Status: Institutional harm / evidence-bounded draft  
-Project: Tiny Door / You Have Another Option  
-Source: Options/040-when-help-means-be-easier.md; Options/041-behavior-is-not-the-whole-person.md; Options/042-normal-was-never-the-goal.md; Options/048-passing-is-not-healing.md  
-Evidence: ethical / disability-rights frame; no unsupported historical claim  
-Safety: institutional harm / intervention goals / discernment; no trauma spectacle; no method detail
-
----
-
 ## Doorway
 
 Someone calls it help.
