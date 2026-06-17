@@ -18,14 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 3.9 — Masking Is Compressed Regulation
 
-Author: Kevin "Andie" Williams  
-Status: Regulation / harm-reduction sprint draft  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/030.md; Options/030-you-can-always-stim.md  
-Safety: masking / burnout / hostile environments / harm-reduction frame; no method detail; evidence review required
-
----
-
 ## Doorway
 
 Masking can look like answering "I'm good" before you know whether you are.
