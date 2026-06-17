@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 6.7 — When Relief Becomes Dangerous
 
-## Doorway
+## A Way In
 
 Sometimes relief becomes dangerous.
 
