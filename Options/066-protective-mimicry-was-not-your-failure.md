@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 5.4 — Protective Mimicry Was Not Your Choice
 
-## Doorway
+## A Way In
 
 A body under pressure may try to become harder to single out.
 
