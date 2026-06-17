@@ -18,14 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 1.7 — The Problem Is Not Neurodivergent Behavior
 
-Author: Kevin "Andie" Williams  
-Status: Bridge sprint draft  
-Project: You Have Another Option  
-Source: Chapters/010.md  
-Safety: ableism / institutional harm content; low direct crisis content
-
----
-
 ## Doorway
 
 Neurodivergent behavior is one of the great distractions.
