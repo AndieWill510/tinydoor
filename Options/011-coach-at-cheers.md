@@ -18,14 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 1.11 — Coach at Cheers
 
-Author: Kevin "Andie" Williams  
-Status: Community section memoir draft  
-Project: You Have Another Option  
-Source: Sections/02-community-as-survival-infrastructure.md; Andie live dictation  
-Safety: memoir / near-death holiday context / loneliness / belonging wound; disclosure review required
-
----
-
 ## Doorway
 
 He, I'll call him "Coach," asked me what brought me to town.
