@@ -35,9 +35,7 @@ SPDX-License-Identifier: Apache-2.0
 
 ## TL;DR
 
-*Tiny Doors and Pillow Forts: You Have Another Option* is a book, not software.
-
-It is a survival manual for Neurodivergent life, suicide prevention, lifespan, joy, regulation, community, and the conditions that allow Autistic/ADHDers ("us") to live longer and freer lives.
+*Tiny Doors and Pillow Forts* is a survival guide for Neurodivergent life, suicide prevention, lifespan, joy, regulation, community, and the conditions that allow Autistic/ADHDers ("us") to live longer and freer lives.
 
 Its hidden engine is self harm reduction.
 
@@ -57,11 +55,11 @@ Its mercy is a tiny door: a small survivable opening that does not pretend to so
 
 ### 30-second blurb
 
-*Tiny Doors and Pillow Forts: You Have Another Option* is a survival manual for Autistic/ADHD people ("us") and the people who love us. It is built for the moment when shame, burnout, sensory overload, grief, or bad systems make life feel impossible. Each very short chapter offers one small door: a concrete reframe, a tiny next move, and a mercy. The book refuses to blame the person for surviving hostile rooms. It asks what would make life stayable: safety, community, habitat, joy, and always another option.
+*Tiny Doors and Pillow Forts* is a survival guide for Autistic/ADHD people ("us") and the people who love us. It is built for the moment when shame, burnout, sensory overload, grief, or bad systems make life feel impossible. Each very short chapter offers one small door: a concrete reframe, a tiny next move, and a mercy. The book refuses to blame the person for surviving hostile rooms. It asks what would make life stayable: safety, community, habitat, joy, and always another option.
 
 ### 3-minute summary
 
-*Tiny Doors and Pillow Forts: You Have Another Option* is a guide for Autistic/ADHD people staying alive without being reduced to mere survival.
+*Tiny Doors and Pillow Forts* is a guide for Autistic/ADHD people staying alive without being reduced to mere survival.
 
 Its hidden engine is suicide harm reduction, to which we make no guarantees/warranties whatsoever but rather postulate happier lives are more stayable, but it does not begin with crisis language. It begins with mercy. It begins with the reader who has been called difficult, lazy, too sensitive, dramatic, noncompliant, broken, or impossible when the real problem was often the room, the system, the demand, the noise, the shame, or the lack of support.
 
