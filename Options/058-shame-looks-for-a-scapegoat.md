@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 4.16 — Shame Looks for a Scapegoat
 
-Author: Kevin "Andie" Williams  
-Status: Way Home draft / source-witness translation  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/110.md; Options/057-the-environment-can-be-sick.md  
-Evidence: ethical frame / shame and scapegoating frame; no unsupported universal claim  
-Safety: shame / family systems / ableism; avoids blaming whole groups; no trauma spectacle
-
----
-
 ## Doorway
 
 A child stims in public.
