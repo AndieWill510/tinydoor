@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 3.3 — Stimming Is Regulation
+# Option 3.3
+# Stimming Is Regulation
 
 ## A Way In
 
