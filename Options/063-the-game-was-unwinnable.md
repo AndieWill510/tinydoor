@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 5.1 — The Game Was Unwinnable
+# Option 5.1
+# The Game Was Unwinnable
 
 ## A Way In
 
