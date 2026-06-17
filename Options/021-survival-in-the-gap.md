@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Chapter 2.4 / Option 021 — Survival in the Gap
+# Chapter 2.4 — Survival in the Gap
 
 ## A Way In
 
