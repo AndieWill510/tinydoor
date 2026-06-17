@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 3.19 — Hope With Handles
 
-## Doorway
+## A Way In
 
 Hope is a bad word when it has no handles.
 
