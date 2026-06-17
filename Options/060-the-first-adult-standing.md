@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 4.18 — The First Adult Standing
 
-## Doorway
+## A Way In
 
 At fifteen, I needed braces.
 
