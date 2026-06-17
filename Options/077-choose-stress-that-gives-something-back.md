@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 5.15 — Choose Stress That Gives Something Back
+# Option 5.15
+# Choose Stress That Gives Something Back
 
 ## A Way In
 
