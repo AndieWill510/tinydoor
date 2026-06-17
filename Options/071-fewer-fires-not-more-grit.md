@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 5.9 — Fewer Fires, Not More Grit
+# Option 5.9
+# Fewer Fires, Not More Grit
 
 ## A Way In
 
