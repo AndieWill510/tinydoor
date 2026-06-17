@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Chapter 2.5 — The Room Was Sick First
+# Option 2.5
+# The Room Was Sick First
 
 ## A Way In
 
