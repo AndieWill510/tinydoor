@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 3.8 — A Safe Way Through
+# Option 3.8
+# A Safe Way Through
 
 ## A Way In
 
