@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 5.16 — Flow Is a Regulation Door
+# Option 5.16
+# Flow Is a Regulation Door
 
 ## A Way In
 
