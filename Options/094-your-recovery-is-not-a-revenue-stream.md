@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 8.4 — Your Respite Is Not a Revenue Stream
 
-## Doorway
+## A Way In
 
 Maybe it starts as the thing you do after the day takes too much.
 
