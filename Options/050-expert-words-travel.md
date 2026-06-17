@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 4.8 — Expert Words Travel
 
-Author: Kevin "Andie" Williams  
-Status: Institutional harm / evidence-bounded draft  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/090.md; Options/040-when-help-means-be-easier.md; Options/049-a-good-goal-leaves-you-more-whole.md  
-Evidence: authority / social transmission / ethical framing; no unsupported historical claim  
-Safety: institutional harm / expert authority / ableism; no trauma spectacle; no method detail
-
----
-
 ## Doorway
 
 An expert says the behavior is the problem.
