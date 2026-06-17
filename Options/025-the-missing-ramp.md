@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 3.2 — The Missing Ramp
+# Option 3.2
+# The Missing Ramp
 
 ## A Way In
 
