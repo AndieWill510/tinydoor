@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 4.9 — The Goal Leaves the Room
 
-## Doorway
+## A Way In
 
 A goal does not always stay where it was written.
 
