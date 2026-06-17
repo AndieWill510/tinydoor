@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 4.3 — Normal Was Never the Goal
 
-## Doorway
+## A Way In
 
 "Normal" is a dangerous word when adults use it as a destination for a child.
 
