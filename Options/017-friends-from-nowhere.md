@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 1.17 — Friends From Nowhere
 
-## Doorway
+## A Way In
 
 Friends started arriving from nowhere.
 
