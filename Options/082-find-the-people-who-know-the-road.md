@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 6.2 — Find the People Who Know the Road
 
-Author: Kevin "Andie" Williams  
-Status: Way Home draft / source-witness translation  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/330.md; Chapters/340.md; Options/073-spend-your-spoons-where-you-are-believed.md; Options/081-the-door-must-fit-the-whole-person.md  
-Evidence: source-witness frame / community-and-lived-experience frame; no claim to speak for communities the witness has not lived  
-Safety: isolation / identity / community / disability justice / belonging; no trauma spectacle; no method detail
-
----
-
 ## Doorway
 
 Some roads cannot be explained well by people who have never had to walk them.
