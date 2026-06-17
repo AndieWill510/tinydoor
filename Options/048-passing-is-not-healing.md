@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 4.6 — Passing Isn't Healing
 
-Author: Kevin "Andie" Williams  
-Status: Institutional harm / evidence-bounded draft  
-Project: Tiny Door / You Have Another Option  
-Source: rfc/evidence-aba-history-map.md; rfc/evidence-aba-history-c-challenge-adjudication.md  
-Evidence: Cluster F — Passing Is Not Healing; Ari Ne'eman, "When Disability Is Defined by Behavior, Outcome Measures Should Not Promote 'Passing,'" AMA Journal of Ethics, 2021; primary source verified 2026-05-31  
-Safety: institutional harm / passing / masking / intervention goals; no trauma spectacle; no method detail
-
----
-
 ## Doorway
 
 A child looks less Autistic (or less ADHD). 
