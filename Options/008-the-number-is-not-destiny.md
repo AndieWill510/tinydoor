@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 1.8 — The Number Is Not Destiny
 
-## Doorway
+## A Way In
 
 At some point, this book has to say the frightening part plainly.
 
