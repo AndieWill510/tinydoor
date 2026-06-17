@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 7.3 — Spend Your Accuracy Where It Can Move Something
 
-## Doorway
+## A Way In
 
 Accuracy is precious.
 
