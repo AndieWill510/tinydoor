@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 5.9 — Fewer Fires, Not More Grit
 
-Author: Kevin "Andie" Williams  
-Status: Way Home draft / source-witness translation  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/190.md; Chapters/200.md; Options/068-the-one-item-menu-was-never-the-whole-world.md  
-Evidence: source-witness frame / burnout-support frame; no medical advice; no unsupported clinical claim  
-Safety: burnout / dysregulation / illness / trauma recovery / therapy references; not medical advice; no method detail
-
----
-
 ## Doorway
 
 When everything is on fire, people may praise grit.
