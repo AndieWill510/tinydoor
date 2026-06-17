@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 5.13 — Train Before the Room Is on Fire
 
-Author: Kevin "Andie" Williams  
-Status: Way Home draft / source-witness translation  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/250.md; Chapters/260.md; Options/035-autistic-first-aid.md; Options/071-fewer-fires-not-more-grit.md  
-Evidence: source-witness frame / harm-reduction frame; no medical advice; no unsupported public-health claim  
-Safety: crisis planning / first aid / panic / harm reduction / support networks; no method detail; urgent medical or safety concerns require qualified help
-
----
-
 ## Doorway
 
 The best time to learn the exit is before the room is on fire.
