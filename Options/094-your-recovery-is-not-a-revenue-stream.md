@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 8.4 — Your Respite Is Not a Revenue Stream
 
-Author: Kevin "Andie" Williams  
-Status: Way Home draft / source-witness translation  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/410.md; Chapters/440.md; Options/078-flow-is-a-regulation-door.md; Options/092-the-wrong-blend-will-drain-your-life.md; Options/093-tune-prune-ground-shape.md  
-Evidence: source-witness frame / hustle-culture-and-special-interest-exploitation frame  
-Safety: burnout / energy depletion / restoration activities / monetization pressure; no medical, legal, or employment advice; no claim that all monetization is wrong
-
----
-
 ## Doorway
 
 Maybe it starts as the thing you do after the day takes too much.
