@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 6.5 — Serious Support Is Not Shame
 
-Author: Kevin "Andie" Williams  
-Status: Way Home draft / source-witness translation  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/380.md; Chapters/390.md; Options/084-good-help-has-to-be-good.md  
-Evidence: source-witness frame / serious-support frame; no diagnostic instruction; no treatment instruction  
-Safety: serious mental health support / medical care / stability / fear / dignity; urgent risk requires immediate qualified help
-
----
-
 ## Doorway
 
 Some things deserve serious support.
