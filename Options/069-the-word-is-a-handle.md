@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 5.7 — The Word Is a Handle
 
-## Doorway
+## A Way In
 
 Sometimes the available word is too small.
 
