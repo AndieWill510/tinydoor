@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 5.10 — Every Sense of Yours Talks to the Others
 
-Author: Kevin "Andie" Williams  
-Status: Way Home draft / source-witness translation  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/210.md; Options/064-what-distracts-one-body-can-injure-another.md; Options/071-fewer-fires-not-more-grit.md  
-Evidence: source-witness frame / regulation-systems frame; no medical advice; no unsupported clinical claim  
-Safety: dysregulation / sensory overload / sleep / emotion / cognition / body symptoms; not medical advice; urgent symptoms require medical care
-
----
-
 ## Doorway
 
 Your body is not a set of separate senses, like separate houses. We're learning, it's more like connected rooms in the same house. 
