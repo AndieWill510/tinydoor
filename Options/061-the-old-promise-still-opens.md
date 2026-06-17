@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 4.19 — The Old Promise Still Opens
 
-Author: Kevin "Andie" Williams  
-Status: Way Home draft / source-witness translation  
-Project: Tiny Door / You Have Another Option  
-Source: CDP CULTURE.md sections 3.1–3.3; Options/060-the-first-adult-standing.md  
-Evidence: family account / source-witness frame; archival bridge preserved in CDP culture; no unsupported empirical claim  
-Safety: childhood neglect / family conflict / poverty shame; no parent-villain spectacle; no wealth-adjacency claim as legitimacy
-
----
-
 ## Doorway
 
 Sometimes the tiny door is not new.
