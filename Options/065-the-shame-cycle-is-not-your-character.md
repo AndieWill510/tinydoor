@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 5.3 — The Shame Cycle Is Not Your Character
 
-Author: Kevin "Andie" Williams  
-Status: Way Home draft / source-witness translation  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/130.md; Options/032-masking-is-compressed-regulation.md; Options/033-when-the-body-chooses-for-you.md; Options/034-after-the-body-chooses.md  
-Evidence: source-witness frame / stress-response frame; no unsupported clinical claim  
-Safety: shame / masking / meltdown / shutdown / burnout / complex trauma; no trauma spectacle; no method detail
-
----
-
 ## Doorway
 
 A cycle of shame can make survival look like personality.
@@ -84,9 +75,7 @@ That means the answer cannot only be:
 Sometimes the better answer is:
 
 > Restore choice.  
-
 > Build exits.  
-
 > Let the body recover before asking it to explain.
 
 This does not erase impact.
