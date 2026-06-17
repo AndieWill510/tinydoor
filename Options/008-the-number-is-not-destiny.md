@@ -18,14 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 1.8 — The Number Is Not Destiny
 
-Author: Kevin "Andie" Williams  
-Status: Bridge sprint draft  
-Project: You Have Another Option  
-Source: Chapters/010.md; rfc/safety-style-guide.md  
-Safety: mortality / lifespan / suicide-prevention frame; citation review required; no method detail
-
----
-
 ## Doorway
 
 At some point, this book has to say the frightening part plainly.
