@@ -18,16 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Chapter 2.3 / Option 020 — Help Has to Fit the Body
 
-Author: Kevin "Andie" Williams  
-Status: promoted  
-Project: You Have Another Option  
-Chapter: 2.3  
-Option: 020  
-Source: Options 018-019; ConstantC covenant / reciprocal guardrails  
-Safety: low direct crisis content; coercion / compliance / shame content present
-
----
-
 ## Doorway
 
 A door that only opens for a body you do not have is not your door.
