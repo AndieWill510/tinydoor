@@ -18,14 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 1.3 — You Were Never Going to Make Those Notes
 
-Author: Kevin "Andie" Williams  
-Status: Doorway pilot draft  
-Project: You Have Another Option  
-Source: FrontMatter/001-prelude-the-saxophone.md  
-Safety: low direct crisis content; grief / validation content present
-
----
-
 ## Doorway
 
 "You were never going to make those notes."
