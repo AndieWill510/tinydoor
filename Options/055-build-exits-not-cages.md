@@ -17,7 +17,7 @@ SPDX-License-Identifier: Apache-2.0
 -->
 
 # Option 4.13
-# Build Exits, Not Cages
+# Build Exits, Leave Cages
 
 ## A Way In
 
