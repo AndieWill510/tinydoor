@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 8.1 — Safety Comes Before Self-Improvement
 
-## Doorway
+## A Way In
 
 Safety comes before 
 
