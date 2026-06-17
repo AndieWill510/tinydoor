@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 8.8 — Build the Room That Fits
+# Option 8.8
+# Build the Room That Fits
 
 ## A Way In
 
