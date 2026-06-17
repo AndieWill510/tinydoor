@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 3.4 — You May Not Be at Peace
+# Option 3.4
+# You May Not Be at Peace
 
 ## A Way In
 
