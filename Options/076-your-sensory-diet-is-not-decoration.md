@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 5.14 — Your Sensory Diet Is Not Decoration
 
-## Doorway
+## A Way In
 
 A sensory diet can sound like a luxury.
 
