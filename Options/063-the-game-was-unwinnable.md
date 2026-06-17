@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 5.1 — The Game Was Unwinnable
 
-Author: Kevin "Andie" Williams  
-Status: Way Home draft / source-witness translation  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/120.md; Chapters/130.md  
-Evidence: source-witness frame / imported chapter material; no unsupported empirical claim  
-Safety: shame / stigma / social standards / gaslighting / bullying; no trauma spectacle; no method detail
-
----
-
 ## Doorway
 
 Some standards are not standards.
