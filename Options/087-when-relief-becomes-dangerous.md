@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 6.7 — When Relief Becomes Dangerous
 
-Author: Kevin "Andie" Williams  
-Status: Way Home draft / source-witness translation  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/400.md; Options/084-good-help-has-to-be-good.md; Options/085-serious-support-is-not-shame.md  
-Evidence: source-witness frame / harm-reduction-and-support frame; no treatment instruction; no substance-use instruction  
-Safety: substance-use harm / trauma / toxic stress / qualified support / harm reduction; urgent risk requires immediate qualified help
-
----
-
 ## Doorway
 
 Sometimes relief becomes dangerous.
