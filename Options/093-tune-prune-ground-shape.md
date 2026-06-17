@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 8.3 — Tune, Prune, Ground, Shape
 
-## Doorway
+## A Way In
 
 Neorodivergent lives do not become healthy by willpower alone, they need design.
 
