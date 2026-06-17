@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 3.14 — Your Body Was Never the Problem
 
-## Doorway
+## A Way In
 
 A person learns body shame in small rooms.
 
