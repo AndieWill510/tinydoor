@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 5.10 — Every Sense of Yours Talks to the Others
+# Option 5.10
+# Every Sense of Yours Talks to the Others
 
 ## A Way In
 
