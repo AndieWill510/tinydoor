@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 3.1 — Neurodivergence Is Not The Parasite
 
-## Doorway
+## A Way In
 
 Imagine a room full of Neurodivergent people.
 
