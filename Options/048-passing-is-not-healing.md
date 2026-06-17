@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 4.6 — Passing Isn't Healing
 
-## Doorway
+## A Way In
 
 A child looks less Autistic (or less ADHD). 
 
