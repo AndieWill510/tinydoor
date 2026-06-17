@@ -18,14 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 1.2 — The Broken Tool
 
-Author: Kevin "Andie" Williams  
-Status: Doorway pilot draft  
-Project: You Have Another Option  
-Source: FrontMatter/001-prelude-the-saxophone.md; Chapters/010.md  
-Safety: low direct crisis content; shame / ableism content present
-
----
-
 ## Doorway
 
 The hardest part of the saxophone story is not that the mouthpiece was cracked.
