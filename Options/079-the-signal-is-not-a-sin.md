@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 5.17 — The Signal Is Not a Sin
 
-Author: Kevin "Andie" Williams  
-Status: Way Home draft / source-witness translation  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/300.md; Options/035-autistic-first-aid.md; Options/075-train-before-the-room-is-on-fire.md  
-Evidence: source-witness frame / first-aid signal frame; no medical advice; no unsupported clinical claim  
-Safety: meltdown / shutdown / sleep deprivation / burnout / distress signals; no method detail; urgent medical or safety concerns require qualified help
-
----
-
 ## Doorway
 
 A signal is not a sin.
