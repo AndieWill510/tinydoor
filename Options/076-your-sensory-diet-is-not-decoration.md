@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 5.14 — Your Sensory Diet Is Not Decoration
 
-Author: Kevin "Andie" Williams  
-Status: Way Home draft / source-witness translation  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/270.md; Options/026-stimming-is-regulation.md; Options/072-every-system-talks-to-the-others.md  
-Evidence: source-witness frame / sensory-regulation frame; no medical advice; no unsupported clinical claim  
-Safety: sensory overload / tactile, auditory, visual, movement needs / dysregulation; no medical advice; urgent pain or medical concerns require qualified help
-
----
-
 ## Doorway
 
 A sensory diet can sound like a luxury.
