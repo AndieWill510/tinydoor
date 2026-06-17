@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 1.10 — The First Big Family Holiday Alone
+# Option 1.10
+# The First Big Family Holiday Alone
 
 ## A Way In
 
