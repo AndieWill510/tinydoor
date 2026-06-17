@@ -20,7 +20,7 @@ SPDX-License-Identifier: Apache-2.0
 
 ---
 
-## Doorway
+## A Way In
 
 Without the old man's club, all that was next was impossible in my life.
 
