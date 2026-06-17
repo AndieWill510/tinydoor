@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 5.18 — You Are Not One Thing
+# Option 5.18
+# You Are Not One Thing
 
 ## A Way In
 
