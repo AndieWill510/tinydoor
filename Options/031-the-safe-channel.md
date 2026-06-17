@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 3.8 — A Safe Way Through
 
-## Doorway
+## A Way In
 
 Picture a meeting (or party) where the lights are too bright and things changed without warning.
 
