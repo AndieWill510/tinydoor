@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 4.10 — Bad Help Teaches Bad Questions
+# Option 4.10
+# Bad Help Teaches Bad Questions
 
 ## A Way In
 
