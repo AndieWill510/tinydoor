@@ -39,21 +39,13 @@ A blanket pulled over the top so the light went soft and gray.
 
 Maybe it was the space under the desk.
 
-Knees tucked in.
-
-A pillow against the wall.
-
-A library book open on the carpet.
+Knees tucked in.  A pillow against the wall.
 
 Maybe it was the closet.
 
 A flashlight.
 
 A sleeping bag.
-
-The smell of dust and laundry soap.
-
-Shoes lined up beside your shoulder.
 
 Maybe it was the corner behind the couch, where you could still hear the room but the room could not quite get to you.
 
@@ -85,29 +77,13 @@ You need to be around people.
 
 Why do you always need your own space?
 
-The chair is just a chair.
-
-The couch is for everyone.
-
-The living room is not yours.
-
 You need to learn to be comfortable in normal places.
 
 So the body learned the lesson it was given.
 
-Stay in the open.
-
-Sit where the light is wrong.
-
-Hear every plate.
-
-Hear every voice.
-
-Let people come up behind you.
+Stay in the open.  Sit where the light is wrong.  Hear every voice.
 
 Perform comfort you do not have.
-
-Do not build the smaller room.
 
 Do not ask the big room to change.
 
@@ -177,39 +153,33 @@ What could not reach you there?
 
 What did you bring inside?
 
-A book.
+> A book.
 
-A snack.
+> A snack.
 
-A flashlight.
+> A flashlight.
 
-A stuffed animal.
+> A stuffed animal.
 
-A notebook.
+> A notebook.
 
-A game.
+> A game.
 
-A blanket that smelled like home.
+> A blanket that smelled like home.
 
 Now ask:
 
 > What is the nearest adult version of that fort?
 
-A bedroom.
+> A bedroom.
 
-A closet.
+> A closet.
 
-A car parked under a tree.
+> A car parked under a tree.
 
-A corner chair.
+> A table in the coffee shop that faces the wall.
 
-A library seat.
-
-A table in the coffee shop that faces the wall.
-
-A hoodie with headphones.
-
-A blanket over your lap with one lamp on.
+> A hoodie with headphones.
 
 Name it.
 
