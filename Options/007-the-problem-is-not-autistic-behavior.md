@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 1.7 — The Problem Is Not Neurodivergent Behavior
 
-## Doorway
+## A Way In
 
 Neurodivergent behavior is one of the great distractions.
 
