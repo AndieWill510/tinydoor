@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 8.9 — Warmth Is Not a Luxury. It Is What Life Feels Like From the Inside.
 
-## Doorway
+## A Way In
 
 The mug is heavy enough. The handle fits two fingers.
 
