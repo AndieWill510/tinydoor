@@ -58,7 +58,7 @@ You assume the problem is your mouth, your hands, your focus, your worth.
 
 That is a terrible thing to teach a child.
 
-It is also one of the ordinary ways Autistic people are trained to misunderstand their own lives.
+It is also one of the ordinary ways we are trained to misunderstand our lives.
 
 We are handed tools for social connection that were not built for our bodies, our timing, our sensory systems, or our ways of loving.
 
@@ -88,7 +88,7 @@ The problem was not my desire.
 
 The mouthpiece was cracked.
 
-He said to me: "You were never going to make those notes."
+My tutor said to me: "You were never going to make those notes."
 
 That sentence did not give me back the lost semester.
 
@@ -124,7 +124,6 @@ That does not mean you were broken.
 
 It means we need to look at the instrument we're asked to play.  Or the room in which we play it. 
 
-Or both.
 
 ---
 
