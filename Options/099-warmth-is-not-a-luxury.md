@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 8.9 — Warmth Is Not a Luxury. It Is What Life Feels Like From the Inside.
 
-Author: Kevin "Andie" Williams  
-Status: Way Home draft / source-witness translation  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/410.md; Chapters/440.md; Options/093-tune-prune-ground-shape.md; Options/097-the-pillow-fort-was-always-architecture.md; Options/098-build-the-room-that-fits.md  
-Evidence: source-witness frame / comfort-culture and hygge frame  
-Safety: sensory overwhelm / regulation / emotional wellbeing; no medical advice, lifestyle prescription, economic requirement, or crisis protocol
-
----
-
 ## Doorway
 
 The mug is heavy enough. The handle fits two fingers.
