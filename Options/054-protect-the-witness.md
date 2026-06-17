@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 4.12 — Protect the Witness
 
-Author: Kevin "Andie" Williams  
-Status: Memoir-adjacent institutional harm draft  
-Project: Tiny Door / You Have Another Option  
-Source: Andie / C conversation; Options/053-the-fire-was-not-the-lesson.md  
-Evidence: memoir / ethical frame; no unsupported historical claim  
-Safety: personal ABA harm / family harm / witness protection; no trauma spectacle; no method detail
-
----
-
 ## Doorway
 
 It's not unusual for Neurodivergent people to be as much or more witnesses to the lives we lead, than participants. 
