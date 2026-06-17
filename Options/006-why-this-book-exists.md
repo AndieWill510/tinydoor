@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 1.6 — Why This Book Exists
 
-## Doorway
+## A Way In
 
 This book exists because too many Neurodivergent people are carrying pain that gets misnamed.
 
