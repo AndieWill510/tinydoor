@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 5.6 — The Menu You Were Given, Sucks
+# Option 5.6
+# The Menu You Were Given, Sucks
 
 ## A Way In
 
