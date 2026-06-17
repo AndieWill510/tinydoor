@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Chapter 2.2 / Option 019 — A Real Door Can Be Refused
+# Chapter 2.2 — A Real Door Can Be Refused
 
 ## A Way In
 
