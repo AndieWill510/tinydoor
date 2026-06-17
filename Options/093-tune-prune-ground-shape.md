@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 8.3 — Tune, Prune, Ground, Shape
+# Option 8.3
+# Tune, Prune, Ground, Shape
 
 ## A Way In
 
