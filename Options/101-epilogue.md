@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# 101 — Epilogue
+# Epilogue
 
 Many hands make for light work, and I would thank so many people.
 
