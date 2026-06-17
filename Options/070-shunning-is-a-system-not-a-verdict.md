@@ -18,15 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 5.8 — Shunning Is a System, Not a Verdict
 
-Author: Kevin "Andie" Williams  
-Status: Way Home draft / source-witness translation  
-Project: Tiny Door / You Have Another Option  
-Source: Chapters/170.md; Chapters/180.md; Options/063-the-game-was-unwinnable.md; Options/064-what-distracts-one-body-can-injure-another.md  
-Evidence: source-witness frame / cycle-language held as model; no unsupported population claim  
-Safety: shunning / bullying / isolation / stigma / family grief; no spectacle; no method detail
-
----
-
 ## Doorway
 
 Being left out can feel like a verdict.
