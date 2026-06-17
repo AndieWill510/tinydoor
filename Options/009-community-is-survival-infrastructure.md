@@ -18,14 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 1.9 — Community Is Survival Infrastructure
 
-Author: Kevin "Andie" Williams  
-Status: Community section bridge draft  
-Project: You Have Another Option  
-Source: Sections/02-community-as-survival-infrastructure.md; rfc/arc-update-community-as-survival-infrastructure.md  
-Safety: community / belonging / survival frame; no method detail
-
----
-
 ## Doorway
 
 The first part of this book says: maybe the failure was not you.
