@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Option 4.13 — Build Exits, Not Cages
 
-## Doorway
+## A Way In
 
 In a house with a measuring stick, everyone learns where to stand.
 
