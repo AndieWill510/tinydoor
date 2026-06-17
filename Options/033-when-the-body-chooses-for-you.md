@@ -16,7 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 3.10 — When the Body Chooses for You
+# Option 3.10
+# When the Body Chooses for You
 
 ## A Way In
 
