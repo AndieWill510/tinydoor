@@ -41,7 +41,7 @@ Not everything.
 
 But something.
 
-The parasite, that thing that so oftens eats away at us socially, loosens.
+The parasite, that thing that so often eats away at us socially, loosens.
 
 And the parasite was never Neurodivergence.
 
@@ -49,7 +49,7 @@ And the parasite was never Neurodivergence.
 
 A lot of us were taught the wrong story.
 
-We were told Autism and ADHD was the problem...some _parasite_. 
+We were told Autism and ADHD were the problem...some _parasite_. 
 
 The disorder.
 
