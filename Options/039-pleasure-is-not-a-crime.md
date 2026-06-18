@@ -25,7 +25,7 @@ Pleasure is one of the places shame likes to set up camp.
 
 Not only sexual pleasure.
 
-The pleasure of the same song again. and again. in a loop. 
+The pleasure of the same song again and again in a loop. 
 
 The pleasure of pressure.
 
