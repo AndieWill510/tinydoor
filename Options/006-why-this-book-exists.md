@@ -35,7 +35,7 @@ This book exists to interrupt that story.
 
 ## Pressure
 
-Neurodivergent people are often told the crisis is Autism of ADHD.
+Neurodivergent people are often told the crisis is Autism or ADHD.
 
 But being Neurodivergent is not the crisis.
 
