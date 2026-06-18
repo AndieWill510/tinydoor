@@ -33,7 +33,7 @@ And frankly, she was exactly what I needed.
 
 Some people enter a room like permission.
 
-Ella in entered like the room had already lost the argument.
+Ella entered like the room had already lost the argument.
 
 ## Pressure
 
