@@ -101,7 +101,7 @@ Maybe pacing.
 
 Maybe pressure.
 
-Maybe carressing.
+Maybe caressing.
 
 Let it be small enough to do.
 
