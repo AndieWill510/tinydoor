@@ -1,0 +1,86 @@
+name: Build TinyDoor Book
+
+on:
+  workflow_dispatch:
+    inputs:
+      through:
+        description: "Highest option number to include, e.g. 40"
+        required: true
+        default: "40"
+      commit_artifact:
+        description: "Commit generated DOCX files back to the repo"
+        required: true
+        default: "true"
+  push:
+    branches:
+      - main
+    paths:
+      - "Options/**"
+      - "tools/build_tinydoor_book.py"
+      - "requirements-book.txt"
+      - ".github/workflows/build-tinydoor-book.yml"
+
+permissions:
+  contents: write
+
+env:
+  DEFAULT_THROUGH: "40"
+
+jobs:
+  build-book:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install build requirements
+        run: python -m pip install --upgrade pip && pip install -r requirements-book.txt
+
+      - name: Resolve build inputs
+        id: vars
+        shell: bash
+        run: |
+          THROUGH="${{ github.event.inputs.through || env.DEFAULT_THROUGH }}"
+          THROUGH_PADDED=$(printf "%03d" "$THROUGH")
+          VERSIONED="options/book/tiny_door_and_pillow_forts_001_${THROUGH_PADDED}.docx"
+          LATEST="options/book/tiny_door_and_pillow_forts.docx"
+          echo "through=$THROUGH" >> "$GITHUB_OUTPUT"
+          echo "through_padded=$THROUGH_PADDED" >> "$GITHUB_OUTPUT"
+          echo "versioned=$VERSIONED" >> "$GITHUB_OUTPUT"
+          echo "latest=$LATEST" >> "$GITHUB_OUTPUT"
+
+      - name: Build DOCX
+        run: |
+          python tools/build_tinydoor_book.py \
+            --through "${{ steps.vars.outputs.through }}" \
+            --output "${{ steps.vars.outputs.versioned }}"
+          cp "${{ steps.vars.outputs.versioned }}" "${{ steps.vars.outputs.latest }}"
+
+      - name: Upload DOCX artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: tiny-door-book-001-${{ steps.vars.outputs.through_padded }}
+          path: |
+            ${{ steps.vars.outputs.versioned }}
+            ${{ steps.vars.outputs.latest }}
+          retention-days: 90
+
+      - name: Commit generated DOCX files
+        if: ${{ github.event_name == 'push' || github.event.inputs.commit_artifact == 'true' }}
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "${{ steps.vars.outputs.versioned }}" "${{ steps.vars.outputs.latest }}"
+          if git diff --cached --quiet; then
+            echo "No DOCX changes to commit."
+          else
+            git commit -m "Build TinyDoor book through option ${{ steps.vars.outputs.through_padded }}"
+            git push
+          fi
