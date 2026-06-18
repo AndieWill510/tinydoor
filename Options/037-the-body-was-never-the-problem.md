@@ -61,7 +61,7 @@ It can make a person less able to know what they feel, what they want, what feel
 
 ## Reframe
 
-Our body was never the problem.
+Your body was never the problem.
 
 Not the body that moves, freezes, wants pressure, avoids touch, seeks touch, asks questions, refuses, consents, withdraws, or needs time to know.
 
