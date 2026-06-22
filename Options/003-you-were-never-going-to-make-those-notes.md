@@ -21,105 +21,29 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-"You were never going to make those notes."
+"You were never going to make those notes" was the kind of mercy that arrived too late to be only mercy. My tutor meant the saxophone. My body heard the semester, the cold, the practicing, the glances, the chair order, the social life that might have opened if someone had checked the instrument before the ending was already almost written.
 
-The saxophone story has one more room in it.
-
-This Option is not about the discovery itself.
-
-It is about the grief that becomes visible after the crack is found.
-
-When my tutor said it, he was talking about a saxophone mouthpiece.
-
-But my body heard something larger:
-
-You were not lazy.
-
-You were not careless.
-
-You were trying to do something that could not be done with the tool you had been given.
+That is the hard part about validation when it comes late. It does not give the time back. It does not re-seat you in the band room as someone suddenly understood. It does not make the first-chair girl look at you differently, or turn the mornings in the Texas cold into something noble enough to stop aching. It does something stranger. It lets you see that some of what you had been calling failure was grief wearing the wrong name.
 
 ## Pressure
 
-There is a particular grief in learning that your suffering was unnecessary.
+There is a particular grief in learning that your suffering was unnecessary. Not imaginary. Not dramatic. Unnecessary. You can grieve the years you spent trying to make impossible notes, the rooms where you were humiliated, the people who did not check, and the version of yourself who kept practicing because trying harder seemed like the only honorable choice.
 
-Not imaginary.
-
-Not dramatic.
-
-Unnecessary.
-
-You can grieve the years you spent trying to make impossible notes.
-
-You can grieve the rooms where you were humiliated.
-
-You can grieve the people who did not check.
-
-Validation does not erase grief.
-
-Sometimes validation makes grief visible.
-
-But visible grief is different from hidden shame.
-
-Hidden shame says:
-
-> Something is wrong with me.
-
-Visible grief says:
-
-> Something happened to me.
+Validation does not erase grief. Sometimes validation makes grief visible. But visible grief is different from hidden shame. Hidden shame says something is wrong with me. Visible grief says something happened here, and I am allowed to tell the truth about what it cost.
 
 ## Reframe
 
-The sentence matters because it changes the location of failure.
+The sentence matters because it changes the location of failure. Before the crack was found, the failure seemed to live in me. After the crack was found, the failure had an address: the mouthpiece, the tool, the room that judged the sound without understanding the instrument.
 
-Before the crack was found, the failure seemed to live in me.
-
-After the crack was found, the failure had an address.
-
-The mouthpiece.
-
-The tool.
-
-The room that judged the sound without understanding the instrument.
-
-This is one of the central movements of the book:
-
-> Move the failure out of the Neurodivergent person when the failure belongs somewhere else.
-
-That does not mean we never need support, skill-building, care, therapy, medicine, rest, community, or change.
-
-We do.
-
-Everyone does.
-
-But help is only help when it begins with the truth.
+This is one of the central movements of the book. Move the failure out of the Neurodivergent person when the failure belongs somewhere else. That does not mean we never need support, skill-building, care, therapy, medicine, rest, community, or change. We do. Everyone does. But help is only help when it begins with the truth.
 
 ## Move
 
-Name one thing you grieved privately that someone taught you to call failure.
-
-One thing.
-
-Not the whole list.
-
-Write it plainly, if writing helps:
-
-> I grieved __________, and I was taught to call it my fault.
-
-Then ask:
-
-> Was I carrying grief, or was I carrying shame?
-
-You do not have to answer perfectly.
-
-Just notice the difference.
+Name one thing you grieved privately that someone taught you to call failure. Keep it to one thing, not the whole list, because the whole list may be too heavy for one sitting. Write it plainly if writing helps: I grieved this, and I was taught to call it my fault. Then ask whether you were carrying grief, shame, or some old mixture of both. You do not have to answer perfectly. Just noticing the difference is already a small act of repair.
 
 ## Mercy
 
-The fact that the notes did not come does not prove you failed.
-
-It may prove the conditions were impossible.
+The fact that the notes did not come does not prove you failed. It may prove the conditions were impossible. It may prove that somebody should have checked the instrument sooner.
 
 ---
 
