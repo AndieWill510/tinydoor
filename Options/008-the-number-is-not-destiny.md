@@ -21,95 +21,29 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-At some point, this book has to say the frightening part plainly.
+At some point, this book has to say the frightening part plainly: research increasingly shows that Neurodivergent, and specifically Autistic, people face shorter average lifespans than their Neurotypical counterparts. That sentence is heavy. It should be heavy. It should make the room go quiet for a moment, not because doom has entered, but because truth deserves enough silence to be heard.
 
-Research increasingly shows that Neurodivergent, and specifically Autistic, people face shorter average lifespans than their Neurotypical counterparts.
-
-That sentence is heavy.
-
-It should be heavy.
-
-But it should not lock the door.
-
-A number can warn us.
-
-A number can expose a failure of care.
-
-A number can tell us that private suffering is also a public health crisis.
-
-But a number is not destiny.
+I do not want that number used as a curse. I do not want it turned into another story about our bodies being wrong, our lives being less possible, or our futures already written. A number can warn us. A number can expose a failure of care. A number can tell us that private suffering is also public health. But a number is not destiny.
 
 ## Pressure
 
-When people hear that Neurodivergent people may face shorter lives, the information can land in dangerous ways.
+When people hear that Autistic and other Neurodivergent people may face shorter lives, the information can land in dangerous ways. It can become doom. It can become shame. It can become one more reason to feel defective, or one more reason for the systems around us to talk about us as if we are tragic objects instead of living people with needs, gifts, habits, histories, bodies, friends, enemies, jokes, cravings, tenderness, and futures still under construction.
 
-It can become doom.
-
-It can become shame.
-
-It can become one more reason to feel defective.
-
-That is not what this book is doing with the number.
-
-The number is not here to tell you your life is already written.
-
-The number is here to tell the truth about preventable harm.
-
-If a community is dying too young, the answer is not to blame the people dying.
-
-The answer is to ask what conditions are shortening lives and what can be changed soon enough to matter.
+That is not what this book is doing with the number. The number is not here to tell you your life is already written. The number is here to tell the truth about preventable harm. If a community is dying too young, the answer is not to blame the people dying. The answer is to ask what conditions are shortening lives and what can be changed soon enough to matter.
 
 ## Reframe
 
-Communities can inherit patterns that shorten life.
+Communities can inherit patterns that shorten life, not because the people are worth less, not because their bodies are a mistake, and not because their lives are doomed. Daily life can be designed in ways that protect people or wear them down. It can give shelter, or it can demand constant exposure. It can give enough room for a nervous system to recover, or it can keep asking a person to perform steadiness while draining the very things that make steadiness possible.
 
-Not because the people are worth less.
-
-Not because their bodies are a mistake.
-
-Not because their lives are doomed.
-
-Because daily life can be designed in ways that protect people or wear them down.
-
-This book asks:
-
-> What if we treated Neurodivergent longevity as something we can design for?
-
-Not perfectly.
-
-Not all at once.
-
-Not with false certainty.
-
-But seriously.
-
-Starting with the pressures closest to hand.
+This book asks what would happen if we treated Neurodivergent longevity as something we can design for. Not perfectly. Not all at once. Not with false certainty. But seriously, and starting with the pressures closest to hand.
 
 ## Move
 
-When you encounter a frightening number, try not to hold it alone.
-
-Ask:
-
-> What is one preventable pressure near me?
-
-One pressure.
-
-Maybe sensory overload.
-
-Maybe having no one to call.
-
-The point is not to solve mortality in one sitting.
-
-The point is to refuse doom and start looking for design.
+When you encounter a frightening number, try not to hold it alone. Ask what one preventable pressure is near you. Maybe sensory overload. Maybe having no one to call. Maybe food, sleep, debt, isolation, medical dismissal, work, or the room that always costs more than anyone admits. The point is not to solve mortality in one sitting. The point is to refuse doom and start looking for design.
 
 ## Mercy
 
-A frightening number can tell the truth without owning the future.
-
-You are not a statistic.
-
-You are a life.
+A frightening number can tell the truth without owning the future. You are not a statistic. You are a life, and a life deserves conditions that help it stay.
 
 ---
 
