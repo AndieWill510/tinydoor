@@ -21,105 +21,29 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-My friends gave birth.
+My friends gave birth. Not literally enough to be simple, and not metaphorically enough to be safe from ridicule. They gave birth in the way a circle can hold steady around something becoming true. First, I came out as bi, and a family member’s old line came back with me into the room: "Bisexuals are indecisive vegetarians." That horrible line. That line said only some people are legible, some are legitimate, some get to live in the light.
 
-Not literally enough to be simple.
-
-Not metaphorically enough to be safe from ridicule.
-
-They gave birth in the way a circle can hold steady around something becoming true.
-
-First, I came out as bi.
-
-A family member's old line came back with me into the room:
-
-> "Bisexuals are indecisive vegetarians."
-
-That horrible line.
-
-That line said only some people are legible.
-
-Some are legitimate.
-
-Some get to live in the light.
+Closets do not disappear just because the culture learns new vocabulary. They move. They become marriages where only part of you is permitted. They become families where your truth is treated as a threat. They become rooms where being queer is treated like confusion, betrayal, or failure to choose a side. So you learn to ration truth until one day you cannot.
 
 ## Pressure
 
-Closets do not disappear just because the culture learns new vocabulary.
+Queer and other Neurodivergent people know this double bind. You can be told that your sexuality is not real enough, your gender is not legible enough, and your Neurodivergence is not respectable enough. The world can ask for a version of you so edited that survival begins to look like disappearance with a nicer outfit.
 
-They move.
-
-They become marriages where only part of you is permitted.
-
-They become families where your truth is treated as a threat.
-
-They become rooms where being queer is treated like confusion, betrayal, or failure to choose a side.
-
-Queer and other Neurodivergent people know this double bind.
-
-You can be told that your sexuality is not real enough, your gender is not legible enough, and your Neurodivergence is not respectable enough.
-
-So you learn to ration truth.
-
-Until one day you cannot.
+So I told them I was bi. I was waiting, even if I did not say I was waiting, to see whether the table would become another place where I had to defend my existence.
 
 ## Reframe
 
-I told them I was bi.
+They all said okay. All good. Then, as if my life depended on their response because it did, I said I was a woman. And again they said okay. All good. That is queer liberation, not as slogan, not as parade language, but as a chorus of people refusing to make your truth an emergency.
 
-They all said: okay.
-
-All good.
-
-Then, as if my life depended on their response because it did, I said I was a woman.
-
-And again they said: okay.
-
-All good.
-
-That is queer liberation.
-
-Not as slogan.
-
-As a chorus of people refusing to make your truth an emergency.
-
-Maybe I found them.
-
-Maybe they found me.
-
-Maybe belonging is not a door that opens only one way.
-
-They said okay.
-
-They said okay.
-
-They said okay.
-
-And I was redeemed.
+Maybe I found them. Maybe they found me. Maybe belonging is not a door that opens only one way. They said okay, and the okay changed the shape of the room. Not because it answered every future question, but because for once my truth did not have to fight for oxygen before it could live.
 
 ## Move
 
-Think of one truth you should not have had to defend so hard.
-
-One truth.
-
-Maybe someone met it with argument.
-
-Maybe someone met it with okay.
-
-Notice the difference in your body.
+Think of one truth you should not have had to defend so hard. Maybe someone met it with argument. Maybe someone met it with okay. Notice the difference in your body. Notice what it means when a room does not turn your truth into a trial.
 
 ## Mercy
 
-That okay changed the shape of what staying alive could look like.
-
-I found my birth home.
-
-It gave me nourishment to launch.
-
-And I needed to leave home and make community with other trans people.
-
-But part of me could have stayed there forever.
+That okay changed the shape of what staying alive could look like. I found my birth home. It gave me nourishment to launch, and later I needed to leave home and make community with other trans people. But part of me could have stayed there forever.
 
 ---
 
