@@ -21,79 +21,29 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-He, I'll call him "Coach," asked me what brought me to town.
+He — I will call him Coach — asked me what brought me to town. It is an ordinary question, the kind people ask at bars and restaurants and hotel lobbies because some human script requires a first thread. It is also a question every Autistic person knows in another register: why do you think you belong here, or anywhere? Some questions arrive wearing ordinary clothes, and the body hears exile first.
 
-It's an ordinary question.
-
-It is also a question every Autistic person knows.
-
-Why do you think you belong here?
-
-Or anywhere?
-
-Some questions arrive wearing ordinary clothes.
-
-But the body hears the older version first.
-
-The body hears exile.
+I had driven down because I was alone. Memorial Day 2024, first big family holiday after the Christmas season that almost took me under, too much day and not enough table. I landed the first night at what I will call The Egyptian, a local restaurant and bar, and sat down next to the man I would only learn much later was the owner.
 
 ## Pressure
 
-I had gone down because I was alone.
+When Coach asked what I was doing there, my answer came out as armor and angst and bluster and dissociation. I told him I was looking for a place to live. I was not. Or I was, but not in the literal way. I was looking for a place a body could survive, a room where the next hour did not feel impossible, a story better than alone on a holiday with nowhere to be expected.
 
-It was Memorial Day 2024, my first big family holiday after a Christmas holiday season that almost ended me.
-
-I needed something to do. I drove to Charlottesville, and landed first night at what I'll call "The Egyptian," a local restaurant/bar. Sat down to who I would only learn much later was the owner. 
-
-Then Coach asked what I was doing there.
-
-My answer was armor and angst and bluster and dissociation.
-
-I told him I was looking for a place to live.
-
-I was not.
+Autistic people know the strange half-truth that comes out before the full truth has language. We say the thing that is adjacent to the need because the need itself is too exposed. We say we are looking for housing when we are looking for shelter. We say we are fine when we mean please do not make me explain this under fluorescent light.
 
 ## Reframe
 
-A strange thing happened next.
+A strange thing happened next. Coach believed the answer enough to help me, or maybe he heard something under the answer and chose to respond to that. He spent the next hour finding me a place to live. That is what community often looks like before anyone knows to call it community: not a theory, not a rescue fantasy, but a person hearing a sentence that is only partly true and responding to the need inside it.
 
-He believed the answer enough to help me.
-
-Or maybe he heard something under the answer.
-
-He spent the next hour finding me a place to live.
-
-That is what community often looks like before anyone knows to call it community.
-
-Not a theory.
-
-Not a rescue fantasy.
-
-A person hears a sentence that is only partly true and responds to the need inside it.
-
-A weekend trip became the most important weekend road trip of my life.
-
-I lived there almost full time for the next year and a half.
-
-And they adopted me.
-
-The entire "Cheers bar" family at The Egyptian.
+That weekend became the most important road trip of my life. I lived there almost full time for the next year and a half, and they adopted me, the whole Cheers-bar family at The Egyptian. I did not know, sitting there with my defensive little answer, that the first person in the new life had already turned toward me.
 
 ## Move
 
-Think of one place where someone answered the need under your sentence.
-
-Maybe they did not understand the whole story.
-
-Maybe they simply made one practical thing easier.
-
-Let that count.
+Think of one place where someone answered the need under your sentence. Maybe they did not understand the whole story. Maybe they simply made one practical thing easier, or gave you one name, one ride, one table, one reason to come back. Let that count. Not every rescue arrives wearing the word rescue.
 
 ## Mercy
 
-Sometimes belonging begins before you believe it.
-
-Sometimes the first person in the new life does not know they are the first person.
+Sometimes belonging begins before you believe it. Sometimes the first person in the new life does not know they are the first person.
 
 ---
 
