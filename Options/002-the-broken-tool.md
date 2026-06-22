@@ -21,101 +21,29 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-The hardest part of the saxophone story is not that the mouthpiece was cracked.
+The saxophone story does not end at the cracked mouthpiece. It asks a second question: why did the room look at the child so long before anyone looked at the instrument? That is where the story becomes more than memory. It becomes a pattern a reader may recognize in school, at work, in family, in clinics, and in the ordinary rooms where people are asked to perform belonging with tools that do not fit.
 
-The hardest part is that nobody checked it sooner.
-
-Not the adults.
-
-Not the teacher at first.
-
-Not me.
-
-I trusted the world's explanation.
-
-If the music was wrong, I must be wrong.
-
-A broken tool becomes dangerous when everyone agrees to call it your failure.
+I did not know to inspect the mouthpiece. I inspected myself. That is what children often do when adults and systems speak with enough confidence. The chair order felt like evidence. The failed notes felt like evidence. The shame felt like evidence. But none of those things were the instrument.
 
 ## Pressure
 
-Autistic people are handed broken tools all the time.
+A tool that does not fit can teach the wrong lesson for years. Social rules can be vague and shifting. Sensory demands can be treated as preferences. Communication can be praised when it is convenient and punished when it is plain. A person can be told to ask for help, then treated as difficult when the help would require the room to change.
 
-We are given social rules that are vague, shifting, and punished differently depending on who breaks them.
-
-We are told to make eye contact, but not too much.
-
-To be honest, but not that honest.
-
-To advocate for ourselves, but not make anyone uncomfortable.
-
-Then, when the tool fails, the explanation comes quickly:
-
-> You are the problem.
-
-That explanation can sink into a body.
-
-It can become posture.
-
-It can become burnout.
-
-It can become the voice that speaks before you do.
+Over time, the explanation moves inward. The room stays ordinary. The demand stays ordinary. The tool stays unquestioned. The person begins to apologize for needing less noise, more time, clearer words, fewer surprises, or an actual exit.
 
 ## Reframe
 
-A broken tool is not neutral.
+The cracked mouthpiece did not only prevent music. It taught the wrong lesson. That is why this book keeps returning to the instrument, the room, the demand, and the design around the person. Not because every problem is external, and not because skill, repair, support, rest, care, and community do not matter. They do.
 
-It teaches the wrong lesson.
-
-The cracked mouthpiece did not only prevent music. It taught shame.
-
-Many Neurodivergent people have been trained this way by schools, families, workplaces, clinics, and ordinary rooms that never stop to ask whether the tool is cracked.
-
-This book begins by asking that question.
-
-Not because every problem is external.
-
-Not because effort never matters.
-
-Not because we never have skills to learn.
-
-But because a life cannot be built honestly if the first assumption is that we are the defect.
-
-Sometimes the tool is wrong.
-
-Sometimes the room is wrong.
-
-Sometimes the help is harmful.
+But support has to begin close enough to reality to be honest. If the first assumption is that the person is the defect, then even well-meant help can repeat the old mistake. Sometimes the first act of care is not correction. Sometimes it is inspection.
 
 ## Move
 
-Pick one recurring struggle.
-
-Keep it small.
-
-Maybe meetings.
-
-Maybe phone calls.
-
-Maybe the grocery store.
-
-Write one sentence:
-
-> The tool might be broken here.
-
-That is the whole move.
-
-Not a diagnosis.
-
-Not a solution.
-
-A pause in the old blame pattern.
+Pick one recurring struggle and keep it small. Maybe meetings. Maybe phone calls. Maybe grocery stores. Ask whether the tool might not fit. That is not a final answer. It is a pause before the old explanation takes over.
 
 ## Mercy
 
-You are allowed to inspect the instrument.
-
-You are allowed to stop calling every broken tool your failure.
+The instrument may need inspection before the player needs correction. That question alone can make a little room around the shame.
 
 ---
 
