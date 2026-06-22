@@ -22,7 +22,7 @@ This index tracks the current normalized `Options/` sequence for *Tiny Door / Yo
 
 ## Current sequence
 
-001. [The Saxophone](001-the-saxophone.md)
+001. [The Broken Mouthpiece](001-the-saxophone.md)
 002. [The Broken Tool](002-the-broken-tool.md)
 003. [You Were Never Going to Make Those Notes](003-you-were-never-going-to-make-those-notes.md)
 004. [The First Mercy](004-the-first-mercy.md)
