@@ -17,87 +17,43 @@ SPDX-License-Identifier: Apache-2.0
 -->
 
 # Option 1.1
-# The Saxophone
+# The Broken Mouthpiece
 
 ## A Way In
 
-Before we talk about a Neurodivergent life worth living, I want to start with a saxophone.
+Stay with the sentence a moment longer:
 
-I was eleven years old, standing in Texas winter cold before dawn, waiting for school and band and another day of trying to make something beautiful happen with an instrument that would not cooperate.
+> You were never going to make those notes.
 
-Music was one of the few beautiful things available to me.
+It is not an excuse. It is not a clever metaphor. It is the sound of a child discovering, too late, that the shame had been assigned to the wrong place.
 
-I practiced.
+For weeks, I had practiced as if more effort would make the instrument tell the truth. I stared at the sheet music. I watched the room decide where I belonged. I kept returning to the same conclusion: if the notes were wrong, I must be wrong.
 
-I tried.
+Then my tutor played the saxophone and sounded like me.
 
-Every time, I was fourth chair.
+That was the first crack in the old story.
 
-Out of four.
-
-That number mattered because children know when the room has decided who belongs.
-
-So I tried harder.
-
-The notes would not come.
+Not the crack in the mouthpiece. The crack in the explanation.
 
 ## Pressure
 
-When you are a child, you do not usually get to inspect the instrument.
+A broken mouthpiece does more than ruin music.
 
-You inspect yourself.
+If nobody checks it, it teaches the player to suspect their own body. Their mouth. Their hands. Their breath. Their focus. Their worth.
 
-You assume the problem is your mouth, your hands, your focus, your worth.
+That is how shame gets mistaken for feedback.
 
-That is a terrible thing to teach a child.
+A room can be very certain and still be wrong. A teacher can be kind and still miss the thing that matters. A child can work harder and harder inside a setup that was never going to let the music come through.
 
-It is also one of the ordinary ways we are trained to misunderstand our lives.
+And because the child is a child, they usually do not inspect the instrument.
 
-We are handed tools for social connection that were not built for our bodies, our timing, our sensory systems, or our ways of loving.
-
-Then, when the tools do not work, we are told the failure lives inside us.
-
-So we practice harder.
-
-We mask harder.
-
-We stare at the social sheet music and try not to lose our place.
-
-And still the room says: fourth chair.
+They inspect themselves.
 
 ## Reframe
 
-My tutor of six weeks eventually asked to see the saxophone.
+This book begins there: not with the claim that effort never matters, or that every hard thing is someone else’s fault, but with a more merciful first question.
 
-He played it.
-
-To both our surprise, he sounded like me.
-
-Then he took apart the mouthpiece and found the crack.
-
-The problem was not my effort.
-
-The problem was not my desire.
-
-The mouthpiece was cracked.
-
-My tutor said to me: "You were never going to make those notes."
-
-That sentence did not give me back the lost semester.
-
-But it gave me the first mercy:
-
-> Maybe the failure was not me.
-
-## Move
-
-Think of one place where you have spent years trying harder, but the notes still will not come.
-
-Do not decide yet whether to quit.
-
-Just ask:
-
-> What if the mouthpiece is cracked?
+Before we indict the person, can we inspect the instrument?
 
 Maybe the tool is wrong.
 
@@ -105,18 +61,41 @@ Maybe the room is wrong.
 
 Maybe the expectation is wrong.
 
-That question may not solve the problem today.
+Maybe the person has been practicing through a crack no one else bothered to notice.
+
+That possibility matters because shame is not neutral. It does not simply describe pain. It recruits the person into blaming themselves for pain that may have been designed, permitted, neglected, or misread.
+
+A cracked mouthpiece is not a failed musician.
+
+A hostile room is not a failed nervous system.
+
+## Move
+
+Think of one place where you have been trying harder for a long time and the notes still will not come.
+
+Do not solve it yet.
+
+Do not quit yet.
+
+Do not turn it into a whole life verdict.
+
+Just pause the old conclusion long enough to ask:
+
+> What if the mouthpiece is cracked?
+
+That question may not fix the instrument today.
 
 But it can loosen the shame.
 
 ## Mercy
 
+You are allowed to inspect the instrument before you condemn the player.
+
+You are allowed to wonder whether the room, the tool, the demand, or the explanation has been wrong.
+
 You may have been trying to make music through a broken mouthpiece for a very long time.
 
 That does not mean you were broken.
-
-It means we need to look at the instrument we're asked to play.  Or the room in which we play it. 
-
 
 ---
 
