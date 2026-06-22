@@ -21,99 +21,29 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-Neurodivergent behavior is one of the great distractions.
+Neurodivergent behavior is one of the great distractions, not because behavior is meaningless, but because behavior often means more than the room wants to know. A child covers their ears. An adult leaves the room. Someone stops speaking. Someone talks too fast. Someone rocks, paces, laughs at the wrong moment, disappears into the bathroom, or answers the question too honestly. Too often the room points at the behavior and says, how do we stop that?
 
-Not because behavior is meaningless.
-
-Behavior means something.
-
-Behavior is often the body speaking in the only language available to it.  I had a friend tell me recently, "if it's too loud, cover your ears" which I thought made a lot of sense. 
-
-The distraction begins when people treat the behavior as the whole problem.
-
-A child covers their ears.
-
-An adult leaves the room.
-
-Someone stops speaking.
-
-Too often the question becomes:
-
-> How do we stop that?
-
-This book asks:
-
-> What pressure is that behavior trying to survive?
+A friend told me recently, "If it’s too loud, cover your ears." It was such a plain mercy that I almost missed how radical it was. Not, prove the sound is too loud. Not, explain your sensory profile to a committee. Not, make your face look better while you endure it. If it is too loud, cover your ears. The behavior was not the problem. The behavior was the body trying to survive the pressure.
 
 ## Pressure
 
-When people focus only on our behavior, they often miss the conditions producing distress.
+When people focus only on our behavior, they often miss the conditions producing distress. The lights, the noise, the room with no exit, the schedule with no recovery, the conversation where every answer is a trap, the family system where calm means everyone else gets what they want. If the behavior is treated as the whole problem, the environment gets to remain innocent.
 
-The lights.
-
-The noise.
-
-The room with no exit.
-
-If the behavior is treated as the problem, the environment gets to remain innocent.
-
-The schedule gets to remain innocent.
-
-The institution gets to remain innocent.
-
-And the Neurodivergent person carries the blame.
+The schedule gets to remain innocent. The institution gets to remain innocent. The room gets to keep calling itself ordinary while the Neurodivergent person carries the blame for reacting to conditions nobody else agreed to investigate.
 
 ## Reframe
 
-Our behavior is information.
+Our behavior is information. That does not mean every behavior is safe, or that every reaction is harmless, or that nobody else’s needs matter. It means distress deserves curiosity before correction. It means behavior should be investigated before it is punished.
 
-That does not mean every behavior is safe.
-
-It does not mean every reaction is harmless.
-
-It does not mean nobody else's needs matter.
-
-It means behavior should be investigated before it is punished.
-
-It means distress deserves curiosity before correction.
-
-A smoke alarm is loud.
-
-A smoke alarm can be inconvenient.
-
-But if a smoke alarm goes off, the first wise move is not to smash the alarm.
-
-The first wise move is to look for smoke.
-
-Our behavior often asks the same mercy:
-
-> Look for smoke.
+A smoke alarm is loud. A smoke alarm can be inconvenient. But if a smoke alarm goes off, the first wise move is not to smash the alarm. The first wise move is to look for smoke. Our behavior often asks the same mercy: look for smoke before you decide the signal is the enemy.
 
 ## Move
 
-If you are asking this about your own behavior, go slowly.
-
-The next time you notice an Neurodivergent behavior — yours or someone else's — pause before naming it good or bad.
-
-Ask:
-
-> What pressure might this be pointing to?
-
-One pressure.
-
-Maybe sound.
-
-Maybe too many demands.
-
-The goal is not to excuse everything.
-
-The goal is to stop mistaking the signal for the source.
+The next time you notice a Neurodivergent behavior — yours or someone else’s — pause before naming it good or bad. Ask what pressure it might be pointing to. Maybe sound. Maybe too many demands. Maybe hunger, uncertainty, pain, grief, or a room that has become too expensive to remain in. The goal is not to excuse everything. The goal is to stop mistaking the signal for the source.
 
 ## Mercy
 
-You are not a behavior problem.
-
-You are a person whose body has been trying to communicate under pressure.
+You are not a behavior problem. You are a person whose body has been trying to communicate under pressure, and communication deserves curiosity before correction.
 
 ---
 
