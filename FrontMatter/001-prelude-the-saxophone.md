@@ -19,10 +19,10 @@ SPDX-License-Identifier: Apache-2.0
 # Prelude: The Saxophone
 
 Author: Kevin "Andie" Williams  
-Status: Draft import / protected doorway  
+Status: Protected doorway / opening threshold  
 Project: You Have Another Option  
 Source: You Have Another Option_type_I.docx  
-Placement: Front matter / literal opening candidate
+Placement: Front matter / literal opening
 
 ---
 
@@ -30,7 +30,7 @@ Placement: Front matter / literal opening candidate
 
 This prelude is the protected doorway for the book.
 
-It should precede the mortality frame, the pandemic frame, the MD terminology question, and the Blue Zones analogy.
+It should precede the mortality frame, the pandemic frame, the MD terminology question, the Blue Zones analogy, and the formal Options sequence.
 
 Purpose:
 
@@ -76,16 +76,18 @@ Reader-facing function:
 
 ## Extraction Notes
 
-Candidate Options or opening movements:
+This file is the opening threshold, not an Option.
+
+Follow-on Options:
 
 ```text
-Option 1.1 — The Saxophone
+Option 1.1 — The Broken Mouthpiece
 Option 1.2 — The Broken Tool
 Option 1.3 — You Were Never Going to Make Those Notes
 ```
 
 This file preserves the imported prelude.
 
-A later editing pass may shorten, split, or polish it, but the architectural decision is stable:
+A later editing pass may only make minimal dignity edits. The architectural decision is stable:
 
 > The saxophone opens the book.
