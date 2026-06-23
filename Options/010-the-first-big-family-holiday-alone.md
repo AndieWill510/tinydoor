@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 1.10
+# Option 1.1
 # The First Big Family Holiday Alone
 
 ## A Way In
@@ -52,5 +52,5 @@ A distraction can still be mercy. Sometimes the thing you do because you cannot 
 
 [Options Index](INDEX.md)
 
-[Next: 011 — Coach at Cheers →](011-coach-at-cheers.md)
+[Next: Option 1.2 — Coach at Cheers →](011-coach-at-cheers.md)
 <!-- TINYDOOR_NAV_END -->
