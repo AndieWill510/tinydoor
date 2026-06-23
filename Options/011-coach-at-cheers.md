@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 1.11
+# Option 1.2
 # Coach at Cheers
 
 ## A Way In
@@ -52,5 +52,5 @@ Sometimes belonging begins before you believe it. Sometimes the first person in 
 
 [Options Index](INDEX.md)
 
-[Next: 012 — Sam Behind the Bar →](012-sam-behind-the-bar.md)
+[Next: Option 1.3 — Sam Behind the Bar →](012-sam-behind-the-bar.md)
 <!-- TINYDOOR_NAV_END -->
