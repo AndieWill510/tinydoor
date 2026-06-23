@@ -39,7 +39,7 @@ When those environments hurt us, the pain is real. When we react to that pain, t
 
 ## Move
 
-The next time you notice yourself thinking, I am the problem, pause if you can. Ask what pressure is present. Name one pressure without judging it. Maybe sound. Maybe hunger. Maybe being watched. Maybe a demand arriving too quickly for your body to organize around it. You do not have to solve the whole pressure. Just name it, and let naming become a small refusal of shame.
+The next time you notice yourself thinking, "I am the problem," pause if you can. Ask what pressure is present. Name one pressure without judging it. Maybe sound. Maybe hunger. Maybe being watched. Maybe a demand arriving too quickly for your body to organize around it. You do not have to solve the whole pressure. Just name it, and let naming become a small refusal of shame.
 
 ## Mercy
 
