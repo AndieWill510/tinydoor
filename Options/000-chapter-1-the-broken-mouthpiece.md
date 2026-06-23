@@ -16,8 +16,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Chapter 1 Opening
-# The Broken Mouthpiece
+# Chapter 1 Beginning
+# The Saxophone
 
 Author: Kevin "Andie" Williams  
 Status: Chapter 1 bridge / opening essay  
