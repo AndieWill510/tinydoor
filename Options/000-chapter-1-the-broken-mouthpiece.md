@@ -26,11 +26,11 @@ Placement: After the saxophone prelude; before the formal Chapter 1 Options
 
 ---
 
-The saxophone prelude opens the book because the reader has to feel the cold before the book asks them to understand the architecture. An eleven-year-old stands in the dark, abandoned for a time by the person who was supposed to protect him, practicing and practicing, staring holes into sheet music, trying to make beauty come out of an instrument that will not tell the truth. The room decides. Fourth chair. Out of four. The first-chair girl is warm and bright and unreachable, and even wanting connection becomes another place for shame to land.
+An eleven-year-old stands in the dark, abandoned for a time by she who was supposed to protect me, practicing and practicing, staring holes into sheet music, trying to make beauty come out of an instrument that will not tell the truth. The room decides. Fourth chair. Out of four. The first-chair girl is warm and bright and unreachable, and even wanting connection becomes another place for shame to land.
 
 Then, near the end, the tutor takes the saxophone apart. He plays it and sounds like the child. The mouthpiece is cracked. "You were never going to make those notes." That sentence is the doorway. Not because it fixes the semester. It does not. It does not return the lost mornings, the lost confidence, the social connection that might have been possible if someone had checked sooner. It gives something stranger and more dangerous than comfort: it moves the failure.
 
-Before the crack was found, the failure seemed to live in the child. After the crack was found, the failure had an address. The mouthpiece. The tool. The room that judged the sound without understanding the instrument. This is the first mercy of the book. Maybe the failure was not you.
+Before the crack was found, the failure seemed to live in me. After the crack was found, the failure had an address. The mouthpiece. The tool. The room that judged the sound without understanding the instrument. This is the first mercy of the book. Maybe the failure was not you.
 
 That sentence is not an excuse, and it is not the whole truth about every hard thing. Effort matters. Repair matters. Skill matters. Apology matters. Rest, care, treatment, support, community, and change all matter. But no life can be built honestly if the first assumption is that the vulnerable person is the defect and every room around them gets to remain innocent. Before we correct the player, we have to inspect the instrument. Before we punish the behavior, we have to ask what pressure the behavior is trying to survive.
 
