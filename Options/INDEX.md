@@ -18,33 +18,37 @@ SPDX-License-Identifier: Apache-2.0
 
 # Options Index
 
-This index tracks the current normalized `Options/` sequence for *Tiny Door / You Have Another Option*.
+This index tracks the current reader-facing sequence for *Tiny Door / You Have Another Option*.
 
-## Current sequence
+The stable file numbers are not always the same as the chapter/option numbers. Chapter 1 was structurally repaired so the former argument-heavy Options `001` through `009` are no longer the formal opening Option sequence. Their core ideas now live in the Chapter 1 opening essay, and the formal Chapter 1 Options begin with the lived story arc at file `010`.
 
-001. [The Broken Mouthpiece](001-the-saxophone.md)
-002. [The Broken Tool](002-the-broken-tool.md)
-003. [You Were Never Going to Make Those Notes](003-you-were-never-going-to-make-those-notes.md)
-004. [The First Mercy](004-the-first-mercy.md)
-005. [Another Option](005-another-option.md)
-006. [Why This Book Exists](006-why-this-book-exists.md)
-007. [The Problem Is Not Our Behavior](007-the-problem-is-not-autistic-behavior.md)
-008. [The Number Is Not Destiny](008-the-number-is-not-destiny.md)
-009. [Community Is Survival Infrastructure](009-community-is-survival-infrastructure.md)
-010. [The First Big Family Holiday Alone](010-the-first-big-family-holiday-alone.md)
-011. [Coach at Cheers](011-coach-at-cheers.md)
-012. [Sam Behind the Bar](012-sam-behind-the-bar.md)
-013. [Ella and the Old Man's Club](013-ella-and-the-old-mans-club.md)
-014. [OMC: A Second Bite at the Apple](014-omc-second-bite-at-the-apple.md)
-015. [They Said Okay](015-they-said-ok.md)
-016. [The New Egyptian](016-north-light-is-maya.md)
-017. [Friends From Nowhere](017-friends-from-nowhere.md)
-018. [The Tiny Door Is Not a Leash](018-the-tiny-door-is-not-a-leash.md)
-019. [A Real Door Can Be Refused](019-a-real-door-can-be-refused.md)
-020. [Help Has to Fit the Body](020-help-has-to-fit-the-body.md)
-021. [Survival in the Gap](021-survival-in-the-gap.md)
-022. [The Room Was Sick First](022-the-room-was-sick-first.md)
-023. [Let the Symptom Count](023-let-the-symptom-count.md)
+## Front matter / opening threshold
+
+- [Prelude: The Saxophone](../FrontMatter/001-prelude-the-saxophone.md)
+- [Chapter 1 Opening: The Broken Mouthpiece](../FrontMatter/002-chapter-1-the-broken-mouthpiece.md)
+
+## Chapter 1 — Community Becomes the Instrument
+
+1.1. [The First Big Family Holiday Alone](010-the-first-big-family-holiday-alone.md)
+1.2. [Coach at Cheers](011-coach-at-cheers.md)
+1.3. [Sam Behind the Bar](012-sam-behind-the-bar.md)
+1.4. [Ella and the Old Man's Club](013-ella-and-the-old-mans-club.md)
+1.5. [OMC: A Second Bite at the Apple](014-omc-second-bite-at-the-apple.md)
+1.6. [They Said Okay](015-they-said-ok.md)
+1.7. [The New Egyptian](016-north-light-is-maya.md)
+1.8. [Friends From Nowhere](017-friends-from-nowhere.md)
+
+## Chapter 2 — Door, Leash, Body, Room
+
+2.1. [The Tiny Door Is Not a Leash](018-the-tiny-door-is-not-a-leash.md)
+2.2. [A Real Door Can Be Refused](019-a-real-door-can-be-refused.md)
+2.3. [Help Has to Fit the Body](020-help-has-to-fit-the-body.md)
+2.4. [Survival in the Gap](021-survival-in-the-gap.md)
+2.5. [The Room Was Sick First](022-the-room-was-sick-first.md)
+2.6. [Let the Symptom Count](023-let-the-symptom-count.md)
+
+## Current remaining sequence
+
 024. [Autism Is Not the Parasite](024-autism-is-not-the-parasite.md)
 025. [The Missing Ramp](025-the-missing-ramp.md)
 026. [Stimming Is Regulation](026-stimming-is-regulation.md)
@@ -124,8 +128,20 @@ This index tracks the current normalized `Options/` sequence for *Tiny Door / Yo
 100. [Benediction and Closing Thoughts](100-benediction-and-closing-thoughts.md)
 101. [Epilogue](101-epilogue.md)
 
+## Retired Chapter 1 argument drafts
+
+The former reader-facing Options `001` through `009` were consolidated into [Chapter 1 Opening: The Broken Mouthpiece](../FrontMatter/002-chapter-1-the-broken-mouthpiece.md). They should be treated as historical source drafts, not as the active Chapter 1 Option sequence.
+
+- [001 — The Broken Mouthpiece / historical source draft](001-the-saxophone.md)
+- [002 — The Broken Tool / historical source draft](002-the-broken-tool.md)
+- [003 — You Were Never Going to Make Those Notes / historical source draft](003-you-were-never-going-to-make-those-notes.md)
+- [004 — The First Mercy / historical source draft](004-the-first-mercy.md)
+- [005 — Another Option / historical source draft](005-another-option.md)
+- [006 — Why This Book Exists / historical source draft](006-why-this-book-exists.md)
+- [007 — The Problem Is Not Our Behavior / historical source draft](007-the-problem-is-not-autistic-behavior.md)
+- [008 — The Number Is Not Destiny / historical source draft](008-the-number-is-not-destiny.md)
+- [009 — Community Is Survival Infrastructure / historical source draft](009-community-is-survival-infrastructure.md)
+
 ## Cleanup notes
 
-The filename sequence has been normalized from `001` through `101`.
-
-Some chapters may still contain historical internal metadata or source notes from the pre-normalization decimal sequence. Those should be handled as a separate metadata/reference sweep so chapter text is not accidentally altered during filename cleanup.
+The reader-facing order is now architectural rather than purely numeric. Future cleanup may physically archive or rename files, but do not do that casually: stable filenames preserve links while the book’s structure is still moving.
