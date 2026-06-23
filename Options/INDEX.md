@@ -20,12 +20,12 @@ SPDX-License-Identifier: Apache-2.0
 
 This index tracks the current reader-facing sequence for *Tiny Door / You Have Another Option*.
 
-The stable file numbers are not always the same as the chapter/option numbers. Chapter 1 was structurally repaired so the former argument-heavy Options `001` through `009` are no longer the formal opening Option sequence. Their core ideas now live in the Chapter 1 opening essay, and the formal Chapter 1 Options begin with the lived story arc at file `010`.
+The stable file numbers are not always the same as the chapter/option numbers. Chapter 1 was structurally repaired so the former argument-heavy Options `001` through `009` were moved out of `Options/` and into `Archive/Chapter1ArgumentDrafts/`. Their core ideas now live in the Chapter 1 opening essay, and the formal Chapter 1 Options begin with the lived story arc at file `010`.
 
 ## Front matter / opening threshold
 
 - [Prelude: The Saxophone](../FrontMatter/001-prelude-the-saxophone.md)
-- [Chapter 1 Opening: The Broken Mouthpiece](../FrontMatter/002-chapter-1-the-broken-mouthpiece.md)
+- [Chapter 1 Opening: The Broken Mouthpiece](000-chapter-1-the-broken-mouthpiece.md)
 
 ## Chapter 1 — Community Becomes the Instrument
 
@@ -128,20 +128,20 @@ The stable file numbers are not always the same as the chapter/option numbers. C
 100. [Benediction and Closing Thoughts](100-benediction-and-closing-thoughts.md)
 101. [Epilogue](101-epilogue.md)
 
-## Retired Chapter 1 argument drafts
+## Archived Chapter 1 argument drafts
 
-The former reader-facing Options `001` through `009` were consolidated into [Chapter 1 Opening: The Broken Mouthpiece](../FrontMatter/002-chapter-1-the-broken-mouthpiece.md). They should be treated as historical source drafts, not as the active Chapter 1 Option sequence.
+The former reader-facing Options `001` through `009` were consolidated into [Chapter 1 Opening: The Broken Mouthpiece](000-chapter-1-the-broken-mouthpiece.md) and moved to `Archive/Chapter1ArgumentDrafts/`.
 
-- [001 — The Broken Mouthpiece / historical source draft](001-the-saxophone.md)
-- [002 — The Broken Tool / historical source draft](002-the-broken-tool.md)
-- [003 — You Were Never Going to Make Those Notes / historical source draft](003-you-were-never-going-to-make-those-notes.md)
-- [004 — The First Mercy / historical source draft](004-the-first-mercy.md)
-- [005 — Another Option / historical source draft](005-another-option.md)
-- [006 — Why This Book Exists / historical source draft](006-why-this-book-exists.md)
-- [007 — The Problem Is Not Our Behavior / historical source draft](007-the-problem-is-not-autistic-behavior.md)
-- [008 — The Number Is Not Destiny / historical source draft](008-the-number-is-not-destiny.md)
-- [009 — Community Is Survival Infrastructure / historical source draft](009-community-is-survival-infrastructure.md)
+- [001 — The Broken Mouthpiece / historical source draft](../Archive/Chapter1ArgumentDrafts/001-the-saxophone.md)
+- [002 — The Broken Tool / historical source draft](../Archive/Chapter1ArgumentDrafts/002-the-broken-tool.md)
+- [003 — You Were Never Going to Make Those Notes / historical source draft](../Archive/Chapter1ArgumentDrafts/003-you-were-never-going-to-make-those-notes.md)
+- [004 — The First Mercy / historical source draft](../Archive/Chapter1ArgumentDrafts/004-the-first-mercy.md)
+- [005 — Another Option / historical source draft](../Archive/Chapter1ArgumentDrafts/005-another-option.md)
+- [006 — Why This Book Exists / historical source draft](../Archive/Chapter1ArgumentDrafts/006-why-this-book-exists.md)
+- [007 — The Problem Is Not Our Behavior / historical source draft](../Archive/Chapter1ArgumentDrafts/007-the-problem-is-not-autistic-behavior.md)
+- [008 — The Number Is Not Destiny / historical source draft](../Archive/Chapter1ArgumentDrafts/008-the-number-is-not-destiny.md)
+- [009 — Community Is Survival Infrastructure / historical source draft](../Archive/Chapter1ArgumentDrafts/009-community-is-survival-infrastructure.md)
 
 ## Cleanup notes
 
-The reader-facing order is now architectural rather than purely numeric. Future cleanup may physically archive or rename files, but do not do that casually: stable filenames preserve links while the book’s structure is still moving.
+The reader-facing order is now architectural rather than purely numeric. Future cleanup may physically archive or rename more files, but do not do that casually: stable filenames preserve links while the book’s structure is still moving.
