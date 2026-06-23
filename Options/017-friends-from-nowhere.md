@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 1.17
+# Option 1.8
 # Friends From Nowhere
 
 ## A Way In
@@ -52,5 +52,5 @@ Not every friendship arrives on time. Some arrive after you have stopped expecti
 
 [Options Index](INDEX.md)
 
-[Next: 018 — The Tiny Door Is Not a Leash →](018-the-tiny-door-is-not-a-leash.md)
+[Next: Chapter 2 — The Tiny Door Is Not a Leash →](018-the-tiny-door-is-not-a-leash.md)
 <!-- TINYDOOR_NAV_END -->
