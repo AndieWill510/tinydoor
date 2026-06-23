@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 1.12
+# Option 1.3
 # Sam Behind the Bar
 
 ## A Way In
@@ -52,5 +52,5 @@ You are allowed to need people who make your body believe the room is safe. You 
 
 [Options Index](INDEX.md)
 
-[Next: 013 — Ella and the Old Man's Club →](013-ella-and-the-old-mans-club.md)
+[Next: Option 1.4 — Ella and the Old Man's Club →](013-ella-and-the-old-mans-club.md)
 <!-- TINYDOOR_NAV_END -->
