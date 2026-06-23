@@ -35,7 +35,7 @@ This book does not begin from the belief that Autistic people are broken. It beg
 
 Another option is not a slogan. It is a design principle. It asks whether there is another room, another way to communicate, another explanation besides shame, another person to ask, another pace, another door, another place to put the body while the mind catches up.
 
-Another option does not mean infinite options. It means the first authority may not be the right authority. The first room may not be survivable. The first interpretation may not be true. That is where hope begins to grow handles, not as a mood, but as something a tired person can actually reach for.
+Tiny Doors does not mean infinite options. It means the first authority may not be the right authority. The first room may not be survivable. The first interpretation may not be true. That is where hope begins to grow handles, not as a mood, but as something a tired person can actually reach for.
 
 ## Move
 
