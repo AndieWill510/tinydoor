@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 1.16
+# Option 1.7
 # The New Egyptian
 
 ## A Way In
@@ -52,5 +52,5 @@ I found a new Sam. That does not erase Sam. It means the rooms that help us can 
 
 [Options Index](INDEX.md)
 
-[Next: 017 — Friends from Nowhere →](017-friends-from-nowhere.md)
+[Next: Option 1.8 — Friends From Nowhere →](017-friends-from-nowhere.md)
 <!-- TINYDOOR_NAV_END -->
