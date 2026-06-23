@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 1.14
+# Option 1.5
 # OMC: A Second Bite at the Apple
 
 ---
@@ -54,5 +54,5 @@ A second social life is not a small thing. Sometimes a table becomes a cocoon, a
 
 [Options Index](INDEX.md)
 
-[Next: 015 — They Said OK →](015-they-said-ok.md)
+[Next: Option 1.6 — They Said Okay →](015-they-said-ok.md)
 <!-- TINYDOOR_NAV_END -->
