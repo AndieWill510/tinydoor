@@ -21,137 +21,31 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-A door that only opens for a body you do not have is not your door.
+There is a particular humiliation in being offered help that everyone says should work, while your actual body knows it cannot. The door is there. The door may even be beautiful. It may be well funded, well researched, and explained by a very calm person with a clipboard. But if the door only opens for a body you do not have, it is still closed to you.
 
-It may be a beautiful door.
-
-It may be well funded.
-
-It may have research behind it, a clipboard beside it, and a very calm person explaining why it should work.
-
-But if your body cannot use it, the door is still closed.
-
-That does not mean you failed the door.
-
-It means the door does not fit and may never fit.
+For years, I confused that mismatch with personal failure. I thought if I could not use the plan, the schedule, the advice, the conversation, the treatment goal, or the family rule, then something in me must not want help enough. It took a long time to understand that fit is not decoration. Fit is the difference between support and another way to be blamed.
 
 ## Pressure
 
-A lot of support asks the Autistic or ADHD person to become the person the support was designed for.
+A lot of support asks the Autistic or ADHD person to become the person the support was designed for. A planner assumes time behaves. A therapy exercise assumes speech is available. A classroom rule mistakes stillness for attention. A workplace accommodation assumes asking once is enough. A family plan assumes you can explain your needs while already overloaded. A medical instruction assumes transportation, money, food, sleep, trust, and executive function are already there.
 
-A planner that assumes time behaves.
-
-A therapy exercise that assumes speech is available.
-
-A classroom rule that mistakes stillness for attention.
-
-A workplace accommodation that assumes asking once is enough.
-
-A family plan that assumes you can explain your needs while already overloaded.
-
-A medical instruction that assumes transportation, money, food, sleep, trust, and executive function are already there.
-
-Then, when the support fails (and it often does), the explanation moves back onto you.
-
-You did not follow through.
-
-You resisted.
-
-You were avoidant.
-
-You were not ready.
-
-You did not want help.
-
-Maybe.
-
-Sometimes people do resist help.
-
-Sometimes avoidance is real.
-
-But sometimes the help was built for a body, brain, schedule, sensory system, income, language capacity, or fear level that was never yours.
+Then, when the support fails, the explanation moves back onto you. You did not follow through. You resisted. You were avoidant. You were not ready. You did not want help. Sometimes people do resist help, and sometimes avoidance is real. But sometimes the help was built for a body, brain, schedule, sensory system, income, language capacity, or fear level that was never yours.
 
 ## Reframe
 
-Help is not help unless it helps.
+Help is not help unless it helps. This is not laziness. This is design. A ramp that is too steep is not an accommodation. A checklist with sixteen steps is not support. A conversation that requires perfect self-advocacy during overwhelm is not accessible because it uses kind words.
 
-This is not laziness.
-
-This is design.
-
-A ramp that is too steep is not an accommodation.
-
-A checklist with sixteen steps is not support.
-
-A conversation that requires perfect self-advocacy during overwhelm is not accessible because it uses kind words.
-
-Fit matters.
-
-The body matters.
-
-The nervous system matters.
-
-The actual day matters.
-
-The amount of transition time matters.
-
-The noise, the light, the shame history, the money, the paperwork, the fear of punishment, the last ten times someone called you difficult — all of that matters.
-
-A real door meets the person who has to walk through it.
+Fit matters. The body matters. The nervous system matters. The actual day matters. The noise, the light, the shame history, the money, the paperwork, the fear of punishment, the last ten times someone called you difficult — all of that matters. A real door meets the person who has to walk through it.
 
 ## Move
 
-Choose one support that has not been working.
+Choose one support that has not been working. Do not ask first why you cannot do this. Ask what body this support was designed for. Then ask what the support assumes you have available, what your body actually has available today, and what would make this one notch more usable.
 
-Do not ask first:
-
-> Why can't I do this?
-
-Ask:
-
-> What body was this designed for?
-
-Then ask three smaller questions:
-
-1. What does this support assume I have available?
-2. What does my body actually have available today?
-3. What would make this one notch more usable?
-
-One notch matters.
-
-A shorter form.
-
-A quieter room.
-
-A reminder from another person.
-
-A script.
-
-A ride.
-
-A lower shelf.
-
-A longer deadline.
-
-Permission to answer in writing.
-
-A version that starts with lying on the floor and breathing before anyone asks for a plan.
-
-That is not cheating.
-
-That is fitting the door to the body.
+One notch matters: a shorter form, a quieter room, a reminder from another person, a script, a ride, a lower shelf, a longer deadline, permission to answer in writing, or a version that starts with lying on the floor and breathing before anyone asks for a plan. That is not cheating. That is fitting the door to the body.
 
 ## Mercy
 
-You are not broken because the offered help did not fit.
-
-You are allowed to ask for the version your actual body can use.
-
-You are allowed to need a smaller step, a different shape, a quieter room, a slower pace, or another human near the hinge.
-
-A door is not merciful because it exists.
-
-A door becomes merciful when it opens for the person standing in front of it.
+You are not broken because the offered help did not fit. A door is not merciful because it exists. A door becomes merciful when it opens for the person standing in front of it.
 
 ---
 
