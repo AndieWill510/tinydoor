@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 1.15
+# Option 1.6
 # They Said Okay
 
 ## A Way In
@@ -52,5 +52,5 @@ That okay changed the shape of what staying alive could look like. I found my bi
 
 [Options Index](INDEX.md)
 
-[Next: 016 — North Light Is Maya →](016-north-light-is-maya.md)
+[Next: Option 1.7 — The New Egyptian →](016-north-light-is-maya.md)
 <!-- TINYDOOR_NAV_END -->
