@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 1.13
+# Option 1.4
 # Ella and the Old Man's Club
 
 ## A Way In
@@ -52,5 +52,5 @@ Belonging does not always arrive as a plan. Sometimes it arrives through a door 
 
 [Options Index](INDEX.md)
 
-[Next: 014 — OMC Second Bite at the Apple →](014-omc-second-bite-at-the-apple.md)
+[Next: Option 1.5 — OMC: A Second Bite at the Apple →](014-omc-second-bite-at-the-apple.md)
 <!-- TINYDOOR_NAV_END -->
