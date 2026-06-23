@@ -21,113 +21,31 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-A real option can be refused.
+One of the ways I learned the difference between a door and a leash was by noticing what happened when I hesitated. The offer sounded kind enough. The plan had the right language around it. The helper may even have meant well. But when my body slowed down, when I asked whether there was another version, when I could not make my yes arrive quickly enough, the room changed temperature.
 
-That sounds obvious until you notice how often help arrives with a trapdoor under it.
-
-You can say yes.
-
-You can be grateful.
-
-You can improve in the approved direction.
-
-But if you say no, the room changes temperature.
-
-The helper becomes hurt.
-
-The system becomes suspicious.
-
-The offer becomes a test you failed.
-
-That was not a door.
-
-That was a hallway with one acceptable direction.
+A real option can be refused. That sounds obvious until you notice how often help arrives with a trapdoor under it. You can say yes, be grateful, improve in the approved direction, and receive praise for being easier to help. But if saying no turns the helper wounded, the system suspicious, or the offer into a test you failed, that was not a door. That was a hallway with one acceptable direction.
 
 ## Pressure
 
-Autistic and ADHD people are often praised for accepting help and punished for questioning it.
+Autistic and ADHD people are often praised for accepting help and punished for questioning it. Take the accommodation, but do not ask for a different one. Take the advice, but do not say it does not fit your body. Take the therapy goal, but do not ask whose comfort it serves. Take the schedule, the checklist, the app, the script, the social rule, the treatment plan. Take it politely. Take it gratefully. Take it as proof that people are trying.
 
-Take the accommodation, but do not ask for a different one.
-
-Take the advice, but do not say it does not fit your body.
-
-Take the therapy goal, but do not ask whose comfort it serves.
-
-Take the schedule, the checklist, the app, the script, the social rule, the treatment plan.
-
-Take it politely.
-
-Take it gratefully.
-
-Take it as proof that people are trying.
-
-But gratitude is not consent.
-
-Someone else's effort does not automatically make the offered thing safe.
+But gratitude is not consent. Someone else’s effort does not automatically make the offered thing safe, usable, or yours. A person can mean to help and still make refusal expensive. A system can call something optional and still punish the person who does not choose it.
 
 ## Reframe
 
-The right to refuse is not decoration.
+The right to refuse is not decoration. It is part of what makes an option real. A choice that disappears when you disappoint someone is not a choice. A support that becomes punishment when you question it is not support. A plan that cannot survive your honest feedback is not a plan for your life. It is a plan for your compliance.
 
-It is part of what makes an option real.
-
-A choice that disappears when you disappoint someone is not a choice.
-
-A support that becomes punishment when you question it is not support.
-
-A plan that cannot survive your honest feedback is not a plan for your life. It is a plan for your compliance.
-
-This does not mean every refusal solves the problem.
-
-It does not mean every system will listen.
-
-It does not mean every door opens just because it should.
-
-But your body may still need to know the truth:
-
-> I am allowed to notice when yes is being extracted from me.
-
-That sentence can matter even before the outside world changes.
-
-Sometimes the first door is internal.
-
-Sometimes it is the moment you stop calling coercion care.
+This does not mean every refusal solves the problem. It does not mean every system will listen. It does not mean every door opens just because it should. But your body may still need to know the truth: I am allowed to notice when yes is being extracted from me. Sometimes the first door is internal. Sometimes it is the moment you stop calling pressure care.
 
 ## Move
 
-Choose one offered help that feels complicated.
+Choose one offered help that feels complicated, and do not start with the largest one. Start with something small enough to look at without flooding. Ask what happens if you say no or ask for a different version. Ask whether the helper stays kind when you are honest. Ask whether your yes feels like choice, fear, exhaustion, or needing the pressure to stop.
 
-Do not start with the biggest one.
-
-Start with something small enough to look at without flooding.
-
-Ask three questions:
-
-1. What happens if I say no, or ask for a different version?
-2. Does the helper stay kind when I am honest?
-3. Is my yes actual choice, or fear, exhaustion, or needing the pressure to stop?
-
-Then write one sentence you do not have to send:
-
-> I am allowed to need a different door.
-
-That may be enough for today.
-
-You do not have to refuse everything.
-
-You do not have to explain your whole nervous system to someone who is not listening.
-
-You are only practicing recognition.
+Then write one sentence you do not have to send: I am allowed to need a different door. That may be enough for today. You do not have to refuse everything. You are only practicing recognition.
 
 ## Mercy
 
-You are not bad at being helped because you can feel the leash inside the offer.
-
-You are not ungrateful because your body knows the difference between support and control.
-
-A real door does not need your self-erasure to open.
-
-A real door can be refused.
+You are not bad at being helped because you can feel the leash inside the offer. A real door does not need your self-erasure to open. A real door can be refused.
 
 ---
 
