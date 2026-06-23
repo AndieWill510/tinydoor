@@ -21,119 +21,31 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-Sometimes you find the leash and still cannot leave.
+Sometimes you find the leash and still cannot leave. That sentence needs to stay close to the ground because otherwise this chapter becomes cruel. A child may not control the treatment room, the school day, the adults, the schedule, the reward chart, or the ride home. An adult may need the job, the paycheck, the insurance, the visa, the rent, the custody arrangement, the recommendation, the reference, or the next month of groceries.
 
-A child may not control the treatment room, the school day, the adults, the schedule, the reward chart, or the ride home.
-
-An adult may need the job, the paycheck, the insurance, the visa, the rent, the custody arrangement, the recommendation, the reference, the next month of groceries.
-
-Seeing the door does not always mean you can walk through it today.
-
-That is not failure.
-
-That is the gap.
+Seeing the door does not always mean you can walk through it today. Seeing that the room is costing too much does not instantly produce a safer room. Seeing that help has become control does not always make refusal available. That is not failure. That is the gap.
 
 ## Pressure
 
-People love to give exit advice from outside the room.
+People love to give exit advice from outside the room. Just stop masking. Just quit. Just report it. Just refuse. Just leave. Sometimes that advice is right. Sometimes it is wildly unsafe. An unmasking can bring punishment. A refusal can bring escalation. Leaving can cost housing, income, medical care, custody, community, or the only fragile support a person has.
 
-Just stop masking.
-
-Just quit.
-
-Just report it.
-
-Just refuse.
-
-Just leave.
-
-Sometimes that advice is right.
-
-Sometimes it is wildly unsafe.
-
-An unmasking can bring punishment.
-
-A refusal can bring escalation.
-
-Leaving can cost housing, income, medical care, custody, community, or the only fragile support a person has.
-
-For a child, open refusal may not be safe.
-
-For an adult trapped in a workplace, open refusal may not be survivable yet.
-
-That does not make the leash good.
-
-It means the next door has to include survival.
+That does not make the leash good. It means the next door has to include survival. It means the person in the room may need something smaller and more immediate than liberation: one witness, one private sentence, one safer script, one place to put the truth until there is enough room to act on it.
 
 ## Reframe
 
-Survival in the gap is not surrender.
+Survival in the gap is not surrender. It is the work of keeping enough self intact until more choice becomes possible. Not every door is an exit. Some doors are internal: a body signal you stop mocking, a witness who believes you, a five-minute repair after the room is over, a quiet promise that this is not your fault even if you cannot prove it yet.
 
-It is the work of keeping enough self alive until more choice becomes possible.
-
-Not every door is an exit.
-
-Some doors are internal.
-
-A body signal you stop mocking.
-
-A witness who believes you.
-
-A five-minute repair after the room is over.
-
-A quiet promise that this is not your fault, even if you cannot prove it yet.
-
-A small refusal that lives inside you until it is safe enough to become visible.
-
-If you are reading from the other side of power, the work changes.
-
-If you are the adult with power near a child in this gap, the task is not to admire their compliance.
-
-The task is to widen choice, reduce demand, notice distress, make refusal safer, and become a better hinge.
-
-Quiet is not consent.
-
-Compliance is not proof of flourishing.
+If you are reading from the other side of power, the work changes. If you are the adult with power near a child in this gap, the task is not to admire their compliance. The task is to widen choice, reduce demand, notice distress, make refusal safer, and become a better hinge. Quiet is not consent. Compliance is not proof of flourishing.
 
 ## Move
 
-Choose one gap, where leaving it, is not available yet.
+Choose one gap where leaving is not available yet, and keep it small enough to hold. Ask what you need to do to stay safe enough here. Ask what truth you need not to forget. Ask what one small thing could protect your body, your memory, or your future options.
 
-Keep it small enough to hold.
-
-Ask three questions:
-
-1. What do I need to do to stay safe (enough) here?
-2. What truth do I need _not_ to forget?
-3. What one small thing could protect my body, my memory, or my future options?
-
-The truth can be one small sentence; it does not have to be a defended argument.
-
-The answer does not have to look brave.
-
-It might be writing one private note.
-
-It might be naming the feeling after the room ends.
-
-It might be finding one person who does not call the leash a door.
-
-It might be drinking water, unclenching your jaw, saving the email, sitting in the car for five minutes, or letting your body shake after you are finally alone.
-
-It might be learning the least harmful script until a better exit exists.
-
-No grand revolt is required.
-
-Do not risk more harm to prove you know the truth.
-
-The truth can wait with you.
+The answer does not have to look brave. It might be writing one private note, naming the feeling after the room ends, finding one person who does not call the leash a door, drinking water, unclenching your jaw, saving the email, sitting in the car for five minutes, or learning the least harmful script until a better exit exists. No grand revolt is required. Do not risk more harm to prove you know the truth.
 
 ## Mercy
 
-If you cannot leave yet, you are still allowed to know.
-
-Knowledge without exit is not failure.
-
-A hidden door is still a door.
+If you cannot leave yet, you are still allowed to know. Knowledge without exit is not failure. A hidden door is still a door.
 
 ---
 
