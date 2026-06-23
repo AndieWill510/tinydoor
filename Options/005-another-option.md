@@ -21,7 +21,7 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-This book is called *You Have Another Option* because sometimes that is the only sentence small enough to get through. Not a whole plan. Not a sermon. Not a promise that anything is simple. Just the possibility that the first story is not the whole story, and that somewhere near the edge of the room there may be a door nobody has asked us to notice yet.
+This book is called *Tiny Doors...* because sometimes that is the only sentence small enough to get through. Not a whole plan. Not a sermon. Not a promise that anything is simple. Just the possibility that the first story is not the whole story, and that somewhere near the edge of the room there may be a door nobody has asked us to notice yet.
 
 I do not mean that every option is fair, available, affordable, safe, or enough. Some are insulting in their smallness. Some arrive late. Some only keep the next door from disappearing. But in the moment when a life feels narrowed to one hallway, one verdict, one demand, one shame story, even a narrow opening can matter.
 
