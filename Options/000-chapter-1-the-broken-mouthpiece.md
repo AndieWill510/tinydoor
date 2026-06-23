@@ -26,7 +26,7 @@ Placement: After the saxophone prelude; before the formal Chapter 1 Options
 
 ---
 
-An eleven-year-old stands in the freezing dark, abandoned for a time by she who was supposed to protect her, waiting for the early morning band practice door to open. Practicing and practicing, day after day, staring holes into sheet music, trying to make beauty come out of an instrument that will not tell the truth. The room decides. Fourth chair. Out of four. The first-chair girl is warm and bright and unreachable, and even wanting connection becomes another place for shame to land.
+An eleven-year-old stands in the freezing dark, abandoned by a mother who was supposed to protect her, waiting for the early morning band practice door to open. Practicing and practicing, day after day, staring holes into sheet music, trying to make beauty come out of an instrument that will not tell the truth. The room decides. Fourth chair. Out of four. The first-chair girl is warm and bright and unreachable, and even wanting connection becomes another place for shame to land.
 
 Then, near the end of the semester, the tutor takes the saxophone apart. He plays it and sounds like the child. After examining it, determines that the mouthpiece is cracked. "You were never going to make those notes." That sentence is a doorway. Not because it fixes the semester. It does not. It does not return the lost mornings, the lost confidence, the social connection that might have been possible if someone had checked sooner. It gives something stranger and more dangerous than comfort: it moves the failure.
 
