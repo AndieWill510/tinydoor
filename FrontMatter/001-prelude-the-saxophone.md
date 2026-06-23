@@ -98,5 +98,5 @@ A later editing pass may only make minimal dignity edits. The architectural deci
 <!-- TINYDOOR_NAV_START -->
 ## Continue reading
 
-[Next: Chapter 1 Opening — The Broken Mouthpiece →](002-chapter-1-the-broken-mouthpiece.md)
+[Next: Chapter 1 Opening — The Broken Mouthpiece →](../Options/000-chapter-1-the-broken-mouthpiece.md)
 <!-- TINYDOOR_NAV_END -->
