@@ -21,7 +21,7 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-The first mercy did not feel like mercy at first. It felt like a room turning its head too late, like someone finally looking at the instrument after the semester had already done its work on me. Still, the sentence opened something. Maybe the failure was not me. Maybe the child in the cold had not been lazy, careless, hopeless, or secretly deserving of the fourth chair. Maybe he had been doing exactly what everyone asked him to do with a tool that could not carry the sound.
+The first mercy did not feel like mercy at first. It felt like a room turning its head too late, like someone finally looking at the instrument after the semester had already done its work on me. Still, the sentence opened something. Maybe the failure was not me. Maybe the child in the cold had not been lazy, careless, hopeless, or secretly deserving of the fourth chair. Maybe he had been doing exactly what everyone asked her to do with a tool that could not carry the sound.
 
 That kind of mercy is dangerous in the best way because it does not only comfort. It rearranges the evidence. It lets a person look back at old scenes and ask whether the shame really belongs where it was placed. It lets the body breathe before the mind has finished making its case.
 
