@@ -27,7 +27,7 @@ Closets do not disappear just because the culture learns new vocabulary. They mo
 
 ## Pressure
 
-Queer and other Neurodivergent people know this double bind. You can be told that your sexuality is not real enough, your gender is not legible enough, and your Neurodivergence is not respectable enough. The world can ask for a version of you so edited that survival begins to look like disappearance with a nicer outfit.
+Queer and other Neurodivergent people know this double bind. You can be told that diversity is our strength and also that your sexuality is not real enough, your gender is not legible enough, and your Neurodivergence is not respectable enough. The world can ask for a version of you so edited that survival begins to look like disappearance with a nicer outfit.
 
 So I told them I was bi. I was waiting, even if I did not say I was waiting, to see whether the table would become another place where I had to defend my existence.
 
