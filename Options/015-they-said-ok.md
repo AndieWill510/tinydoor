@@ -39,7 +39,7 @@ Maybe I found them. Maybe they found me. Maybe belonging is not a door that open
 
 ## Move
 
-Borrow the sentence if you need it: "That should not have had to be a trial." Say it about one truth you carried too carefully. Then imagine, even for ten seconds, a room answering with okay instead of argument.
+Borrow the sentence if you need it: "That shoudn't have been a trial." Say it about one truth you carried too carefully. Then imagine, even for ten seconds, a room answering with okay instead of argument.
 
 ## Mercy
 
