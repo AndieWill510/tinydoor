@@ -35,13 +35,13 @@ That is why OMC mattered in a way that sounds too large unless you understand wh
 
 ## Reframe
 
-OMC was a second bite at the apple, right when I needed it most. That Stammtisch formed a foundation for a cocoon, a chrysalis, something very old and yet very new. This is where language gets strange because ordinary language is too thin: these were half a dozen fathers, and they gave birth over bourbon.
+OMC was a second bite at the apple, right when I needed it most. That Stammtisch formed a foundation for a cocoon, a chrysalis, something very old and yet very new. These were half a dozen fathers giving birth over bourbon.
 
-Not by making me into someone else. Not by deciding for me. By holding a table steady enough that becoming could happen near it. Some rooms do not transform you by force. They make becoming survivable by being there every week, with a glass, a chair, a joke, a place in the circle.
+Not by making me into someone else. Not by deciding for me. By holding a table steady enough that becoming could happen near it. Some rooms do not transform you by force. They make becoming possible by being there every week, with a glass, a chair, a joke, a place in the circle.
 
 ## Move
 
-Think of one table that changed the weather of your life. One room, one circle, one place where being included gave you evidence you had lost. Let the evidence matter. Do not dismiss it because it looked ordinary from the outside.
+Choose one piece of evidence and let it be evidence. A room that kept inviting you back. A table that made a place. A person who expected you. Write it down without explaining why it should not count.
 
 ## Mercy
 
