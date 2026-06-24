@@ -10,7 +10,7 @@ This file was moved out of `Options/` during the Chapter 1 structural cleanup.
 
 Its core material was consolidated into:
 
-[Chapter 1 Opening: The Broken Mouthpiece](../../Options/000-chapter-1-the-broken-mouthpiece.md)
+[Chapter 1 Opening: The Broken Mouthpiece](../../Options/002-chapter-1-the-broken-mouthpiece.md)
 
 The active Chapter 1 formal Options now begin here:
 
