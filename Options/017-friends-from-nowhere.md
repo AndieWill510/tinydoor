@@ -21,13 +21,13 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-Friends started arriving from nowhere. That is not exactly true. Nobody arrives from nowhere. There is always a history, a road, a sibling, a room, a terrible car, a thing you survived and almost did not understand as survival at the time. But that is what it felt like: friends from nowhere. A sister I barely knew. The sister of my longest friend. The friend who now lives in Paris.
+Friends started arriving from nowhere. That is not exactly true. Nobody arrives from nowhere. There is always a history, a terrible road, a sibling, a thing you survived and almost did not understand as survival at the time. But that is what it felt like: friends from nowhere. A sister I barely knew. The sister of my longest friend. The friend who now lives in Paris.
 
-There was once an ill-advised road trip in a 1987 Acura. I had negotiated the best price on it, in a car dealership, as a sixteen-year-old, for fun. Then I destroyed it. I did not kill my best friend. That sentence sits strangely on the page. It should. Some friendships carry the weight of what did not happen. Some futures exist because disaster missed by just enough.
+There was once an ill-advised road trip in a 1987 Acura. I had negotiated the best price on it, in a car dealership, as a sixteen-year-old, for fun. Then I destroyed it, but I did not kill my best friend. That sentence sits strangely on the page. It should. Some friendships carry the weight of what did not happen. Some futures exist because disaster missed by just enough.
 
 ## Pressure
 
-For years, I thought certain parts of the old world were simply gone. Not gone cleanly, because nothing that formative ever leaves cleanly, but gone enough that I stopped expecting anything from them except grief, memory, and the occasional sharp object hidden in an ordinary day. When a social world breaks early, you do not always know which threads remain. You only know the fabric tore.
+For years, I thought certain parts of my old life were simply gone. Not gone cleanly, because nothing that formative ever leaves cleanly, but gone enough that I stopped expecting anything from them except grief, memory, and the occasional sharp object hidden in an ordinary day. 
 
 That is one of the lonely tricks of trauma and estrangement and time. The map looks blank where there may still be roads. You cannot count on them, and you should not be asked to pretend every road is safe, but sometimes one thread remains connected long after you stopped believing connection was possible.
 
