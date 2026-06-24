@@ -17,7 +17,7 @@ SPDX-License-Identifier: Apache-2.0
 -->
 
 # Option 1.1
-# The First Big Family Holiday Alone
+# The First Big Summer Family Holiday Alone
 
 ## A Way In
 
