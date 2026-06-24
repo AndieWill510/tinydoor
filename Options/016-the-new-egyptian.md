@@ -33,9 +33,9 @@ But the room that became The Egyptian in this new place was what I will call The
 
 ## Reframe
 
-Only later did the pattern become visible. I kept saying it had to be Berkeley, but the deeper truth was more specific: the New Egyptian was The Dog Star. Not magic. Pattern recognition in service of a life that needs places it can return to.
+Only later did the pattern become visible. I kept saying it had to be Berkeley, but the deeper truth was more specific: the New Egyptian was The Dog Star. Not magic. Pattern recognition in service of a life that needs places it can return to. And this new Sam brought an Ark. 
 
-The question was never only where should I go. The question was what shape of room helps me stay grounded and become more fully myself. Charlottesville taught me the shape. Berkeley and Oakland gave me formal queer ground. The Dog Star gave me the heartbeat.
+The question was never only where should I go. The question was what shape of room helps me stay grounded and become more fully myself. Charlottesville taught me the shape. Berkeley and Oakland gave me formal (neuro)queer ground. The Dog Star gave me the heartbeat.
 
 ## Move
 
