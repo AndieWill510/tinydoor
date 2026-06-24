@@ -25,7 +25,7 @@ SPDX-License-Identifier: Apache-2.0
 
 Without the old man’s club, all that came next was impossible in my life. To the people of Charlottesville, it was OMC. A men’s Stammtisch. A table. A private grammar of belonging. Not something you applied for. Something you were invited into. And Dave did not invite anyone.
 
-I had had a large group of friends once, at fifteen, barely a teenager. Then they were violently stolen from me, as they so often are for Autistic people if that kind of belonging ever happens at all. The isolation, the ostracization, the political assassination: when an Autistic person loses a social world, we do not only lose weekends and places to sit. We lose evidence.
+I had had a large group of friends once, at fifteen, barely a teenager. Then they were violently stolen from me, as they so often are for Autistic people if that kind of belonging ever happens at all. The isolation, the ostracization, the political assassination: when an Autistic person loses a social world, we do not only lose weekends and places to sit. We lose evidence of our very purpose.
 
 ## Pressure
 
