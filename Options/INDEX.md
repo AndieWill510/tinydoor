@@ -20,12 +20,12 @@ SPDX-License-Identifier: Apache-2.0
 
 This index tracks the current reader-facing sequence for *Tiny Door / You Have Another Option*.
 
-The stable file numbers are not always the same as the chapter/option numbers. Chapter 1 was structurally repaired so the former argument-heavy Options `001` through `009` were moved out of `Options/` and into `Archive/Chapter1ArgumentDrafts/`. Their core ideas now live in the Chapter 1 opening essay, and the formal Chapter 1 Options begin with the lived story arc at file `010`.
+The stable file numbers are not always the same as the chapter/option numbers. Chapter 1 was structurally repaired so the former argument-heavy Options `001` through `009` were moved out of `Options/` and into `Archive/Chapter1ArgumentDrafts/`. The raw saxophone prelude now lives at `Options/001`, the Chapter 1 bridge essay lives at `Options/002`, and the formal Chapter 1 Options begin with the lived story arc at file `010`.
 
-## Front matter / opening threshold
+## Opening threshold
 
-- [Prelude: The Saxophone](../FrontMatter/001-prelude-the-saxophone.md)
-- [Chapter 1 Opening: The Broken Mouthpiece](000-chapter-1-the-broken-mouthpiece.md)
+- [001 — Prelude: The Saxophone](001-prelude-the-saxophone.md)
+- [002 — Chapter 1 Opening: The Broken Mouthpiece](002-chapter-1-the-broken-mouthpiece.md)
 
 ## Chapter 1 — Community Becomes the Instrument
 
@@ -130,7 +130,7 @@ The stable file numbers are not always the same as the chapter/option numbers. C
 
 ## Archived Chapter 1 argument drafts
 
-The former reader-facing Options `001` through `009` were consolidated into [Chapter 1 Opening: The Broken Mouthpiece](000-chapter-1-the-broken-mouthpiece.md) and moved to `Archive/Chapter1ArgumentDrafts/`.
+The former reader-facing Options `001` through `009` were consolidated into [Chapter 1 Opening: The Broken Mouthpiece](002-chapter-1-the-broken-mouthpiece.md) and moved to `Archive/Chapter1ArgumentDrafts/`.
 
 - [001 — The Broken Mouthpiece / historical source draft](../Archive/Chapter1ArgumentDrafts/001-the-saxophone.md)
 - [002 — The Broken Tool / historical source draft](../Archive/Chapter1ArgumentDrafts/002-the-broken-tool.md)
