@@ -21,7 +21,7 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-For a long time, I thought help meant accepting the shape that was handed to me. In a marriage, in consulting rooms, in friendships, in lunches, in appointments, in obligations I had agreed to before my body knew the price, I kept trying to be reasonable. I kept trying to finish the conversation, stay through the meal, make the room easier, make my distress smaller, and call that maturity. Then my body would get dizzy, migrained, stomach-sick, or suddenly unable to keep pretending that the room was harmless.
+For a long time, I thought help meant accepting the shape that was handed to me. In a marriage, in consulting rooms, in friendships, in lunches, in appointments, in obligations I had agreed to before my body knew the price, I kept trying to be reasonable. I kept trying to finish the conversation, stay through the meal, make the room easier, make my distress smaller, and call it maturity. Then my body would get dizzy, migrained, stomach-sick, or suddenly unable to keep pretending that the room was harmless.
 
 At first I treated those symptoms as bad timing. Later, I began to wonder whether my body was telling the truth before my language could. Some doors are not doors. Some are leashes with better lighting. They look like help from a distance: a plan, a program, a productivity system, a treatment goal, a family rule dressed up as concern. And sometimes help really is help. A ramp is help. A quiet room is help. A person who asks what would make this survivable, and then believes the answer, is help. But not everything called support gives you more life.
 
