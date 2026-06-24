@@ -30,44 +30,6 @@ This is what it is to be Autistic. Or, at least, this is what it is for me to be
 
 ---
 
-## Doorway Function
-
-This prelude carries the governing metaphor:
-
-> You were never going to make those notes.
-
-Reader-facing function:
-
-- You were not broken.
-- The tool was broken.
-- The standards were wrong.
-- Your effort was real.
-- Your grief is real.
-- Your hope is not foolish.
-
----
-
-## Extraction Notes
-
-This file is the opening threshold, not an Option.
-
-Follow-on sequence:
-
-```text
-Chapter 1 Opening — The Broken Mouthpiece
-Option 1.1 — The First Big Family Holiday Alone
-Option 1.2 — Coach at Cheers
-Option 1.3 — Sam Behind the Bar
-```
-
-This file preserves the imported prelude.
-
-A later editing pass may only make minimal dignity edits. The architectural decision is stable:
-
-> The saxophone opens the book.
-
----
-
 <!-- TINYDOOR_NAV_START -->
 ## Continue reading
 
