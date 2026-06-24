@@ -27,7 +27,7 @@ For a while I thought the next answer had to be Berkeley. Berkeley mattered. The
 
 ## Pressure
 
-After Charlottesville, the next becoming needed different soil. I landed in Berkeley at the Pacific Center for Human Growth and started meeting with queer people: a queer therapist, a queer elder group, a trans biweekly group. Formal queer infrastructure matters. It gave me language and witness and enough shared ground to stop feeling like I had to invent myself alone.
+After Charlottesville, the next becoming needed different soil. I landed in Berkeley at the Pacific Center for Human Growth and started meeting with queer people: a queer therapist, a queer elder group, a trans biweekly group. Formal queer and neurodivergent infrastructure matters. It gave me language and witness and enough shared ground to stop feeling like I had to invent myself alone.
 
 But the room that became The Egyptian in this new place was what I will call The Dog Star: a restaurant, a bar, two or three times a week. The Egyptian, but much more queer. Not a replacement. A recurrence. Different walls, different city, different Sam, same heartbeat.
 
