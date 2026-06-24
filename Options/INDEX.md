@@ -35,7 +35,7 @@ The stable file numbers are not always the same as the chapter/option numbers. C
 1.4. [Ella and the Old Man's Club](013-ella-and-the-old-mans-club.md)
 1.5. [OMC: A Second Bite at the Apple](014-omc-second-bite-at-the-apple.md)
 1.6. [They Said Okay](015-they-said-ok.md)
-1.7. [The New Egyptian](016-north-light-is-maya.md)
+1.7. [The New Egyptian](016-the-new-egyptian.md)
 1.8. [Friends From Nowhere](017-friends-from-nowhere.md)
 
 ## Chapter 2 — Door, Leash, Body, Room
