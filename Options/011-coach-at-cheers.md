@@ -23,7 +23,7 @@ SPDX-License-Identifier: Apache-2.0
 
 He — I will call him Coach — asked me what brought me to town. It is an ordinary question, the kind people ask at bars and restaurants and hotel lobbies because some human script requires a first thread. It is also a question every Autistic person knows in another register: why do you think you belong here, or anywhere? Some questions arrive wearing ordinary clothes, and the body hears exile first.
 
-I had driven down because I was alone. Memorial Day 2024, first big family holiday after the Christmas season that almost took me under, too much day and not enough table. I landed the first night at what I will call The Egyptian, a local restaurant and bar, and sat down next to the man I would only learn much later was the owner.
+I had driven down because I was alone. Memorial Day 2024, first big family holiday after the Christmas season that almost took me under, too much day and not enough redemption. I landed the first night at what I will call The Egyptian, a local restaurant and bar, and sat down next to the man I would only learn much later was the owner.
 
 ## Pressure
 
