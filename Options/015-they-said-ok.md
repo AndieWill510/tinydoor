@@ -39,7 +39,7 @@ Maybe I found them. Maybe they found me. Maybe belonging is not a door that open
 
 ## Move
 
-Think of one truth you should not have had to defend so hard. Maybe someone met it with argument. Maybe someone met it with okay. Notice the difference in your body. Notice what it means when a room does not turn your truth into a trial.
+Borrow the sentence if you need it: "That should not have had to be a trial." Say it about one truth you carried too carefully. Then imagine, even for ten seconds, a room answering with okay instead of argument.
 
 ## Mercy
 
@@ -52,5 +52,5 @@ That okay changed the shape of what staying alive could look like. I found my bi
 
 [Options Index](INDEX.md)
 
-[Next: Option 1.7 — The New Egyptian →](016-north-light-is-maya.md)
+[Next: Option 1.7 — The New Egyptian →](016-the-new-egyptian.md)
 <!-- TINYDOOR_NAV_END -->
