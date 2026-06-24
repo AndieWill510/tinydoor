@@ -33,7 +33,7 @@ So I told them I was bi. I was waiting, even if I did not say I was waiting, to 
 
 ## Reframe
 
-They all said okay. All good. Then, as if my life depended on their response because it did, I said I was a woman. And again they said okay. All good. That is queer liberation, not as slogan, not as parade language, but as a chorus of people refusing to make your truth an emergency.
+They all said okay. All good. Then, as if my life depended on their response because it did, months later, I said I was a woman. And again they said okay. All good. That is queer liberation, not as slogan, not as parade language, but as a chorus of people refusing to make your truth an emergency.
 
 Maybe I found them. Maybe they found me. Maybe belonging is not a door that opens only one way. They said okay, and the okay changed the shape of the room. Not because it answered every future question, but because for once my truth did not have to fight for oxygen before it could live.
 
