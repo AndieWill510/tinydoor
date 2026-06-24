@@ -43,7 +43,7 @@ Borrow the sentence if you need it: "That shoudn't have been a trial." Say it ab
 
 ## Mercy
 
-That okay changed the shape of what staying alive could look like. I found my (re)birth home. It gave me nourishment to launch, and later I needed to leave home and make community with other trans people. But part of me could have stayed there forever.
+That okay changed the shape of what staying alive could look like. I found my (re)birth home. It gave me nourishment to launch, like a young adult, and make community with other trans people. But part of me could have stayed there forever.
 
 ---
 
