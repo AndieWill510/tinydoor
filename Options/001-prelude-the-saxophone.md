@@ -18,33 +18,6 @@ SPDX-License-Identifier: Apache-2.0
 
 # Prelude: The Saxophone
 
-Author: Kevin "Andie" Williams  
-Status: Protected doorway / opening threshold  
-Project: You Have Another Option  
-Source: You Have Another Option_type_I.docx  
-Placement: Options / literal opening
-
----
-
-## Editorial Note
-
-This prelude is the protected doorway for the book.
-
-It should precede the Chapter 1 bridge essay, the mortality frame, the pandemic frame, the MD terminology question, the Blue Zones analogy, and the formal Options sequence.
-
-Purpose:
-
-- story before theory;
-- body before statistics;
-- recognition before burden;
-- shame relief before public-health framing.
-
-Do not bury this behind explanatory scaffolding.
-
----
-
-## Prelude
-
 Standing in the 19F below zero Texas wind chill factor cold. Your only protector, and mother, left. Abandoned you, for a time, for a man she just met on an airplane. So alone, in the pre-dawn dark and the cold. Standing around like emperor penguins who haven’t learned how to huddle together for warmth. Or worse still, stigmatized to do the one thing that would bring safety and comfort and a sense of community. Until then it was me, suffering for the one thing that held a place of beauty. Music. Like so many artists who suffer for their art. It didn't matter that I was 11. And the arc of morning after morning in clothes not warm enough for the elements, only to be time and again to be labeled fourth chair. Out of four. Last in a group of budding saxophonists. The glances of “oh him again”. Of feeling of romantic attraction to the warm, bubbly and beautiful first chair saxophone player but feeling not connection in return but derision. Of practicing every day. More and more. Unable to make the notes. Burning a proverbial hole into the sheet music in a vain attempt to keep my eyes from wandering from the page and getting lost. Every time fourth chair. But more importantly still not being able to make social connection.
 
 A band teacher who, in a rare moment of junior high school compassion, took pity on me and pulled me aside halfway through the semester. Maybe he saw a spark of potential. Maybe he saw the deep disappointment. It doesn't matter. He suggested I get a tutor. We didn't have much money. My grandparents, who I was living with, must have paid for it. Two weeks before the end of the semester (and after six weeks of fruitless instruction -- I just couldn't hit the right notes), my tutor asked an insightful question. "Let me see that saxophone." He played. And, to my shock (and his!) he sounded just like me. "Wait a minute," he exhorted. He took apart the mouthpiece. "Huh. It's cracked. You were never going to make those notes."
