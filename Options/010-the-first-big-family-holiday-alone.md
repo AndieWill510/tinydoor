@@ -23,7 +23,7 @@ SPDX-License-Identifier: Apache-2.0
 
 Memorial Day 2024 was the first big family holiday after the Christmas holiday season that almost ended me. I was alone, and I do not mean that as a poetic way to say I was sad. I mean it as a practical fact. There was a day in front of me with too many hours in it, and I needed somewhere to put my body before the day ate me alive.
 
-Holidays can make absence loud. They can turn ordinary loneliness into architecture. Everyone else seems to have a table, a plan, a group text, a cooler full of drinks, a place to be expected. And you have time. Too much time. Time with teeth. I did not need a perfect plan. I needed motion.
+Holidays can make absence loud. They can turn ordinary loneliness into architecture. Everyone else seems to have a table, a plan, a group text, a cooler full of drinks, a place to be expected. And I had time. Too much time. Time with teeth. I did not need a perfect plan. I needed motion.
 
 ## Pressure
 
