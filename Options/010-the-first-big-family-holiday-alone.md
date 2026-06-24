@@ -33,9 +33,9 @@ I went because the day needed somewhere to put me. Not because I was brave, not 
 
 ## Reframe
 
-This is one version of another option. Not a grand solution. A motion. A road. A place to go before the day could close around me. We know what it is to be blamed for something that has nothing to do with us. We know what it is to walk toward a room that has already decided something about us. And sometimes the most merciful thing available is not to defeat the day, but to refuse to sit alone while it decides what we are worth.
+The road trip did not fix the holiday. It gave the holiday a shape I could survive. That is smaller than healing and more useful than despair. A map, a road, a fact with enough shine on it: sometimes a special interest is not escape from reality. Sometimes it is the handle that lets a person stay inside reality without being swallowed by it.
 
-That trip became more than a distraction, though I did not know that when I started the car. Some roads only reveal themselves later. At the beginning, they are just enough movement to keep the next hour open.
+I did not know that trip would become the first road toward a new life. At the beginning, it only needed to be enough motion to keep the next hour open. That was enough. Enough is allowed to count.
 
 ## Move
 
