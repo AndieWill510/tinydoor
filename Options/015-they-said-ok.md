@@ -21,7 +21,7 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-My friends gave birth. Not literally enough to be simple, and not metaphorically enough to be safe from ridicule. They gave birth in the way a circle can hold steady around something becoming true. First, I came out as bi, and a family member’s old line came back with me into the room: "Bisexuals are indecisive vegetarians." That horrible line. That line said only some people are legible, some are legitimate, some get to live in the light.
+My friends gave birth. Not literally enough to be simple, and not metaphorically enough to be safe from ridicule. They gave birth in the way a circle can hold steady around something becoming true. First, I came out as bi, and a family member’s souless old line came back with me into the room: "Bisexuals are indecisive vegetarians." That horrible line. That line said only some people are legible, some are legitimate, some get to live in the light.
 
 Closets do not disappear just because the culture learns new vocabulary. They move. They become marriages where only part of you is permitted. They become families where your truth is treated as a threat. They become rooms where being queer is treated like confusion, betrayal, or failure to choose a side. So you learn to ration truth until one day you cannot.
 
