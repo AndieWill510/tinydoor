@@ -33,7 +33,9 @@ That can sound reasonable from the outside. It can even sound caring. But care t
 
 ## Reframe
 
-The question is not only whether this helps you function. That question is too small. People can make you function inside a life that is still costing too much. People can praise your improvement because your distress has become less visible to them. The larger question is whether this help returns options.
+The question is not only whether this helps you function. That question is too small. People can make you function inside a life that is still costing too much. People can praise your improvement because your distress has become less visible to them. 
+
+The larger question is whether this help returns options.
 
 Does it reduce shame? Does it leave room for refusal? Does it make your body more able to stay present without surrendering itself to the room? A leash controls your range. A door gives you passage. A leash says stay close enough that I can manage you. A door says there is another way through.
 
