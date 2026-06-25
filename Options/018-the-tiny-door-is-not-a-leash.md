@@ -39,7 +39,7 @@ Does it reduce shame? Does it leave room for refusal? Does it make your body mor
 
 ## Move
 
-Take one form of help in your life and keep it small: a reminder system, a therapy goal, a family expectation, a workplace accommodation, a productivity tool, a rule you made for yourself because someone once said you were too much. Ask whether it gives you more agency or makes you easier to manage. Ask whether it reduces shame or only organizes it. Ask whether it protects your nervous system, leaves room for refusal, and helps you live rather than merely perform.
+Take one form of help in your life and keep it small: a reminder on your phone, a therapy goal, a family expectation, a workplace accommodation, a productivity tool, a rule you made for yourself because someone once said you were too much. Ask whether it gives you more agency or makes you easier to manage. Ask whether it reduces shame or only organizes it. Ask whether it protects your nervous system, leaves room for refusal, and helps you live rather than merely perform.
 
 You do not have to answer perfectly. You are only checking the hinge. Is this a door, or is this a leash?
 
