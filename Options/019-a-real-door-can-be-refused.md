@@ -35,7 +35,7 @@ But gratitude is not consent. Someone else’s effort does not automatically mak
 
 The right to refuse is not decoration. It is part of what makes an option real. A choice that disappears when you disappoint someone is not a choice. It is a plan for your compliance.
 
-This does not mean every refusal solves the problem.  But your body may still need to know the truth: I am allowed to notice when yes is being extracted from me. Sometimes the first door is internal. Sometimes it is the moment you stop calling pressure care.
+This does not mean every refusal solves the problem: your body may still need to know the truth: I am allowed to notice when yes is being extracted from me. Sometimes the first door is internal. Sometimes it is the moment you stop calling pressure care.
 
 ## Move
 
