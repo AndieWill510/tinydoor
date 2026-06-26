@@ -45,7 +45,7 @@ Fit matters. The nervous system matters. The actual day matters. The noise, the 
 
 Choose one support that has not been working. Do not ask first why you cannot do this. Ask what body this support was designed for. Then ask what the support assumes you have available, what your body actually has available today, and what would make this one notch more usable.
 
-One notch matters: a shorter form, a quieter room, a reminder from another person, a script, a ride, a lower shelf, a longer deadline, permission to answer in writing, or a version that starts with lying on the floor and breathing before anyone asks for a plan. That is not cheating. That is fitting the door to the body.
+One notch matters: a shorter form, a quieter room, a longer deadline, permission to answer in writing, or a version that starts with lying on the floor and breathing before anyone asks for a plan. That is not cheating. That is fitting the door to the body.
 
 ## Mercy
 
