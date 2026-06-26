@@ -21,67 +21,23 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-The first minute after overload is not a courtroom.
+The first minute after overload is not a courtroom. It is not the time to explain your whole life or prove whether you are good. It may be the minute when you are sitting on the bathroom floor with your back against the door, standing outside the grocery store without the groceries, or staring at your phone because `Are you okay?` is too large to answer.
 
-It is not the time to explain your whole life.
-
-It is not the time to prove whether you are good.
-
-It may be the minute when you are sitting on the bathroom floor with your back against the door.
-
-Or standing outside the grocery store without the groceries.
-
-Or staring at your phone because "Are you okay?" is too large to answer.
-
-Start there.
-
-Not with judgment.
-
-With harm reduction.
+Start there. Not with judgment. With harm reduction.
 
 ## Pressure
 
-After an overload moment, other people may want immediate clarity.
+After an overload moment, other people may want immediate clarity. What happened? Why did you leave? Why did you snap? Sometimes those questions matter. Sometimes there may be impact to repair.
 
-What happened?
-
-Why did you leave?
-
-Why did you snap?
-
-Sometimes those questions matter.
-
-Sometimes there may be impact to repair.
-
-But if the nervous system is still flooded, the demand for explanation can become a second overload.
-
-The body has already spent what it had.
-
-Now the room wants a receipt.
-
-That does not usually produce truth.
+But if the nervous system is still flooded, the demand for explanation can become a second overload. The body has already spent what it had. Now the room wants a receipt, and that does not usually produce truth.
 
 ## Reframe
 
-Harm reduction comes before understanding.
+Harm reduction comes before understanding. Not instead of understanding. Before.
 
-Not instead of understanding.
+A body still in alarm cannot always tell the story cleanly. A person who has not eaten, slept, hydrated, cooled down, or left the noise may not be ready to decide what the event means. That is not avoidance. It is sequencing.
 
-Before.
-
-A body that is still in alarm cannot always tell the story cleanly.
-
-A person who has not eaten, slept, hydrated, cooled down, or left the noise may not be ready to decide what the event means.
-
-That is not avoidance.
-
-It is sequencing.
-
-First reduce the load.
-
-Then look at the timeline.
-
-Then, if needed, repair what the moment affected.
+First reduce the load. Then look at the timeline. Then, if needed, repair what the moment affected.
 
 ## Move
 
@@ -89,23 +45,11 @@ After overload, ask only this first:
 
 > What does my body need in the next five minutes?
 
-One need.
-
-Water.
-
-Dark.
-
-Quiet.
-
-No explanation yet.
-
-Just the next five minutes.
+One need is enough: water, dark, quiet, air, food, pressure, no talking. No explanation yet. Just the next five minutes.
 
 ## Mercy
 
-You do not have to understand the hot, stuffy room before you open a window.
-
-Start with fresh air.
+You do not have to understand the hot, stuffy room before you open a window. Start with fresh air.
 
 ---
 
