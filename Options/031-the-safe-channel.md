@@ -17,103 +17,37 @@ SPDX-License-Identifier: Apache-2.0
 -->
 
 # Option 3.8
-# A Safe Way Through
+# The Safe Channel
 
 ## A Way In
 
-Picture a meeting (or party) where the lights are too bright and things changed without warning.
+Picture a meeting or party where the lights are too bright and the plan changed without warning. You are not melting down yet, but you are not fine either. Under the table, your foot presses into the floor. Your thumb finds the edge of your notebook. Nobody else sees it.
 
-You are not melting down..._yet_.
-
-You are not fine either.
-
-Your foot presses into the floor under the table.
-
-Your thumb finds the edge of your notebook.
-
-Nobody else sees it.
-
-That does not make it fake.
-
-It means your body found a channel small enough for the room.
+That does not make it fake. It means your body found a channel small enough for the room.
 
 ## Pressure
 
-A hostile room turns regulation into a risk calculation.
+A hostile room turns regulation into a risk calculation. Can I rock here? Can I leave? Can I ask for a quieter room? Some rooms punish visible regulation. Some rooms punish need. So the body searches for a safer channel.
 
-Can I rock here?
-
-Can I leave?
-
-Can I ask for a quiet(er) room?
-
-Some rooms punish visible regulation.
-
-Some rooms punish need.
-
-So the body searches for a safer channel.
-
-Not because visible stimming is wrong.
-
-Not because the hostile room is right.
-
-Because survival sometimes means finding the version of you that can pass through the room without getting you harmed.
+Not because visible stimming is wrong. Not because the hostile room is right. Because survival sometimes means finding the version of regulation that can pass through the room without getting you harmed.
 
 ## Reframe
 
-A safe channel is not the same as a perfect channel.
-
-It may not be enough.
-
-It may not be fair.
-
-But it may reduce harm long enough for the next door to appear.
+A safe channel is not the same as a perfect channel. It may not be enough, and it may not be fair, but it may reduce harm long enough for the next door to appear.
 
 A safe channel asks:
 
 > What can move without making this situation more dangerous?
 
-Maybe the answer is visible.
-
-A walk.
-
-A hum.
-
-A quiet exit.
-
-Maybe the answer is hidden.
-
-A toe press.
-
-A hand in a pocket.
-
-A rhythm behind the teeth.
-
-None of these make the room just.
-
-They make one moment more survivable.
+Maybe the answer is visible: a walk, a hum, a quiet exit. Maybe it is hidden: a toe press, a hand in a pocket, a rhythm behind the teeth. None of these make the room just. They make one moment more survivable.
 
 ## Move
 
-Pick a current or recent room.
-
-Ask:
-
-> What channel is safest there?
-
-Visible if safe.
-
-Private if needed.
-
-Tiny if tiny is what the room allows.
+Pick a current or recent room and ask what channel is safest there. Visible if safe. Private if needed. Tiny if tiny is what the room allows.
 
 ## Mercy
 
-You should not have to become a fast-moving river buried under a building.
-
-But one crack in the wall can help you get through this room. 
-
-And maybe out of it. 
+You should not have to become a fast-moving river buried under a building. But one crack in the wall can help you get through this room, and maybe out of it.
 
 ---
 
