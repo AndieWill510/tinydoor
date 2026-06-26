@@ -23,7 +23,9 @@ SPDX-License-Identifier: Apache-2.0
 
 There is a particular humiliation in being offered help that everyone says should work, while your actual body knows it cannot. The door is there. The door may even be beautiful. It may be well funded, well researched, and explained by a very calm person with a clipboard. But if the door only opens for a body you do not have, it is still closed to you.
 
-For years, I confused that mismatch with personal failure. I thought if I could not use the plan, the schedule, the advice, the conversation, the treatment goal, or the family rule, then something in me must not want help enough. It took a long time to understand that fit is not decoration. Fit is the difference between support and another way to be blamed.
+For years, I confused that mismatch with personal failure. I thought if I could not use the plan, the schedule, the advice, the conversation, the treatment goal, or the family rule, then something in me must not want help enough. It took a long time to understand that fit is not decoration. 
+
+Fit is the difference between support and another way to be blamed.
 
 ## Pressure
 
