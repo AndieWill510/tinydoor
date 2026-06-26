@@ -21,9 +21,9 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-Autistic joy is not cute frosting on the survival cake. It is not a reward for behaving well enough. Joy is one of the serious things.
+Autistic joy is not an occassional reward for behaving well enough. Joy is one of the serious things.
 
-The body knows this before the culture does. A person hears the right song and needs to hear it again. A hand finds the right texture. A mind locks onto the beloved subject and the room becomes brighter. Not because we are broken, but because something in us is alive.
+The body knows this before anything else. A person hears the right song and needs to hear it again. A hand finds the right texture. A mind locks onto the beloved subject and the room becomes brighter. Not because we are broken, but because something in us is alive.
 
 ## Pressure
 
