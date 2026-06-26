@@ -27,7 +27,7 @@ That distinction matters, because a lot of our distress gets missed when people 
 
 ## Pressure
 
-If you have alexithymia, interoception differences, trauma, masking habits, or years of being punished for showing distress, you may not know how overloaded you are until you are already past your limit.
+If you have trauma, masking habits, or years of being punished for showing distress, you may not know how overloaded you are until you are already past your limit.
 
 That does not make the distress fake. It means the signal may be delayed, muted, or translated into something else: irritability, exhaustion, the sudden need to leave. A body can be doing everything it knows how to do and still get blamed for the moment the load becomes visible.
 
