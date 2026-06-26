@@ -47,7 +47,7 @@ Pick a current or recent room and ask what channel is safest there. Visible if s
 
 ## Mercy
 
-You should not have to become a fast-moving river buried under a building. But one crack in the wall can help you get through this room, and maybe out of it.
+You should not have to hide your regulation to stay safe. But if the safest channel is small, it still counts. A small channel is not failed regulation. It is your body staying with you until a better door opens.
 
 ---
 
