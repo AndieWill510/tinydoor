@@ -23,8 +23,6 @@ SPDX-License-Identifier: Apache-2.0
 
 Masking can look like answering "I'm good" before you know whether you are, laughing half a second late because everyone else laughed, or forcing eye contact while your thumb digs into your palm under the table.
 
-That is not only pretending. Sometimes it is compression. The body still has needs. The signal still exists. But the person learns to fold the signal smaller so the room can pretend nothing is happening.
-
 ## Pressure
 
 Masking can protect a person. That needs to be said plainly. It can help someone get through rooms where being visibly Neurodivergent is not safe. Masking can be strategy, armor, even a door you use because no better door is available.
