@@ -33,17 +33,17 @@ A lot of us were taught the wrong story: Autism and ADHD as disorder, defect, th
 
 > Your nervous system is the wrong shape for the world.
 
-That story does damage. If you believe your neurotype is what is eating away at you and everyone around you, you learn to become less visible to your own body. You call masking maturity, exhaustion responsibility, and collapse the cost of being loved.
+That story does damage. If you believe your neurotype is what is eating away at you and everyone around you, you learn to become less visible to your own body. You call masking "maturity," exhaustion "responsibility," and collapse the cost of being loved.
 
 ## Reframe
 
-Autism and ADHD are neurotypes: ways nervous systems can be built. That does not make life easy. It does not make support needs imaginary. It does not mean pain, disability, caregivers, or accommodations do not matter.
+Autism and ADHD are neurotypes: ways nervous systems are. That does not make life easy. It does not make support needs imaginary. It does not mean pain, disability, caregivers, or accommodations do not matter.
 
 It means the target has been wrong.
 
 The problem is not our existence or behavior. The problem is an environment that treats our existence as an emergency.
 
-That is the parasite: not Autism, ADHD, or Neurodivergence, but the story that we are less legitimate, less believable, less welcome, less whole, or less worth designing around.
+That is the parasite: not Autism or ADHD but the story that we are less legitimate, less believable, less welcome, less whole, or less worth designing around.
 
 ## Move
 
