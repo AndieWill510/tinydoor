@@ -21,67 +21,23 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-A child rocks.
+A child rocks. A teenager doodles. An adult paces the hallway after a meeting and pretends they are only stretching their legs.
 
-A teenager doodles.
-
-An adult paces the hallway after a meeting and pretends they are just stretching their legs.
-
-People call this stimming.
-
-Too often, they say it like it is a problem.
-
-But stimming is not the problem.
-
-Stimming is regulation.
+People call this stimming, and too often they say it like it is a problem. But stimming is not the problem. Stimming is regulation.
 
 ## Pressure
 
-Many of us were taught to stop.
+Many of us were taught to stop: hands down, sit still, be quiet, look normal. So the body learns to hold what it was trying to move. Stress has nowhere to go. Joy has nowhere to go. Overload has nowhere to go.
 
-Hands down.
-
-Sit still.
-
-Be quiet. 
-
-Look "normal."
-
-So the body learns to hold what it was trying to move.
-
-Stress has nowhere to go.
-
-Joy has nowhere to go.
-
-Overload has nowhere to go.
-
-And the person is praised for looking calm while becoming less safe **_inside_**.
-
-This is one of the cruelest trades we are asked to make:
-
-other people's comfort in exchange for our regulation.
+Then the person gets praised for looking calm while becoming less safe inside. It is one of the cruelest trades we are asked to make: other people's comfort in exchange for our regulation.
 
 ## Reframe
 
-To stim is not merely to stimulate.
-
-It is a way the nervous system moves toward equilibrium.
-
-A pressure valve.
-
-A rhythm.
-
-A way for the body to say:
+To stim is not merely to stimulate. It is a way the nervous system moves toward equilibrium: a pressure valve, a rhythm, a way for the body to say:
 
 > I am trying to stay with myself.
 
-That does not mean every stim is safe everywhere.
-
-Safety matters.
-
-Context matters.
-
-But when a body is regulating, the wise question is not always, “How do I stop this?”
+That does not mean every stim is safe everywhere. Safety matters. Context matters. But when a body is regulating, the wise question is not always, “How do I stop this?”
 
 Sometimes the wise question is:
 
@@ -89,29 +45,11 @@ Sometimes the wise question is:
 
 ## Move
 
-Find one safe stim you can allow today —
-
-even if only in private,
-
-even if only for a moment.
-
-One.
-
-Maybe pacing.
-
-Maybe pressure.
-
-Maybe caressing.
-
-Let it be small enough to do.
-
-Let it be yours.
+Find one safe stim you can allow today, even if only in private and only for a moment. Maybe pacing, pressure, humming, rocking, rubbing fabric, or letting your hands move. Let it be small enough to do. Let it be yours.
 
 ## Mercy
 
-Your body is not betraying you when it reaches for motion or noise.
-
-It may be trying to bring you home.
+Your body is not betraying you when it reaches for motion, rhythm, pressure, or sound. It may be trying to bring you home.
 
 ---
 
