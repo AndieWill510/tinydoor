@@ -17,93 +17,37 @@ SPDX-License-Identifier: Apache-2.0
 -->
 
 # Option 3.12
-# Our First Aid
+# Autistic First Aid
 
 ## A Way In
 
-A first-aid kit does not ask whether you deserved the cut.
+A first-aid kit does not ask whether you deserved the cut. It holds the boring, practical things a body needs after something happens.
 
-It has the boring, practical things a body needs after something happens.
-
-Neurodivergent overload needs the same kind of respect.
-
-Not drama.
-
-Not shame.
-
-Not a speech.
-
-A kit.
-
-Something you can reach for when language is gone and the room has become too much.
+Neurodivergent overload needs the same kind of respect. Not drama, shame, or a speech. A kit. Something reachable when language is gone and the room has become too much.
 
 ## Pressure
 
-Most of us were taught to clean up the social problem first.
+Most of us were taught to clean up the social problem first: apologize, explain, reassure everyone. But an overloaded nervous system may need first aid before diplomacy.
 
-Apologize.
-
-Explain.
-
-Reassure everyone.
-
-But an overloaded nervous system may need first aid before diplomacy.
-
-That can be hard if you were trained to treat other people's comfort as the emergency.
-
-You may feel rude for leaving.
-
-You may feel childish for needing a dark room.
-
-You may feel lazy for lying down.
-
-But first aid is not childish.
-
-It is what comes after strain, shock, or overload.
+That can be hard if you were trained to treat other people's comfort as the emergency. You may feel rude for leaving, childish for needing a dark room, lazy for lying down. But first aid is not childish. It is what comes after strain, shock, or overload.
 
 ## Reframe
 
-Our first aid is not a cure.
+Autistic first aid is not a cure. It is a recovery sequence: get somewhere safer, lower the sound, loosen the demand, drink water if you can, eat something simple if you can, stop talking if talking makes it worse.
 
-It is a recovery sequence.
-
-Get somewhere safer.
-
-Lower the sound.
-
-Loosen the demand.
-
-Drink water if you can.
-
-Eat something simple if you can.
-
-Stop talking if talking makes it worse.
-
-None of this has to look impressive.
-
-It has to be reachable.
-
-That is the test.
+None of this has to look impressive. It has to be reachable. That is the test.
 
 ## Move
 
-Pick one first-aid item before you need it.
+Pick one first-aid item before you need it: headphones, water bottle, snack, sunglasses, scripted text, a quiet reset plan. Put it somewhere easier to reach.
 
-One.
+The text can be simple:
 
-Headphones.
-
-Water bottle.
-
-Scripted text: "I need a quiet reset. I will reply later."
-
-Put it somewhere easier to reach.
+> I need a quiet reset. I will reply later.
 
 ## Mercy
 
-Care that you can reach, counts.
-
-**_Especially_** when it is ordinary.
+Care that you can reach counts, especially when it is ordinary.
 
 ---
 
