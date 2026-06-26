@@ -21,95 +21,33 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-Masking can look like answering "I'm good" before you know whether you are.
+Masking can look like answering "I'm good" before you know whether you are, laughing half a second late because everyone else laughed, or forcing eye contact while your thumb digs into your palm under the table.
 
-It can look like laughing half a second late because everyone else laughed.
-
-It can look like forcing eye contact while your thumb digs into your palm under the table.
-
-That is not only pretending.
-
-Sometimes it is compression.
-
-The body still has needs.
-
-The signal still exists.
-
-But the person learns to fold the signal smaller; the room can pretend nothing is happening.
+That is not only pretending. Sometimes it is compression. The body still has needs. The signal still exists. But the person learns to fold the signal smaller so the room can pretend nothing is happening.
 
 ## Pressure
 
-Masking can protect a person.
+Masking can protect a person. That needs to be said plainly. It can help someone get through rooms where being visibly Neurodivergent is not safe. Masking can be strategy, armor, even a door you use because no better door is available.
 
-That needs to be said plainly.
-
-It can help someone get through rooms where being visibly Neurodivergent is not safe.
-
-Masking can be strategy.
-
-Masking can be armor.
-
-Masking can be a door you use because no better door is available.
-
-But armor has weight.
-
-A door you can only pass through by leaving most of yourself behind is not free access.
-
-The cost is often ordinary before it becomes dramatic:
-
-You come home and cannot answer a text.
-
-You sit in the car before going inside.
-
-You snap because every answer you gave all day was edited before it left your mouth.
+But armor has weight. A door you can only pass through by leaving most of yourself behind is not free access. The cost is often ordinary before it becomes dramatic: you come home and cannot answer a text, sit in the car before going inside, or snap because every answer you gave all day was edited before it left your mouth.
 
 ## Reframe
 
-The question is not whether masking is good or bad in every case.
-
-The better question is:
+The question is not whether masking is good or bad in every case. The better question is:
 
 > What is this mask costing, and what is it protecting?
 
-If it is protecting you, honor that.
+If it is protecting you, honor that. If it is costing too much, notice that. If you cannot remove it safely, do not turn unmasking into another demand. A hostile world does not become safe because someone says authenticity in a kind voice.
 
-If it is costing too much, notice that.
-
-If you cannot remove it safely, do not turn unmasking into another demand.
-
-A hostile world does not become safe because someone says authenticity in a kind voice.
-
-The goal is not to shame the mask.
-
-The goal is to stop pretending the mask is weightless.
-
-Masking is compressed regulation.
-
-And compression needs release **_somewhere_**.
+The goal is not to shame the mask. The goal is to stop pretending the mask is weightless. Masking is compressed regulation, and compression needs release somewhere.
 
 ## Move
 
-Pick one recent masked moment.
-
-One meeting.
-
-One dinner.
-
-One text thread.
-
-Ask:
-
-> What did this mask protect, and what did it cost?
-
-If you have capacity, name one place where the compression can loosen safely.
-
-If not, noticing the cost is the whole move.
+Pick one recent masked moment: one meeting, dinner, or text thread. Ask what the mask protected and what it cost. If you have capacity, name one place where the compression can loosen safely. If not, noticing the cost is the whole move.
 
 ## Mercy
 
-You are not fake because you learned to survive the room.
-
-And? You are allowed to be tired after surviving it.
+You are not fake because you learned to survive the room. And? You are allowed to be tired after surviving it.
 
 ---
 
