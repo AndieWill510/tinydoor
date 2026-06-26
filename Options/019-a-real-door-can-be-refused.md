@@ -39,7 +39,7 @@ This does not mean every refusal solves the problem. Your body may still need to
 
 ## Move
 
-Choose one offered help that feels complicated, and do not start with the largest one. Start with something small enough to look at without flooding. Ask what happens if you say no or ask for a different version. Ask whether the helper stays kind when you are honest. Ask whether your yes feels like choice, fear, exhaustion, or needing the pressure to stop.
+Choose one offered help that feels complicated, and do not start with the largest one. Start with something small enough to look at without flooding. Ask whether your yes feels like choice, fear, exhaustion, or needing the pressure to stop.
 
 Then write one sentence you do not have to send: I am allowed to need a different door. That may be enough for today. You do not have to refuse everything. You are only practicing recognition.
 
