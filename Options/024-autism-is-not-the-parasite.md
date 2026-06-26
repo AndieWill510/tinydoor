@@ -17,81 +17,33 @@ SPDX-License-Identifier: Apache-2.0
 -->
 
 # Option 3.1
-# Neurodivergence Is Not The Parasite
+# Neurodivergence Is Not the Parasite
 
 ## A Way In
 
-Imagine a room full of Neurodivergent people.
+Imagine a room full of Neurodivergent people. Not a clinic or evaluation. A real room: people who understand the pause before speech, who do not need every syllable delivered with eye contact, who know joy can look strange from the outside and still be joy.
 
-Not a clinic.
-
-Not an evaluation.
-
-A real room.
-
-People who understand the pause before speech.
-
-People who do not need every syllable delivered with eye contact.
-
-People who know that joy can look strange from the outside and still be joy.
-
-Something changes in a room like that.
-
-Not everything.
-
-But something.
-
-The parasite, that thing that so often eats away at us socially, loosens.
+Something changes in a room like that. Not everything. But something. The parasite, the thing that so often eats away at us socially, loosens.
 
 And the parasite was never Neurodivergence.
 
 ## Pressure
 
-A lot of us were taught the wrong story.
-
-We were told Autism and ADHD were the problem...some _parasite_. 
-
-The disorder.
-
-The defect.
-
-The thing to manage, hide, cure, or overcome.
-
-Even when the language got gentler, the old story often stayed underneath it:
+A lot of us were taught the wrong story: Autism and ADHD as disorder, defect, the thing to manage, hide, cure, or overcome. Even when the language got gentler, the old story often stayed underneath it:
 
 > Your nervous system is the wrong shape for the world.
 
-That story does damage.
-
-If you believe your neurotype is eating away at you (and everyone around you), you will spend your life trying to become less visible to your own body.
-
-You will call masking, maturity.
-
-You will call exhaustion, responsibility.
-
-You will call collapse the cost of being loved.
+That story does damage. If you believe your neurotype is what is eating away at you and everyone around you, you learn to become less visible to your own body. You call masking maturity, exhaustion responsibility, and collapse the cost of being loved.
 
 ## Reframe
 
-Autism is a neurotype. So is ADHD. 
-
-A way a nervous system can be built.
-
-That does not mean our life is easy.
-
-It does not mean support needs are imaginary.
-
-It does not mean pain, disability, caregivers, or accommodations do not matter.
+Autism and ADHD are neurotypes: ways nervous systems can be built. That does not make life easy. It does not make support needs imaginary. It does not mean pain, disability, caregivers, or accommodations do not matter.
 
 It means the target has been wrong.
 
-The problem is not our existence (or how we behave).
+The problem is not our existence or behavior. The problem is an environment that treats our existence as an emergency.
 
-The problem is an environment that treats our existence as an emergency.
-
-That is the parasite: not Autism or ADHD,
-
-but the story that we are less legitimate, less believable, less welcome, less whole, or less worth to be around.
+That is the parasite: not Autism, ADHD, or Neurodivergence, but the story that we are less legitimate, less believable, less welcome, less whole, or less worth designing around.
 
 ## Move
 
@@ -99,25 +51,15 @@ When the old question appears —
 
 > What is wrong with me?
 
-try adding one more question:
+try adding one more:
 
 > What is making this harder than it has to be?
 
-Maybe sound...too loud. 
-
-Maybe people...too many, too unknown.
-
-Maybe light...too bright, too fluorescent. 
-
-Maybe uncertainty.
-
-Just move the question from self-blame toward design.
+Maybe sound is too loud. Maybe people are too many or too unknown. Maybe light is too bright. Maybe uncertainty is too expensive. Move the question from self-blame toward design.
 
 ## Mercy
 
-You are not required to hate your nervous system in order to take your suffering seriously.
-
-Autism/ADHD is not the parasite.
+Your nervous system does not have to be the enemy for your suffering to be real. Neurodivergence is not the parasite.
 
 Shame is.
 
