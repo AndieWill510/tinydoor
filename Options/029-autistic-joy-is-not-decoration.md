@@ -17,89 +17,33 @@ SPDX-License-Identifier: Apache-2.0
 -->
 
 # Option 3.6
-# Joy Is Not Frosting
+# Autistic Joy Is Not Decoration
 
 ## A Way In
 
-Our version of joy is not cute frosting on the survival cake.
+Autistic joy is not cute frosting on the survival cake. It is not a reward for behaving well enough. Joy is one of the serious things.
 
-It is not a reward for behaving well enough.
-
-Joy is one of the serious things.
-
-The body knows this before the culture does.
-
-A person hears the right song and starts moving. And then needs to hear it **_again_**. 
-
-A hand finds the right texture.
-
-A mind locks onto the beloved subject and the room becomes brighter.
-
-Not because we are broken.
-
-Because something in us is alive.
+The body knows this before the culture does. A person hears the right song and needs to hear it again. A hand finds the right texture. A mind locks onto the beloved subject and the room becomes brighter. Not because we are broken, but because something in us is alive.
 
 ## Pressure
 
-Too many of us are taught that our joy is embarrassing.
+Too many of us are taught that our joy is embarrassing: too much, too childish, too weird. So we make it smaller. We lower the volume, hide the movement, and ration delight so nobody uses it against us.
 
-Too much.
-
-Too childish.
-
-Too weird.
-
-So we learn to make joy smaller.
-
-We lower the volume.
-
-We hide the movement.
-
-We ration delight so nobody uses it against us.
-
-Then people wonder why we are exhausted.
-
-A life without safe access to joy is not neutral.
-
-It is **_starvation_**.
+Then people wonder why we are exhausted. A life without safe access to joy is not neutral. It is starvation.
 
 ## Reframe
 
-Regulation is not only calming down.
+Regulation is not only calming down. Sometimes regulation is coming alive safely. Sometimes the nervous system does not need less feeling; it needs a safe path for the right feeling.
 
-Sometimes regulation is coming alive safely.
-
-Sometimes the nervous system does not need less feeling.
-
-Sometimes it needs a safe path for the right feeling.
-
-Neurodivergent joy can be that path.
-
-Not as a substitute for care, medication, accommodation, food, sleep, housing, community, or safety.
-
-But joy belongs in the survival architecture.
-
-Joy gives the body evidence that life is not only demand.
+Autistic joy can be that path. Not as a substitute for care, medication, accommodation, food, sleep, housing, community, or safety. But joy belongs in the survival architecture. It gives the body evidence that life is not only demand.
 
 ## Move
 
-Name one joy that helps regulate you.
-
-One.
-
-Maybe music.
-
-Maybe texture.
-
-Give it one tiny door today —
-
-or hold this as permission for when you can.
+Name one joy that helps regulate you: music, texture, movement, a beloved subject, a color, a game, a voice, a place. Give it one tiny door today, or hold this as permission for when you can.
 
 ## Mercy
 
-Your joy does not have to look respectable to be worthy of protection.
-
-You are allowed to build survival around what brings you back to life.
+Your joy does not have to look respectable to be worthy of protection. You are allowed to build survival around what brings you back to life.
 
 ---
 
