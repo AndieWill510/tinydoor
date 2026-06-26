@@ -21,85 +21,31 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-A person who uses a wheelchair arrives at a building with stairs and no ramp.
+A person who uses a wheelchair arrives at a building with stairs and no ramp. The problem is not the person. The problem is not their attitude, character, effort, or willingness to climb beautifully enough. The problem is the missing ramp.
 
-The problem is obvious.
-
-The person is not the architectural failure.
-
-The stairs are not a moral lesson.
-
-The missing ramp is not proof that the person should have tried harder to climb stairs.
-
-The missing ramp is the problem.
-
-Now hold that image.
-
-Neurodivergent people live with missing ramps _everywhere_.
+Hold that image close, because Neurodivergent people live with missing ramps everywhere.
 
 ## Pressure
 
-Many Autistic/ADHD ramps are invisible to people who do not need them.
+Many Autistic and ADHD ramps are invisible to people who do not need them. A predictable schedule, clear written instructions, or enough recovery time may look small from the outside. Inside the body, they can be the difference between participation and collapse.
 
-A predictable schedule can be a ramp.
-
-Clear written instructions can be a ramp.
-
-Enough recovery time can be a ramp.
-
-But when the ramp is missing, people often blame us for not climbing the stairs beautifully enough.
-
-Too sensitive.
-
-Too rigid.
-
-Too much.
-
-The missing ramp disappears.
-
-The person becomes the problem.
+But when the ramp is missing, the blame often moves back onto us: too sensitive, too rigid, too much. The missing access disappears. The person becomes the problem.
 
 ## Reframe
 
-This does not mean our disability is fake.
+This does not mean disability is fake. It means disability also lives in the fit between body and world. A ramp does not erase every part of disability, but it changes what is possible. That is the point.
 
-It means disability lives in the fit between body and world.
-
-A ramp does not erase every part of disability.
-
-But it changes what is possible.
-
-That is the point.
-
-Our accommodations are not luxuries.
-
-They are not special treatment.
-
-They are design corrections.
-
-A world with ramps asks a better question:
+Accommodations are not luxuries or special treatment. They are design corrections. A world with ramps asks a better question:
 
 > What access was missing?
 
 ## Move
 
-Name one missing ramp for you.
-
-One.
-
-Maybe written instructions.
-
-Maybe recovery time.
-
-Or skipping that party. 
-
-Start by naming what access would change.
+Name one missing ramp for you. Just one: written instructions, recovery time, skipping the party, a quieter room, a clearer plan. Start by naming what access would change.
 
 ## Mercy
 
-You are not weak because stairs are hard without a ramp.
-
-You are allowed to need design, not just endurance.
+You are not weak because stairs are hard without a ramp. You are allowed to need design, not just endurance.
 
 ---
 
