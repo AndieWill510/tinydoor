@@ -17,7 +17,7 @@ SPDX-License-Identifier: Apache-2.0
 -->
 
 # Option 3.13
-# The After-Action Report
+# The After-Action Repair
 
 ## A Way In
 
@@ -25,7 +25,7 @@ Later is different from never. After the body has come down, after water, food, 
 
 Not to prosecute yourself. To learn the terrain.
 
-An after-action report is not a confession. It is a map.
+An after-action repair is not a confession. It is a map.
 
 ## Pressure
 
@@ -35,7 +35,7 @@ Those sentences may feel true when you are exhausted, but they are too large to 
 
 ## Reframe
 
-The after-action report asks what happened without making the event your identity.
+The after-action repair asks what happened without making the event your identity.
 
 Not:
 
