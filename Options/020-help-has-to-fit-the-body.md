@@ -31,7 +31,7 @@ Fit is the difference between support and another way to be blamed.
 
 A lot of support asks the Autistic or ADHD person to become the person the support was designed for. A planner assumes time behaves. A therapy exercise assumes speech is available. A classroom rule mistakes stillness for attention. A workplace accommodation assumes asking once is enough. A family plan assumes you can explain your needs while already overloaded. A medical instruction assumes transportation, money, food, sleep, trust, and executive function are already there.
 
-Then, when the support fails, the explanation moves back onto you. You did not follow through. You resisted. You were avoidant. You were not ready. You did not want help. Sometimes people do resist help, and sometimes avoidance is real. But sometimes the help was built for a body, brain, schedule, sensory system, income, language capacity, or fear level that was never yours.
+Then, when (not if) the support fails, the explanation moves back onto you. You did not follow through. You resisted. You were avoidant. You were not ready. You did not want help. Sometimes people do resist help, and sometimes avoidance is real. But sometimes the help was built for a body, brain, schedule, sensory system, income, language capacity, or fear level that was never yours.
 
 ## Reframe
 
