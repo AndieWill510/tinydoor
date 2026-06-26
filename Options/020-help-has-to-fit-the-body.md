@@ -35,7 +35,9 @@ Then, when (not if) the support fails, the explanation moves back onto you. You 
 
 ## Reframe
 
-Help is not help unless it helps. This is not laziness. This is design. A ramp that is too steep is not an accommodation. A checklist with sixteen steps is not support. A conversation that requires perfect self-advocacy during overwhelm is not accessible because it uses kind words.
+**Help is not help unless it helps.** 
+
+This is not laziness. This is design. A ramp that is too steep is not an accommodation. A checklist with sixteen steps is not support. A conversation that requires perfect self-advocacy during overwhelm is not accessible because it uses kind words.
 
 Fit matters. The body matters. The nervous system matters. The actual day matters. The noise, the light, the shame history, the money, the paperwork, the fear of punishment, the last ten times someone called you difficult — all of that matters. A real door meets the person who has to walk through it.
 
