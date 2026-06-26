@@ -17,53 +17,21 @@ SPDX-License-Identifier: Apache-2.0
 -->
 
 # Option 3.13
-# The After-Action Repair
+# The After-Action Report
 
 ## A Way In
 
-Later is different from never, after a meltdown.
+Later is different from never. After the body has come down, after water, food, and quiet, you may be able to look back.
 
-After the body has come down.
+Not to prosecute yourself. To learn the terrain.
 
-After water.
-
-After food.
-
-After quiet.
-
-Then you can look back.
-
-Not to prosecute yourself.
-
-To learn the terrain.
-
-An after-action report (and repair) is not a confession.
-
-It is a map.
+An after-action report is not a confession. It is a map.
 
 ## Pressure
 
-Without a map, the same overload can start to feel like fate.
+Without a map, the same overload can start to feel like fate. The store always does this to me. Family dinner always does this to me. I hate parties.
 
-The store always does this to me.
-
-Family dinner always does this to me.
-
-I hate parties. 
-
-Those sentences may feel true when you are exhausted.
-
-But they are too large to be useful.
-
-The body may have better information than that.
-
-A specific sound.
-
-A specific transition.
-
-A specific missing exit.
-
-Specific is where the next option can hide.
+Those sentences may feel true when you are exhausted, but they are too large to be useful. The body may have better information than that: a specific sound, a specific transition, a specific missing exit. Specific is where the next option can hide.
 
 ## Reframe
 
@@ -85,9 +53,7 @@ But:
 
 > What would reduce the load next time?
 
-This is not a giant worksheet.
-
-It is one small note for future-you.
+This is not a giant worksheet. It is one small note for future-you.
 
 ## Move
 
@@ -99,21 +65,11 @@ What helped even a little?
 What would I change by one notch next time?
 ```
 
-If three lines is too much, write one word.
-
-Noise.
-
-Hunger.
-
-Exit.
-
-That still counts.
+If three lines is too much, write one word: noise, hunger, exit, light, waiting, shame. That still counts.
 
 ## Mercy
 
-A post-mortem is for systems, not self-hatred.
-
-You are allowed to learn from the day without becoming the crime scene.
+A post-mortem is for systems, not self-hatred. You are allowed to learn from the day without becoming the crime scene.
 
 ---
 
