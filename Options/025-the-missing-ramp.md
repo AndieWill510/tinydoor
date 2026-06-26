@@ -23,11 +23,11 @@ SPDX-License-Identifier: Apache-2.0
 
 A person who uses a wheelchair arrives at a building with stairs and no ramp. The problem is not the person. The problem is not their attitude, character, effort, or willingness to climb beautifully enough. The problem is the missing ramp.
 
-Hold that image close, because Neurodivergent people live with missing ramps everywhere.
+Hold that image close, because we live with missing ramps everywhere.
 
 ## Pressure
 
-Many Autistic and ADHD ramps are invisible to people who do not need them. A predictable schedule, clear written instructions, or enough recovery time may look small from the outside. Inside the body, they can be the difference between participation and collapse.
+The ramps Neurodivergent people need are invisible to people who do not need them. A predictable schedule, clear written instructions, or enough recovery time may look small from the outside. Inside the body, they can be the difference between participation and collapse.
 
 But when the ramp is missing, the blame often moves back onto us: too sensitive, too rigid, too much. The missing access disappears. The person becomes the problem.
 
@@ -45,7 +45,7 @@ Name one missing ramp for you. Just one: written instructions, recovery time, sk
 
 ## Mercy
 
-You are not weak because stairs are hard without a ramp. You are allowed to need design, not just endurance.
+You are not weak because stairs are hard without a ramp. You are allowed to need things built for your needs, not just endurance.
 
 ---
 
