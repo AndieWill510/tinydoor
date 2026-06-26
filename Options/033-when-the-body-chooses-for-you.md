@@ -21,59 +21,19 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-It is 4:40 p.m.
+It is 4:40 p.m. The grocery store changed its layout. The milk is not where it was. Someone's cart is blocking the aisle. You have not eaten enough. You have been racially profiled. Then your body chooses.
 
-The grocery store changed its layout.
-
-The milk is not where it was.
-
-Someone's cart is blocking the aisle.
-
-You have not eaten enough.
-
-You have been racially profiled. 
-
-Then your body chooses.
-
-Maybe it freezes.
-
-Maybe it snaps.
-
-Maybe it leaves the cart and gets out.
-
-To someone watching only the final thirty seconds, it looks sudden.
-
-It was not sudden.
+Maybe it freezes. Maybe it snaps. Maybe it leaves the cart and gets out. To someone watching only the final thirty seconds, it looks sudden. It was not sudden.
 
 ## Pressure
 
-Autistic people are often blamed at the moment the pressure becomes visible.
+Autistic people are often blamed at the moment the pressure becomes visible, not when the room got too loud, the schedule changed without warning, or the person asked for help and was told to stop being difficult. Only when the body finally chooses does everyone become an expert on self-control.
 
-Not when the room got too loud.
-
-Not when the schedule changed without warning.
-
-Not when the person asked for help and was told to stop being difficult.
-
-Only when the body finally chose for them.
-
-Then everyone becomes an expert on self-control.
-
-That is a cruel timeline.
-
-It turns the last visible moment into the whole story.
+That is a cruel timeline. It turns the last visible moment into the whole story.
 
 ## Reframe
 
-A body choosing for you is not moral failure.
-
-It is information.
-
-Information with consequences, yes.
-
-Information whose impact may need care, accountability, or repair afterward, yes.
-
-But still information.
+A body choosing for you is not moral failure. It is information: information with consequences, yes; information whose impact may need care, accountability, or repair afterward, yes. But still information.
 
 The better question is not only:
 
@@ -83,27 +43,13 @@ Sometimes the better first question is:
 
 > Where did choice disappear before my body had to choose?
 
-Maybe the missed choice was food.
-
-Maybe it was leaving ten minutes earlier.
-
-Maybe it was permission to abandon the cart.
+Maybe the missed choice was food, leaving ten minutes earlier, asking for help, abandoning the cart, or having permission to leave before the body had to force the exit.
 
 ## Move
 
-After a shutdown, meltdown, collapse, or overload moment, ask gently:
+After a shutdown, meltdown, collapse, or overload moment, ask gently where choice disappeared. One place is enough: no exit, no warning, no food, no safe stim, no believable way to say stop.
 
-> Where did choice disappear?
-
-One place.
-
-Maybe no exit.
-
-Maybe no warning.
-
-Maybe no safe stim.
-
-If the answer is too much right now, stop at:
+If that is too much right now, stop at:
 
 > My body was carrying something.
 
@@ -111,11 +57,7 @@ That is enough for the first door.
 
 ## Mercy
 
-You are not only the moment other people noticed.
-
-Start the timeline earlier. 
-
-And then notice the next time. Earlier. And earlier, still.  
+You are not only the moment other people noticed. Start the timeline earlier. Then notice the next time earlier still.
 
 ---
 
