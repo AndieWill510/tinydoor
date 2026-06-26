@@ -29,7 +29,7 @@ An after-action repair is not a confession. It is a map.
 
 ## Pressure
 
-Without a map, the same overload can start to feel like fate. The store always does this to me. Family dinner always does this to me. I hate parties.
+Without a map, the same overload can start to feel like fate. "The store always does this to me." "Family dinner always does this to me." "I hate parties."
 
 Those sentences may feel true when you are exhausted, but they are too large to be useful. The body may have better information than that: a specific sound, a specific transition, a specific missing exit. Specific is where the next option can hide.
 
