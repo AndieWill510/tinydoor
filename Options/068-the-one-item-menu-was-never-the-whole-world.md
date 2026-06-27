@@ -17,105 +17,49 @@ SPDX-License-Identifier: Apache-2.0
 -->
 
 # Option 5.6
-# The Menu You Were Given, Sucks
+# The One-Item Menu Was Never the Whole World
 
 ## A Way In
 
-When the body has been trained by pressure, it may offer the same old menu.
+When the body has been trained by pressure, it may offer the same old menu: mask, please, disappear, perform, freeze.
 
-Mask.
-
-Please.
-
-Disappear.
-
-Perform.
-
-Freeze.
-
-But the menu you were given was never the whole set of options. 
-
-It's just the items **_you used to be_** allowed.
+But the menu you were given was never the whole set of options. It was only the list you were once allowed to use.
 
 ## Pressure
 
-Protective strategies can become destructive when the room never gives the body recovery.
+Protective strategies can become destructive when the room never gives the body recovery. A response that helped once can become the only response the body can find.
 
-A response that helped once can become the only response the body can find.
+A mask becomes a life. A meltdown becomes a schedule. A shutdown becomes a collapse waiting its turn. Then people call our behavior weakness, even when that behavior was shaped by rooms they helped create.
 
-A mask becomes a life.
-
-A meltdown becomes a schedule.
-
-A shutdown becomes a collapse waiting its turn.
-
-Then people call our behavior, which was caused by rooms they created, weakness.
-
-They miss the sequence.
-
-The body was not trying to fail.
-
-The body was ordering from the only menu it had been shown.
+They miss the sequence. The body was not trying to fail. The body was ordering from the only menu it had been shown.
 
 ## Reframe
 
-Beginning to end this cycle does not mean ripping every strategy away.
+Beginning to end this cycle does not mean ripping every strategy away. It means adding options before the old response becomes automatic: earlier exits, better rooms, more recovery, less shame input.
 
-It means adding options before the old response becomes automatic.
-
-Earlier exits.
-
-Better rooms.
-
-More recovery.
-
-Less shame input.
-
-A body cannot usually choose a new path while it is being punished for needing one.
-
-So the work starts smaller:
+A body cannot usually choose a new path while it is being punished for needing one. So the work starts smaller:
 
 > What else could be on the menu?
 
-Not the perfect answer.
-
-One more answer.
+Not the perfect answer. One more answer.
 
 ## Move
 
-Pick one repeating pattern.
+Pick one repeating pattern:
 
+```text
 When I am overwhelmed, I usually ____.
+```
 
-Fill in the blank gently.
-
-Then write one added menu item:
+Fill in the blank gently. Then add one menu item:
 
 > Next time, I might also ____.
 
-Make it tiny.
-
-Step out sooner.
-
-Use the script.
-
-Ask for writing.
-
-Eat first.
-
-Cancel before collapse.
-
-Tell one safe person the room is getting expensive, or spicy, for you.
-
-One added option is still a door.
+Make it tiny: step out sooner, use the script, ask for writing, eat first, cancel before collapse, tell one safe person the room is getting expensive. One added option is still a door.
 
 ## Mercy
 
-Your body was not foolish for using the only strategy it knew.
-
-And your future does not have to keep ordering from the same old menu.
-
-You have more options than the room taught you.
+Your body was not foolish for using the only strategy it knew. Your future does not have to keep ordering from the same old menu. You have more options than the room taught you.
 
 ---
 
