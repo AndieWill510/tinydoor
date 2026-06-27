@@ -21,13 +21,7 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-A hand flaps.
-
-A foot rocks.
-
-A child looks away.
-
-Someone says:
+A hand flaps. A foot rocks. A child looks away. Someone says:
 
 > Stop that.
 
@@ -41,21 +35,9 @@ Sometimes the next question should be:
 
 ## Pressure
 
-Stopping can sound practical.
+Stopping can sound practical. Stop the noise. Stop the movement. Stop the look. Stop the thing that makes other people uncomfortable.
 
-Stop the noise.
-
-Stop the movement.
-
-Stop the look.
-
-Stop the thing that makes other people uncomfortable.
-
-But if nobody asks why the room needs it stopped, the room gets treated as neutral.
-
-The person becomes the problem.
-
-The pressure disappears from the story.
+But if nobody asks why the room needs it stopped, the room gets treated as neutral. The person becomes the problem. The pressure disappears from the story.
 
 ## Reframe
 
@@ -69,15 +51,7 @@ A better question can open a door.
 
 Or is this only making the room confront its own discomfort?
 
-Those are different problems.
-
-They need different answers.
-
-A dangerous behavior may need protection.
-
-A harmless stim may need space.
-
-A room that cannot tolerate difference may need to change.
+Those are different problems. They need different answers. A dangerous behavior may need protection. A harmless stim may need space. A room that cannot tolerate difference may need to change.
 
 ## Move
 
@@ -85,17 +59,11 @@ When someone wants a behavior stopped, ask one quieter question first:
 
 > Why does this need to stop?
 
-If there is danger, protect.
-
-If there is distress, support.
-
-If there is only discomfort, question the demand.
+If there is danger, protect. If there is distress, support. If there is only discomfort, question the demand.
 
 ## Mercy
 
-Not every correction is care.
-
-Sometimes the first tiny door is asking why the door was closed.
+Not every correction is care. Sometimes the first tiny door is asking why the door was closed.
 
 ---
 
