@@ -29,19 +29,19 @@ Our pleasure is often treated like evidence: too intense, too private, too much.
 
 A body that cannot safely access pleasure may start to believe survival is only endurance. Get through the school day. Get through the appointment. Get through the family dinner.
 
-That is not neutral. A life made only of getting through will eventually ask why it is staying. Pleasure matters because it gives the body evidence that life is not only demand.
+That is not neutral. A life made only of getting through will eventually ask why it is staying. Pleasure matters because it gives the body evidence that life is not only about demand.
 
-Pleasure also needs safety, consent, context, and privacy. That is not a contradiction. It is how pleasure stays connected to dignity.
+Pleasure also needs privacy, consent, boundaries and safety. That is not a contradiction. It is how pleasure stays connected to dignity.
 
 ## Reframe
 
 A shame-based culture gives two bad options:
 
-> deny pleasure, or make pleasure reckless.
+> deny pleasure, or make pleasure reckless
 
 Tiny Door needs a third option:
 
-> protect pleasure with consent, privacy, safety, and care.
+> protect pleasure with consent, privacy, safety, and boundaries
 
 This applies across the body: sensory pleasure, rest pleasure, relational pleasure. No one gets to use pleasure as an excuse to cross another person's boundaries. No one gets to use shame as an excuse to erase yours.
 
