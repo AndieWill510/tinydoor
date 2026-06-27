@@ -21,55 +21,27 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-"Normal" is a dangerous word when adults use it as a destination for a child.
+"Normal" is a dangerous word when adults use it as a destination for a child. It can sound harmless, practical, even loving, like everyone just wants the child to have a good life.
 
-It can sound harmless.
-
-It can sound practical.
-
-It can sound like everyone just wants the child to have a good life.
-
-But normal is not the same as safe.
-
-Normal is not the same as loved.
-
-Normal is not the same as free.
+But normal is not the same as safe. Normal is not the same as loved. Normal is not the same as free.
 
 ## Pressure
 
-A child can be trained to look easier while becoming less connected to themselves.
-
-Sit still.
-
-Look here.
-
-Answer this way.
-
-Those may look like progress from outside the body.
+A child can be trained to look easier while becoming less connected to themselves. Sit still. Look here. Answer this way. Those may look like progress from outside the body.
 
 But the real question is:
 
 > What did the child have to give up to produce that appearance?
 
-If the price of normal is silence, fear, or self-erasure, "normal" costs too much.
+If the price of normal is silence, fear, or self-erasure, normal costs too much.
 
 ## Reframe
 
-The goal should never, **_ever_** be to make us "normal."
+The goal should never be to make us normal. The goal must be to make our lives safer, freer, better supported, and more livable.
 
-The goal must be to make our lives safer, freer, better supported, and more livable.
+That may include skills. It may include communication support. It may include therapy that honors consent, regulation, autonomy, and access. But support is not conversion.
 
-That may include skills.
-
-It may include communication support.
-
-It may include therapy that honors consent, regulation, autonomy, and access.
-
-But support is not conversion.
-
-Help is not the same as hiding the person so the room feels less responsible.
-
-A good life does not require disappearing into someone else's idea of acceptable.
+Help is not the same as hiding the person so the room feels less responsible. A good life does not require disappearing into someone else's idea of acceptable.
 
 ## Move
 
@@ -77,17 +49,11 @@ When a goal is proposed, ask:
 
 > Does this make the person safer and freer, or only more normal-looking?
 
-One goal.
-
-One room.
-
-One honest answer.
+One goal. One room. One honest answer.
 
 ## Mercy
 
-You did not come here to become acceptable enough to be spared.
-
-You came here to live.
+You did not come here to become acceptable enough to be spared. You came here to live.
 
 ---
 
