@@ -21,9 +21,9 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-A door does not have to be grand to matter. In a hard hour, the useful door might be the bathroom at the restaurant, the side exit at work, or the text thread with one person who does not make you explain everything.
+A door does not have to be grand to matter. In a hard moment, a useful door might be the bathroom at the restaurant, passing a note in class, or the text thread with one person who does not make you explain everything.
 
-The point is not to build a perfect escape plan for every situation. The point is to keep one door from locking.
+The point is not to build a perfect escape plan for every situation. The point is to keep one door open.
 
 ## Pressure
 
@@ -33,19 +33,19 @@ This is why people say things afterward that make no sense from the outside. Why
 
 ## Reframe
 
-Planning is not pessimism. A named door is not doom. A script is not weakness. These are option-preservation tools.
+Planning is not pessimism. A script is not weakness. These are option-preservation tools.
 
-The goal is not to predict every emergency. The goal is to make one useful move easier to find when the mind narrows. A door you name before stress is easier to use during stress.
+The goal is not to predict every emergency. The goal is to make one useful move easier to find when the mind narrows.
 
 That is not positivity. That is design.
 
 ## Move
 
-Before the next hard room, name one door: exit, text, script, quiet place, ride home, safe person. Write it where you can find it, or tell one safe person. If all you can do is notice the door, that counts.
+Before the next hard room, name one door: a script, a text, a quiet place or a ride home. Write it where you can find it, or tell one safe person. If all you can do is notice the door, that counts.
 
 ## Mercy
 
-You are allowed to prepare for hard things without being accused of making them happen. Preparation is not betrayal. It is care for the future body that may need help quickly.
+You are allowed to prepare for hard things without being accused of making them happen. Preparation is not betrayal of anyone. It is care for the future body that may need help quickly.
 
 ---
 
