@@ -21,115 +21,41 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-The best time to learn the exit is before the room is on fire.
+The best time to learn the exit is before the room is on fire. Not while smoke is in your eyes. Not while everyone is shouting. Not while your body has already moved from possible danger to real danger.
 
-Not while smoke is in your eyes.
-
-Not while everyone is shouting.
-
-Not while your body has already moved from possible danger to real danger.
-
-Before.
-
-Quietly.
-
-With support.
-
-With repetition.
-
-With people who do not shame the need for a plan.
+Before. Quietly. With support. With repetition. With people who do not shame the need for a plan.
 
 Train before the room is on fire.
 
 ## Pressure
 
-We are often expected to improvise under impossible load.
-
-Explain while panicking.
-
-Regulate while overloaded.
-
-Ask for help while losing language.
-
-Defend the need while the need is happening.
-
-Make a wise choice while every system is yelling.
+We are often expected to improvise under impossible load: explain while panicking, regulate while overloaded, ask for help while losing language, defend the need while the need is happening, make a wise choice while every system is yelling.
 
 Then, when the body cannot perform clarity under emergency conditions, the room calls it overreaction.
 
-That is backwards.
-
-A plan is not evidence that you are fragile.
-
-A plan is evidence that you intend to live.
+That is backwards. A plan is not evidence that you are fragile. A plan is evidence that you intend to live.
 
 ## Reframe
 
-First aid works because someone practiced before the crisis.
+First aid works because someone practiced before the crisis. The practice does not make the crisis imaginary. It makes response possible.
 
-The practice does not make the crisis imaginary.
+Neurodivergent first aid can work the same way: a grounding script, a quiet exit, a person to text, a written card, a sensory kit, a pre-decided ride home, a plan for when speech leaves.
 
-It makes response possible.
-
-Neurodivergent first aid can work the same way.
-
-A grounding script.
-
-A quiet exit.
-
-A person to text.
-
-A written card.
-
-A sensory kit.
-
-A pre-decided ride home.
-
-A plan for when speech leaves.
-
-A professional support path for medical or safety concerns.
-
-These are not dramatic.
-
-They are doors installed before the hallway fills with smoke.
+These are not dramatic. They are doors installed before the hallway fills with smoke.
 
 ## Move
 
-Make one before-plan.
-
-One.
-
-Finish this sentence:
+Make one before-plan. Finish this sentence:
 
 > When I notice panic rising, my first safe move is ____.
 
-Keep it simple.
+Keep it simple: step outside, go to the bathroom, text one person, put on ear protection, drink water, open the written plan, or leave before explaining.
 
-Step outside.
-
-Go to the bathroom.
-
-Text one person.
-
-Put on ear protection.
-
-Sit on the floor.
-
-Drink water.
-
-Open the written plan.
-
-Leave before explaining.
-
-Practice it once when you do not need it.
-
-That is training.
+Practice it once when you do not need it. That is training.
 
 ## Mercy
 
-You are not weak for needing a plan.
-
-You are wise for refusing to let the worst moment be the first rehearsal.
+You are not weak for needing a plan. You are wise for refusing to let the worst moment be the first rehearsal.
 
 ---
 
