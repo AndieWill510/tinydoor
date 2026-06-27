@@ -21,53 +21,23 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-Hope is a bad word when it has no handles.
+Hope is a bad word when it has no handles. It can sound like someone asking you to believe in a future while they do nothing about the room you are trapped in today. It can sound like a poster in a clinic hallway, or a person with power asking you to endure more quietly.
 
-It can sound like someone asking you to believe in a future while they do nothing about the room you are trapped in today.
-
-It can sound like a poster in a clinic hallway.
-
-It can sound like a person with power asking you to endure more quietly.
-
-That is not the hope this book means.
-
-Hope with handles is different.
-
-It has something the body can actually grab.
+That is not the hope this book means. Hope with handles is different. It has something the body can actually grab.
 
 ## Pressure
 
-We are often handed abstract hope while being denied practical next steps. 
+We are often handed abstract hope while being denied practical next steps. You will find your people. Things will get better. Just keep going.
 
-You will find your people.
-
-Things will get better.
-
-Just keep going.
-
-Those sentences may be true.
-
-They may also be useless in the hour when the reader cannot find the help, cannot make the phone call, or cannot survive another vague promise.
-
-A hopeful sentence that does not change access can become one more demand.
-
-Believe harder.
-
-Wait longer.
-
-Need less.
+Those sentences may be true. They may also be useless in the hour when the reader cannot find the help, cannot make the phone call, or cannot survive another vague promise. A hopeful sentence that does not change access can become one more demand: believe harder, wait longer, need less.
 
 Hope without handles can become another locked door.
 
 ## Reframe
 
-Hope should reduce load.
+Hope should reduce load. If it only increases obligation, it needs repair.
 
-If it only increases obligation, it needs repair.
-
-A handle is something specific enough to use.
-
-Not:
+A handle is something specific enough to use. Not:
 
 > I will fix my life.
 
@@ -83,19 +53,11 @@ But:
 
 > I will eat before the appointment.
 
-Hope with handles does not promise the whole future.
-
-It improves the next contact point between the body and the world.
+Hope with handles does not promise the whole future. It improves the next contact point between the body and the world.
 
 ## Move
 
-Give one hope a handle.
-
-One.
-
-Not "things will get better."
-
-Something reachable:
+Give one hope a handle. Not "things will get better." Something reachable:
 
 ```text
 person:
@@ -103,13 +65,11 @@ place:
 script:
 ```
 
-Fill in one line.
-
-Leave the rest blank.
+Fill in one line. Leave the rest blank.
 
 ## Mercy
 
-A handle is not small when it keeps the door from becoming a wall.
+Hope does not have to solve everything to count. It counts when it gives your body one specific thing to reach for.
 
 ---
 
