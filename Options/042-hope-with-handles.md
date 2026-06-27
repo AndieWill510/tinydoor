@@ -60,7 +60,7 @@ Hope with handles does not promise the whole future. It improves the next contac
 Give one hope a handle. Not "things will get better." Something reachable:
 
 ```text
-person (to reky upon):
+person (to rely upon):
 thing (that will alleviate stress):
 script (thing to say to excuse yourself):
 ```
