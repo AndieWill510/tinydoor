@@ -21,31 +21,13 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-Behavior is visible.
+Behavior is visible. That makes it tempting. You can count it, chart it, reward it, punish it, and say the plan is working because the behavior changed.
 
-That makes it tempting.
-
-You can count it, chart it, reward it.
-
-You can punish it.
-
-You can say the plan is working because the behavior changed.
-
-But a person is what can be observed from across the room.
-
-Not by a long shot. 
+But a person is not what can be observed from across the room. Not by a long shot.
 
 ## Pressure
 
-If behavior becomes the whole story, the inside can disappear.
-
-Pain disappears.
-
-Fear disappears.
-
-Consent disappears.
-
-The question becomes:
+If behavior becomes the whole story, the inside can disappear: pain, fear, consent, exhaustion, confusion, the history of the room. The question becomes:
 
 > Did the behavior stop?
 
@@ -61,29 +43,13 @@ Not:
 
 > What did it cost to make the behavior stop?
 
-A quieter child is not always a safer child.
-
-A more compliant child is not always a more supported child.
-
-A still body is not always a healed body.
-
-And this is not just about children.
+A quieter child is not always a safer child. A more compliant child is not always a more supported child. A still body is not always a healed body. And this is not just about children.
 
 ## Reframe
 
-Behavior is information.
+Behavior is information. It is not the whole person. It should be read with the body, the room, the history, and the pressure around it.
 
-It is not the whole person.
-
-It should be read with the body, the room, the history, and the pressure around it.
-
-Stopping a behavior without understanding its function can remove the signal while leaving the fire.
-
-Sometimes the behavior was pain.
-
-Sometimes it was communication.
-
-Sometimes it was regulation.
+Stopping a behavior without understanding its function can remove the signal while leaving the fire. Sometimes the behavior was pain. Sometimes it was communication. Sometimes it was regulation.
 
 The ethical question is not only:
 
@@ -95,17 +61,11 @@ It is:
 
 ## Move
 
-Choose one behavior for which you have been judged too quickly.
-
-One.
-
-Ask:
+Choose one behavior for which you have been judged too quickly. Ask:
 
 > What might this behavior be protecting, expressing, or regulating?
 
-Do not force the answer.
-
-Just refuse the shortcut.
+Do not force the answer. Just refuse the shortcut.
 
 ## Mercy
 
