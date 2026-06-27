@@ -33,7 +33,7 @@ Then the body starts hiding before the person even knows what was hidden.
 
 We are often punished for not already knowing the invisible rules: when to move, what can be asked, which needs are allowed in public. Stigma turns missing instruction into moral failure.
 
-Instead of teaching privacy, consent, timing, context, boundaries, and safety, people teach shame. Shame is a terrible teacher. It does not teach a person how to be safe. It teaches a person how to disappear.
+Instead of teaching privacy, consent, boundaries and safety, people teach shame. Shame is a terrible teacher. It does not teach a person how to be safe. It teaches a person how to hide and deny.
 
 ## Reframe
 
@@ -43,7 +43,7 @@ Shame is different. Shame says:
 
 > The need itself makes you bad.
 
-Tiny Door refuses that lesson. The body can learn safer channels without learning self-hatred. A person can learn context without being told their body is the problem.
+Tiny Doors refuse that lesson. The body can learn safer channels without learning self-hatred. We can learn context without being told our bodies are the problem.
 
 ## Move
 
@@ -55,7 +55,7 @@ A useful boundary gives information. Shame only makes you smaller. Start with on
 
 ## Mercy
 
-You were allowed to need guidance. You were not supposed to be made ashamed for needing it.
+You were allowed to need boundaries. You were not supposed to be made ashamed for needing it.
 
 ---
 
