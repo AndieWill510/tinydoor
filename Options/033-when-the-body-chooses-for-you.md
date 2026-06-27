@@ -21,13 +21,13 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-It is 4:40 p.m. The grocery store changed its layout. The milk is not where it was. Someone's cart is blocking the aisle. You have not eaten enough. You have been racially profiled. Then your body chooses.
+It is 4 in the afternoon and the grocery store changed its layout. The snacks are not where they were. Someone's cart is blocking the aisle. You have not eaten enough. Maybe you're being racially profiled. Then your body chooses.
 
 Maybe it freezes. Maybe it snaps. Maybe it leaves the cart and gets out. To someone watching only the final thirty seconds, it looks sudden. It was not sudden.
 
 ## Pressure
 
-Autistic people are often blamed at the moment the pressure becomes visible, not when the room got too loud, the schedule changed without warning, or the person asked for help and was told to stop being difficult. Only when the body finally chooses does everyone become an expert on self-control.
+Autistic people are often blamed at the moment the pressure becomes visible, when the body finally chooses does everyone become an expert on self-control.
 
 That is a cruel timeline. It turns the last visible moment into the whole story.
 
