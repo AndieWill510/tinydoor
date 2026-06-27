@@ -69,7 +69,7 @@ Do not force the answer. Just refuse the shortcut.
 
 ## Mercy
 
-You are more than the part of you other people found easiest to measure.
+You are more than the part of you that other people found easiest to control. A lot more. 
 
 ---
 
