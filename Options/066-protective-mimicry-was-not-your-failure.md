@@ -17,45 +17,19 @@ SPDX-License-Identifier: Apache-2.0
 -->
 
 # Option 5.4
-# Protective Mimicry Was Not Your Choice
+# Protective Mimicry Was Not Your Failure
 
 ## A Way In
 
-A body under pressure may try to become harder to single out.
+A body under pressure may try to become harder to single out: quieter, smaller, more agreeable, more ordinary-looking, more like the background.
 
-Quieter.
-
-Smaller.
-
-More agreeable.
-
-More ordinary-looking.
-
-More like the background.
-
-That does not mean the body is false.
-
-It means the body learned a protective move.
-
-Protective mimicry was not your choice.
+That does not mean the body is false. It means the body learned a protective move. Protective mimicry was not your failure.
 
 ## Pressure
 
-When a room punishes difference, the body studies the room.
+When a room punishes difference, the body studies the room. It learns what gets noticed, mocked, and corrected. It learns what must be hidden before the next correction arrives.
 
-It learns what gets noticed, mocked and corrected.
-
-It learns what must be hidden before the next correction arrives.
-
-Some of those learned moves may have helped once.
-
-Masking may have reduced danger.
-
-Compensating may have bought time.
-
-Going quiet may have reduced attention.
-
-Leaving may have protected the nervous system.
+Some of those learned moves may have helped once. Masking may have reduced danger. Compensating may have bought time. Going quiet may have reduced attention. Leaving may have protected the nervous system.
 
 But a protective move can become expensive when the pressure never really ends.
 
@@ -69,41 +43,19 @@ The better first question is:
 
 > What was this move protecting?
 
-That question gives dignity back to the body.
-
-It does not make every strategy harmless.
-
-It does not make every impact disappear.
-
-It simply refuses to confuse adaptation with defect.
+That question gives dignity back to the body. It does not make every strategy harmless. It does not make every impact disappear. It simply refuses to confuse adaptation with defect.
 
 A strategy can be honored for helping you get through and still be questioned when it begins to cost too much.
 
 ## Move
 
-Name one protective move you learned.  Just one. 
-
-Masking.
-
-Appeasing.
-
-Going quiet.
-
-Overexplaining.
-
-Working too hard to look easy.
-
-Then ask:
+Name one protective move you learned: masking, appeasing, going quiet, overexplaining, or working too hard to look easy. Then ask:
 
 > What did this protect, and what is it costing now?
 
 ## Mercy
 
-You are not fake because you learned to survive being noticed.
-
-A protected self is still a self.
-
-And when the room becomes safer, that self may not have to hide as hard.
+You are not fake because you learned to survive being noticed. A protected self is still a self, and when the room becomes safer, that self may not have to hide as hard.
 
 ---
 
