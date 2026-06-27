@@ -21,53 +21,17 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-A signal is not a sin.
+A signal is not a sin. Meltdown is not manipulation. Shutdown is not laziness. Sleep deprivation is not moral failure. Burnout is not weakness.
 
-Meltdown is not manipulation.
-
-Shutdown is not laziness.
-
-Sleep deprivation is not moral failure.
-
-Burnout is not weakness.
-
-They are signals.
-
-Pain signals.
-
-Need signals.
-
-Load signals.
-
-Signals that something has already become too much.
+They are signals: pain signals, need signals, load signals, signs that something has already become too much.
 
 ## Pressure
 
-The room may want the signal to be convenient.
+The room may want the signal to be convenient: quiet distress, clear distress, polite distress, distress with perfect words and no disruption.
 
-Quiet distress.
+But bodies do not always warn in language the room prefers. Sometimes the signal is crying. Sometimes it is silence. Sometimes it is leaving. Sometimes it is no speech, fog, clumsiness, irritation, exhaustion, or the body refusing the next demand.
 
-Clear distress.
-
-Polite distress.
-
-Distress with perfect words and no disruption.
-
-But bodies do not always warn in language the room prefers.
-
-Sometimes the signal is crying.
-
-Sometimes it is silence.
-
-Sometimes it is leaving.
-
-Sometimes it is no speech.
-
-Sometimes it is fog, clumsiness, irritation, exhaustion, or the body refusing the next demand.
-
-When the room punishes the signal, the person learns to hide it.
-
-Then the unmet need gets louder.
+When the room punishes the signal, the person learns to hide it. Then the unmet need gets louder.
 
 ## Reframe
 
@@ -79,69 +43,23 @@ The first question is:
 
 > What need has been unmet long enough to become a signal?
 
-Rest.
+Rest. Food. Quiet. Pain care. Less social demand. Less masking. Medical support. Neurodivergent community. A safer room.
 
-Food.
-
-Water.
-
-Quiet.
-
-Pain care.
-
-Less social demand.
-
-Less masking.
-
-Medical support.
-
-Neurodivergent community.
-
-A safer room.
-
-The signal does not make you bad.
-
-It tells you where care is late.
+The signal does not make you bad. It tells you where care is late.
 
 ## Move
 
-Pick one recent signal.
-
-Small, if possible.
-
-A moment when the body changed before the mind had the words.
-
-Ask:
+Pick one recent signal. Small, if possible. A moment when the body changed before the mind had the words. Ask:
 
 > What was late?
 
-One answer is enough.
+One answer is enough: sleep, food, quiet, escape, belief, help. Then choose one earlier care move for next time.
 
-Sleep was late.
-
-Food was late.
-
-Quiet was late.
-
-Escape was late.
-
-Belief was late.
-
-Help was late.
-
-Then choose one earlier care move for next time.
-
-Earlier is not failure.
-
-Earlier is first aid.
+Earlier is not failure. Earlier is first aid.
 
 ## Mercy
 
-You are not guilty because your body told the truth in a language the room disliked.
-
-The signal is not the enemy.
-
-The signal is where the tiny door needs to be installed sooner.
+You are not guilty because your body told the truth in a language the room disliked. The signal is not the enemy. The signal is where the tiny door needs to be installed sooner.
 
 ---
 
