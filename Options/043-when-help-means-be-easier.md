@@ -29,7 +29,7 @@ But the first question still matters:
 
 ## Pressure
 
-Some help begins with the child’s life: what hurts, what helps, what access is missing. Some help begins somewhere else: how do we make this child easier to teach, manage, tolerate, insure, schedule, or explain?
+Some help begins with the child’s life: what hurts, what helps, what access is missing?  Some help begins somewhere else: how do we make this child easier to manage, tolerate or explain?
 
 That second version may still use gentle words. It may still say treatment. It may still say progress. But if the goal is to make the child easier for the room without making the room safer for the child, something has gone terribly wrong.
 
@@ -49,7 +49,7 @@ Those are not the same question. They may sometimes share tools. They may happen
 
 ## Move
 
-When someone calls something help, ask who becomes safer if it works: the child, the caregiver, the institution, the room. One situation is enough. Let the answer matter.
+When someone calls something help, ask who becomes safer if it works: the child, the institution or the room. Let the answer matter.
 
 ## Mercy
 
