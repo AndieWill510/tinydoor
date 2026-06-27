@@ -21,151 +21,45 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-You are not one thing.
+You are not one thing. Not one label. Not one diagnosis. Not one role. Not one story the room tells about you.
 
-Not one label.
-
-Not one diagnosis.
-
-Not one role.
-
-Not one story the room tells about you.
-
-You may be Neurodivergent and 
-
-> a woman trans or otherwise
-
-> queer in any fabulous way
-
-> disabled in other ways
-
-> traumatized
-
-> brilliant
-
-> tired
-
-> still becoming
-
-You are not one thing.
+You may be Neurodivergent and trans, queer, disabled, traumatized, brilliant, tired, still becoming. You are not one thing.
 
 ## Pressure
 
-Rooms often prefer a single explanation.
+Rooms often prefer a single explanation: ADHD, Autism, gender, trauma, anxiety, class, race, disability, pain, work, family. Pick one, the room says. Make yourself easier to file.
 
-> ADHD
+But a life does not arrive in separate folders. What happens to one part of you can land on the others. Misogyny can make masking deeper. Ableism can make healthcare harder. Gaslighting can make self-trust more expensive. Sensory overload can make advocacy impossible. Pain can make every other fight louder.
 
-> Autism
-
-> Gender
-
-> Trauma
-
-> Anxiety
-
-> Class
-
-> Race (it's almost always Race)
-
-> Disability. Pick what.
-
-> Pain
-
-> Work
-
-> Family
-
-But a life does not arrive in separate folders.
-
-What happens to one part of you can land on the others.
-
-Misogyny can make masking deeper.
-
-Ableism can make healthcare harder.
-
-Gaslighting can make self-trust more expensive.
-
-Sensory overload can make advocacy impossible.
-
-Pain can make every other fight louder.
-
-The room may ask you to pick one problem so it can understand you faster.
-
-You do not owe the room a simpler self.
+The room may ask you to pick one problem so it can understand you faster. You do not owe the room a simpler self.
 
 ## Reframe
 
-Complexity does not mean every need must be solved at once.
+Complexity does not mean every need must be solved at once. It means the next door should be chosen by what is happening now.
 
-It means the next door should be chosen by what is happening now.
+If migraine is happening, start with the migraine. If sleep is gone, start with sleep. If the room is too loud, start with sound. If the person is gaslighting you, start with distance or witness. If your body is unsafe, start with safety. If shame is speaking, name the message before it becomes you.
 
-If migraine is happening, start with the migraine.
-
-If sleep is gone, start with sleep.
-
-If the room is too loud, start with sound.
-
-If the person is gaslighting you, start with distance or witness.
-
-If your body is unsafe, start with safety.
-
-If shame is speaking, name the message before it becomes you.
-
-Priority is not erasure.
-
-Starting with one need does not deny the others.
-
-It gives the whole self a chance to breathe.
+Priority is not erasure. Starting with one need does not deny the others. It gives the whole self a chance to breathe.
 
 ## Move
 
-Write three truths about yourself.
+Write three truths about yourself. Not the whole autobiography. Three truths.
 
-Not the whole autobiography.
-
-Three truths.
-
+```text
 I am ____.
-
 I am ____.
-
 I am ____.
+```
 
 Then ask:
 
 > Which need is loudest right now?
 
-One need.
-
-Not forever.
-
-For now.
-
-Give that need one practical answer.
-
-> Less light
-
-> A medical appointment
-
-> A boundary
-
-> A safer person
-
-> A meal
-
-> A nap
-
-> A stim
-
-Always: A room where your whole self does not have to fight to exist.
+One need. Not forever. For now. Give that need one practical answer: less light, a medical appointment, a boundary, a safer person, a meal, a nap, a stim, a room where your whole self does not have to fight to exist.
 
 ## Mercy
 
-You do not become less real when you become harder to summarize.
-
-A constellation is not confusion.
-
-It is many lights belonging to one sky.
+You do not become less real when you become harder to summarize. A constellation is not confusion. It is many lights belonging to one sky.
 
 ---
 
