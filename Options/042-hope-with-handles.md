@@ -69,7 +69,7 @@ Fill in one line. Leave the rest blank.
 
 ## Mercy
 
-Hope does not have to solve everything to count. It counts when it gives your body one specific thing to reach for.
+Hope counts when it gives your body one specific thing to reach for. Ahead of time. 
 
 ---
 
