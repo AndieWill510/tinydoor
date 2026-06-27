@@ -21,49 +21,21 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-The braces were not metaphor.
+The braces were not metaphor. The repair reached my teeth. It reached the bones of my skull.
 
-The repair reached my teeth.
-
-It reached the bones of my skull.
-
-A promise became material.
-
-A trust became care.
-
-Care became bone.
+A promise became material. A trust became care. Care became bone.
 
 ## Pressure
 
-People often want repair to stay symbolic.
+People often want repair to stay symbolic: an apology, a note in the file, a better explanation, a nicer tone, a meeting where everyone agrees that something unfortunate happened.
 
-An apology.
-
-A note in the file.
-
-A better explanation.
-
-A nicer tone.
-
-A meeting where everyone agrees that something unfortunate happened.
-
-Those things may matter.
-
-But they are not the whole repair.
-
-Not when the harm is in the body.
+Those things may matter. But they are not the whole repair. Not when the harm is in the body.
 
 If repair never reaches the place where harm lives, the person is left carrying the cost while the room congratulates itself for understanding.
 
 ## Reframe
 
-Repair is not real because someone says the right words.
-
-Repair is real when it reaches a life.
-
-When it interrupts poverty before poverty could become a bodily verdict.
-
-When it interrupts powerlessness before powerlessness could become a permanent shape.
+Repair is not real because someone says the right words. Repair is real when it reaches a life: when it interrupts poverty before poverty becomes a bodily verdict, when it interrupts powerlessness before powerlessness becomes a permanent shape.
 
 ## Move
 
@@ -71,16 +43,7 @@ Ask:
 
 > What would repair have to reach to be real?
 
-Possible answers:
-
-> my body  
-> my sleep  
-> my nervous system  
-> my future self
-
-Choose one.
-
-Make the next request concrete enough that repair has somewhere to land.
+Maybe the answer is your body, sleep, nervous system, future self, calendar, money, record, or access. Choose one. Make the next request concrete enough that repair has somewhere to land.
 
 Not:
 
@@ -88,13 +51,13 @@ Not:
 
 But:
 
-> I need the appointment rescheduled.  
-> I need the charge reversed.  
-> I need the accommodation written down.  
-> I need the deadline moved.  
-> I need access restored.  
-> I need the record corrected.  
-> I need the support to reach the part of my life that was harmed.
+> I need the appointment rescheduled.
+
+> I need the charge reversed.
+
+> I need the accommodation written down.
+
+One concrete request is enough to start.
 
 ## Mercy
 
