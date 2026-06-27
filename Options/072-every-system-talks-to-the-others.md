@@ -17,117 +17,41 @@ SPDX-License-Identifier: Apache-2.0
 -->
 
 # Option 5.10
-# Every Sense of Yours Talks to the Others
+# Every System Talks to the Others
 
 ## A Way In
 
-Your body is not a set of separate senses, like separate houses. We're learning, it's more like connected rooms in the same house. 
+Your body is not a row of separate houses. It is more like connected rooms in the same house. Light can change emotion. Emotion can change sleep. Sleep can change thought. Pain can change patience. A sound can become a mood. A mood can become a shutdown.
 
-Light can change emotion.
-
-Emotion can change sleep.
-
-Sleep can change thought.
-
-Thought can change appetite.
-
-Pain can change patience.
-
-A sound can become a mood.
-
-A mood can become a shutdown.
-
-A smell can trigger a trauma memory.
-
-Every sense talks to the others.
+Every system talks to the others.
 
 ## Pressure
 
-People may ask for one clean explanation.
+People may ask for one clean explanation. Why are you upset? Why are you tired? Why can’t you focus? Why did that sound matter? Why did the room suddenly become impossible?
 
-Why are you upset?
+But dysregulation does not always travel in a straight line. The sensory system may be overloaded before the feeling has a name. The body may be exhausted before the mind knows why. The thought may become harsh because sleep was stolen. The social demand may become unbearable because light, sound, hunger, pain, and fear were already talking to each other.
 
-Why are you tired?
-
-Why can’t you focus?
-
-Why did that sound matter?
-
-Why did the room suddenly become impossible?
-
-But dysregulation does not always travel in a straight line.
-
-The sensory system may be overloaded before the feeling has a name.
-
-The body may be exhausted before the mind knows why.
-
-The thought may become harsh because sleep was stolen.
-
-The social demand may become unbearable because the light, sound, hunger, pain, and fear were already talking to each other.
-
-This is not an excuse.
-
-It is a map.
+This is not an excuse. It is a map.
 
 ## Reframe
 
-A connected system can be frightening because one stressor can spread.
+A connected system can be frightening because one stressor can spread. But it also carries mercy. One small regulation may help more than one part of the system.
 
-But it also carries mercy.
+Less light may make speech easier. Food may make emotion less sharp. Sleep may make thought less cruel. Quiet may make the room less hostile. A pause may keep the next system from joining the fire.
 
-One small regulation may help more than one part of the system.
-
-Less light may make speech easier.
-
-Food may make emotion less sharp.
-
-Sleep may make thought less cruel.
-
-Quiet may make the room less hostile.
-
-A pause may keep the next system from joining the fire.
-
-You do not have to fix the whole body at once.
-
-You can help one system stop yelling.
+You do not have to fix the whole body at once. You can help one system stop yelling.
 
 ## Move
 
-Pick one signal from today.
-
-Not the biggest one.
-
-One you can notice without turning it into a trial.
-
-Ask:
+Pick one signal from today. Not the biggest one. One you can notice without turning it into a trial. Ask:
 
 > What else might this signal be talking to?
 
-Then choose one tiny regulation.
-
-Dim the light.
-
-Drink water.
-
-Eat something simple.
-
-Step outside.
-
-Reduce sound.
-
-Write instead of speak.
-
-Rest before explaining.
-
-One system quieter can give the others a chance.
+Then choose one tiny regulation: dim the light, drink water, eat something simple, reduce sound, write instead of speak, or rest before explaining. One system quieter can give the others a chance.
 
 ## Mercy
 
-You are not complicated as an accusation.
-
-You are interconnected.
-
-That means small care can travel farther than shame told you it could.
+You are not complicated as an accusation. You are interconnected. That means small care can travel farther than shame told you it could.
 
 ---
 
