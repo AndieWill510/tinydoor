@@ -21,9 +21,7 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-Bad help does not only hurt in the room where it happens.
-
-It teaches people what to ask next.
+Bad help does not only hurt in the room where it happens. It teaches people what to ask next.
 
 > How do we stop that behavior?
 
@@ -31,49 +29,23 @@ It teaches people what to ask next.
 
 > How do we get them back to normal?
 
-Those questions can sound practical.
-
-They can also point the whole room in the wrong direction.
+Those questions can sound practical. They can also point the whole room in the wrong direction.
 
 ## Pressure
 
-A bad question narrows the future.
+A bad question narrows the future. If the question is only how to stop the behavior, the answer may ignore the pain. If the question is only how to get compliance, the answer may ignore consent. If the question is only how to look normal, the answer may ignore the person.
 
-If the question is only how to stop the behavior, the answer may ignore the pain.
-
-If the question is only how to get compliance, the answer may ignore consent.
-
-If the question is only how to look "normal," the answer may ignore the person.
-
-People may think they are solving the problem.
-
-But they may only be making the signal harder to see.
+People may think they are solving the problem, but they may only be making the signal harder to see.
 
 ## Reframe
 
-Good help teaches better questions.
+Good help teaches better questions: what hurts, what access is missing, what would make this safer. Those questions do not guarantee perfect answers, but they point toward the person instead of away from them.
 
-What hurts?
-
-What access is missing?
-
-What would make this safer?
-
-Those questions do not guarantee perfect answers.
-
-But they point toward the person instead of away from them.
-
-They make room for distress to mean something before it is corrected.
-
-They make room for support to mean more than control.
+They make room for distress to mean something before it is corrected. They make room for support to mean more than control.
 
 ## Move
 
-When a room starts with a bad question, try replacing it with one better question.
-
-Not ten.
-
-One.
+When a room starts with a bad question, try replacing it with one better question. Not ten. One.
 
 Instead of:
 
@@ -85,9 +57,7 @@ try:
 
 ## Mercy
 
-You are allowed to reject a question that was built to erase you.
-
-A better question can be a tiny door.
+You are allowed to reject a question that was built to erase you. A better question can be a tiny door.
 
 ---
 
