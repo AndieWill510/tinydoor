@@ -25,9 +25,9 @@ I am not able to blend in anymore. Maybe I never could.
 
 I am a trans woman in the United States of America in 2026. As a girl, I tried hard to be a boy. I tried really hard to be a man. But I have been a Neurodivergent femme my whole life, even when the room had no language for me, no mercy for me, no category that did not turn me into a problem.
 
-I have never fit anyone’s concept of "normal," and every serious attempt to do so has cost me: body, mind, spirit, well-being, and the ability to stay with myself.
+I have never fit anyone’s concept of "normal," and every serious attempt to do so has cost me: body, mind and spirit well-being.
 
-So I need to say this plainly, for me: "normal" is not okay.
+So I need to say this plainly, for me: "normal" is hate speech.
 
 ## Pressure
 
@@ -35,13 +35,13 @@ So I need to say this plainly, for me: "normal" is not okay.
 
 "Normal" is the room that made us sick. It was the demand that we become smaller, quieter, and less true. It asked me to betray the girl I was before my grandmother and great-aunt agreed she existed. It asked me to hide the woman I am now because other people are frightened by what they cannot control. It asked my pain to become polite.
 
-That is not health. That is violence with a blazer.
+That is not health. That is violence in a lab coat.
 
 ## Reframe
 
 "Normal" is not the goal, and it is not neutral. "Normal" is a weapon.
 
-It is the word people use when they want Autistic, ADHD, trans, disabled, or otherwise inconvenient people to disappear without anyone having to admit they asked for disappearance.
+It is the word people use when they want Autistic, ADHD, trans, disabled, indigenous or otherwise inconvenient people to disappear without anyone having to admit they asked for disappearance.
 
 So no, not this time. Not anymore.
 
@@ -53,19 +53,19 @@ You do not have to become "normal" to belong where you are.
 
 Dear reader, I am reaching for you. Not from above you. Not as someone who has solved this. I am reaching from inside the same system of control, disabled as I am, alive as I am.
 
-I am saying: you are not alone. You are not a failed "normal" person. You are not a broken copy of someone easier. The world would be less true without you in it. Your life is not a mistake to be sanded down.
+I am saying: you are not alone. You are not a failed "normal" person. You are not a broken copy of someone easier. The world would be less true without you in it. Your life is not a mistake to be watered down.
 
 Use whatever word lets the truth reach you:
 
-you are a gift.
+You are a gift. A miracle of nature. 
 
 ## Mercy
 
-In community, we can make a life that does not require us to disappear. We can make rooms where Autistic people, ADHD people, trans people, disabled people, and not-yet-ready people have more than endurance.
+In community, we can make a life that does not require us to disappear. We can make rooms where Autistic people, ADHD people, trans people, disabled people, indigenous and not-yet-ready people have more than endurance.
 
 We can make exits. We can make joy. We can make community. We can fight back against the lie that "normal" is the price of being loved.
 
-Not because "normal" ever fit us, but because something truer is still calling us home.
+Not because "normal" ever fit us, but because something true is calling us home.
 
 ---
 
