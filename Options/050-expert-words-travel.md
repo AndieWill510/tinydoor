@@ -21,81 +21,35 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-An expert says the behavior is the problem.
+An expert says the behavior is the problem. A teacher hears it. A parent hears it. A doctor hears it.
 
-A teacher hears it.
-
-A parent hears it.
-
-A doctor hears it.
-
-The sentence does not stay in the office.
-
-It travels.
-
-Soon the child is not only being corrected in one room.
-
-They are being corrected everywhere.
+The sentence does not stay in the office. It travels. Soon the child is not only being corrected in one room; they are being corrected everywhere.
 
 ## Pressure
 
-Expert words carry weight.
+Expert words carry weight. That can be good. A good explanation can open access. A good diagnosis can make support possible. A good recommendation can help a frightened family stop blaming the child.
 
-That can be good.
-
-A good explanation can open access.
-
-A good diagnosis can make support possible.
-
-A good recommendation can help a frightened family stop blaming the child.
-
-But a bad frame travels too.
-
-If the expert frame says the person is the disruption, the people around them may start looking for disruption instead of distress.
-
-They may see behavior before pain.
-
-Compliance before access.
-
-Normal-looking before safety.
+But a bad frame travels too. If the expert frame says the person is the disruption, the people around them may start looking for disruption instead of distress. They may see behavior before pain, compliance before access, normal-looking before safety.
 
 ## Reframe
 
-Authority does not only describe reality.
+Authority does not only describe reality. It can teach a room what to notice.
 
-It can teach a room what to notice.
+That is why expert language matters. A child described as manipulative is treated differently from a child described as overloaded. An adult described as noncompliant is treated differently from an adult described as unsupported.
 
-That is why expert language matters.
-
-A child described as manipulative is treated differently from a child described as overloaded.
-
-An adult described as noncompliant is treated differently from an adult described as unsupported.
-
-The words become instructions.
-
-They tell the room what kind of person it thinks it is seeing.
+The words become instructions. They tell the room what kind of person it thinks it is seeing.
 
 ## Move
 
-Notice one label that follows you or someone you love.
-
-Ask:
+Notice one label that follows you or someone you love. Ask:
 
 > What does this label teach the room to notice?
 
-One label.
-
-One room.
-
-One honest answer.
+One label. One room. One honest answer.
 
 ## Mercy
 
-You are allowed to question the frame before you accept the sentence.
-
-Expert words travel.
-
-So should truth.
+You are allowed to question the frame before you accept the sentence. Expert words travel. So should truth.
 
 ---
 
