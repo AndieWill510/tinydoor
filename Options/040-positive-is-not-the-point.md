@@ -65,7 +65,7 @@ One next. No speech. No life plan.
 
 ## Mercy
 
-You do not have to feel positive to keep one option alive. One option is enough to begin again from where you actually are.
+You do not have to feel positive to keep one option alive. One option is enough to go  from where you actually are.
 
 ---
 
