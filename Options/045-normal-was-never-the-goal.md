@@ -33,7 +33,7 @@ But the real question is:
 
 > What did the child have to give up to produce that appearance?
 
-If the price of "normal" is silence, fear, or self-erasure, normal costs too much.
+If the price of "normal" is self-erasure, "normal" costs too much.
 
 ## Reframe
 
