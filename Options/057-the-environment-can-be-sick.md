@@ -21,35 +21,17 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-Sometimes the room is wrong.
-
-Not the way your hands move when the pressure gets too loud.
-
-The room.
-
-The rule.
-
-The expectation.
-
-The demand that you become easier before anyone asks what is making life hard.
+Sometimes the room is wrong. Not the way your hands move when the pressure gets too loud. The room. The rule. The expectation. The demand that you become easier before anyone asks what is making life hard.
 
 ## Pressure
 
-A person can look distressed in an environment that keeps hurting them.
-
-They can shut down in a room that gives them no quiet.
-
-They can melt down after being corrected all day.
-
-They can stop speaking when every word becomes a test.
+A person can look distressed in an environment that keeps hurting them. They can shut down in a room that gives them no quiet. They can melt down after being corrected all day. They can stop speaking when every word becomes a test.
 
 Then someone points to the distress and says:
 
 > See? Something is wrong with them.
 
-But distress is not always proof of personal failure.
-
-Sometimes it is evidence of pressure.
+But distress is not always proof of personal failure. Sometimes it is evidence of pressure.
 
 ## Reframe
 
@@ -61,37 +43,21 @@ Sometimes the better question is:
 
 > What is wrong with this environment?
 
-That question changes the work.
+That question changes the work. It looks for access. It looks for pressure. It looks for the demand that keeps being treated as normal.
 
-It looks for access.
-
-It looks for pressure.
-
-It looks for the demand that keeps being treated as normal.
-
-A healthy response to an unhealthy room may still look inconvenient to the room.
-
-That does not make the room right.
+A healthy response to an unhealthy room may still look inconvenient to the room. That does not make the room right.
 
 ## Move
 
-Think of one place where you keep feeling like the problem.
-
-Ask:
+Think of one place where you keep feeling like the problem. Ask:
 
 > What pressure is this place treating as normal?
 
-One place.
-
-One pressure.
-
-No full life audit today.
+One place. One pressure. No full life audit today.
 
 ## Mercy
 
-You are not automatically sick because the room cannot tolerate what pressure does to your body.
-
-Sometimes the environment is asking the wrong thing.
+You are not automatically sick because the room cannot tolerate what pressure does to your body. Sometimes the environment is asking the wrong thing.
 
 ---
 
