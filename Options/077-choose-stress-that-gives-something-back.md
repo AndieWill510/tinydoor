@@ -21,129 +21,39 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-Not all stress is the same.
+Not all stress is the same. Some stress takes and takes: asks the body to become smaller, keeps the nervous system rehearsing danger, steals sleep and calls it discipline.
 
-Some stress 
-
-> takes and takes
-
-> asks the body to become smaller
-
-> keeps the nervous system rehearsing danger
-
-> steals sleep and calls it discipline
-
-But some stress gives something back.
-
-> Learning a skill.
-
-> Building a community.
-
-> Making art. Music. Dance.
-
-> Stimming without apology.
-
-> Walking farther than yesterday.
-
-> Practicing a boundary before it is needed.
+But some stress gives something back. Learning a skill. Building a community. Making art. Moving the body. Practicing a boundary before it is needed.
 
 Choose stress that gives something back.
 
 ## Pressure
 
-The world may call toxic stress normal.
+The world may call toxic stress normal: doomscrolling, constant alerts, argument loops, rooms that punish access, work that eats recovery, people who turn every need into a debate.
 
-> Doomscrolling
+Then the same world praises resilience when the body survives the damage. That is not anti-fragility. That is endurance under poor conditions.
 
-> Constant alerts
-
-> Argument loops
-
-> Rooms that punish access
-
-> Work that eats recovery
-
-> People who turn every need into a debate
-
-Then the same world praises resilience when the body survives the damage.
-
-That is not anti-fragility.
-
-That is endurance under poor conditions.
-
-Neurodivergent strength does not require adding more distress to an already overloaded life.
-
-It requires removing the stress that only drains 
-
-and choosing the kinds of effort that build capacity.
+Neurodivergent strength does not require adding more distress to an already overloaded life. It requires removing the stress that only drains and choosing the kinds of effort that build capacity.
 
 ## Reframe
 
-Healthy stress has a return.
+Healthy stress has a return. It may still be effort. It may still be tiring. It may still need recovery. But it leaves something behind: a skill, a safer script, a stronger body, a deeper friendship, a more usable life.
 
-It may still be effort.
-
-It may still be tiring.
-
-It may still need recovery.
-
-But it leaves something behind.
-
-> A skill
-
-> A cleaner room
-
-> A safer script
-
-> A stronger body
-
-> A calmer system
-
-> A deeper friendship
-
-> A more usable life
-
-Distress leaves only debt.
-
-Good effort leaves a tool.
+Distress leaves only debt. Good effort leaves a tool.
 
 ## Move
 
-Pick one stressor from this week.
-
-Ask:
+Pick one stressor from this week. Ask:
 
 > Did this give anything back?
 
-Be honest.
+Be honest. Then pick one small effort that might give something back: a walk, a stretch, a message to a safe person, a drawer made easier to use, a boundary practiced out loud, a few minutes doing nothing the market can use.
 
-Then pick one small effort that might give something back.
-
-Ten minutes with an area of concentration.
-
-A walk.
-
-A stretch.
-
-A message to a safe person.
-
-A drawer made easier to use.
-
-A boundary practiced out loud.
-
-A few minutes doing nothing that the market can use.
-
-Trade one draining stress for one building stress.
-
-Tiny things count.
+Trade one draining stress for one building stress. Tiny things count.
 
 ## Mercy
 
-You do not have to become harder in the face of harm.
-
-You get to build a life with fewer harms and better kinds of effort.
-
-That is strength with a door in it.
+You do not have to become harder in the face of harm. You get to build a life with fewer harms and better kinds of effort. That is strength with a door in it.
 
 ---
 
