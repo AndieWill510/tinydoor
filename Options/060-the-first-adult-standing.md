@@ -21,25 +21,13 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-At fifteen, I needed braces.
+At fifteen, I needed braces. The money existed. The parents responsible for care turned the need into a dispute over who should pay.
 
-The money existed.
-
-The parents responsible for care turned the need into a dispute over who should pay.
-
-One said the other should pay.
-
-The other did the same.
-
-The child was left holding a bodily need inside an adult stalemate.
+One said the other should pay. The other did the same. The child was left holding a bodily need inside an adult stalemate.
 
 ## Pressure
 
-Need can disappear inside adult conflict.
-
-Not because the need is unclear.
-
-Because the room would rather argue over responsibility than release care.
+Need can disappear inside adult conflict. Not because the need is unclear, but because the room would rather argue over responsibility than release care.
 
 The child learns the terrible question:
 
@@ -49,15 +37,11 @@ That question can become a cage.
 
 ## Reframe
 
-Invoking care that was meant for you is not betrayal.
+Invoking care that was meant for you is not betrayal. It is standing.
 
-It is standing.
+My Great Aunt Beanie had left a modest sum of money for me in a college trust. The trust existed for my future, not to pay an overdue bill. Naming it, as I did, and breaking the impasse was the kind of inappropriate responsibility Neurodivergent people are handed every day.
 
-My Great Aunt Beanie had left a most sum of money for me in a college trust. The trust existed for my future, not to pay an overdue bill. 
-
-Naming it, as I did, and breaking the impasse was the kind of inappropriate expectations placed upon Neurodivergent people every day.
-
-It was the affected person telling the truth, taking ownership, before the need disappeared further into endless, selfish squabble.
+It was the affected person telling the truth and taking ownership before the need disappeared further into endless, selfish squabble.
 
 ## Move
 
@@ -67,15 +51,13 @@ When care already exists but access is blocked, write one plain sentence:
 
 Then ask:
 
-> What care, support or accommodation already exists for my protection — and who is blocking my access to it?
+> What care, support, or accommodation already exists for my protection — and who is blocking my access to it?
 
-Do not make the first draft elegant.
-
-Make it true.
+Do not make the first draft elegant. Make it true.
 
 ## Mercy
 
-Standing is how a person refuses to let someone else’s failure become destiny.
+Standing is how a person refuses to let someone else's failure become destiny.
 
 ---
 
