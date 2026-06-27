@@ -27,9 +27,9 @@ That is not the hope this book means. Hope with handles is different. It has som
 
 ## Pressure
 
-We are often handed abstract hope while being denied practical next steps. You will find your people. Things will get better. Just keep going.
+We are often handed abstract hope while being denied practical next steps. "You will find your people. Things will get better. Just keep going."
 
-Those sentences may be true. They may also be useless in the hour when the reader cannot find the help, cannot make the phone call, or cannot survive another vague promise. A hopeful sentence that does not change access can become one more demand: believe harder, wait longer, need less.
+Those sentences may be true. They may also be useless in the hour when you cannot find  help, cannot make the phone call, or cannot survive another vague promise. A hopeful sentence that does not change access can become one more demand: believe harder, wait longer, need less.
 
 Hope without handles can become another locked door.
 
@@ -39,11 +39,11 @@ Hope should reduce load. If it only increases obligation, it needs repair.
 
 A handle is something specific enough to use. Not:
 
-> I will fix my life.
+> I will fix my point of view.
 
 But:
 
-> I will put the headphones by the door.
+> I will put the headphones by the door. 
 
 Not:
 
@@ -60,9 +60,9 @@ Hope with handles does not promise the whole future. It improves the next contac
 Give one hope a handle. Not "things will get better." Something reachable:
 
 ```text
-person:
-place:
-script:
+person (to reky upon):
+thing (that will alleviate stress):
+script (thing to say to excuse yourself):
 ```
 
 Fill in one line. Leave the rest blank.
