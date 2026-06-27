@@ -21,17 +21,7 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-Some rooms take spoons and give nothing back.
-
-They make you explain the obvious.
-
-Defend the need.
-
-Prove the harm.
-
-Translate pain into acceptable language.
-
-Apologize for needing less noise, less pressure, less performance, less pretending.
+Some rooms take spoons and give nothing back. They make you explain the obvious, defend the need, prove the harm, translate pain into acceptable language, and apologize for needing less noise, less pressure, less performance, less pretending.
 
 Then they call you difficult for being tired.
 
@@ -39,75 +29,31 @@ Spend your spoons where you are believed.
 
 ## Pressure
 
-It is easy to keep investing in the room that withholds care.
+It is easy to keep investing in the room that withholds care. Maybe this time they will understand. Maybe this time the group will include you. Maybe this time the family will notice. Maybe this time the workplace will stop treating access as attitude. Maybe this time the argument will finally work.
 
-Maybe this time they will understand.
-
-Maybe this time the group will include you.
-
-Maybe this time the family will notice.
-
-Maybe this time the workplace will stop treating access as attitude.
-
-Maybe this time the argument will finally work.
-
-But some rooms are black holes for energy.
-
-They take attention, explanation, self-doubt, and recovery time.
-
-Then they ask for more.
+But some rooms are black holes for energy. They take attention, explanation, self-doubt, and recovery time. Then they ask for more.
 
 A life cannot become more regulated if every spare spoon is spent trying to be believed by people committed to not understanding.
 
 ## Reframe
 
-Leaving the black-hole room is not the same as giving up on people.
+Leaving the black-hole room is not the same as giving up on people. It is choosing where life can grow.
 
-It is choosing where life can grow.
+Neurodivergent community is not decoration. It is regulation infrastructure. Being around people who get the need before you defend it can lower the cost of being alive. Being believed can return energy.
 
-Neurodivergent community is not decoration.
-
-It is regulation infrastructure.
-
-Being around people who get the need before you defend it can lower the cost of being alive.
-
-Being believed can return energy.
-
-Being met by people who understand sensory cost, social cost, masking cost, and recovery debt can give the body fewer fires to manage.
-
-This does not mean every Neurodivergent space will be perfect.
-
-It means you are allowed to seek rooms that do not require you to become smaller to be tolerated.
+This does not mean every Neurodivergent space will be perfect. It means you are allowed to seek rooms that do not require you to become smaller to be tolerated.
 
 ## Move
 
-Choose one room that drains you.
-
-Then choose one room, person, group, practice, or community that gives something back.
-
-Ask:
+Choose one room that drains you. Then choose one room, person, group, practice, or community that gives something back. Ask:
 
 > What would happen if I moved one spoon from the draining room to the believing room?
 
-One spoon.
-
-One hour.
-
-One message.
-
-One meeting skipped.
-
-One Neurodivergent voice heard (yours) instead of one hostile thread answered.
-
-One tiny transfer of energy toward the life that can hold you.
+One spoon. One hour. One message. One meeting skipped. One hostile thread unanswered. One tiny transfer of energy toward the life that can hold you.
 
 ## Mercy
 
-You do not have to keep auditioning for care.
-
-There are rooms where your needs arrive already legible.
-
-Spend some of your life there, and get some of it back. 
+You do not have to keep auditioning for care. There are rooms where your needs arrive already legible. Spend some of your life there, and get some of it back.
 
 ---
 
