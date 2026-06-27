@@ -17,11 +17,11 @@ SPDX-License-Identifier: Apache-2.0
 -->
 
 # Option 5.5
-# That Advice Did Not Fit the Room
+# The Advice Did Not Fit the Room
 
 ## A Way In
 
-Some advice is flat wrong for Neurodivergent people:
+Some advice is flat wrong for Neurodivergent people.
 
 > Ignore them.
 
@@ -35,15 +35,11 @@ Some advice is flat wrong for Neurodivergent people:
 
 > Make friends with their friends.
 
-Each sentence may have worked for someone, somewhere.
-
-But it won't consistently work for us.
+Each sentence may have worked for someone, somewhere. But it will not reliably work for us.
 
 ## Pressure
 
-We are often handed advice built for a different nervous system and a different danger pattern.
-
-Then, when the advice fails, the failure is handed back to us.
+We are often handed advice built for a different nervous system and a different danger pattern. Then, when the advice fails, the failure is handed back to us.
 
 > You did not ignore hard enough.
 
@@ -55,19 +51,11 @@ Then, when the advice fails, the failure is handed back to us.
 
 > You should have known when to speak and when to stop.
 
-That is not help.
-
-That is a one-size-fits-nobody script with blame attached.
+That is not help. That is a one-size-fits-nobody script with blame attached.
 
 ## Reframe
 
-Bad fit is not bad character.
-
-A strategy can fail because the room is wrong for it.
-
-A strategy can fail because the cost is too high.
-
-A strategy can fail because it solves the observer’s discomfort instead of our danger.
+Bad fit is not bad character. A strategy can fail because the room is wrong for it, because the cost is too high, or because it solves the observer’s discomfort instead of our danger.
 
 The better question is not:
 
@@ -81,29 +69,15 @@ That question lets you stop carrying every failed strategy as proof against your
 
 ## Move
 
-Pick one piece of advice that made you feel worse.
-
-Write it down exactly.
-
-Then ask:
+Pick one piece of advice that made you feel worse. Write it down exactly. Then ask:
 
 > What did this advice assume?
 
-One assumption.
-
-Maybe it assumed you could speak.
-
-Maybe it assumed the other person would stop when ignored.
-
-Maybe it assumed your nervous system had unlimited room.
-
-Name the mismatch.
+One assumption is enough. Maybe it assumed you could speak. Maybe it assumed the other person would stop when ignored. Maybe it assumed your nervous system had unlimited room. Name the mismatch.
 
 ## Mercy
 
-You are not a failed advice recipient.
-
-You are a person whose situation deserved a strategy designed for the actual room.
+You are not a failed advice recipient. You are a person whose situation deserved a strategy designed for the actual room.
 
 ---
 
