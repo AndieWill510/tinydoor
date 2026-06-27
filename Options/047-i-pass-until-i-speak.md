@@ -25,15 +25,13 @@ In the Indigenous culture in which I was raised, "passing" carries the legacy of
 
 That word reaches other rooms too. Passing for Neurotypical. Passing for male. Passing for easy. It is the flip side of masking.
 
-I have often passed for Neurotypical masculine for about five minutes. Until I open my mouth.
+I have often passed for Neurotypical white masculine for about five minutes. Until I open my mouth.
 
 There is an old saying:
 
-> Better to keep your mouth shut and appear stupid than open your mouth and remove all doubt.
+> Better to keep your mouth shut and appear one thing than open your mouth and remove all doubt.
 
-But there is nothing stupid about being Autistic, ADHD, and trans. Nothing stupid about being too much for a room that has mistaken numbness for maturity.
-
-And yet, the moment I open my mouth, I do not remove doubt that I am stupid. I remove doubt that I am "one of them."
+For me, and maybe you too, the moment I open my mouth, I remove all doubt that I am not "one of them." The neurotypicals. 
 
 ## Pressure
 
@@ -45,13 +43,13 @@ Suddenly the room has work to do: make sure I change or leave, and not necessari
 
 ## Reframe
 
-Alive people reveal how locked a room actually is. The buried selves. The shamed selves. The parts covered over by patriarchy, colonialism, hierarchy, and all the old instructions that said:
+Alive people reveal how locked a room actually is. The buried selves. The shamed selves. The parts covered over by racism, patriarchy, colonialism, hierarchy and all the old instructions that said:
 
 > Become neurotypical, or become unsafe.
 
 When someone has spent years hiding from themselves, a person who refuses disappearance can feel like an accusation.
 
-And if you are still hiding, this is not a rebuke. Hiding may be how you stayed alive. Visibility is not the price of worth.
+And if you are still hiding, this is not a rebuke. Hiding may be how you stay alive. Visibility is not the price of worth.
 
 Our existence is not an attack. Their shame is not our identity. Their self-hatred does not become our truth just because they throw it in our direction.
 
@@ -65,7 +63,7 @@ Then ask what part of you is being treated as too visible: voice, movement, joy,
 
 ## Mercy
 
-No, I do not pass, even when I mask. Maybe you do not fully pass either. It is okay.
+No, I never passed, even when masked. Maybe you do not fully pass either. 
 
 Passing asks us to remain inauthentic for the room's convenience. Their convenience is not worth your disappearance.
 
