@@ -21,53 +21,25 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-A supermarket can feel like a casino with groceries.
+A supermarket can feel like a casino with groceries: bright light, sound everywhere, choices stacked on choices, aisles that pull attention sideways.
 
-Bright light.
-
-Sound everywhere.
-
-Choices stacked on choices.
-
-Aisles that pull attention sideways.
-
-For one nervous system, that may be stimulation.
-
-For another, it may be overload.
-
-The same room can distract one body and injure another.
+For one nervous system, that may be stimulation. For another, it may be overload. The same room can distract one body and injure another.
 
 ## Pressure
 
-Many everyday environments are designed as if attention is a resource to be captured.
+Many everyday environments are designed as if attention is a resource to be captured: classrooms, meetings, stores, social events that never tell you when the demand will end.
 
-Classrooms. Meetings. Stores.
-
-Social events that never tell you when the demand will end.
-
-When a person becomes dysregulated inside one of those rooms, the room often protects itself first.
-
-It asks what is wrong with the person -- not what the light, noise or uncertainty is doing.
-
-The distressed person becomes the evidence.
+When a person becomes dysregulated inside one of those rooms, the room often protects itself first. It asks what is wrong with the person, not what the light, noise, crowding, or uncertainty is doing. The distressed person becomes the evidence.
 
 ## Reframe
 
-Access for us begins when the room becomes visible again.
+Access begins when the room becomes visible again. A room can raise the cost of speech, lower the cost of shame, or make leaving feel like disobedience.
 
-A room can raise the cost of speech or lower the cost of shame.
-
-A room can make leaving feel like disobedience.
-
-That does not mean every room is malicious.
-
-It means design has consequences even when nobody names them.
+That does not mean every room is malicious. It means design has consequences even when nobody names them.
 
 ## Move
 
-Choose one room that reliably changes your body.
-
-Ask:
+Choose one room that reliably changes your body. Ask:
 
 > What is this room doing?
 
@@ -75,17 +47,11 @@ Not:
 
 > What is wrong with me here?
 
-Name one force: light, sound, crowding, or no visible exit.
-
-Then name one design correction that would lower the cost.
+Name one force — light, sound, crowding, uncertainty, or no visible exit — and one design correction that would lower the cost.
 
 ## Mercy
 
-You are not too sensitive because a room has teeth.
-
-A room can be ordinary to someone else and still be too much for you.
-
-Your body is allowed to tell the truth about design.
+You are not too sensitive because a room has teeth. A room can be ordinary to someone else and still be too much for you. Your body is allowed to tell the truth about design.
 
 ---
 
