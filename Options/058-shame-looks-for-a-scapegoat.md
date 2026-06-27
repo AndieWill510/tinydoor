@@ -21,23 +21,13 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-A child stims in public.
+A child stims in public. Someone nearby stiffens. A face changes. A voice gets sharp.
 
-Someone nearby stiffens.
-
-A face changes.
-
-A voice gets sharp.
-
-The child may be doing nothing wrong.
-
-But suddenly the room needs someone to blame for the discomfort in it.
+The child may be doing nothing wrong, but suddenly the room needs someone to blame for the discomfort in it.
 
 ## Pressure
 
-Shame does not like to sit still.
-
-It looks for somewhere to go.
+Shame does not like to sit still. It looks for somewhere to go.
 
 Sometimes it turns inward:
 
@@ -47,47 +37,27 @@ Sometimes it turns outward:
 
 > You are embarrassing me.
 
-That second sentence can become dangerous.
-
-Now the child is not only overwhelmed.
-
-The child is carrying someone else's discomfort too.
+That second sentence can become dangerous. Now the child is not only overwhelmed. The child is carrying someone else's discomfort too.
 
 ## Reframe
 
-Being ashamed of someone is often not as simple as it sounds.
+Being ashamed of someone is often not as simple as it sounds. Sometimes a person is meeting their own fear, exposure, or vulnerability and handing it to someone else.
 
-Sometimes a person is meeting their own fear, exposure, or vulnerability and handing it to someone else.
+The target becomes the explanation. The scapegoat becomes the relief valve.
 
-The target becomes the explanation.
-
-The scapegoat becomes the relief valve.
-
-But transferred shame is not truth.
-
-It is pressure with a costume on.
-
-The person being blamed may be the one showing the room where the pain already was.
+But transferred shame is not truth. It is pressure with a costume on. The person being blamed may be the one showing the room where the pain already was.
 
 ## Move
 
-Notice one moment when blame arrives faster than curiosity.
-
-Ask:
+Notice one moment when blame arrives faster than curiosity. Ask:
 
 > Whose discomfort is being handed to whom?
 
-One moment.
-
-One question.
-
-You do not have to solve the whole room.
+One moment. One question. You do not have to solve the whole room.
 
 ## Mercy
 
-You were not made to carry every feeling the room refuses to name.
-
-Someone else's shame does not become your truth.
+You were not made to carry every feeling the room refuses to name. Someone else's shame does not become your truth.
 
 ---
 
