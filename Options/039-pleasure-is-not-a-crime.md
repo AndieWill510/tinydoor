@@ -23,7 +23,7 @@ SPDX-License-Identifier: Apache-2.0
 
 Pleasure is one of the places shame likes to set up camp. Not only sexual pleasure: the pleasure of the same song again and again, the pleasure of pressure, the pleasure of a body finally unclenching when the door closes and the room is yours.
 
-Our pleasure is often treated like evidence: too intense, too private, too much. But pleasure is not a crime.
+Our pleasure is often treated like evidence: too intense or too much. But pleasure is not a crime.
 
 ## Pressure
 
