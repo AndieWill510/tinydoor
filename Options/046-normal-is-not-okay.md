@@ -17,93 +17,43 @@ SPDX-License-Identifier: Apache-2.0
 -->
 
 # Option 4.4
-# "Normal" Is Not Okay
+# Normal Is Not Okay
 
 ## A Way In
 
-I am not able to blend in anymore.
+I am not able to blend in anymore. Maybe I never could.
 
-Maybe I never could.
+I am a trans woman in the United States of America in 2026. As a girl, I tried hard to be a boy. I tried really hard to be a man. But I have been a Neurodivergent femme my whole life, even when the room had no language for me, no mercy for me, no category that did not turn me into a problem.
 
-I am a trans woman in 2026 United States of America.
+I have never fit anyone’s concept of "normal," and every serious attempt to do so has cost me: body, mind, spirit, well-being, and the ability to stay with myself.
 
-As a girl, I tried hard to be a boy. 
-
-I tried really hard to be a man.
-
-Regardless of what I tried to be, I have been a Neurodivergent femme my whole life, even when the room had no language for me, no mercy for me, no category that did not turn me into a problem.
-
-I have never fit anyone’s concept of "normal."
-
-And every serious attempt to do so has cost me.
-
-My body, mind, spirit and well-being.
-
-My ability to stay with myself.
-
-So I need to say this plainly, for me:
-
-"normal" is not okay.
+So I need to say this plainly, for me: "normal" is not okay.
 
 ## Pressure
 
-"Normal" is often treated like safety, health and maturity.
+"Normal" is often treated like safety, health, and maturity. Like proof that a person has healed. But for some of us, "normal" is none of those things.
 
-Like proof that a person has healed.
+"Normal" is the room that made us sick. It was the demand that we become smaller, quieter, and less true. It asked me to betray the girl I was before my grandmother and great-aunt agreed she existed. It asked me to hide the woman I am now because other people are frightened by what they cannot control. It asked my pain to become polite.
 
-But for some of us, "normal" is none of those things.
-
-"Normal" is the room that made us sick.
-
-"Normal" was the demand that we become smaller, quieter and less true.
-
-"Normal" asked me to betray the girl I was before my grandmother and great aunt agreed she existed.
-
-"Normal" asked me to hide the woman I am now because other people are frightened by what they cannot control.
-
-"Normal" asked my pain to become polite.
-
-That is not health.
-
-That is violence with a blazer.
+That is not health. That is violence with a blazer.
 
 ## Reframe
 
-"Normal" is not the goal, and it is not neutral.
+"Normal" is not the goal, and it is not neutral. "Normal" is a weapon.
 
-"Normal" is a weapon.
+It is the word people use when they want Autistic, ADHD, trans, disabled, or otherwise inconvenient people to disappear without anyone having to admit they asked for disappearance.
 
-"Normal" is forever and always the word people use when they want Autistic, ADHD and inconvenient person to disappear without anyone having to admit they asked for disappearance.
+So no, not this time. Not anymore.
 
-So no, not this time, and not any more.
-
-"Normal" is hate speech. Say it out loud. 
+"Normal" is hate speech. Say it out loud.
 
 You do not have to become "normal" to belong where you are.
 
 ## Move
 
-Dear reader, I am reaching for you.
+Dear reader, I am reaching for you. Not from above you. Not as someone who has solved this. I am reaching from inside the same system of control, disabled as I am, alive as I am.
 
-Not from above you.
-
-Not as someone who has solved this.
-
-I am reaching from inside the same system of control.
-
-Disabled as I am.  Alive as I am.
-
-I am saying:
-
-you are not alone.
-
-You are not a failed "normal" person.
-
-You are not a broken copy of someone easier.
-
-The world would be less true without you in 
-
-Your life is not a mistake to be sanded down.
+I am saying: you are not alone. You are not a failed "normal" person. You are not a broken copy of someone easier. The world would be less true without you in it. Your life is not a mistake to be sanded down.
 
 Use whatever word lets the truth reach you:
 
@@ -111,19 +61,11 @@ you are a gift.
 
 ## Mercy
 
-In community, we can make a life that does not require us to disappear.
+In community, we can make a life that does not require us to disappear. We can make rooms where Autistic people, ADHD people, trans people, disabled people, and not-yet-ready people have more than endurance.
 
-Together, we can make rooms where Autistic people, ADHD people and not-yet-ready people have more than endurance.
+We can make exits. We can make joy. We can make community. We can fight back against the lie that "normal" is the price of being loved.
 
-We can make exits.
-
-We can make joy.
-
-We can make community.
-
-We can fight back against the lie that "normal" is the price of being loved.
-
-Not because "normal" ever fit us, because something truer is still calling us home.
+Not because "normal" ever fit us, but because something truer is still calling us home.
 
 ---
 
