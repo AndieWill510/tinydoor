@@ -17,23 +17,11 @@ SPDX-License-Identifier: Apache-2.0
 -->
 
 # Option 4.1
-# When Help Means “Be Easier”
+# When Help Means Be Easier
 
 ## A Way In
 
-A child is brought to a room because adults say they need help.
-
-The child rocks.
-
-The child looks away.
-
-The child reaches for the same object again and again.
-
-The adults may be uncomfortable, and say so.
-
-The parents may be exhausted. And worried.
-
-The clinician may believe they are doing good.
+A child is brought to a room because adults say they need help. The child rocks, looks away, reaches for the same object again and again. The adults may be uncomfortable. The parents may be exhausted and worried. The clinician may believe they are doing good.
 
 But the first question still matters:
 
@@ -41,31 +29,13 @@ But the first question still matters:
 
 ## Pressure
 
-Some help begins with the child’s life.
+Some help begins with the child’s life: what hurts, what helps, what access is missing. Some help begins somewhere else: how do we make this child easier to teach, manage, tolerate, insure, schedule, or explain?
 
-What hurts?
-
-What helps?
-
-What access is missing?
-
-Some help begins somewhere else.
-
-How do we make this child easier to teach, manage, tolerate, insure, schedule, or explain?
-
-That second version may still use gentle words.
-
-It may still say treatment.
-
-It may still say progress.
-
-But if the goal is to make the child easier for the room without making the room safer for the child, something has gone terribly wrong.
+That second version may still use gentle words. It may still say treatment. It may still say progress. But if the goal is to make the child easier for the room without making the room safer for the child, something has gone terribly wrong.
 
 ## Reframe
 
-Care and control can wear the same badge.
-
-That is why the goal matters.
+Care and control can wear the same badge. That is why the goal matters.
 
 Support asks:
 
@@ -75,35 +45,15 @@ Compliance asks:
 
 > How do we make this person less disruptive to the room?
 
-Those are not the same question.
-
-They may sometimes share tools.
-
-They may happen in the same building.
-
-But they do not point toward the same future.
+Those are not the same question. They may sometimes share tools. They may happen in the same building. But they do not point toward the same future.
 
 ## Move
 
-When someone calls something help, ask:
-
-> Who becomes safer if this works?
-
-One situation.
-
-The child?
-
-The caregiver?
-
-The institution?
-
-Let the answer matter.
+When someone calls something help, ask who becomes safer if it works: the child, the caregiver, the institution, the room. One situation is enough. Let the answer matter.
 
 ## Mercy
 
-You were allowed to need help.
-
-You were not supposed to be trained out receiving it.
+You were allowed to need help. You were not supposed to be trained out of receiving it.
 
 ---
 
