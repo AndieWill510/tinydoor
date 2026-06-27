@@ -21,109 +21,49 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-Being left out can feel like a verdict.
-
-The room went quiet.
-
-The invitations stopped.
-
-The group chat moved without you.
-
-The family learned to talk around your needs instead of with you.
-
-A teacher, boss, parent, friend, or stranger decided you were too much trouble to understand.
+Being left out can feel like a verdict. The room goes quiet. The invitations stop. The group chat moves without you. The family learns to talk around your needs instead of with you. A teacher, boss, parent, friend, or stranger decides you are too much trouble to understand.
 
 The body may hear:
 
 > This proves I am unwanted.
 
-But shunning is a system.
-
-Not a verdict.
+But shunning is a system. Not a verdict.
 
 ## Pressure
 
-Isolation rarely arrives alone.
-
-It is often reinforced.
-
-One person mocks.
-
-Another person says nothing.
-
-Someone else decides not to get involved.
-
-A loved one explains that you need to learn how people are.
-
-A helper says you should try harder to fit in.
+Isolation rarely arrives alone. One person mocks. Another says nothing. Someone else decides not to get involved. A loved one explains that you need to learn how people are. A helper says you should try harder to fit in.
 
 The room begins to teach the same lesson from several directions:
 
 > Become easier, or become alone.
 
-That lesson is not neutral.
-
-It pushes the body toward masking, appeasing, compensating, shutting down, or burning out just to stay near people.
-
-Then the room mistakes "trauma response" for personality.
+That lesson is not neutral. It pushes the body toward masking, appeasing, compensating, shutting down, or burning out just to stay near people. Then the room mistakes trauma response for personality.
 
 ## Reframe
 
-Shunning can be socially rewarded even when nobody says that out loud.
+Shunning can be socially rewarded even when nobody says that out loud. The person who excludes you may be treated as reasonable. The person who challenges the exclusion may be treated as disruptive. The person being excluded may be told to adjust.
 
-The person who excludes you may be treated as reasonable.
+That is how a cycle protects itself. Naming the cycle does not mean every person in the room intended harm. It means the pattern has force.
 
-The person who challenges the exclusion may be treated as disruptive.
-
-The person being excluded may be told to adjust.
-
-That is how a cycle protects itself.
-
-Naming the cycle does not mean every person in the room intended harm.
-
-It means the pattern has force.
-
-And once the pattern has force, your loneliness is not automatic evidence against your worth.
-
-It may be evidence that the room has been organized around avoiding discomfort.
+And once the pattern has force, your loneliness is not automatic evidence against your worth. It may be evidence that the room has been organized around avoiding discomfort.
 
 ## Move
 
-Pick one experience of being left out or socially punished.
-
-Ask:
+Pick one experience of being left out or socially punished. Ask:
 
 > What did the room reward here?
 
-One reward.
-
-Maybe silence.
-
-Maybe compliance.
-
-Maybe making you the problem.
-
-Maybe not asking what access was missing.
+Maybe silence. Maybe compliance. Maybe making you the problem. Maybe not asking what access was missing.
 
 Then ask:
 
 > Who, if anyone, made the pattern less powerful?
 
-One person counts.
-
-One witness counts.
-
-One refusal to join the shunning counts.
+One person counts. One witness counts. One refusal to join the shunning counts.
 
 ## Mercy
 
-Isolation can lie.
-
-It can make a social pattern feel like a personal truth.
-
-You are not the verdict of the people in a room that refused to make space.
-
-_They are_. 
+Isolation can lie. It can make a social pattern feel like a personal truth. You are not the verdict of a room that refused to make space.
 
 ---
 
