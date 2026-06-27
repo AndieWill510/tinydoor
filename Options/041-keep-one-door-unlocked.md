@@ -21,7 +21,7 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-A door does not have to be grand to matter. In a hard moment, a useful door might be the bathroom at the restaurant, passing a note in class, or the text thread with one person who does not make you explain everything.
+A door does not have to be grand to matter. In a difficult room, a useful door might be the bathroom at the restaurant, passing a note in class, or the text thread with one person who does not make you explain everything.
 
 The point is not to build a perfect escape plan for every situation. The point is to keep one door open.
 
