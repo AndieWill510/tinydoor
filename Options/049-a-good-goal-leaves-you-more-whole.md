@@ -27,13 +27,13 @@ But inside, you feel smaller. That difference matters. A good goal should not co
 
 ## Pressure
 
-Sometimes people really are trying to help. A teacher may want you to learn. A clinician may want you to cope. A parent may want you to be safe. Those intentions can matter.
+Sometimes people really are trying to help. A teacher may want you to learn. A clinician may want you to cope. A parent or manager may want you to be safe. Those intentions can matter.
 
-But good intentions do not answer the whole question. A goal can be kind in tone and still wrong in direction. It can reduce other people's stress while increasing yours. It can make the room easier without making your life more livable.
+But good intentions do not answer the whole question. A goal can be kind in tone and still wrong in direction. It can reduce other people's stress while increasing yours. 
 
 ## Reframe
 
-A good goal leaves more of you alive. It gives you more safety, more usable energy, and more connection to your own body. Not perfect comfort. Not zero struggle. Not a life where nobody ever needs to adjust. But more wholeness than before.
+A good goal leaves more of you alive. It gives you more safety, more usable energy, and more connection to your own body. 
 
 The question is not only:
 
@@ -43,7 +43,7 @@ It is:
 
 > What did it optimize?
 
-If it optimized compliance, appearance, convenience, or silence, be careful. If it optimized access, communication, safety, autonomy, or rest, keep listening.
+If it optimized compliance, appearance, convenience, or silence, be careful. If it optimized access, safety, autonomy, or rest, keep listening.
 
 ## Move
 
@@ -51,7 +51,7 @@ Pick one goal someone has for you, or one goal you have inherited. Ask:
 
 > What is this trying to achieve?
 
-One goal. One honest answer. If the answer is mostly other people's convenience, that is information.
+If the answer is mostly other people's convenience, that is information.
 
 ## Mercy
 
