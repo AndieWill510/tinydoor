@@ -17,83 +17,43 @@ SPDX-License-Identifier: Apache-2.0
 -->
 
 # Option 4.5
-# I Pass Until I Start Speaking
+# I Pass Until I Speak
 
 ## A Way In
 
-It's a legacy of racism, in the Indigenous culture in which I was raised, to talk about "passing."
+In the Indigenous culture in which I was raised, "passing" carries the legacy of racism: passing for white, being sorted by what the room thinks it sees, being granted or denied safety by someone else's mistaken category.
 
-As in "you pass for white.". Or, increasingly to pass for Neurotypical or male or whatever. It's the flip side of masking.  
+That word reaches other rooms too. Passing for Neurotypical. Passing for male. Passing for easy. It is the flip side of masking.
 
-I have often "passed" for Neurotypical masculine for about five minutes.
-
-Until I open my mouth.
+I have often passed for Neurotypical masculine for about five minutes. Until I open my mouth.
 
 There is an old saying:
 
 > Better to keep your mouth shut and appear stupid than open your mouth and remove all doubt.
 
-But there is nothing stupid about being Autistic, ADHD and trans.
+But there is nothing stupid about being Autistic, ADHD, and trans. Nothing stupid about being too much for a room that has mistaken numbness for maturity.
 
-Nothing stupid about being too much for a room that has mistaken numbness for maturity.
-
-And yet, the moment I open my mouth, I do not remove doubt that I am stupid.
-
-I remove doubt that I am "one of them."
+And yet, the moment I open my mouth, I do not remove doubt that I am stupid. I remove doubt that I am "one of them."
 
 ## Pressure
 
-Passing is fragile because passing depends on other people not knowing too much.
+Passing is fragile because it depends on other people not knowing too much: not hearing too much, not seeing too much, not receiving too much of the actual person.
 
-Not hearing too much.
+For a few minutes, a room may think it knows where to put me. Then I speak, and the pattern changes. The room hears the brightness, the speed, perhaps the ache of trauma, the girl who was always there, the Autistic refusal to become smaller for someone else's comfort.
 
-Not seeing too much.
-
-Not receiving too much of the actual person.
-
-For a few minutes, a room may think it knows where to put me.
-
-Then I speak.
-
-Then the pattern changes.
-
-The room hears the brightness, the speed.  
-
-Perhaps, too, the ache of trauma.
-
-The girl who was always there.
-
-The Autistic refusal to become smaller for someone else’s comfort.
-
-And suddenly the room has work to do: make sure I change or leave, and not necessarily in that order.
-
-They would rather make me the problem than let my existence ask anything of them.
+Suddenly the room has work to do: make sure I change or leave, and not necessarily in that order. They would rather make me the problem than let my existence ask anything of them.
 
 ## Reframe
 
-Alive people reveal how locked a room actually is.
-
-The buried selves.
-
-The shamed selves.
-
-The parts covered over by patriarchy, colonialism, hierarchy and all the old instructions that said:
+Alive people reveal how locked a room actually is. The buried selves. The shamed selves. The parts covered over by patriarchy, colonialism, hierarchy, and all the old instructions that said:
 
 > Become neurotypical, or become unsafe.
 
 When someone has spent years hiding from themselves, a person who refuses disappearance can feel like an accusation.
 
-And if you are still hiding, this is not a rebuke.
+And if you are still hiding, this is not a rebuke. Hiding may be how you stayed alive. Visibility is not the price of worth.
 
-Hiding may be how you stayed alive.
-
-Visibility is not the price of worth.
-
-Our existence is not an attack.
-
-Their shame is not our identity.
-
-Their self-hatred does not become our truth just because they throw it in our direction.
+Our existence is not an attack. Their shame is not our identity. Their self-hatred does not become our truth just because they throw it in our direction.
 
 ## Move
 
@@ -101,39 +61,13 @@ When you feel someone recoil from your aliveness, try this sentence quietly:
 
 > I did not create the shame this room is handing me.
 
-Then ask:
-
-> What part of me is being treated as too visible?
-
-My voice?
-
-My movement?
-
-My joy?
-
-My intelligence?
-
-My gender?
-
-My need?
-
-My refusal?
-
-Name one thing.
-
-Not to hide it.
-
-To protect it.
+Then ask what part of you is being treated as too visible: voice, movement, joy, intelligence, gender, need, refusal. Name one thing. Not to hide it. To protect it.
 
 ## Mercy
 
-No, I do not pass, even when I mask.  Maybe you don't, fully, either. 
+No, I do not pass, even when I mask. Maybe you do not fully pass either. It is okay.
 
-It's OK. 
-
-Because passing asks us to remain inauthentic for the room’s convenience.
-
-And their convenience pales to insignificance to your brilliance. 
+Passing asks us to remain inauthentic for the room's convenience. Their convenience is not worth your disappearance.
 
 ---
 
