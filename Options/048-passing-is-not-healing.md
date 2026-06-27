@@ -21,9 +21,9 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-A child looks less Autistic, or less ADHD. The chart says progress. The room says success. But the child may only have learned where to put the pain.
+We may _look_ less Autistic, or less ADHD. The chart says progress. The room says success. But we only have learned to grow and bury the pain.
 
-That is the danger of passing. From the outside, passing can look like healing. From the inside, it may feel like hiding with better grades.
+That is the danger of passing. From the outside, passing can look like healing. From the inside, it may feel like suffering with better grades.
 
 And this is not just about kids.
 
@@ -53,11 +53,11 @@ When someone calls a change progress, ask:
 
 > Progress toward what?
 
-One change. One goal. One honest answer. If the answer is only "more normal-looking," keep asking.
+If the answer is only "more normal-looking," keep asking.
 
 ## Mercy
 
-You do not have to disappear well to prove you are getting better. Passing is not healing.
+You do not have to disappear or become unrecognizable as you. Passing does not a healthy person, make.
 
 ---
 
