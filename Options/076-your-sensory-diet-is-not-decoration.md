@@ -21,133 +21,37 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-A sensory diet can sound like a luxury.
+A sensory diet can sound like a luxury: soft fabric, less glare, quieter sound, predictable routines, time alone, ear protection, a familiar restaurant, a walk where the body can stop bracing.
 
-Soft fabric.
-
-Less glare.
-
-Quieter sound.
-
-Predictable routines.
-
-Time alone.
-
-A hat.
-
-Ear protection.
-
-A familiar restaurant.
-
-A walk where the body can stop bracing.
-
-That is not decoration.
-
-That is regulation.
+That is not decoration. That is regulation.
 
 ## Pressure
 
-People may treat sensory needs as preferences.
+People may treat sensory needs as preferences: picky, fussy, dramatic, too sensitive, hard to please.
 
-Picky.
+But a body living inside the wrong sensory conditions is doing extra work all day. Every scratchy tag, fluorescent light, chewing sound, unexpected touch, crowded aisle, or smell that goes straight to memory and emotion costs something.
 
-Fussy.
-
-Dramatic.
-
-Too sensitive.
-
-Hard to please.
-
-But a body living inside the wrong sensory conditions is doing extra work all day.
-
-Every scratchy tag.
-
-Every fluorescent light.
-
-Every chewing sound.
-
-Every unexpected touch.
-
-Every crowded aisle.
-
-Every smell that goes straight to memory and emotion and trauma.
-
-Each one may be small to someone else.
-
-Together, they can become a room the nervous system cannot afford.
+Each one may be small to someone else. Together, they can become a room the nervous system cannot afford.
 
 ## Reframe
 
-A sensory diet is not a list of indulgences.
+A sensory diet is not a list of indulgences. It is a way of feeding the nervous system what helps it stay in the world.
 
-It is a way of feeding the nervous system what helps it stay in the world.
+Less clutter is not laziness. Ear protection is not rudeness. Soft clothing is not vanity. A quiet corner is not antisocial. A routine is not rigidity. A break is not failure.
 
-Less clutter is not laziness.
-
-Ear protection is not rudeness.
-
-Soft clothing is not vanity.
-
-A quiet corner is not antisocial.
-
-A routine is not rigidity.
-
-A break is not failure.
-
-These are access tools.
-
-They give the body fewer alarms to answer.
+These are access tools. They give the body fewer alarms to answer.
 
 ## Move
 
-Pick one sense that has been expensive lately.
-
-Sight.
-
-Sound.
-
-Touch.
-
-Smell.
-
-Taste.
-
-Movement.
-
-Then ask:
+Pick one sense that has been expensive lately: sight, sound, touch, smell, taste, or movement. Then ask:
 
 > What is one adjustment that would make this sense cheaper today?
 
-One adjustment.
-
-Dim.
-
-Mute.
-
-Soften.
-
-Step back.
-
-Change clothes.
-
-Close the door.
-
-Use the same cup.
-
-Sit where nobody can brush past you from behind.
-
-Small counts.
+One adjustment is enough. Dim. Mute. Soften. Step back. Change clothes. Close the door. Sit where nobody can brush past you from behind. Small counts.
 
 ## Mercy
 
-You do not have to earn sensory comfort by becoming more overwhelmed first.
-
-Your body is allowed to need conditions.
-
-Conditions are not weakness.
-
-They are how living things stay alive.
+You do not have to earn sensory comfort by becoming more overwhelmed first. Your body is allowed to need conditions. Conditions are not weakness. They are how living things stay alive.
 
 ---
 
