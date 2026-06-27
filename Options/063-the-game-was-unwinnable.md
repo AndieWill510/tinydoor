@@ -21,9 +21,7 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-Some standards are not standards.
-
-They are traps with manners:
+Some standards are not standards. They are traps with manners.
 
 > Be natural, but not too much.
 
@@ -35,31 +33,13 @@ They are traps with manners:
 
 > Be social, but understand every rule nobody said out loud.
 
-Then the room calls the failure yours.
-
-But the game was unwinnable before you entered.
+Then the room calls the failure yours. But the game was unwinnable before you entered.
 
 ## Pressure
 
-Impossibly high social standards do not only measure people.
+Impossibly high social standards do not only measure people. They train people. They teach fear of being left out, fear of being mocked, fear of being treated as the problem.
 
-They train people.
-
-They teach fear of being left out.
-
-Fear of being mocked.
-
-Fear of being treated as the problem.
-
-Once people learn that fear, they may pass it on.
-
-They may police themselves.
-
-They may police each other.
-
-They may call the policing normal.
-
-They may say:
+Once people learn that fear, they may pass it on. They may police themselves. They may police each other. They may call the policing normal. They may say:
 
 > That is just the way it is.
 
@@ -67,19 +47,9 @@ But a sentence can be common and still be a cage.
 
 ## Reframe
 
-The first tiny door is seeing the game.
+The first tiny door is seeing the game. Not winning it. Seeing it.
 
-Not winning it.
-
-Seeing it.
-
-The shame does not prove you failed.
-
-The exhaustion does not prove you are weak.
-
-The confusion does not prove you missed an obvious rule.
-
-Sometimes shame is what an impossible room produces when it does not want to admit the room is impossible.
+The shame does not prove you failed. The exhaustion does not prove you are weak. The confusion does not prove you missed an obvious rule. Sometimes shame is what an impossible room produces when it does not want to admit the room is impossible.
 
 The better question is not:
 
@@ -89,25 +59,11 @@ It is:
 
 > Who benefits when everyone believes this game is fair?
 
-That question does not solve the room.
-
-It gives the shame somewhere else to go.
+That question does not solve the room. It gives the shame somewhere else to go.
 
 ## Move
 
-Name one social rule that keeps turning into a trap.
-
-One.
-
-Maybe eye contact.
-
-Maybe small talk.
-
-Maybe response time.
-
-Maybe the requirement to look fine while becoming less fine.
-
-Then ask:
+Name one social rule that keeps turning into a trap: eye contact, small talk, response time, or the requirement to look fine while becoming less fine. Then ask:
 
 > Is this a real value, or an unwinnable performance standard?
 
@@ -115,11 +71,7 @@ Let the answer reduce the shame by one notch.
 
 ## Mercy
 
-You were not born to pass a test nobody will admit they delivered.
-
-The game was unwinnable.
-
-The only way to win is not to play. 
+You were not born to pass a test nobody will admit they delivered. The game was unwinnable. You are allowed to stop calling that your failure.
 
 ---
 
