@@ -43,11 +43,11 @@ Sometimes the better first question is:
 
 > Where did choice disappear before my body had to choose?
 
-Maybe the missed choice was food, leaving ten minutes earlier, asking for help, abandoning the cart, or having permission to leave before the body had to force the exit.
+Maybe the missed choice was eating before you go in, or leaving ten minutes earlier, asking for help, abandoning the cart, or having permission to leave before the body had to force the exit.
 
 ## Move
 
-After a shutdown, meltdown, collapse, or overload moment, ask gently where choice disappeared. One place is enough: no exit, no warning, no food, no safe stim, no believable way to say stop.
+Long after a shutdown, meltdown, collapse, or overload moment, ask gently where choice disappeared. One place is enough: no exit, no warning, no food, no safe stim, no believable way to say stop.
 
 If that is too much right now, stop at:
 
