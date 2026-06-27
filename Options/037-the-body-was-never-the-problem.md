@@ -17,85 +17,37 @@ SPDX-License-Identifier: Apache-2.0
 -->
 
 # Option 3.14
-# Your Body Was Never the Problem
+# The Body Was Never the Problem
 
 ## A Way In
 
-A person learns body shame in small rooms.
+A person learns body shame in small rooms. A hand is pushed away from a harmless touch. A teenager is told their crush is a phase, a problem, a threat, or a joke. A child asks a plain body question and the adult's face changes before the answer arrives.
 
-A hand is pushed away from a harmless touch.
-
-A teenager is told their crush is a phase, a problem, a threat, or a joke.
-
-A child asks a plain body question and the adult's face changes before the answer arrives.
-
-Nobody has to say, "Your body is wrong."
-
-The room can teach it without the sentence.
-
-The body remembers the room.
+Nobody has to say, "Your body is wrong." The room can teach it without the sentence. The body remembers the room.
 
 ## Pressure
 
-Our bodies are corrected early and often.
-
-Hands down.
-
-Look here.
-
-Sit still.
-
-Some of this gets called manners.
-
-Some gets called therapy.
-
-Some gets called protection.
-
-But the body may receive it as one long lesson:
+Our bodies are corrected early and often: hands down, look here, sit still. Some of this gets called manners. Some gets called therapy. Some gets called protection. But the body may receive it as one long lesson:
 
 > Hide what you are before someone else has to see it.
 
-That lesson is dangerous.
-
-It can make a person less able to know what they feel, what they want, what feels safe, and when they are allowed to leave.
+That lesson is dangerous. It can make a person less able to know what they feel, what they want, what feels safe, and when they are allowed to leave.
 
 ## Reframe
 
-Your body was never the problem.
+The body was never the problem. Not the body that moves, freezes, wants pressure, avoids touch, seeks touch, asks questions, refuses, consents, withdraws, or needs time to know.
 
-Not the body that moves, freezes, wants pressure, avoids touch, seeks touch, asks questions, refuses, consents, withdraws, or needs time to know.
+The problem is a culture that treats bodies as acceptable only when they are easy to manage. A body is not bad because it has signals. A body is not shameful because it has needs.
 
-The problem is a culture that treats bodies as acceptable only when they are easy to manage.
-
-A body is not bad because it has signals.
-
-A body is not shameful because it has needs.
-
-Consent begins here:
-
-with the right to notice what your body is telling you before someone else explains it away.
+Consent begins here: with the right to notice what your body is telling you before someone else explains it away.
 
 ## Move
 
-Name one body signal without judging it.
-
-One.
-
-Tense jaw.
-
-Cold hands.
-
-Leaning away.
-
-Do not decide what it means yet.
-
-Just let the signal exist.
+Name one body signal without judging it: tense jaw, cold hands, leaning away, leaning toward, hunger, wanting quiet, wanting pressure. Do not decide what it means yet. Just let the signal exist.
 
 ## Mercy
 
-Before anyone taught shame, your body was already trying to tell the truth.
-
-After you unlearn shame, your body will again. 
+Before anyone taught shame, your body was already trying to tell the truth. That truth is still allowed to matter.
 
 ---
 
