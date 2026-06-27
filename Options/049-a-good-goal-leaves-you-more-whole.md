@@ -21,55 +21,19 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-Someone calls it help.
+Someone calls it help. You become quieter, easier to manage, less visible. Everyone else relaxes.
 
-You become quieter.
-
-You become easier to manage.
-
-You become less visible.
-
-Everyone else relaxes.
-
-But inside, you feel smaller.
-
-That difference matters.
-
-A good goal should not cost you yourself.
+But inside, you feel smaller. That difference matters. A good goal should not cost you yourself.
 
 ## Pressure
 
-Sometimes people really are trying to help.
+Sometimes people really are trying to help. A teacher may want you to learn. A clinician may want you to cope. A parent may want you to be safe. Those intentions can matter.
 
-A teacher may want you to learn.
-
-A clinician may want you to cope.
-
-A parent may want you to be safe.
-
-Those intentions can matter.
-
-But good intentions do not answer the whole question.
-
-A goal can be kind in tone and still wrong in direction.
-
-A goal can reduce other people's stress while increasing yours.
-
-A goal can make the room easier without making your life more livable.
+But good intentions do not answer the whole question. A goal can be kind in tone and still wrong in direction. It can reduce other people's stress while increasing yours. It can make the room easier without making your life more livable.
 
 ## Reframe
 
-A good goal leaves more of you alive.
-
-Gives you more safety, more usable energy and more connection to your own body.
-
-Not perfect comfort.
-
-Not zero struggle.
-
-Not a life where nobody ever needs to adjust.
-
-But more wholeness than before.
+A good goal leaves more of you alive. It gives you more safety, more usable energy, and more connection to your own body. Not perfect comfort. Not zero struggle. Not a life where nobody ever needs to adjust. But more wholeness than before.
 
 The question is not only:
 
@@ -79,31 +43,19 @@ It is:
 
 > What did it optimize?
 
-If it optimized compliance, appearance, convenience, or silence, be careful.
-
-If it optimized access, communication, safety, autonomy, or rest, keep listening.
+If it optimized compliance, appearance, convenience, or silence, be careful. If it optimized access, communication, safety, autonomy, or rest, keep listening.
 
 ## Move
 
-Pick one goal someone has for you, or one goal you have inherited.
-
-Ask:
+Pick one goal someone has for you, or one goal you have inherited. Ask:
 
 > What is this trying to achieve?
 
-One goal.
-
-One honest answer.
-
-If the answer is mostly other people's convenience, that is information.
+One goal. One honest answer. If the answer is mostly other people's convenience, that is information.
 
 ## Mercy
 
-You are allowed to ask whether the goal itself deserves your trust.
-
-That is not resistance.
-
-And it would be OK if it were.
+You are allowed to ask whether the goal itself deserves your trust. That is not resistance. And it would be okay if it were.
 
 ---
 
