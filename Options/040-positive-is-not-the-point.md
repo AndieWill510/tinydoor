@@ -21,63 +21,27 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-You are in the supermarket and the line has stopped moving.
+You are in the supermarket and the line has stopped moving. The lights are loud. The cart wheel keeps clicking. Your body has started counting exits without asking your permission.
 
-The lights are loud.
+This is not the moment for a poster that says, "Choose joy." It is not the moment to pretend the room is fine. The room is not fine.
 
-The cart wheel keeps clicking.
-
-Your body has started counting exits without asking your permission.
-
-This is not the moment for a poster that says, "Choose joy."
-
-This is not the moment to pretend the room is fine.
-
-The room is not fine.
-
-Positive is not the point.
-
-Options are the point.
+Positive is not the point. Options are the point.
 
 ## Pressure
 
-Toxic positivity asks the reader to lie.
+Toxic positivity asks the reader to lie. Everything happens for a reason. Just change your attitude. Other people have it worse.
 
-It says:
+But in an unsafe or overwhelming environment, we do not need a prettier story about the room. We need enough access to find the next workable move.
 
-Everything happens for a reason.
-
-Just change your attitude.
-
-Other people have it worse.
-
-But when we are in an unsafe or overwhelming environment, **_we don't need a prettier story about the room_**.
-
-We need enough access to find the next workable move.
-
-Panic narrows the field.
-
-Shame narrows it more.
-
-Despair can make every door look painted on.
-
-Mindset matters only because options can disappear under stress.
-
-Not because suffering is imaginary.
+Panic narrows the field. Shame narrows it more. Despair can make every door look painted on. Mindset matters only because options can disappear under stress, not because suffering is imaginary.
 
 ## Reframe
 
-The old phrase was Positive Mental Attitude.
-
-Tiny Door needs a better way:
+The old phrase was Positive Mental Attitude. Tiny Door needs a better way:
 
 > protect access to options under stress.
 
-That does not require cheerfulness.
-
-It does not require pretending harm is harmless.
-
-It means interrupting the collapse from:
+That does not require cheerfulness. It does not require pretending harm is harmless. It means interrupting the collapse from:
 
 > I cannot survive this
 
@@ -85,15 +49,7 @@ into:
 
 > What is the next smallest survivable move?
 
-Leave the cart.
-
-Step outside.
-
-Text one sentence.
-
-Those are not inspirational slogans.
-
-They are options.
+Leave the cart. Step outside. Text one sentence. Those are not inspirational slogans. They are options.
 
 ## Move
 
@@ -101,23 +57,15 @@ When the mind says, "I cannot do this," add one word:
 
 > next.
 
-Not:
-
-> I can do everything.
-
-Just:
+Not "I can do everything." Just:
 
 > What can I do next?
 
-One next.
-
-No speech.
-
-No life plan.
+One next. No speech. No life plan.
 
 ## Mercy
 
-You do not have to feel positive to keep one option alive.
+You do not have to feel positive to keep one option alive. One option is enough to begin again from where you actually are.
 
 ---
 
