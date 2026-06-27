@@ -17,57 +17,27 @@ SPDX-License-Identifier: Apache-2.0
 -->
 
 # Option 4.6
-# Passing Isn't Healing
+# Passing Is Not Healing
 
 ## A Way In
 
-A child looks less Autistic (or less ADHD). 
+A child looks less Autistic, or less ADHD. The chart says progress. The room says success. But the child may only have learned where to put the pain.
 
-The chart says progress.
+That is the danger of passing. From the outside, passing can look like healing. From the inside, it may feel like hiding with better grades.
 
-The room says success.
-
-But the child may only have learned where to put the pain.
-
-That is the danger of passing.
-
-From the outside, passing can look like healing.
-
-From the inside, it may feel like hiding with better grades.
-
-And this is not just about kids.  
+And this is not just about kids.
 
 ## Pressure
 
-Passing can be rewarded quickly.
+Passing can be rewarded quickly: fewer complaints, better reports, more praise. Those rewards can matter. A child may need safety in a room that only rewards normal-looking behavior. An adult may need a job, a doctor's appointment, or one quiet hour without being questioned.
 
-Fewer complaints.
-
-Better reports.
-
-More praise.
-
-Those rewards can matter.
-
-A child may need safety in a room that only rewards normal-looking behavior.
-
-An adult may need a job, a doctor's appointment, or one quiet hour without being questioned.
-
-But survival strategy is not the same as healing.
-
-A person can pass and still be exhausted and unsupported.
-
-A person can pass and still lose contact with themselves.
+But survival strategy is not the same as healing. A person can pass and still be exhausted and unsupported. A person can pass and still lose contact with themselves.
 
 ## Reframe
 
-Ari Ne'eman argues in the *AMA Journal of Ethics* that when disability is defined by behavior, outcome measures should not promote passing.
+Ari Ne'eman argues in the *AMA Journal of Ethics* that when disability is defined by behavior, outcome measures should not promote passing. That matters here.
 
-That matters here.
-
-If success means looking less Neurodivergent, the measure itself needs to be challenged.
-
-The better question is not only:
+If success means looking less Neurodivergent, the measure itself needs to be challenged. The better question is not only:
 
 > Did the behavior become less visible?
 
@@ -75,13 +45,7 @@ It is:
 
 > Did the person become safer, freer, better supported, and more able to stay with themselves?
 
-Those are different questions.
-
-They point toward different futures.
-
-One rewards disappearance.
-
-The other asks what kind of life is being made possible.
+Those questions point toward different futures. One rewards disappearance. The other asks what kind of life is being made possible.
 
 ## Move
 
@@ -89,19 +53,11 @@ When someone calls a change progress, ask:
 
 > Progress toward what?
 
-One change.
-
-One goal.
-
-One honest answer.
-
-If the answer is only "more normal-looking," keep asking.
+One change. One goal. One honest answer. If the answer is only "more normal-looking," keep asking.
 
 ## Mercy
 
-You do not have to disappear well to prove you are getting better.
-
-Passing is not healing.
+You do not have to disappear well to prove you are getting better. Passing is not healing.
 
 ---
 
