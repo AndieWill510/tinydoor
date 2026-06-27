@@ -21,9 +21,9 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-"Normal" is a dangerous word when adults use it as a destination for a child. It can sound harmless, practical, even loving, like everyone just wants the child to have a good life.
+"Normal" is a dangerous word when adults use it as a destination for a child. It can sound harmless, practical, even loving: like everyone wants the child to have a good life.
 
-But normal is not the same as safe. Normal is not the same as loved. Normal is not the same as free.
+But "normal" is not the same as safe. Normal is not the same as loved. Normal is not the same as free.
 
 ## Pressure
 
@@ -33,11 +33,11 @@ But the real question is:
 
 > What did the child have to give up to produce that appearance?
 
-If the price of normal is silence, fear, or self-erasure, normal costs too much.
+If the price of "normal" is silence, fear, or self-erasure, normal costs too much.
 
 ## Reframe
 
-The goal should never be to make us normal. The goal must be to make our lives safer, freer, better supported, and more livable.
+The goal should never be to make us normal. The goal must be to make our lives safer, freer, better supported and more livable.
 
 That may include skills. It may include communication support. It may include therapy that honors consent, regulation, autonomy, and access. But support is not conversion.
 
@@ -53,7 +53,7 @@ One goal. One room. One honest answer.
 
 ## Mercy
 
-You did not come here to become acceptable enough to be spared. You came here to live.
+You did not come here to become acceptable enough to be spared. You came here to live. Just as you are.
 
 ---
 
