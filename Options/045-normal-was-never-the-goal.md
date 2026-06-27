@@ -47,7 +47,7 @@ Help is not the same as hiding the person so the room feels less responsible. A 
 
 When a goal is proposed, ask:
 
-> Does this make the person safer and freer, or only more normal-looking?
+> Does this make us safer and freer, or only more normal-looking?
 
 One goal. One room. One honest answer.
 
