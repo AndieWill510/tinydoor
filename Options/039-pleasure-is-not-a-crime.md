@@ -43,7 +43,7 @@ Tiny Door needs a third option:
 
 > protect pleasure with consent, privacy, safety, and boundaries
 
-This applies across the body: sensory pleasure, rest pleasure, relational pleasure. No one gets to use pleasure as an excuse to cross another person's boundaries; yours or someone else's. No one gets to use shame as an excuse to erase yours.
+This applies across the body: sensory pleasure, rest pleasure, relational pleasure. No one gets to use pleasure as an excuse to cross another person's boundaries; yours or someone else's. No one gets to use shame as an excuse to erase your personal pleasure.
 
 ## Move
 
