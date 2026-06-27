@@ -21,15 +21,11 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-Sometimes the person who should have come to the hospital, or a crisis that should have put you in the hospital, writes a note or gives a speech instead.
+Sometimes the person who should have come to the hospital, or should have understood the crisis that could have put you there, writes a note or gives a speech instead.
 
-Not then.
+Not then. Later. After the silence has stretched long enough to become a position.
 
-Later.
-
-After the silence has stretched long enough to become a position.
-
-The message isn't:
+The message is not:
 
 > I’m sorry I wasn’t there.
 
@@ -39,71 +35,27 @@ The message is:
 
 ## Pressure
 
-This is a specific kind of harm.
+This is a specific kind of harm. It has a shape. The person who failed you first establishes their generosity. They name your debts. They question your judgment, your stability, your name. They close with something that sounds like love.
 
-It has a shape.
-
-The person who fails you first establishes their generosity.
-
-They name your debts.
-
-They question your judgment, your stability, your name.
-
-They close with something that sounds like love.
-
-And underneath all of it is the original failure, quietly buried by everything that came after.
-
-You were hurt.
-
-They did not come.
-
-Then they wrote this.
+And underneath all of it is the original failure, quietly buried by everything that came after. You were hurt. They did not come. Then they wrote this.
 
 ## Reframe
 
-This is called getting ahead of the record.
+This is called getting ahead of the record. It is what people do when they know they failed and cannot say so.
 
-It is what people do when they know they failed and cannot say so.
+They do not repair. They reframe. Suddenly you are the one with debts. Suddenly the story begins after the harm, not before it. Suddenly the question is what you owe, not what was owed to you.
 
-They do not repair.
-
-They reframe.
-
-Suddenly you are the one with debts.
-
-Suddenly the story begins after the harm, not before it.
-
-Suddenly the question is what you owe, not what was owed to you.
-
-A letter like this is not communication.
-
-It is a document.
-
-It is trying to become the record.
-
-You are allowed to know that.
-
-You are allowed to write a different one.
+A letter like this is not communication. It is a document. It is trying to become the record. You are allowed to know that. You are allowed to write a different one.
 
 ## Move
 
-If you have received a message that arrives like this, hear it for what it does not say.
+If you have received a message that arrives like this, hear it for what it does not say. The silence in the letter is the real message. Name it.
 
-The silence in the letter is the real message.
-
-Name it.
-
-You do not have to respond to the message.
-
-You are allowed to respond to the one that should have.
+You do not have to respond to the message. You are allowed to respond to the one that should have arrived.
 
 ## Mercy
 
-You deserved someone at the door of that hospital.
-
-The letter that came instead does not cancel that.
-
-It confirms it.
+You deserved someone at the door of that hospital. The letter that came instead does not cancel that. It confirms it.
 
 ---
 
