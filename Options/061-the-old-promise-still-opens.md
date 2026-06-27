@@ -21,39 +21,15 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-Sometimes the tiny door is not new.
+Sometimes the tiny door is not new. Sometimes someone left it for you.
 
-Sometimes someone left it for you.
-
-Beanie had been dead for five years.
-
-Still, her entrusted care entered the room.
-
-I invoked Beanie’s name.
-
-The trust answered.
-
-The braces happened.
+Beanie had been dead for five years, and still her entrusted care entered the room. I invoked Beanie’s name. The trust answered. The braces happened.
 
 ## Pressure
 
-When the person holding power says no, it can feel like no is the whole world.
+When the person holding power says no, it can feel like no is the whole world. No from a parent. No from a school. No from an office that has a form but no mercy.
 
-No from a parent.
-
-No from a school.
-
-No from an office that has a form but no mercy.
-
-No can become so loud that you forget to look for the older yes.
-
-A promise may already exist.
-
-A record may already exist.
-
-A policy may already exist.
-
-A person may already have said:
+No can become so loud that you forget to look for the older yes. A promise may already exist. A record may already exist. A policy may already exist. A person may already have said:
 
 > This care is for you.
 
@@ -61,39 +37,21 @@ But the door is hidden behind the person currently refusing to open it.
 
 ## Reframe
 
-Help does not always come from the person currently holding power.
+Help does not always come from the person currently holding power. Sometimes help comes from an older promise: a friend, an ancestor, a law, an accommodation letter, a tiny piece of infrastructure someone left behind because they knew the day might come when ordinary care failed.
 
-Sometimes help comes from an older promise.
-
-A friend.
-
-An ancestor.
-
-A law.
-
-An accommodation letter.
-
-A tiny piece of infrastructure someone left behind because they knew the day might come when ordinary care failed.
-
-Do not start with the person saying no.
-
-Start with the promise that already said yes.
+Do not start with the person saying no. Start with the promise that already said yes.
 
 ## Move
 
 Ask one question:
 
-> Who or what has already said yes to my care, accomodatuon or belonging?
+> Who or what has already said yes to my care, accommodation, or belonging?
 
-Then look for the handle.
-
-Not every old yes still opens.
-
-But some do.
+Then look for the handle. Not every old yes still opens. But some do.
 
 ## Mercy
 
-Some old promises still open.
+Some old promises still open. You are allowed to check the door.
 
 ---
 
