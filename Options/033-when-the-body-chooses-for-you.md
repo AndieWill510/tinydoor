@@ -21,7 +21,7 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-It is 4 in the afternoon and the grocery store changed its layout. The snacks are not where they were. Someone's cart is blocking the aisle. You have not eaten enough. Maybe you're being racially profiled. Then your body chooses.
+Imagine it is four in the afternoon and the grocery store changed its layout. The snacks are not where they were. Someone's cart is blocking the aisle. You have not eaten enough. Maybe you're being racially profiled. Then your body chooses.
 
 Maybe it freezes. Maybe it snaps. Maybe it leaves the cart and gets out. To someone watching only the final thirty seconds, it looks sudden. It was not sudden.
 
