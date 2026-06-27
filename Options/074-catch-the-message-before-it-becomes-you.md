@@ -21,87 +21,29 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-A message can arrive before you notice it.
+A message can arrive before you notice it. You are broken. You are shameful. You are unemployable. You are diseased. You are inappropriate.
 
-You are broken.
-
-You are shameful.
-
-You are unemployable.
-
-You are diseased.
-
-You are inappropriate.
-
-You may not believe the message.
-
-Not fully.
-
-Not on purpose.
-
-But enough repetitions can make a message feel like the very air you must breathe.
+You may not believe the message. Not fully. Not on purpose. But enough repetitions can make it feel like the air you have to breathe.
 
 Catch the message before it becomes you.
 
 ## Pressure
 
-Self-stigma is not born inside you untouched by the world.
+Self-stigma is not born inside you untouched by the world. It is taught, repeated, rewarded, and disguised as concern, treatment, social advice, or family disappointment.
 
-It is taught.
-
-Repeated.
-
-Rewarded.
-
-Disguised as concern.
-
-Disguised as treatment.
-
-Disguised as social advice.
-
-Disguised as family disappointment.
-
-The room says the same thing often enough, and the nervous system begins to prepare for it before the words arrive.
-
-Then the message gets carried inside.
-
-Not because you are weak.
-
-Because absorption is what living bodies do.
+The room says the same thing often enough, and the nervous system begins to prepare for it before the words arrive. Then the message gets carried inside. Not because you are weak. Because absorption is what living bodies do.
 
 ## Reframe
 
-The goal is not to never be affected.
+The goal is not to never be affected. The goal is to recognize the message earlier. Earlier is mercy. Earlier means you may still have a choice.
 
-The goal is to recognize the message earlier.
+This is a message. This is shame speaking. This is cure pressure. This is the room calling access a problem. This is someone else’s fear asking to live in my body.
 
-Earlier is mercy.
-
-Earlier means you may still have a choice.
-
-This is a message.
-
-This is shame speaking.
-
-This is cure pressure.
-
-This is the room calling access a problem.
-
-This is someone else’s fear asking to live in my body.
-
-Once the message has a label, it is not automatically your identity.
-
-It becomes something you can answer.
-
-Or leave.
-
-Or put down long enough to breathe.
+Once the message has a label, it is not automatically your identity. It becomes something you can answer, leave, or put down long enough to breathe.
 
 ## Move
 
-Pick one sentence you absorbed from the room.
-
-Keep it short.
+Pick one sentence you absorbed from the room. Keep it short.
 
 Maybe:
 
@@ -119,22 +61,11 @@ Now add:
 
 > That is a message, not a verdict.
 
-Then choose one tiny counter-message.
-
-> My need is real.  
-> My body is allowed to object.  
-> I can leave before I can explain.  
-> I can spend less time where I am made unreal.
+Then choose one tiny counter-message: my need is real, my body is allowed to object, I can leave before I can explain, or I can spend less time where I am made unreal.
 
 ## Mercy
 
-You are not the shame you had to hear too many times.
-
-A message can be learned.
-
-A message can be interrupted.
-
-You are allowed to answer before it becomes your name.
+You are not the shame you had to hear too many times. A message can be learned. A message can be interrupted. You are allowed to answer before it becomes your name.
 
 ---
 
