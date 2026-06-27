@@ -35,15 +35,15 @@ So long as my children could be compared favorably to that image, they were okay
 
 ## Pressure
 
-That is a hard sentence to write because it holds two injuries at once. I was watching my children be measured by a world that was not built for them. I was also being measured by it.
+This is a hard to write because it holds two injuries at once. I was watching my children be measured by a world that was not built for them. I was also being measured by it.
 
 My value, my self-worth, got tied to whether they performed correctly.
 
 ## Reframe
 
-The lesson of the life that ended was that some systems make value and love contingent.
+The lesson of the life that ended, that house I lived in, was that some systems make value and love contingent.
 
-> My kids were okay if they resembled the approved person.
+> My kids were okay if they resembled some approved person _du jour_.
 
 > I was okay if my kids resembled the approved person.
 
@@ -61,7 +61,7 @@ Let the answer be plain.
 
 ## Mercy
 
-You were not born to meet someone else's standard of valuable. You were born already human.
+You were not born to meet someone else's standard of valuable. You were born already human, and therefore meaningful and lovable.
 
 ---
 
