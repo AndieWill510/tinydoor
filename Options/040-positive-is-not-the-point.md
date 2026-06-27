@@ -21,7 +21,7 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-You are in the supermarket and the line has stopped moving. The lights are loud. The cart wheel keeps clicking. Your body has started counting exits without asking your permission.
+You are in the supermarket and the line has stopped moving. The lights are loud, somehow. Your body has started counting exits without asking your permission.
 
 This is not the moment for a poster that says, "Choose joy." It is not the moment to pretend the room is fine. The room is not fine.
 
@@ -29,7 +29,7 @@ Positive is not the point. Options are the point.
 
 ## Pressure
 
-Toxic positivity asks the reader to lie. Everything happens for a reason. Just change your attitude. Other people have it worse.
+Toxic positivity asks the reader to lie. "Everything happens for a reason. Just change your attitude. Other people have it worse."
 
 But in an unsafe or overwhelming environment, we do not need a prettier story about the room. We need enough access to find the next workable move.
 
@@ -39,7 +39,7 @@ Panic narrows the field. Shame narrows it more. Despair can make every door look
 
 The old phrase was Positive Mental Attitude. Tiny Door needs a better way:
 
-> protect access to options under stress.
+> protect access to options under stress
 
 That does not require cheerfulness. It does not require pretending harm is harmless. It means interrupting the collapse from:
 
@@ -55,7 +55,7 @@ Leave the cart. Step outside. Text one sentence. Those are not inspirational slo
 
 When the mind says, "I cannot do this," add one word:
 
-> next.
+> next
 
 Not "I can do everything." Just:
 
