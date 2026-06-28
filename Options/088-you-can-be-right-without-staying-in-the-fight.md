@@ -21,23 +21,9 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-You can be right without staying in the fight.
+You can be right without staying in the fight. This is hard when the unfairness is real: when the fact was missed, the logic was broken, the process was crooked, or the person with power either could not see it or chose not to see it.
 
-This is hard when the unfairness is real.
-
-When the fact was missed.
-
-When the logic was broken.
-
-When the process was crooked.
-
-When the person with power either could not see it or chose not to see it.
-
-Your body may keep searching for the missing verdict.
-
-It wants the case closed.
-
-It wants the room to admit what happened.
+Your body may keep searching for the missing verdict. It wants the case closed. It wants the room to admit what happened.
 
 But the body can stand down before the room becomes honest.
 
@@ -47,59 +33,21 @@ A lot of advice says:
 
 > Just let it go.
 
-But that can feel like being asked to lie.
+But that can feel like being asked to lie. You are not upset because nothing happened. You are upset because something did happen, and part of you is still trying to protect the truth.
 
-You are not upset because nothing happened.
+The loop may sound like: they missed the point, ignored the evidence, moved the goalpost, acted like I was the problem for noticing. The mind keeps preparing one more argument. The body keeps bracing for one more round.
 
-You are upset because something did happen, and part of you is still trying to protect the truth.
-
-The loop may sound like:
-
-They missed the point.
-
-They were unfair.
-
-They ignored the evidence.
-
-They took credit.
-
-They moved the goalpost.
-
-They acted like I was the problem for noticing.
-
-The mind keeps preparing one more argument.
-
-The body keeps bracing for one more round.
-
-That is not weakness.
-
-That is a system still looking for safety.
+That is not weakness. That is a system still looking for safety.
 
 ## Reframe
 
-The unfairness can be real.
-
-Your perception can be accurate.
-
-Your anger can be trying to protect truth.
-
-And still:
+The unfairness can be real. Your perception can be accurate. Your anger can be trying to protect truth. And still:
 
 > Something can be true and not deserve more of your nervous system.
 
-This is not surrender.
+This is not surrender, agreement, or pretending the room was fair. It is releasing the demand that an unfair room become fair before you are allowed to come back to yourself.
 
-This is not agreement.
-
-This is not pretending the room was fair.
-
-It is releasing the demand that an unfair room become fair before you are allowed to come back to yourself.
-
-In some Buddhist traditions, the anger is not an enemy to crush.
-
-It is a suffering thing to recognize, hold, and thank for trying to protect you.
-
-Then you can choose what protects you next.
+In some Buddhist traditions, anger is not an enemy to crush. It is a suffering thing to recognize, hold, and thank for trying to protect you. Then you can choose what protects you next.
 
 ## Move
 
@@ -111,29 +59,13 @@ Then:
 
 > I can be right without staying in the fight.
 
-Then give the body one concrete ending.
-
-Close the document.
-
-Stand up.
-
-Drink water.
-
-Feel your feet.
-
-Take one slow breath.
-
-Put one hand somewhere that reminds the body it is not still in the meeting.
+Then give the body one concrete ending: close the document, stand up, drink water, feel your feet, take one slow breath, or put one hand somewhere that reminds the body it is not still in the meeting.
 
 If you need a shorter script:
 
 > Observed. Judged accurately. No further action required right now.
 
-Right now matters.
-
-You can always decide later if action is needed.
-
-But the loop does not get to keep your whole body tonight.
+Right now matters. You can always decide later if action is needed. But the loop does not get to keep your whole body tonight.
 
 ## Mercy
 
