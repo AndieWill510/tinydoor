@@ -17,7 +17,7 @@ SPDX-License-Identifier: Apache-2.0
 -->
 
 # Option 5.3
-# The Shame Cycle Is Not Your Character
+# The Cycle of Shame (Is Not Your Character)
 
 ## A Way In
 
@@ -55,7 +55,9 @@ The cycle can be studied, interrupted, softened, and designed around.
 
 ## Move
 
-Pick one response you tend to judge harshly: masking, appeasing, snapping, leaving, going silent. Ask:
+Pick one response you tend to judge harshly: masking, appeasing, snapping, leaving, going silent. 
+
+Ask:
 
 > What was my body trying to survive?
 
