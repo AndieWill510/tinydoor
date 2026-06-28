@@ -37,13 +37,13 @@ Smile here. Explain less there. Sound confident. Do not sound too intense. Make 
 
 Then personal branding adds a second shift: perform authenticity, vulnerability, expertise, growth, consistency, and the version of complexity that fits inside an audience’s patience.
 
-That is a specific cruelty. The branded self is not a freer self. Sometimes it is a market-shaped enslaved self with a posting schedule.
+That is a specific cruelty. The branded self is not a freer self. It is a market-shaped enslaved self with a posting schedule.
 
 ## Reframe
 
 Authenticity as a product is not authenticity. It is presentation. Sometimes useful. Sometimes chosen. Sometimes even joyful. But not the same thing as the authentic, true self.
 
-There is a self that does not need to be legible to the market. A self not available for consumption. A self that changes too quickly to become a clean tagline. A self that needs silence before speech: a notebook before a post, a friend before an audience, a closed door before a microphone.
+There is a self that does not need to be legible to the market. A self not available for consumption. A self that needs silence before speech: a notebook before a post, a friend before an audience, a closed door before a microphone.
 
 Privacy is not hiding. Privacy is habitat repair. It is where the mask comes off. It is where the body finds out what it actually feels.
 
