@@ -21,61 +21,21 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-Neorodivergent lives do not become healthy by willpower alone, they need design.
+Neurodivergent lives do not become healthy by willpower alone. They need design.
 
-Not because you are fragile.
-
-Because every body lives inside an environment.
-
-And some environments make our bodies pay rent in pain.
+Not because you are fragile. Because every body lives inside an environment, and some environments make our bodies pay rent in pain.
 
 ## Pressure
 
-The usual demand is simple:
+The usual demand is simple: adapt, try harder, be flexible, be normal, stay longer, listen better, stop reacting, use your coping skills.
 
-> Adapt
-
-> Try harder
-
-> Be flexible
-
-> Be normal
-
-> Stay longer
-
-> Listen better
-
-> Stop reacting
-
-> Use your coping skills
-
-But coping skills cannot turn a hostile environment into a safe one.
-
-A sensory diet is not decoration.
-
-A quiet room is not indulgence.
-
-A written agenda is not special treatment.
-
-A predictable schedule is not childish.
-
-A break is not failure.
-
-A door you can close is not arrogance.
+But coping skills cannot turn a hostile environment into a safe one. A sensory diet is not decoration. A quiet room is not indulgence. A written agenda is not special treatment. A predictable schedule is not childish. A break is not failure. A door you can close is not arrogance.
 
 A life that fits your nervous system is not too much to ask.
 
 ## Reframe
 
-Think of four verbs.
-
-Tune.
-
-Prune.
-
-Ground.
-
-Shape.
+Think of four verbs: tune, prune, ground, shape.
 
 Tuning asks:
 
@@ -93,49 +53,25 @@ Shaping asks:
 
 > What community, schedule, space, or support would make this life livable instead of merely survivable?
 
-This is not a self-improvement program.
-
-It is habitat repair.
-
-The goal is not a more compliant person.
-
-The goal is fewer fires, and more recovery.
-
-More life left after the day is done.
+This is not a self-improvement program. It is habitat repair. The goal is not a more compliant person. The goal is fewer fires, more recovery, and more life left after the day is done.
 
 ## Move
 
 Pick one verb.
 
-Tune:
+Tune: lower one sensory input or feed one needed input.
 
-> Lower one sensory input or feed one needed input.
+Prune: remove, shorten, or postpone one spoon-taking exposure.
 
-Prune:
+Ground: use one thing that brings the body back: floor, texture, weight, water, nature, movement, or stillness.
 
-> Remove, shorten, or postpone one spoon-taking exposure.
+Shape: ask what structure would help next time: an agenda, break, quiet room, written instructions, fewer transitions, different timing, or safer people.
 
-Ground:
-
-> Use one thing that brings the body back: floor, breath, texture, weight, water, nature, movement, stillness.
-
-Shape:
-
-> Ask what structure would help next time: agenda, break, quiet room, written instructions, fewer transitions, different timing, safer people.
-
-Do not redesign the whole life tonight.
-
-Change one condition.
-
-Then notice what happens.
-
-Bodies tell the truth before systems do.
+Do not redesign the whole life tonight. Change one condition. Then notice what happens. Bodies tell the truth before systems do.
 
 ## Mercy
 
-You are not a machine failing to perform.
-
-You are a living creature asking for a livable world.
+You are not a machine failing to perform. You are a living creature asking for a livable world.
 
 ---
 
