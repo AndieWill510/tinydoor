@@ -17,33 +17,13 @@ SPDX-License-Identifier: Apache-2.0
 -->
 
 # Option 8.4
-# Your Respite Is Not (Just) a Revenue Stream
+# Your Recovery Is Not a Revenue Stream
 
 ## A Way In
 
-Maybe it starts as the thing you do after the day takes too much.
+Maybe it starts as the thing you do after the day takes too much: drawing small animals in the margin, making playlists, fixing old radios, baking bread, learning train maps, writing fanfic, growing tomatoes, taking photos of doors, building tiny tools no one asked for.
 
-> Drawing small animals in the margin.
-
-> Making playlists.
-
-> Fixing old radios.
-
-> Baking bread.
-
-> Learning train maps.
-
-> Writing fanfic.
-
-> Growing tomatoes.
-
-> Taking photos of doors.
-
-> Building tiny tools no one asked for.
-
-The thing is yours.
-
-It helps you come home to yourself.
+The thing is yours. It helps you come home to yourself.
 
 Then someone says:
 
@@ -53,8 +33,6 @@ Then someone says:
 
 > Have you thought about doing this professionally?
 
-> You should start a shop.
-
 > You should make content.
 
 > You should monetize your passion.
@@ -63,59 +41,19 @@ And suddenly the thing that gave you back to yourself is being measured for a ca
 
 ## Pressure
 
-Hustle culture has a simple trap.
+Hustle culture has a simple trap: if you love it, it is an opportunity; if it is an opportunity, you should use it; if you do not use it, you are wasting it.
 
-> If you love it, it is an opportunity.
+That logic is a thief with motivational posters. It looks at a nervous system finding one small harbor and asks: can this scale, can this sell, can this become a brand, can this become a second shift?
 
-> If it is an opportunity, you should use it.
+For Autistic and ADHD people, deep interest may not be decoration. It may be how the body repairs, how the noise lowers, how the signal comes back. It may be the one hour that does not ask for masking, explaining, smiling, proving, or managing someone else’s comfort.
 
-> If you do not use it, you are wasting it.
-
-That logic is a thief with motivational posters.
-
-It looks at a nervous system finding one small harbor and says:
-
-> Can this scale?
-
-> Can this sell?
-
-> Can this, and you, become a brand?
-
-> Can this become a second shift?
-
-For Autistic and ADHD people, deep interest may not be decoration.
-
-It may be how the body repairs.
-
-It may be how the noise lowers.
-
-It may be how the signal comes back.
-
-It may be the one hour that does not ask for masking, explaining, smiling, proving, or managing someone else’s comfort.
-
-When that hour becomes a deliverable, something changes.
-
-The interest becomes a client.
-
-The hobby becomes a deadline.
-
-The joy becomes inventory.
-
-The thing the body ran toward now feels like another room with fluorescent lights.
-
-The demand stayed.
-
-The restoration disappeared.
+When that hour becomes a deliverable, something changes. The interest becomes a client. The hobby becomes a deadline. The joy becomes inventory. The restoration disappears.
 
 ## Reframe
 
-Some activities are not meant to become income.
+Some activities are not meant to become income. They are meant to make income survivable.
 
-They are meant to make income survivable.
-
-The restoration is the point.
-
-Not the product.
+The restoration is the point. Not the product.
 
 > Value does not require a market.
 
@@ -125,67 +63,23 @@ Not the product.
 
 > Beauty does not require a price tag.
 
-The thing that gives you back to yourself is doing its job when it stays yours.
+This does not mean you can never sell anything. It does not mean money makes joy dirty. It means the market does not get first claim on the few things that still regulate you.
 
-This does not mean you can never sell anything.
-
-This does not mean money makes joy dirty.
-
-It means the market does not get first claim on the few things that still regulate you.
-
-Habitat repair sometimes means protecting one unmonetized corner of your life.
-
-A place where nothing has to convert.
-
-A place where the body can say:
-
-> This is mine.
-
-> This gives back.
-
-> This is not for sale today.
+Habitat repair sometimes means protecting one unmonetized corner of your life. A place where nothing has to convert. A place where the body can say: this is mine, this gives back, this is not for sale today.
 
 ## Move
 
-Name one thing that belongs only to you.
-
-Or one thing that used to.
-
-Ask:
+Name one thing that belongs only to you, or one thing that used to. Ask:
 
 > Does this restore me, or does it now cost me?
 
-If it still restores you, protect it from one monetization pressure this week.
+If it still restores you, protect it from one monetization pressure this week. Do not post it, price it, schedule it, or explain its usefulness. Let it be useless in the most holy way.
 
-Do not post it.
-
-Do not price it.
-
-Do not turn it into a schedule.
-
-Do not explain its usefulness.
-
-Let it be useless in the most holy way.
-
-If it has already been converted, name what it felt like before.
-
-Before the audience, order or customer.
-
-Before the need to be good at it for someone else.
-
-Then give it one hour with no product.
-
-No audience.
-
-No deliverable.
-
-Just the thing itself.
+If it has already been converted, name what it felt like before the audience, order, customer, or need to be good at it for someone else. Then give it one hour with no product, no audience, no deliverable. Just the thing itself.
 
 ## Mercy
 
-You are allowed to have something the market cannot buy.
-
-Not everything that has value needs to be sold.
+You are allowed to have something the market cannot buy. Not everything that has value needs to be sold.
 
 ---
 
