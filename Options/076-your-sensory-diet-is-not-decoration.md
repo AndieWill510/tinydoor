@@ -21,7 +21,7 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-A sensory diet can sound like a luxury: soft fabric, less glare, quieter sound, predictable routines, time alone, ear protection, a familiar restaurant, a walk where the body can stop bracing.
+A sensory diet can sound like a luxury: soft fabric, less glare, quieter sound, time alone or ear protection.
 
 That is not decoration. That is regulation.
 
@@ -29,9 +29,9 @@ That is not decoration. That is regulation.
 
 People may treat sensory needs as preferences: picky, fussy, dramatic, too sensitive, hard to please.
 
-But a body living inside the wrong sensory conditions is doing extra work all day. Every scratchy tag, fluorescent light, chewing sound, unexpected touch, crowded aisle, or smell that goes straight to memory and emotion costs something.
+But a body living inside the wrong sensory conditions is doing extra work all day. Every scratchy tag, fluorescent light or a smell that goes straight to memory all cost something.
 
-Each one may be small to someone else. Together, they can become a room the nervous system cannot afford.
+Each sensory load may be small to someone else. Together, they can become a room the nervous system cannot afford.
 
 ## Reframe
 
@@ -47,11 +47,11 @@ Pick one sense that has been expensive lately: sight, sound, touch, smell, taste
 
 > What is one adjustment that would make this sense cheaper today?
 
-One adjustment is enough. Dim. Mute. Soften. Step back. Change clothes. Close the door. Sit where nobody can brush past you from behind. Small counts.
+One adjustment is enough. Dim. Mute. Soften. Step back. Change clothes. Close the door. Sit where nobody can brush past you from behind. Small things count. 
 
 ## Mercy
 
-You do not have to earn sensory comfort by becoming more overwhelmed first. Your body is allowed to need conditions. Conditions are not weakness. They are how living things stay alive.
+You do not have to earn sensory comfort by becoming more overwhelmed first. Your body is allowed to need conditions, and they are not weakness. Comditions are how living things stay alive.
 
 ---
 
