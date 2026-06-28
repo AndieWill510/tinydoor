@@ -61,7 +61,7 @@ Start there. Read one page, attend one group, save one resource, send one messag
 
 ## Mercy
 
-You were never supposed to be the only map. Someone else has seen some part of this terrain. Let their knowing become a door knob.
+You were never supposed to be the only map. Someone else has seen some part of this terrain. Let their knowing become a door handle.
 
 ---
 
