@@ -27,9 +27,9 @@ But a body in Autistic burnout does not need a speech about fireproofing. It nee
 
 ## Pressure
 
-Autistic burnout can be treated as a personal stamina problem: not enough discipline, attitude, productivity tools, or positive thinking. So the person tries harder inside the same conditions that are burning them down.
+Autistic burnout can be treated as a personal stamina problem: not enough discipline, attitude, productivity tools, or positive thinking. So the person tries harder inside the same conditions that are burning them out.
 
-More masking. More compensation. More apology. More recovery stolen from sleep. More pretending the body has not already sent the warning.
+More masking. More apology. More recovery stolen from sleep. More pretending the body has not already sent the warning.
 
 That is not recovery. That is radiation exposure with better manners.
 
@@ -47,7 +47,7 @@ Pick one fire you can reduce by one notch: a meeting, a social obligation, a sen
 
 > What would make this one notch less burning?
 
-Maybe shorter, quieter, written, later, with food first, with permission to leave, or with no explanation until after recovery. Choose one reduction.
+Maybe shorter, quieter, with food first, with permission to leave, or with no explanation until after recovery. Choose one reduction.
 
 ## Mercy
 
