@@ -35,7 +35,7 @@ I needed a pillow fort on the other side of a tiny door.
 
 I needed a haven of community and sanctuary.
 
-So I built one.
+So I built it.
 
 And I hope it helps you build yours.
 
