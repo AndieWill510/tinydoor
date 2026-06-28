@@ -39,7 +39,7 @@ So people learned to brace through the light, the noise, the scratchy collar, th
 
 Years can disappear like that. Not dramatic years. Small drained years. The body spending everything it has just to remain present.
 
-Then the world points to the fort, the blanket, the lamp, the corner, the specific mug, and says: that is the problem.
+Then the world points to the pillow fort made adult; the weighted blanket, the lamp, the corner, the specific mug, and says: that is the problem.
 
 No. That was the body trying to survive the problem.
 
@@ -67,7 +67,7 @@ This is not recovery from the day. This is the day giving something back.
 
 ## Mercy
 
-The world told you wanting warmth was weakness. The world was wrong. Warmth is what life feels like from the inside. You were right to want it. You were right to build it. You are allowed to have it.
+The world told you wanting warmth and quiet was weakness. The world was wrong. Warmth and quiet is what life feels like from the inside. You were right to want it. You were right to build it. You are allowed to have it.
 
 ---
 
