@@ -29,7 +29,7 @@ A person can look distressed in an environment that keeps hurting them. They can
 
 Then someone points to the distress and says:
 
-> See? Something is wrong with them.
+> See? Something is wrong with you.
 
 But distress is not always proof of personal failure. Sometimes it is evidence of pressure.
 
