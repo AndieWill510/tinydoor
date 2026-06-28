@@ -17,7 +17,7 @@ SPDX-License-Identifier: Apache-2.0
 -->
 
 # Option 6.4
-# Good Help Has To Be Good
+# Good Help Has To Help
 
 ## A Way In
 
@@ -25,7 +25,7 @@ I am not writing this from far away. I have been in hospitals. I have carried se
 
 Some doctors have used one name. Some have wondered whether another name was more true. Some have asked whether the wound was not only illness, but trauma so severe that it changed how reality arrived.
 
-The label matters. And sometimes, in the first moment, it also does not. What matters first is this: you have options, and good help has to be good.
+The label matters. And sometimes, in the first moment, it also does not. What matters first is this: you have options, and good help has to help.
 
 ## Pressure
 
@@ -37,7 +37,7 @@ That fear is understandable. But it cannot be the last door.
 
 ## Reframe
 
-The answer to bad help is not always no help forever. No help can become dangerous. Bad help can also be dangerous.
+The answer to bad help is not always zero help forever. Zero help can become dangerous. Bad help can also be dangerous.
 
 The tiny door is the third thing:
 
