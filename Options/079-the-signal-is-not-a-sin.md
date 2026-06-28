@@ -21,15 +21,15 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-A signal is not a sin. Meltdown is not manipulation. Shutdown is not laziness. Sleep deprivation is not moral failure. Burnout is not weakness.
+A signal is not a sin. Meltdown is not manipulation. Shutdown is not laziness. Burnout is not weakness.
 
-They are signals: pain signals, need signals, load signals, signs that something has already become too much.
+They are signals: pain signals, need signals and signs that something has already become too much.
 
 ## Pressure
 
-The room may want the signal to be convenient: quiet distress, clear distress, polite distress, distress with perfect words and no disruption.
+The room may want the signal to be convenient: quiet, polite and with perfect words and no disruption.
 
-But bodies do not always warn in language the room prefers. Sometimes the signal is crying. Sometimes it is silence. Sometimes it is leaving. Sometimes it is no speech, fog, clumsiness, irritation, exhaustion, or the body refusing the next demand.
+But bodies do not always warn in language the room prefers. Sometimes the signal is crying. Sometimes it is silence. Sometimes it is leaving. Sometimes it is no speech, brain ofog, exhaustion, or the body refusing the next demand.
 
 When the room punishes the signal, the person learns to hide it. Then the unmet need gets louder.
 
