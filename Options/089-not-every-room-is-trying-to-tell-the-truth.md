@@ -23,7 +23,7 @@ SPDX-License-Identifier: Apache-2.0
 
 Not every room is trying to tell the truth. Some rooms are trying to protect comfort, hierarchy, speed, the person with the title, or the story the group already agreed to believe.
 
-Some rooms are not courts. They are theaters of power.
+Some rooms, perhaps most rooms, are not courts. They are theaters of power.
 
 If you keep presenting evidence to a room that is not holding a hearing, your body may think the missing argument is the problem. But the problem may be the room.
 
@@ -51,7 +51,7 @@ Classify the room quietly, not as punishment but as information. Ask:
 
 > Is this room trying to understand, decide, perform, protect itself, or end the discomfort?
 
-Pick one. If the room can understand, explain once. If the room must decide, give the cleanest evidence. If the room is performing, do not feed the performance. If the room is protecting itself, document and protect yourself. If the room only wants discomfort to end, make your next move outside that room.
+Pick one. If the room can understand, explain once. If the room must decide, give the cleanest evidence. If the room is performing, do not feed the performance. If the room is protecting itself, document and protect yourself. If the room only wants awkwardness to end, make your next move outside that room.
 
 ## Mercy
 
