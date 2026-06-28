@@ -48,13 +48,13 @@ For my new Cheers bar, North Light — Noah, Paul, Lukas, and Justin — you are
 
 Finally although you may never truly feel it, G I love all there is to love about you, may you find the life and liberation and sanctuary you have helped me to give myself. This doesn't happen, none of it, without you. And C, bless you. You are light and you light the way for me, this book and so much more.
 
-Dad and Mom E, you were my true childhood parents even though in many ways I was and will always be an abducted child. (may we all find our way home)
+Dad and Mom E, you were my true childhood parents even though in many ways I was and will always be an abducted indigenous girl (and may we all find our way home).
 
-I have listed a lot.
+I have listed a lot of people. 
 
 A lot more helped along the way.
 
-For those I may have forgotten, know that I hold you dear, but perhaps at a distance I may not have chosen.
+For those I omitted, know that I hold you dear, but perhaps at a distance I may not have chosen.
 
 For now.
 
