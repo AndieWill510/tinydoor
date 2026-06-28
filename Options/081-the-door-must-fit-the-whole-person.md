@@ -27,7 +27,7 @@ Your body, age, gender, sexuality, race, culture, disability, pain, spirituality
 
 ## Pressure
 
-Systems like simple categories: one diagnosis, one accommodation, one identity, one explanation, one resource list, one neat box with one neat label.
+Systems like simple categories: one diagnosis, one accommodation, one identity, one explanation. One neat box with one neat label.
 
 But a life does not become safer because the paperwork got simpler. An Autistic woman may face masking, misogyny, missed diagnosis, and danger all at once. An Autistic queer person may need community that understands both neurotype and identity. An Autistic BIPOC person may need support that understands racism, ableism, and the cost of being unseen. An AuDHD person may need flexible structure, movement, sleep, and kindness for uneven capacity.
 
