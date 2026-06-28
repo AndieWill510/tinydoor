@@ -21,27 +21,37 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-In a house with a measuring stick, everyone learns where to stand. The children learn which version of themselves receives warmth. The parent learns which version of the children keeps the room from turning cold.
+After the measuring stick, after the witness, comes the terrible temptation to make sure nothing like that can ever happen again.
 
-That is the room repair has to answer. If a house teaches contingent value, repair cannot be another system of control. It cannot say:
+I understand that temptation in my bones.
 
-> Now everyone must perform safety correctly.
+I wanted a world where my children did not have to earn warmth by resembling the approved person. I wanted a world where I did not have to earn worth by producing children who satisfied the room. I wanted the old house answered. I wanted the fire named. I wanted the wall broken open.
 
-It cannot build a new measuring stick and call it liberation. The answer to a cage is not a prettier cage. The answer is an exit: a way to remain valuable without performing someone else's idea of worth.
+But repair can become another cage if I am not careful. A cage with better words. A cage built out of safety language. A cage that says:
+
+> Now everyone must perform healing correctly.
+
+That is not liberation. That is the old measuring stick in a softer voice.
 
 ## Pressure
 
-Harm can make control feel righteous. After the fire, it is tempting to build walls so high that nothing can move. No one allowed close enough to hurt anyone again.
+Harm can make control feel righteous. After the fire, walls can feel like wisdom. No one gets close enough to hurt anyone again. No ambiguity. No softness. No mistakes. No one allowed to move unless the movement has already been approved.
 
-That makes sense. It is also how protection can quietly become another trap. The goal is not to reproduce control in the name of repair. The goal is fewer trapped people.
+I know why the body wants that. A burned body wants guarantees.
 
-Children should not have to earn value through productivity. Parents should not have to earn value by producing children who satisfy the room.
+But I did not leave one conditional world to build another. I did not survive a house where value could disappear from the room just to make a new room where love depends on perfect safety performance.
+
+The goal is not to reproduce control in the name of repair. The goal is fewer trapped people.
 
 ## Reframe
 
-Repair needs architecture. Not just outrage. Not just testimony. Consent. Challenge. Ways to stop harm before it becomes normal.
+What I needed was not a prettier cage. I needed exits.
 
-These are not cold words. They are lanterns. The work is not to become fire. The work is to make the world legible before the next person is burned.
+An exit is not abandonment. An exit is a way to remain valuable without performing someone else's idea of worth. A way to stop harm before it becomes normal. A way to tell the truth without becoming the fire. A way for children, parents, witnesses, and future selves to get out of a room before the room teaches them they are only as lovable as their performance.
+
+Repair needs architecture. Not just outrage. Not just testimony. Consent. Challenge. Ways to pause, refuse, leave, return, ask, repair, and be believed before everything burns.
+
+These are not cold words. They are lanterns.
 
 ## Move
 
@@ -49,11 +59,13 @@ Think of one place where value became conditional. Ask:
 
 > What exit should have existed here?
 
-One exit is enough: a person to tell, a way to stop, a place to go. Name the missing door.
+One exit is enough: a person to tell, a way to stop, a place to go, a rule that could be challenged, a door that did not require proving your worth first.
+
+Name the missing door.
 
 ## Mercy
 
-You do not have to become fire to prove the fire was real. Build exits.
+I do not have to become fire to prove the fire was real. I can build exits instead. So can you.
 
 ---
 
