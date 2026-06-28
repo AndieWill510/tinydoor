@@ -51,7 +51,7 @@ Then choose one tiny regulation: dim the light, drink water, eat something simpl
 
 ## Mercy
 
-You are not complicated as an accusation. You are interconnected. That means small care can travel farther than shame told you it could.
+You are not complex as an accusation. You are interconnected. That means small care can travel farther than shame told you it could.
 
 ---
 
