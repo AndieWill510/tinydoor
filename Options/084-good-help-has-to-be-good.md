@@ -17,161 +17,49 @@ SPDX-License-Identifier: Apache-2.0
 -->
 
 # Option 6.4
-# Good Help Has to Help
+# Good Help Has To Be Good
 
 ## A Way In
 
-I am not writing this from far away.
+I am not writing this from far away. I have been in hospitals. I have carried serious names for what happened in my mind and body.
 
-I have been in hospitals.
+Some doctors have used one name. Some have wondered whether another name was more true. Some have asked whether the wound was not only illness, but trauma so severe that it changed how reality arrived.
 
-I have carried serious names for what happened in my mind and body.
-
-Some doctors have used one name.
-
-Some have wondered whether another name was more true.
-
-Some have asked whether the wound was not only illness, but trauma so severe that it changed how reality arrived.
-
-The label matters.
-
-And sometimes, in the first moment, it also does not.
-
-What matters first is this:
-
-You have options.
-
-And good help has to help.
+The label matters. And sometimes, in the first moment, it also does not. What matters first is this: you have options, and good help has to be good.
 
 ## Pressure
 
-When you have been through enough, people may talk about you as if you are no longer in the room.
+When you have been through enough, people may talk about you as if you are no longer in the room. A diagnosis, hospital stay, crisis, or chart can become the whole story.
 
-A diagnosis can become the whole story.
+Then help can start to feel like another room where you disappear. Bad help can shame you, rush you, disbelieve what happened, treat obedience as the only evidence that you are trying, and make you afraid to seek help again.
 
-A hospital stay can become the whole story.
-
-A crisis can become the whole story.
-
-A chart can become the whole story.
-
-Then help can start to feel like another room where you disappear.
-
-Bad help can shame you.
-
-Bad help can rush you.
-
-Bad help can disbelieve what happened to you.
-
-Bad help can treat obedience as the only evidence that you are trying.
-
-Bad help can make you afraid to seek help again.
-
-That fear is understandable.
-
-But it cannot be the last door.
+That fear is understandable. But it cannot be the last door.
 
 ## Reframe
 
-The answer to bad help is not always no help forever.
-
-No help can become dangerous.
-
-Bad help can also be dangerous.
+The answer to bad help is not always no help forever. No help can become dangerous. Bad help can also be dangerous.
 
 The tiny door is the third thing:
 
 > Keep looking for help that helps.
 
-Help that listens.
+Help that listens. Help that explains. Help that respects your body. Help that understands ADHD, Autism, trauma, identity, fear, grief, and dignity may all be in the same room. Help that takes serious symptoms seriously without turning you into only symptoms.
 
-Help that explains.
-
-Help that respects your body.
-
-Help that understands ADHD, Autism, trauma, identity, fear, grief, and dignity may all be in the same room.
-
-Help that takes serious symptoms seriously without turning you into only symptoms.
-
-Good help does not make you smaller.
-
-Good help gives you more room to live.
+Good help does not make you smaller. Good help gives you more room to live.
 
 ## Move
 
-Think of one kind of support in your life right now.
-
-> A doctor
-
-> A therapist
-
-> A group
-
-> A coach
-
-> A friend
-
-> A clinic
-
-> A plan
-
-Ask:
+Think of one kind of support in your life right now: a doctor, therapist, group, coach, friend, clinic, or plan. Ask:
 
 > What would better help need to understand?
 
-Write down one answer.
-
-> ADHD
-
-> Autism
-
-> Trauma
-
-> Sleep
-
-> Fear
-
-> Pain
-
-> Family harm
-
-> Gender/Gender expression
-
-> Sexuality
-
-> Race
-
-> Communication needs
-
-Then look for one step toward better-fitting help.
-
-> A second opinion
-
-> A referral
-
-> A written note before the appointment
-
-> A trusted person in the room
-
-> A provider who does not rush you
-
-> A plan for what to do if safety becomes urgent.
+Write down one answer. Maybe Autism, trauma, sleep, pain, family harm, gender, race, communication needs, or fear. Then look for one step toward better-fitting help: a second opinion, a referral, a written note before the appointment, a trusted person in the room, or a provider who does not rush you.
 
 Small steps count.
 
 ## Mercy
 
-Your story is not disqualified by the hardest chapter in it.
-
-You are allowed to need serious help.
-
-You are allowed to reject help that harms.
-
-You are allowed to keep looking for help that can hold more of the truth.
-
-You are not only a diagnosis.
-
-You are a person who has survived so much and still deserves care that is worthy of you.
+Your story is not disqualified by the hardest chapter in it. You are allowed to need serious help, reject help that harms, and keep looking for care that can hold more of the truth. You are not only a diagnosis. You are a person who has survived so much and still deserves care worthy of you.
 
 ---
 
