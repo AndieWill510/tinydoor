@@ -18,7 +18,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # TinyDoor Culture Index
 
-This file is the culture entry point for *Tiny Doors and Pillow Forts*. Read it after the root [`README.md`](../README.md), especially before drafting, editing, reorganizing, reviewing, or extending reader-facing material. The root README still carries the project spine — sacred menace, properly formatted; evidence before claim; mercy before cleverness; no false certainty; no reader-blaming; no poetic force carrying unsupported claims — but this file tells us how that spine should move when it becomes prose.
+This file is the culture entry point for *Tiny Doors and Pillow Forts*. Read it after the root [`README.md`](../README.md), especially before drafting, editing, reorganizing, reviewing, or extending reader-facing material. The root README is now the public front door; the project spine lives in [`editorial-commitments.md`](editorial-commitments.md): sacred menace, properly formatted; evidence before claim; mercy before cleverness; no false certainty; no reader-blaming; no poetic force carrying unsupported claims.
 
 The book should not open a door by explaining the architecture of doors. It should begin the way a body remembers: in the cold, in the room, under the fluorescent light, beside the table where the wrong thing was said, in the car after the appointment, in the bathroom where the person finally gets five minutes alone, in the silence after trying very hard and still being told the failure lives inside them. The reader should feel something before the book asks them to agree with anything. That does not mean every chapter needs a long memoir scene, or that every private wound belongs on the page. It means the first movement of the work is recognition, not instruction.
 
@@ -34,10 +34,11 @@ This folder carries durable culture notes that should be treated as active conte
 
 ## How to use this index
 
-For TinyDoor work, read the root [`README.md`](../README.md), then this file, then any active culture notes linked below that touch the work at hand. Do not rely on repo search alone, and do not assume every culture file has been read unless it is linked here and named in the session handoff or response. If a culture note changes how the book should sound, protect, refuse, witness, or repair, link it here; if an idea is not ready to guide future sessions, keep it in drafts, notes, or an evidence store instead of adding it to this index.
+For TinyDoor work, read the root [`README.md`](../README.md), then this file, then [`editorial-commitments.md`](editorial-commitments.md), then any active culture notes linked below that touch the work at hand. Do not rely on repo search alone, and do not assume every culture file has been read unless it is linked here and named in the session handoff or response. If a culture note changes how the book should sound, protect, refuse, witness, or repair, link it here; if an idea is not ready to guide future sessions, keep it in drafts, notes, or an evidence store instead of adding it to this index.
 
 ## Active culture notes
 
+- [`editorial-commitments.md`](editorial-commitments.md) — carries the project spine: reader promise, bathroom chapter rule, tone, safety commitments, structural discipline, and scientific/memoir boundaries.
 - [`illness-as-boundary.md`](illness-as-boundary.md) — witnesses illness as a real bodily boundary signal when ordinary refusal has been made too costly, while guarding against medical overclaiming, reader-blaming, or treating symptoms as fake.
 
 ## Orientation instruction
