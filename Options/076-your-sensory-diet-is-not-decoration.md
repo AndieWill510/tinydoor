@@ -35,7 +35,7 @@ Each sensory load may be small to someone else. Together, they can become a room
 
 ## Reframe
 
-A sensory diet is not a list of indulgences. It is a way of feeding the nervous system what helps it stay in the world.
+A sensory diet is not a list of indulgences. It is a way of feeding the nervous system and, by so doing, helps it stay in the world.
 
 Less clutter is not laziness. Ear protection is not rudeness. Soft clothing is not vanity. A quiet corner is not antisocial. A routine is not rigidity. A break is not failure.
 
