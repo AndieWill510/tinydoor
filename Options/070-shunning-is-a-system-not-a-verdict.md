@@ -45,7 +45,7 @@ Shunning can be socially rewarded even when nobody says that out loud. The perso
 
 That is how a cycle protects itself. Naming the cycle does not mean every person in the room intended harm. It means the pattern has force.
 
-And once the pattern has force, your loneliness is not automatic evidence against your worth. It may be evidence that the room has been organized around avoiding discomfort.
+And once the pattern has force, your loneliness is not automatic evidence against you as a person. It may be evidence that the room has been organized around avoiding discomfort.
 
 ## Move
 
@@ -59,11 +59,13 @@ Then ask:
 
 > Who, if anyone, made the pattern less powerful?
 
-One person counts. One witness counts. One refusal to join the shunning counts.
+One person counts. One refusal to join the shunning counts.
 
 ## Mercy
 
-Isolation can lie. It can make a social pattern feel like a personal truth. You are not the verdict of a room that refused to make space.
+Isolation can lie. It can make a social pattern feel like a personal truth. 
+
+You are not the verdict of a room that refused to make space.
 
 ---
 
