@@ -27,15 +27,15 @@ A word can be a handle. Not the whole door. A handle: something the hand can fin
 
 ## Pressure
 
-When a harm has no useful name, people can make it disappear. They call it personality conflict, behavior, poor fit, sensitivity, concern, helping.
+When a harm has no useful name, people can make it disappear. They call it personality conflict, defiance, behavior issues or hypersensitivity.
 
-Then we are left arguing with ourselves about each separate incident while the pattern stays unnamed. One meeting. One correction. One exclusion. One more bit of gaslighting. One social punishment for being too visibly real.
+Then we are left arguing with ourselves about each separate incident while the pattern stays unnamed. 
 
-Without a handle, every harm becomes a separate trial.
+Without a handle, every harm becomes a separate trial and we are guilty until proven innocent.
 
 ## Reframe
 
-A proposed word does not have to be perfect to reveal a pattern. It does not have to replace every other word. It does not have to explain every form of ableism, stigma, medicalization, family grief, or institutional harm.
+A proposed word does not have to be perfect to reveal a pattern. It does not have to replace every other word. It does not have to explain every form of ableism, stigma, family grief or institutional harm.
 
 It can simply say:
 
@@ -51,11 +51,11 @@ Pick one situation that keeps getting explained away. Ask:
 
 > What pattern needs a name here?
 
-One pattern is enough: disbelief, cure pressure, social punishment, grief that never reaches acceptance, or a room that treats your need as an emergency. Name the pattern, not to make the room obey, but to help yourself stop carrying the whole thing unnamed.
+One pattern is enough: disbelief, social pressure, grief that never reaches acceptance, or a room that treats your need as an emergency. Name the pattern, not to make the room obey, but to help yourself stop carrying the whole thing unnamed.
 
 ## Mercy
 
-You are not required to lose the pattern just because the room refuses the word. A name can be a first handhold. A handhold can become a door.
+You are not required to lose the pattern just because the room refuses the word. A name, like ableism, can be a first handhold. A handhold can become a door.
 
 ---
 
