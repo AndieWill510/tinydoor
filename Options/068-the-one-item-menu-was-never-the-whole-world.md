@@ -17,13 +17,13 @@ SPDX-License-Identifier: Apache-2.0
 -->
 
 # Option 5.6
-# The One-Item Menu Was Never the Whole World
+# The Trauma Response Was Never the Whole Set of Options
 
 ## A Way In
 
-When the body has been trained by pressure, it may offer the same old menu: mask, please, disappear, perform, freeze.
+When the body has been trained by trauma, it may offer the same old menu: fight, flight, freeze, fawn (people pleasing/masking falls in here). 
 
-But the menu you were given was never the whole set of options. It was only the list you were once allowed to use.
+But the menu you were given was never the whole set of options. It was only the list of protective strategies that nature gave you.
 
 ## Pressure
 
@@ -55,7 +55,7 @@ Fill in the blank gently. Then add one menu item:
 
 > Next time, I might also ____.
 
-Make it tiny: step out sooner, use the script, ask for writing, eat first, cancel before collapse, tell one safe person the room is getting expensive. One added option is still a door.
+Make it tiny: step out sooner, use a script, ask for it in writing, eat first, cancel before collapse, tell one safe person the room is getting expensive. One added option is still a door.
 
 ## Mercy
 
