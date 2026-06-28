@@ -21,9 +21,9 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-Sometimes relief becomes dangerous. Not because the person is weak, bad, or lacking character. Because pain kept asking for an answer. Because stress stayed too long. Because wounds were untreated. Because needs went unmet for so long that anything that softened the room started to look like a door.
+Some types of pain and stress relief, substances, become dangerous. Not because the person is weak, bad, or lacking character. Because pain kept asking for an answer. Because stress stayed too long. Because wounds were untreated. Because needs went unmet for so long that anything that softened the room started to look like a door.
 
-When relief becomes dangerous, shame will not save you. Help might.
+When this relief through substances becomes dangerous, shame will not save you. Help might.
 
 ## Pressure
 
