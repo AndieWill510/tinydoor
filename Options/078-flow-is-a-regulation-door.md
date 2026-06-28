@@ -21,23 +21,23 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-Flow is not an escape from reality. It can be the way the body finds a horizon: one point, one pattern, one sound, one task, one beloved rabbit hole where the rest of the world finally lowers its volume.
+Flow is not an escape from reality. It can be the way the body finds a horizon: one pattern, one song, one task, one beloved rabbit hole where the rest of the world finally lowers its volume.
 
 Flow is a regulation door.
 
 ## Pressure
 
-People may treat our focus as a problem: too intense, too narrow, too hard to interrupt, too absorbed, too unavailable for the room’s preferred rhythm.
+People may treat our focus as a problem: too intense, too hard to interrupt, too self-absorbed, too unavailable for the room’s preferred rhythm.
 
-But a dysregulated body may be reaching for focus because focus helps it come back into balance. When the world is too bright, too loud, too fast, too much, the body may find one fixed point and hold on.
+But a dysregulated body may be reaching for focus because focus helps it come back into balance. When the world is too bright, too loud, too much, the body may find one fixed point and hold on.
 
 That holding-on is not laziness. It is not rudeness. It is not proof that nothing else matters. It may be the nervous system trying to stop spinning.
 
 ## Reframe
 
-Flow can protect. Flow can restore. Flow can give the body fewer inputs to manage. And flow can still need boundaries.
+Flow can protect, restore and give the body fewer inputs to manage. And flow can still need boundaries.
 
-Too long without water, food, the bathroom, the stove, the alarm, the body, or the people who safely love you is not regulation. A good door opens and closes.
+Too long without water, food, the bathroom or the people who safely love you is not regulation. A good door opens and closes.
 
 Flow is not the whole house. It is a room where the body can reset.
 
@@ -45,7 +45,7 @@ Flow is not the whole house. It is a room where the body can reset.
 
 Pick one flow that helps you regulate: reading, coding, music, research, drawing, beading, organizing, or watching one fixed thing until the body comes back.
 
-Then add one kindness around it: water nearby, food before starting, a timer that does not shame you, a note that says bathroom / light / sound / body, or a person who knows not to yank you out of it.
+Then add one kindness around it: water nearby, food before starting, a timer that says bathroom / light / sound / body, or a person who knows not to yank you out of it.
 
 Let flow help you without asking it to do everything.
 
