@@ -43,7 +43,7 @@ The hostile room is the problem. The side hustle does not fix the hostile room.
 
 It may help some people. It may be the right choice for some seasons. It may create real freedom in the right blend. But it is not structural repair by itself. It can hand one person a portable version of the same problem: more admin, more selling, more isolation, more risk, more days where capacity drops and nothing catches you.
 
-Autistic and ADHD people are not owed only clever workarounds. They are owed rooms that do not make their bodies pay: schedules that do not assume endless switching, communication that does not punish processing time, sensory environments that do not burn the day down before the work begins, support that does not vanish when capacity falls.
+We do not need only clever workarounds. We need rooms that do not make our bodies pay: schedules that do not assume endless switching, communication that does not punish processing time, sensory environments that do not burn the day down before the work begins, support that does not vanish when capacity falls.
 
 The room has to change too.
 
