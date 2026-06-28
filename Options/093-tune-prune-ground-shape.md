@@ -39,7 +39,7 @@ Think of four verbs: tune, prune, ground, shape.
 
 Tuning asks:
 
-> What needs less noise, more signal, or a different sensory input?
+> What environments have less noise or give more support?
 
 Pruning asks:
 
