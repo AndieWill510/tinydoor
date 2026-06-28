@@ -21,7 +21,7 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-Some rooms take spoons and give nothing back. They make you explain the obvious, defend the need, prove the harm, translate pain into acceptable language, and apologize for needing less noise, less pressure, less performance, less pretending.
+Some rooms take spoons and give nothing back. They make you explain the obvious, defend your needs, prove harm, and then apologize for needing less noise, pressure and pretending.
 
 Then they call you difficult for being tired.
 
@@ -29,9 +29,7 @@ Spend your spoons where you are believed.
 
 ## Pressure
 
-It is easy to keep investing in the room that withholds care. Maybe this time they will understand. Maybe this time the group will include you. Maybe this time the family will notice. Maybe this time the workplace will stop treating access as attitude. Maybe this time the argument will finally work.
-
-But some rooms are black holes for energy. They take attention, explanation, self-doubt, and recovery time. Then they ask for more.
+It is easy to keep investing in the room that withholds care. But some rooms are black holes for energy. They take attention, explanation, self-doubt and recovery time. Then they ask for more.
 
 A life cannot become more regulated if every spare spoon is spent trying to be believed by people committed to not understanding.
 
@@ -49,7 +47,7 @@ Choose one room that drains you. Then choose one room, person, group, practice, 
 
 > What would happen if I moved one spoon from the draining room to the believing room?
 
-One spoon. One hour. One message. One meeting skipped. One hostile thread unanswered. One tiny transfer of energy toward the life that can hold you.
+One spoon. One meeting skipped. One hostile thread unanswered. One tiny transfer of energy toward the life that can hold you.
 
 ## Mercy
 
