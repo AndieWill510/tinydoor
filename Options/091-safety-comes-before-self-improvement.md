@@ -21,133 +21,43 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-Safety comes before 
+Safety comes before self-improvement, a better attitude, the perfect plan, the morning routine, and the inspirational quote. Before the world gets to ask why you are not more resilient.
 
-> self-improvement
-
-> a better attitude
-
-> the perfect plan
-
-> the morning routine
-
-> the inspirational quote
-
-Before the world gets to ask why you are not more resilient.
-
-If you are cold, hungry, exposed, unsafe, isolated, or one bad phone battery away from being unreachable, the first option is not becoming a better person.
-
-The first option is reducing danger.
-
-A meal.
-
-A shower.
-
-A charged phone.
-
-A person who can sit beside you without making you smaller.
-
-A place where your body can stop scanning every sound as a threat.
+If you are cold, hungry, exposed, unsafe, isolated, or one bad phone battery away from being unreachable, the first option is not becoming a better person. The first option is reducing danger: a meal, a shower, a charged phone, a person who can sit beside you without making you smaller, a place where your body can stop scanning every sound as a threat.
 
 ## Pressure
 
-People love to spiritualize survival from a warm room.
+People love to spiritualize survival from a warm room. Be grateful. Be strong. Make better choices. Take responsibility.
 
-They say:
+They may mean well. They may not. Either way, advice that skips safety is usually not help.
 
-> be grateful
+Toxic stress is not a bad mood. It is what happens when danger keeps arriving and the body cannot find an ending. If the nervous system has been living outside its safe range for too long, ordinary tasks can become impossible-looking: appointments, paperwork, phone calls, or trusting one more person with one more story.
 
-> be strong
-
-> make better choices
-
-> take responsibility
-
-They may mean well.
-
-They may not.
-
-Either way, advice that skips safety is usually not help.
-
-Toxic stress is not a bad mood.
-
-It is what happens when danger keeps arriving and the body cannot find an ending.
-
-If the nervous system has been living outside its safe range for too long, ordinary tasks can become impossible-looking: appointments, paperwork or phone calls.
-
-Or trusting one more person with one more story.
-
-That is not laziness.
-
-That is a body trying to stay alive while carrying too much weather.
+That is not laziness. That is a body trying to stay alive while carrying too much weather.
 
 ## Reframe
 
-You do not have to become worthy of help.
+You do not have to become worthy of help. You already are.
 
-You already are.
+You do not have to solve your whole life before accepting the next stabilizing thing. You do not have to explain every cause that led here before you are allowed to be safer tonight.
 
-You do not have to solve your whole life before accepting the next stabilizing thing.
+It may be substance-use harm, job loss, family rupture, disability, trauma, bureaucracy, or all of them braided together until nobody can tell where one knot ends and another begins.
 
-You do not have to explain every cause that led here before you are allowed to be safer tonight.
-
-It may be substance-use harm.
-
-It may be job loss.
-
-It may be family rupture.
-
-It may be disability.
-
-It may be trauma.
-
-It may be bureaucracy.
-
-It may be all of them braided together until nobody can tell where one knot ends and another begins.
-
-The point is not to win the courtroom of blame.
-
-The point is to lower exposure.
-
-The point is to get closer to a place where support can actually reach you.
+The point is not to win the courtroom of blame. The point is to lower exposure and get closer to a place where support can actually reach you.
 
 ## Move
 
-Pick the next stabilizing handle.
-
-Not the whole ladder.
-
-One handle.
-
-Ask:
+Pick the next stabilizing handle. Not the whole ladder. One handle. Ask:
 
 > What would reduce danger in the next hour?
 
-Maybe the answer is water.
+Maybe water, a bathroom, shade, a charged phone, a safe public place, another human being nearby, or imperfect help that is safer than staying exposed.
 
-Maybe a bathroom.
-
-Maybe shade.
-
-Maybe a charged phone.
-
-Maybe a safe public place.
-
-Maybe sitting near another human being who is not trying to use you.
-
-Maybe accepting help that is imperfect but safer than staying exposed.
-
-This is not the whole rescue.
-
-It is a smaller surface area for harm.
-
-That counts.
+This is not the whole rescue. It is a smaller surface area for harm. That counts.
 
 ## Mercy
 
-You do not owe the world proof that you are trying.
-
-You are allowed to need material safety before anyone asks you for transformation.
+You do not owe the world proof that you are trying. You are allowed to need material safety before anyone asks you for transformation.
 
 ---
 
