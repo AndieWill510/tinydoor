@@ -49,11 +49,11 @@ The stable file numbers are not always the same as the chapter/option numbers. C
 
 ## Current remaining sequence
 
-024. [Autism Is Not the Parasite](024-autism-is-not-the-parasite.md)
+024. [Neurodivergence Is Not the Problem](024-autism-is-not-the-parasite.md)
 025. [The Missing Ramp](025-the-missing-ramp.md)
 026. [Stimming Is Regulation](026-stimming-is-regulation.md)
 027. [You May Not Be at Peace](027-you-may-not-be-at-peace.md)
-028. [Cassandra Was Not Catastrophizing](028-cassandra-was-not-catastrophizing.md)
+028. [Cassandra Was Not Catastrophizing, Either](028-cassandra-was-not-catastrophizing.md)
 029. [Autistic Joy Is Not Decoration](029-autistic-joy-is-not-decoration.md)
 030. [You Can Always Stim](030-you-can-always-stim.md)
 031. [The Safe Channel](031-the-safe-channel.md)
@@ -141,6 +141,10 @@ The former reader-facing Options `001` through `009` were consolidated into [Cha
 - [007 — The Problem Is Not Our Behavior / historical source draft](../Archive/Chapter1ArgumentDrafts/007-the-problem-is-not-autistic-behavior.md)
 - [008 — The Number Is Not Destiny / historical source draft](../Archive/Chapter1ArgumentDrafts/008-the-number-is-not-destiny.md)
 - [009 — Community Is Survival Infrastructure / historical source draft](../Archive/Chapter1ArgumentDrafts/009-community-is-survival-infrastructure.md)
+
+## Holding notes
+
+Verification stubs and other non-reader-facing process records belong in [Holding/verification](../Holding/verification/), not inside `Options/`. The `Options/` directory should stay focused on reader-facing option files and this index.
 
 ## Cleanup notes
 
