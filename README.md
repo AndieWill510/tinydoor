@@ -21,75 +21,49 @@ SPDX-License-Identifier: Apache-2.0
 ## A Frontier Guide to Neurodivergent Survival
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/status-early--stage-orange)]()
+[![Status](https://img.shields.io/badge/status-epub--draft-purple)]()
 [![Form](https://img.shields.io/badge/form-book%20project-purple)]()
 [![Focus](https://img.shields.io/badge/focus-Autistic%20longevity-black)]()
 
-**A survival-oriented guide for Autistic/ADHDers ("us") and those who care about us.**
+**A survival-oriented guide for Autistic/ADHDers ("us") and the people who care about us.**
 
-**Why?**
+*Tiny Doors and Pillow Forts* is built for the moment when shame, burnout, sensory overload, grief, bad systems, or ordinary life admin make life feel impossible. Each short Option offers one small door: a concrete reframe, a tiny next move, and a mercy.
 
-**We deserve lives that are stayable, joyful, safer, and longer.**
+This is a book about building a life your nervous system can survive long enough to love.
+
+And then staying happier in a life you love.
 
 ---
 
-## TL;DR
+## Read the Book
 
-*Tiny Doors and Pillow Forts* is a survival guide for Neurodivergent life, suicide prevention, lifespan, joy, regulation, community, and the conditions that allow Autistic/ADHDers ("us") to live longer and freer lives.
+- [Download the EPUB](Options/Book/tiny_doors_and_pillow_forts.epub)
+- [Read the Markdown Options Index](Options/INDEX.md)
+- [Read the dedication](Options/000-dedication.md)
+
+The EPUB is the current compiled draft. The Markdown files remain the living manuscript.
+
+---
+
+## What the Book Offers
 
 Its hidden engine is self harm reduction.
 
 Its larger purpose is longevity.
 
-Its method is another option. Lots of them. 
+Its method is another option. Lots of them.
 
 Its mercy is a tiny door: a small survivable opening that does not pretend to solve the whole crisis, but gives the reader one safe next passage.
 
-> This is a book about building a life your nervous system can survive long enough to love...
-
-> ...and then you stay happier in a life you love!
-
----
-
-## 30–3 Summary
-
-### 30-second blurb
-
-*Tiny Doors and Pillow Forts* is a survival guide for Autistic/ADHD people ("us") and the people who love us. It is built for the moment when shame, burnout, sensory overload, grief, or bad systems make life feel impossible. Each very short chapter offers one small door: a concrete reframe, a tiny next move, and a mercy. The book refuses to blame the person for surviving hostile rooms. It asks what would make life stayable: safety, community, habitat, joy, and always another option.
-
-### 3-minute summary
-
-*Tiny Doors and Pillow Forts* is a guide for Autistic/ADHD people staying alive without being reduced to mere survival.
-
-Its hidden engine is suicide harm reduction, to which we make no guarantees/warranties whatsoever but rather postulate happier lives are more stayable, but it does not begin with crisis language. It begins with mercy. It begins with the reader who has been called difficult, lazy, too sensitive, dramatic, noncompliant, broken, or impossible when the real problem was often the room, the system, the demand, the noise, the shame, or the lack of support.
-
-The book is written for Autistic and ADHD people, also known as Neurodivergent people or as we'll say "us" (or "we"), and anyone in our modern times carrying too much executive-function load. It is also for the people who love them and need a better way to understand what helps; and what doesn't. The chapters or "Options" are short on purpose. They are meant to fit in one private pause: a bathroom, a parked car, a bed after shutdown, the edge of a party, the few minutes before a meeting, or the moment before despair starts sounding persuasive.
-
-The form is simple. Each option gives the reader one survivable thought, one practical move, and one mercy. Not a ten-step plan. Not a lecture. Not a demand to become easier for other people. A tiny door.
-
-Across the book, the reader is invited to stop treating Autism, ADHD, distress, sensory need, stimming, shutdown, masking, pleasure, support, and community as moral failures. The book challenges: cure narratives, shame disguised as care, compliance theater, hostile environments, and advice that assumes unlimited money, time, energy, executive function, transportation, or social support.
-
-The central claim is not that life is easy. It is that the vulnerable reader deserves more than blame. A body in distress needs safety before performance. A nervous system needs habitat, not just coping skills. A person needs community, not isolation. Joy is not decoration. Regulation is not misbehavior. Comfort is not a luxury. The room has to change too.
-
-By the end, the tiny door becomes more than an exit. It becomes a way into sanctuary: a pillow fort, a safer room, a chosen table, a familiar light, a community that does not require disappearance as the price of belonging.
-
-This is a book about building a life your nervous system can survive long enough to love.
-
-It says, again and again:
-
-You are not the problem.
-
-You are not out of options.
-
-The book closes:
-
-**_They don’t get to win_.**
+The book refuses to blame the person for surviving hostile rooms. It asks what would make life stayable: safety, community, habitat, joy, regulation, and always another option.
 
 ---
 
 ## Who This Is For
 
-Tiny Doors and Pillow Forts is for Neurodivergent people, and people carrying executive-function load who are too often treated as unreliable, noncompliant, difficult, lazy, or morally failing when the actual failure is system design.
+This book is for Autistic and ADHD people, also known as Neurodivergent people or, as this book often says, **us**.
+
+It is also for people carrying too much executive-function load who are too often treated as unreliable, noncompliant, difficult, lazy, or morally failing when the actual failure is system design.
 
 It is for people whose ordinary life admin has become dangerous, exhausting, humiliating, or impossible.
 
@@ -101,203 +75,35 @@ It is for people who do not need another lecture about trying harder.
 
 ---
 
-## Project Culture
+## How to Read It
 
-This book is **sacred menace, properly formatted**.
+The chapters are called **Options**. They are short on purpose.
 
-That phrase is not decoration.
+They are meant to fit in one private pause: a bathroom, a parked car, a bed after shutdown, the edge of a party, the few minutes before a meeting, or the moment before despair starts sounding persuasive.
 
-It means:
+Each Option usually gives the reader:
 
-- **sacred** because Autistic lives are sacred;
-- **menace** because systems that shorten those lives should feel pressure..._right now_;
-- **properly formatted** because survival knowledge must be readable, findable, usable, and beautiful enough to stay with.
-
-The book should feel like contraband kindness:
-
-> small enough to carry, sharp enough to cut a path, gentle enough to hold a reader who is barely holding on.
-
-And when the reader cannot hold a whole plan, the book offers something smaller:
-
-> Tiny door.  
-> Just a door.
-
-Culture orientation belongs in [`culture/README.md`](culture/README.md). Future sessions should read that index after this README and treat linked culture notes as active project context.
-
-The book does not use poetic force to carry a scientific, clinical, public-health, historical, or legal claim that has not yet been supported.
-
-Beautiful language can hold a reader.
-
-It cannot launder uncertainty.
-
-Claims require evidence.
-
-If the evidence is not there, the claim does not go in.
-
-The book should also resist tedium masquerading as thoroughness.
-
-No more than three examples should be used to make a point in reader-facing prose unless there is a deliberate, documented reason.
-
-Long lists belong in evidence stores, appendices, inventories, holding files, or review packets — not inside a Tiny Door _or Pillow Fort_ unless the list itself is the point.
-
----
-
-## What This Book Is For
-
-The book is not asking Autistic/ADHDers ("us") to survive harder.
-
-It is asking why we were made to survive so much — and what we can build instead.
-
-The book exists to:
-
-- reduce shame;
-- reduce isolation;
-- reduce sensory and social load;
-- increase options;
-- increase survival desire;
-- increase Autistic joy;
-- help readers build lives their nervous systems can survive long enough to love.
-
-This book is not merely about harm reduction.
-
-It is about making life more stayable.
-
----
-
-## The Bathroom Chapter Rule
-
-A chapter should be short enough to read in one private pause.
-
-Not because the book is small.
-
-Because the reader may be overwhelmed.
-
-Because the reader may be hiding in a bathroom, sitting in a parked car, lying in bed after shutdown, waiting outside a party, recovering from a meeting, or stealing five minutes before re-entering a world that asks too much.
-
-Working rule:
-
-> One private sitting. One survivable idea. One concrete next move.
-
-Ideal chapter shape:
-
-1. A Way In;
-2. the problem;
-3. the reframe;
+1. a way in;
+2. the pressure;
+3. a reframe;
 4. one practical move;
-5. closing sentence, mercy, or mantra.
+5. a mercy.
 
-A chapter should leave the reader with at least one of these:
+Not a ten-step plan. Not a lecture. Not a demand to become easier for other people.
 
-- one clearer thought;
-- one reduced shame burden;
-- one practical next step;
-- one reason to pause before despair;
-- one reminder that they have another option.
+A tiny door.
 
 ---
 
-## Reader Promise
-
-The reader should feel less alone early.
-
-A distressed reader should not have to wait eighty pages to find relief.
-
-The book should not perform expertise over the reader.
-
-The book should sit beside them and say:
-
-> This should never have been this hard.  
-> You are not broken.  
-> Here is one thing you can try.  
-> Here is another option.
-
----
-
-## Tone
-
-The tone is direct, intimate, protective, and alive.
-
-It may be funny.
-
-It may be profane.
-
-It may be tender.
-
-It may be furious.
-
-It should not be cruel.
-
-It should not be performatively academic.
-
-It should not confuse harsh truth with reader punishment.
-
-The book may speak with teeth, but never bite the reader who came for help.
-
----
-
-## Editorial Commitments
-
-The book should preserve these commitments:
-
-- Story before theory.
-- Safety before rhetoric.
-- Precision before urgency.
-- Evidence before claim.
-- Mercy before cleverness.
-- Brevity before throat-clearing.
-- Practicality before performance.
-- Joy is not decoration.
-- Regulation is not misbehavior.
-- Autism is not the parasite.
-- Shame is not evidence.
-- Environment is not destiny.
-- No false certainty.
-- No reader-blaming.
-- No clinical overclaiming.
-- No historical overclaiming.
-- No poetic force carrying unsupported claims.
-- No tedium masquerading as thoroughness.
-- No more than three examples to make a point.
-- No making the reader carry more than the chapter can help them hold.
-
----
-
-## What the Book Refuses
-
-The book refuses:
-
-- cure narratives that treat us as the problem;
-- shame disguised as treatment;
-- compliance sold as care;
-- rhetoric that blames us for surviving hostile environments;
-- advice that assumes unlimited money, time, energy, executive function, transportation, or social support;
-- chapters that become so long they abandon the reader mid-crisis;
-- academic authority without lived accountability;
-- inspirational language that does not give the reader a usable next step;
-- suicide-prevention language that creates fatalism, contagion, glamour, or shame;
-- unsupported claims, no matter how emotionally true they feel;
-- politeness that protects harmful systems more than vulnerable readers.
-
----
-
-## Safety Spine
+## Safety Note
 
 This book discusses self harm reduction, trauma, abuse, ABA, burnout, dysregulation, sensory overload, self-stigma, sexuality, and premature death.
 
-The safety spine is simple:
+It is not medical advice, legal advice, crisis care, or a substitute for qualified support. It makes no guarantee that any single Option will make a person safe.
+
+The safety promise of the writing is simpler and stricter:
 
 > Do not make the vulnerable reader less safe for the sake of a stronger sentence.
-
-That means:
-
-- avoid method detail;
-- avoid fatalistic framing;
-- avoid glamorizing despair;
-- avoid implying suicide is inevitable for us;
-- avoid telling readers that solutions are easy;
-- avoid language that turns inability into failure;
-- provide crisis direction where needed;
-- preserve hope without lying.
 
 Hope must be practical.
 
@@ -305,42 +111,26 @@ Hope must have handles.
 
 ---
 
-## Structural Spine
+## Project Status
 
-Large topics belong to sections.
+Current form: **EPUB draft + living Markdown manuscript**.
 
-Small chapters carry the reader through those sections.
+The reader-facing sequence lives in [`Options/INDEX.md`](Options/INDEX.md). The compiled EPUB lives at [`Options/Book/tiny_doors_and_pillow_forts.epub`](Options/Book/tiny_doors_and_pillow_forts.epub).
 
-A chapter is not a warehouse.
+The writing-room commitments live in [`culture/editorial-commitments.md`](culture/editorial-commitments.md). Future sessions should read [`culture/README.md`](culture/README.md) before drafting, editing, reorganizing, reviewing, or extending reader-facing material.
 
-A chapter is a regulated breath.
+The book should feel like contraband kindness:
 
-If a chapter contains multiple major ideas, it should probably be split.
-
-If a chapter cannot be read in one private pause, it should be challenged.
-
-If a chapter explains more than it helps, it should be repaired.
-
-If a chapter needs more than three examples to make a point, either the point is too broad or the examples belong somewhere else.
+> small enough to carry, sharp enough to cut a path, gentle enough to hold a reader who is barely holding on.
 
 ---
 
-## Scientific and Memoir Boundaries
+## License
 
-The book may braid memoir, research, public health, autism history, disability theory, and survival practice.
+Licensed under the Apache License, Version 2.0. See [`LICENSE`](LICENSE).
 
-But it must not collapse them into one undifferentiated voice.
-
-The reader should know when the book is saying:
-
-- this happened to me;
-- this is what I believe;
-- this is what research suggests;
-- this is what clinicians commonly say;
-- this is uncertain;
-- this needs more study;
-- this is a practical suggestion, not medical advice.
+---
 
 This book may be fierce...
 
-**..._because they don't get to win_.** 
+**..._because they don't get to win_.**
