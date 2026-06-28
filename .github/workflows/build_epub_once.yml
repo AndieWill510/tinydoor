@@ -1,0 +1,368 @@
+name: Build EPUB Once
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/build_epub_once.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  build-epub:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Build EPUB
+        shell: bash
+        run: |
+          cat > /tmp/build_epub.py <<'PY'
+          from pathlib import Path
+          import html
+          import re
+          import uuid
+          import zipfile
+          from datetime import datetime, timezone
+
+          ROOT = Path('.')
+          OPTIONS = ROOT / 'Options'
+          BOOK_DIR = OPTIONS / 'Book'
+          OUT = BOOK_DIR / 'tiny_doors_and_pillow_forts.epub'
+          TITLE = 'Tiny Doors and Pillow Forts'
+          CREATOR = 'Kevin "Andie" Williams'
+          LANGUAGE = 'en'
+
+          def read_text(path):
+              return path.read_text(encoding='utf-8')
+
+          def option_sequence():
+              paths = []
+              dedication = OPTIONS / '000-dedication.md'
+              if dedication.exists():
+                  paths.append(dedication)
+
+              index = read_text(OPTIONS / 'INDEX.md')
+              for line in index.splitlines():
+                  if line.startswith('## Archived Chapter 1 argument drafts'):
+                      break
+                  for target in re.findall(r'\]\(([^)]+?\.md)\)', line):
+                      if target.startswith('../'):
+                          continue
+                      path = OPTIONS / target
+                      if path.name == '000-dedication.md':
+                          continue
+                      if path.exists() and path not in paths:
+                          paths.append(path)
+              return paths
+
+          def strip_process_markdown(text):
+              text = re.sub(r'^\s*<!--.*?-->\s*', '', text, flags=re.S)
+              text = re.sub(r'\n---\s*\n\s*<!-- TINYDOOR_NAV_START -->.*?<!-- TINYDOOR_NAV_END -->\s*$', '', text, flags=re.S)
+              text = re.sub(r'<!-- TINYDOOR_NAV_START -->.*?<!-- TINYDOOR_NAV_END -->', '', text, flags=re.S)
+              return text.strip()
+
+          def inline_md(s):
+              s = html.escape(s, quote=False)
+              s = re.sub(r'`([^`]+)`', r'<code>\1</code>', s)
+              s = re.sub(r'\*\*([^*]+)\*\*', r'<strong>\1</strong>', s)
+              s = re.sub(r'__([^_]+)__', r'<strong>\1</strong>', s)
+              s = re.sub(r'(?<!\*)\*([^*]+)\*(?!\*)', r'<em>\1</em>', s)
+              s = re.sub(r'(?<!_)_([^_]+)_(?!_)', r'<em>\1</em>', s)
+              s = re.sub(r'\[([^\]]+)\]\(([^)]+)\)', r'<a href="\2">\1</a>', s)
+              return s
+
+          def convert_markdown(text):
+              lines = text.splitlines()
+              out = []
+              i = 0
+              while i < len(lines):
+                  line = lines[i].rstrip()
+                  if not line.strip():
+                      i += 1
+                      continue
+                  if line.strip() == '---':
+                      out.append('<hr/>')
+                      i += 1
+                      continue
+                  if line.startswith('```'):
+                      code = []
+                      i += 1
+                      while i < len(lines) and not lines[i].startswith('```'):
+                          code.append(lines[i])
+                          i += 1
+                      if i < len(lines):
+                          i += 1
+                      out.append('<pre><code>' + html.escape('\n'.join(code)) + '</code></pre>')
+                      continue
+                  m = re.match(r'^(#{1,6})\s+(.*)$', line)
+                  if m:
+                      level = min(len(m.group(1)), 3)
+                      out.append(f'<h{level}>{inline_md(m.group(2).strip())}</h{level}>')
+                      i += 1
+                      continue
+                  if line.startswith('>'):
+                      quote = []
+                      while i < len(lines) and lines[i].lstrip().startswith('>'):
+                          quote.append(lines[i].lstrip()[1:].strip())
+                          i += 1
+                      paragraphs = []
+                      current = []
+                      for q in quote:
+                          if q:
+                              current.append(q)
+                          elif current:
+                              paragraphs.append(' '.join(current))
+                              current = []
+                      if current:
+                          paragraphs.append(' '.join(current))
+                      if not paragraphs:
+                          paragraphs = ['']
+                      out.append('<blockquote>' + ''.join(f'<p>{inline_md(p)}</p>' for p in paragraphs) + '</blockquote>')
+                      continue
+                  if re.match(r'^\s*-\s+', line):
+                      items = []
+                      while i < len(lines) and re.match(r'^\s*-\s+', lines[i]):
+                          items.append(re.sub(r'^\s*-\s+', '', lines[i]).strip())
+                          i += 1
+                      out.append('<ul>' + ''.join(f'<li>{inline_md(item)}</li>' for item in items) + '</ul>')
+                      continue
+                  if re.match(r'^\s*\d+\.\s+', line):
+                      items = []
+                      while i < len(lines) and re.match(r'^\s*\d+\.\s+', lines[i]):
+                          items.append(re.sub(r'^\s*\d+\.\s+', '', lines[i]).strip())
+                          i += 1
+                      out.append('<ol>' + ''.join(f'<li>{inline_md(item)}</li>' for item in items) + '</ol>')
+                      continue
+
+                  para = [line.strip()]
+                  i += 1
+                  while i < len(lines):
+                      nxt = lines[i].rstrip()
+                      if not nxt.strip():
+                          i += 1
+                          break
+                      if re.match(r'^(#{1,6})\s+', nxt) or nxt.startswith('>') or re.match(r'^\s*-\s+', nxt) or re.match(r'^\s*\d+\.\s+', nxt) or nxt.startswith('```') or nxt.strip() == '---':
+                          break
+                      para.append(nxt.strip())
+                      i += 1
+                  out.append('<p>' + inline_md(' '.join(para)) + '</p>')
+              return '\n'.join(out)
+
+          def title_for(path, text):
+              if path.name == '000-dedication.md':
+                  return 'Dedication'
+              headings = re.findall(r'^#\s+(.+)$', text, flags=re.M)
+              if headings:
+                  return headings[-1].strip()
+              return path.stem.replace('-', ' ').title()
+
+          def xhtml_doc(title, body, dedication=False):
+              cls = 'option dedication' if dedication else 'option'
+              return f'''<?xml version="1.0" encoding="utf-8"?>
+          <!DOCTYPE html>
+          <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+          <head>
+            <meta charset="utf-8"/>
+            <title>{html.escape(title)}</title>
+            <link rel="stylesheet" type="text/css" href="../styles.css"/>
+          </head>
+          <body>
+            <section class="{cls}">
+          {body}
+            </section>
+          </body>
+          </html>
+          '''
+
+          def nav_doc(items):
+              nav_items = '\n'.join(f'      <li><a href="text/{href}">{html.escape(title)}</a></li>' for href, title in items)
+              return f'''<?xml version="1.0" encoding="utf-8"?>
+          <!DOCTYPE html>
+          <html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="en" lang="en">
+          <head>
+            <meta charset="utf-8"/>
+            <title>Contents</title>
+            <link rel="stylesheet" type="text/css" href="styles.css"/>
+          </head>
+          <body>
+            <nav epub:type="toc" id="toc">
+              <h1>Contents</h1>
+              <ol>
+          {nav_items}
+              </ol>
+            </nav>
+          </body>
+          </html>
+          '''
+
+          def opf_doc(items, book_id):
+              modified = datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
+              manifest_items = ['    <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>',
+                                '    <item id="css" href="styles.css" media-type="text/css"/>']
+              spine_items = []
+              for idx, (href, title) in enumerate(items):
+                  item_id = f'chap{idx:03d}'
+                  manifest_items.append(f'    <item id="{item_id}" href="text/{href}" media-type="application/xhtml+xml"/>')
+                  spine_items.append(f'    <itemref idref="{item_id}"/>')
+              return f'''<?xml version="1.0" encoding="utf-8"?>
+          <package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="bookid">
+            <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+              <dc:identifier id="bookid">urn:uuid:{book_id}</dc:identifier>
+              <dc:title>{html.escape(TITLE)}</dc:title>
+              <dc:creator>{html.escape(CREATOR)}</dc:creator>
+              <dc:language>{LANGUAGE}</dc:language>
+              <meta property="dcterms:modified">{modified}</meta>
+            </metadata>
+            <manifest>
+          {chr(10).join(manifest_items)}
+            </manifest>
+            <spine>
+          {chr(10).join(spine_items)}
+            </spine>
+          </package>
+          '''
+
+          css = '''
+          html, body {
+            margin: 0;
+            padding: 0;
+          }
+
+          body {
+            font-family: Georgia, "Times New Roman", serif;
+            font-size: 1em;
+            line-height: 1.55;
+            color: #111;
+            background: #fff;
+            margin: 5%;
+          }
+
+          section.option {
+            break-before: page;
+            page-break-before: always;
+          }
+
+          section.option:first-of-type {
+            break-before: auto;
+            page-break-before: auto;
+          }
+
+          h1, h2, h3 {
+            font-family: Georgia, "Times New Roman", serif;
+            line-height: 1.2;
+            margin: 1.6em 0 0.65em;
+          }
+
+          h1 {
+            font-size: 1.65em;
+          }
+
+          h2 {
+            font-size: 1.28em;
+          }
+
+          h3 {
+            font-size: 1.12em;
+          }
+
+          p {
+            margin: 0 0 1em;
+          }
+
+          blockquote {
+            margin: 1.2em 1.2em;
+            padding-left: 1em;
+            border-left: 0.15em solid #777;
+          }
+
+          ul, ol {
+            margin: 0 0 1em 1.5em;
+            padding: 0;
+          }
+
+          li {
+            margin: 0.25em 0;
+          }
+
+          .dedication {
+            text-align: center;
+            margin-top: 35%;
+            font-size: 1.15em;
+          }
+          '''
+
+          container_xml = '''<?xml version="1.0" encoding="UTF-8"?>
+          <container version="1.0" xmlns="urn:oasis:names:tc:opendocument:xmlns:container">
+            <rootfiles>
+              <rootfile full-path="OEBPS/content.opf" media-type="application/oebps-package+xml"/>
+            </rootfiles>
+          </container>
+          '''
+
+          paths = option_sequence()
+          if not paths:
+              raise SystemExit('No option files found for EPUB build')
+
+          items = []
+          docs = []
+          for idx, path in enumerate(paths):
+              raw = read_text(path)
+              stripped = strip_process_markdown(raw)
+              title = title_for(path, stripped)
+              href = f'chapter-{idx:03d}-{path.stem}.xhtml'
+              if path.name == '000-dedication.md':
+                  lines = [html.escape(line) for line in stripped.splitlines() if line.strip()]
+                  body = '<h1>Dedication</h1>\n<p>' + '<br/>'.join(lines) + '</p>'
+                  docs.append((href, xhtml_doc(title, body, dedication=True)))
+              else:
+                  body = convert_markdown(stripped)
+                  docs.append((href, xhtml_doc(title, body)))
+              items.append((href, title))
+
+          BOOK_DIR.mkdir(parents=True, exist_ok=True)
+          book_id = str(uuid.uuid4())
+          with zipfile.ZipFile(OUT, 'w') as zf:
+              zf.writestr('mimetype', 'application/epub+zip', compress_type=zipfile.ZIP_STORED)
+              zf.writestr('META-INF/container.xml', container_xml.strip() + '\n')
+              zf.writestr('OEBPS/styles.css', css.strip() + '\n')
+              zf.writestr('OEBPS/nav.xhtml', nav_doc(items))
+              zf.writestr('OEBPS/content.opf', opf_doc(items, book_id))
+              for href, doc in docs:
+                  zf.writestr(f'OEBPS/text/{href}', doc)
+
+          print(f'Built {OUT} with {len(items)} sections.')
+          PY
+          python3 /tmp/build_epub.py
+          python3 - <<'PY'
+          import zipfile
+          from pathlib import Path
+          out = Path('Options/Book/tiny_doors_and_pillow_forts.epub')
+          if not out.exists() or out.stat().st_size == 0:
+              raise SystemExit('EPUB was not created')
+          with zipfile.ZipFile(out) as zf:
+              names = zf.namelist()
+              assert names[0] == 'mimetype'
+              assert 'META-INF/container.xml' in names
+              assert 'OEBPS/content.opf' in names
+              assert 'OEBPS/nav.xhtml' in names
+              chapters = [n for n in names if n.startswith('OEBPS/text/') and n.endswith('.xhtml')]
+              if len(chapters) < 90:
+                  raise SystemExit(f'Expected at least 90 chapter files, found {len(chapters)}')
+              print(f'Verified EPUB structure; {len(chapters)} XHTML sections; {out.stat().st_size} bytes.')
+          PY
+
+      - name: Commit EPUB and remove one-time workflow
+        shell: bash
+        run: |
+          git config user.name "G"
+          git config user.email "actions@github.com"
+          git add Options/Book/tiny_doors_and_pillow_forts.epub
+          git rm .github/workflows/build_epub_once.yml
+          git commit -m "Build EPUB compilation"
+          git push
