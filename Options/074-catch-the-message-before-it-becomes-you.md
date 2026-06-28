@@ -65,7 +65,7 @@ Then choose one tiny counter-message: my need is real, my body is allowed to obj
 
 ## Mercy
 
-You are not the shame you had to hear too many times. A message can be learned. A message can be interrupted. You are allowed to answer before it becomes your name.
+You are not the shame you had to hear too many times. That message can be unlearned, and it can be interrupted. 
 
 ---
 
