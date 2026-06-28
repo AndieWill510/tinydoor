@@ -21,127 +21,43 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-Sometimes relief becomes dangerous.
+Sometimes relief becomes dangerous. Not because the person is weak, bad, or lacking character. Because pain kept asking for an answer. Because stress stayed too long. Because wounds were untreated. Because needs went unmet for so long that anything that softened the room started to look like a door.
 
-Not because the person is weak.
-
-Not because the person is bad.
-
-Not because the person lacks character.
-
-Because pain kept asking for an answer.
-
-Because stress stayed too long.
-
-Because wounds were untreated.
-
-Because needs went unmet for so long that anything that softened the room started to look like a door.
-
-When relief becomes dangerous, shame will not save you.
-
-Help might.
+When relief becomes dangerous, shame will not save you. Help might.
 
 ## Pressure
 
-People love turning substance-use harm into a morality play.
-
-They point at the substance.
-
-They point at the behavior.
-
-They point at the chaos.
-
-They point at the promise you could not keep.
+People love turning substance-use harm into a morality play. They point at the substance, the behavior, the chaos, the promise you could not keep.
 
 But shame rarely asks the better question:
 
 > What pain was this trying to answer?
 
-That question does not excuse harm.
-
-It does not pretend consequences are not real.
-
-It does not make dangerous relief safe.
-
-It simply tells the truth:
-
-A punished wound usually gets worse.
-
-A supported wound has a chance.
+That question does not excuse harm, erase consequences, or make dangerous relief safe. It simply tells the truth: a punished wound usually gets worse. A supported wound has a chance.
 
 ## Reframe
 
-Getting safer does not have to begin with hating yourself.
+Getting safer does not have to begin with hating yourself. It can begin with honesty.
 
-It can begin with honesty.
+Something has become dangerous. I need help. I need less shame. I need a safer plan. I need people who understand trauma, Autism, stress, body needs, and the power of the thing I am trying to stop or reduce.
 
-Something has become dangerous.
-
-I need help.
-
-I need less shame.
-
-I need a safer plan.
-
-I need people who understand trauma, Autism, stress, body needs, and the power of the thing I am trying to stop or reduce.
-
-Treatment, peer support, harm reduction, medical care, community, and practical planning can all be doors.
-
-The right door is the one that helps you stay alive and move toward less harm.
+Treatment, peer support, harm reduction, medical care, community, and practical planning can all be doors. The right door is the one that helps you stay alive and move toward less harm.
 
 ## Move
 
-Name one need the dangerous relief may have been trying to meet.
-
-One.
-
-Sleep.
-
-Quiet.
-
-Less fear.
-
-Less pain.
-
-Less loneliness.
-
-A break from memory.
-
-A way to feel the body.
-
-A way to leave the body.
-
-A way to survive the hour.
+Name one need the dangerous relief may have been trying to meet: sleep, quiet, less fear, less pain, less loneliness, a break from memory, a way to feel the body, a way to leave the body, or a way to survive the hour.
 
 Then ask:
 
 > What is one safer support for this need?
 
-A qualified provider.
-
-A support group.
-
-A harm-reduction resource.
-
-A trusted person.
-
-A crisis plan.
-
-A meal.
-
-A shower.
-
-A place away from the trigger.
-
-A smaller next hour.
+Maybe a qualified provider, a support group, a harm-reduction resource, a trusted person, a crisis plan, a meal, a shower, a place away from the trigger, or a smaller next hour.
 
 Choose one support that reduces harm without requiring you to hate yourself first.
 
 ## Mercy
 
-You are not a moral failure because pain found a dangerous door.
-
-You are still allowed to find a safer one.
+You are not a moral failure because pain found a dangerous door. You are still allowed to find a safer one.
 
 ---
 
