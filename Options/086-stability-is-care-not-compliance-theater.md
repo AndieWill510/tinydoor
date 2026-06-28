@@ -21,119 +21,37 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-Stability is not obedience theater.
+Stability is not obedience theater. It is not proving you are good. It is not performing calm so other people can relax. It is not surrendering your whole self to a chart, a provider, a family system, or a room that has already decided who you are.
 
-It is not proving you are good.
-
-It is not performing calm so other people can relax.
-
-It is not surrendering your whole self to a chart, a provider, a family system, or a room that has already decided who you are.
-
-Stability is care.
-
-Care that helps you stay here.
-
-Care that helps you stay you.
+Stability is care: care that helps you stay here, and care that helps you stay you.
 
 ## Pressure
 
-Some systems confuse stability with compliance.
+Some systems confuse stability with compliance. Did you obey? Did you act easy? Did you make the provider comfortable? Did you stop being complicated? Did you become manageable?
 
-Did you obey?
+That is not the same as being well. A person can be quiet and unsafe, agreeable and unheard, medically supervised and still not understood, compliant and still disappearing.
 
-Did you act easy?
-
-Did you make the provider comfortable?
-
-Did you stop being complicated?
-
-Did you become manageable?
-
-That is not the same as being well.
-
-A person can be quiet and unsafe.
-
-Agreeable and unheard.
-
-Medically supervised and still not understood.
-
-Compliant and still disappearing.
-
-The goal is not to become easier to file.
-
-The goal is to become safer, clearer, steadier, and more alive.
+The goal is not to become easier to file. The goal is to become safer, clearer, steadier, and more alive.
 
 ## Reframe
 
-Real stability has texture.
+Real stability has texture: sleep that is protected, food that arrives before collapse, medication questions handled with qualified care instead of panic or shame, movement that fits the body, a provider who listens, a plan that can be found when words are gone, a trusted person who knows what helps and what makes everything worse.
 
-Sleep that is protected.
-
-Food that arrives before collapse.
-
-Medication questions handled with qualified care, not panic or shame.
-
-Movement that fits the body.
-
-A provider who listens.
-
-A plan that can be found when words are gone.
-
-A trusted person who knows what helps and what makes everything worse.
-
-A life with fewer fires and more handrails.
-
-Stability is not a personality transplant.
-
-It is support around the person who is already here.
+Stability is not a personality transplant. It is support around the person who is already here.
 
 ## Move
 
-Name one thing that helps you stay steadier.
-
-One.
-
-Sleep.
-
-Food.
-
-A routine.
-
-A medication conversation with a qualified clinician.
-
-A support person.
-
-A quieter room.
-
-A written plan.
-
-A walk or roll.
-
-A reminder that does not shame you.
+Name one thing that helps you stay steadier: sleep, food, a routine, a medication conversation with a qualified clinician, a support person, a quieter room, a written plan, a walk or roll, or a reminder that does not shame you.
 
 Ask:
 
 > How do I protect this without turning it into punishment?
 
-Write one answer.
-
-Make it smaller.
-
-Make it visible.
-
-Ask for help.
-
-Put it before the crisis.
-
-Let it be imperfect.
-
-Let it be care.
+Write one answer. Make it smaller. Make it visible. Ask for help. Put it before the crisis. Let it be imperfect. Let it be care.
 
 ## Mercy
 
-You do not have to earn care by becoming convenient.
-
-A good plan protects your life without erasing your personhood.
+You do not have to earn care by becoming convenient. A good plan protects your life without erasing your personhood.
 
 ---
 
