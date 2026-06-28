@@ -19,23 +19,21 @@ SPDX-License-Identifier: Apache-2.0
 # Option 100
 # Benediction and Closing Thoughts
 
-This book started with a little girl who was given a broken saxophone that was never going to produce the right notes. 
+This book started with a little girl and a broken saxophone that was never going to produce the right notes.
 
-A metaphor, perhaps, for the spaces neurodivergent people are so often forced into and would rightly never choose for themselves. 
+A metaphor, maybe, for the rooms Neurodivergent people are forced into and would rightly never choose for themselves: rooms built around the wrong instrument, the wrong expectations, the wrong idea of what a life is supposed to sound like.
 
-If I did my job right, and did my job well, you are now on a similar path to choose, with agency and authentic community, those spaces for yourself. 
+If I did my job well, you are now closer to choosing, with agency and authentic community, the rooms that fit you better.
 
-I started this journey, this little book, three years ago.
+I started this journey, this little book, three years ago because I needed it.
 
-I needed it.
+I needed mercy.
 
-I needed a mercy.
+I needed another option.
 
-Another option.
+I needed a pillow fort on the other side of a tiny door.
 
-A pillow fort on the other side of a tiny door.
-
-A haven of community and sanctuary.
+I needed a haven of community and sanctuary.
 
 So I built one.
 
@@ -44,7 +42,6 @@ And I hope it helps you build yours.
 Never forget:
 
 Whoever has hurt you,
-
 whoever hurts you still —
 
 **_they don’t get to win_.**
