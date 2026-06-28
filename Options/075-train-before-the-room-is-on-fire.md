@@ -17,19 +17,19 @@ SPDX-License-Identifier: Apache-2.0
 -->
 
 # Option 5.13
-# Train Before the Room Is on Fire
+# Train Before the Next Fire
 
 ## A Way In
 
-The best time to learn the exit is before the room is on fire. Not while smoke is in your eyes. Not while everyone is shouting. Not while your body has already moved from possible danger to real danger.
+The best time to learn the exit is before meltdown. Not while your body has already moved from possible meltdown/shutdown to real meltdown.
 
-Before. Quietly. With support. With repetition. With people who do not shame the need for a plan.
+Before. With support. With repetition. With people who do not shame the need for a plan.
 
-Train before the room is on fire.
+Train before the room (for you) is on fire.
 
 ## Pressure
 
-We are often expected to improvise under impossible load: explain while panicking, regulate while overloaded, ask for help while losing language, defend the need while the need is happening, make a wise choice while every system is yelling.
+We are often expected to improvise under impossible load: explain while panicking, regulate while overloaded, ask for help while losing language and make a wise choice while every system is yelling.
 
 Then, when the body cannot perform clarity under emergency conditions, the room calls it overreaction.
 
@@ -37,11 +37,11 @@ That is backwards. A plan is not evidence that you are fragile. A plan is eviden
 
 ## Reframe
 
-First aid works because someone practiced before the crisis. The practice does not make the crisis imaginary. It makes response possible.
+First aid for Neurodivergent people works because we practice before the crisis. The practice does not make the crisis imaginary. It makes response possible.
 
-Neurodivergent first aid can work the same way: a grounding script, a quiet exit, a person to text, a written card, a sensory kit, a pre-decided ride home, a plan for when speech leaves.
+Neurodivergent first aid can work the same way: a grounding script, a quiet exit, a person to text, a written card, a sensory kit, a pre-decided ride home, a plan for when the ability to speak leaves.
 
-These are not dramatic. They are doors installed before the hallway fills with smoke.
+These are not dramatic. They are doors installed before the room fills with smoke.
 
 ## Move
 
@@ -49,9 +49,9 @@ Make one before-plan. Finish this sentence:
 
 > When I notice panic rising, my first safe move is ____.
 
-Keep it simple: step outside, go to the bathroom, text one person, put on ear protection, drink water, open the written plan, or leave before explaining.
+Keep it simple: step outside/go to the bathroom, text one person, put on ear protection, open the written plan, or leave before explaining.
 
-Practice it once when you do not need it. That is training.
+Practice it once when you do not need it. That is training. Just like for a fire drill.  
 
 ## Mercy
 
