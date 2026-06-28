@@ -23,11 +23,11 @@ SPDX-License-Identifier: Apache-2.0
 
 It is not unusual for Neurodivergent people to become witnesses to the lives we are trying to survive. We watch the room, the rules, the harm, the pattern, the moment everyone else decides the story has already been explained.
 
-But a witness is not always outside the harm. Sometimes the witness is inside it too. That witness needs protection. Not later. Now.
+But a witness is not always outside the harm. Sometimes the witness is inside it too. That witness needs protection. Not later. Now. Sometimes that witness is a parent, and the story they are being asked to tell is one their children were also inside.
 
 ## Pressure
 
-It is easy to ask Neurodivergent parents to testify.
+It is easy to ask Neurodivergent parents to testify. The room wants to know:
 
 > What happened?
 
@@ -37,7 +37,7 @@ It is easy to ask Neurodivergent parents to testify.
 
 Those questions matter. But the parent in this story was not only the witness. The parent was also inside the blast radius.
 
-If the children performed correctly, that meant something about them. If they did not — and after all, how could they not? — that meant something about us too.
+If the children performed correctly, that meant something about them. If they did not — and they could not have, because they were also inside it — that meant something about us too.
 
 ## Reframe
 
@@ -51,7 +51,9 @@ Before telling a hard story, ask:
 
 > What protects the witness here?
 
-One protection is enough: a boundary, a pause, a detail left out. Let protection be part of the truth.
+Protection might look like telling the shape of the harm without naming every instance. It might mean saying what the children lost without having to disclose everything it cost your body to watch. It might mean naming *I was also inside this* without having to map the inside for whoever is asking.
+
+One protection is enough. Let it be part of the truth.
 
 ## Mercy
 
