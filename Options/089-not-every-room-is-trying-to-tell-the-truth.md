@@ -21,131 +21,41 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-Not every room is trying to tell the truth.
+Not every room is trying to tell the truth. Some rooms are trying to protect comfort, hierarchy, speed, the person with the title, or the story the group already agreed to believe.
 
-Some rooms are trying to protect comfort.
+Some rooms are not courts. They are theaters of power.
 
-Some are trying to protect hierarchy.
-
-Some are trying to protect speed.
-
-Some are trying to protect the person with the title.
-
-Some are trying to protect the story the group already agreed to believe.
-
-Some are not courts.
-
-They are theaters of power.
-
-If you keep presenting evidence to a room that is not holding a hearing, your body may think the missing argument is the problem.
-
-But the problem may be the room.
+If you keep presenting evidence to a room that is not holding a hearing, your body may think the missing argument is the problem. But the problem may be the room.
 
 ## Pressure
 
-Our fairness system can be precise.
+Our fairness system can be precise. It can hear the contradiction, see the missing dependency, notice the process failure, track who got blamed and who got protected, remember what was promised, and remember what was actually said.
 
-It can hear the contradiction.
+That precision is not the problem. The problem is what happens when the room does not share the goal.
 
-See the missing dependency.
-
-Notice the process failure.
-
-Track who got blamed and who got protected.
-
-Remember what was promised.
-
-Remember what was actually said.
-
-That precision is not the problem.
-
-The problem is what happens when the room does not share the goal.
-
-You may be trying to restore truth.
-
-The room may be trying to restore convenience.
-
-You may be trying to repair process.
-
-The room may be trying to avoid discomfort.
-
-You may be trying to make the work safer.
-
-The room may be trying to make the conversation end.
+You may be trying to restore truth while the room is trying to restore convenience. You may be trying to repair process while the room is trying to avoid discomfort. You may be trying to make the work safer while the room is trying to make the conversation end.
 
 ## Reframe
 
-Some people do not notice fairness with the same precision.
+Some people do not notice fairness with the same precision. Some notice and still choose comfort, power, speed, or ego. Either way, more evidence may not open the door.
 
-Some notice and still choose comfort, power, speed, or ego.
+This does not mean you were wrong. It means the room may not be available for truth in the way your body expects.
 
-Either way, more evidence may not open the door.
+One useful practice from Buddhism is non-attachment to views: not abandoning truth, not pretending everything is relative, not becoming silent forever, but releasing the demand that this room become awake before you are allowed to breathe.
 
-This does not mean you were wrong.
-
-It means the room may not be available for truth in the way your body expects.
-
-One useful practice from Buddhism is non-attachment to views.
-
-Not abandoning truth.
-
-Not pretending everything is relative.
-
-Not becoming silent forever.
-
-But releasing the demand that this room become awake before you are allowed to breathe.
-
-You can speak once with care.
-
-You can document what matters.
-
-You can choose the next skillful door.
-
-You do not have to keep knocking on a wall and calling it dialogue.
+You can speak once with care. You can document what matters. You can choose the next skillful door. You do not have to keep knocking on a wall and calling it dialogue.
 
 ## Move
 
-Classify the room.
-
-Quietly.
-
-Not as punishment.
-
-As information.
-
-Ask:
+Classify the room quietly, not as punishment but as information. Ask:
 
 > Is this room trying to understand, decide, perform, protect itself, or end the discomfort?
 
-Pick one.
-
-Understand.
-
-Decide.
-
-Perform.
-
-Protect itself.
-
-End the discomfort.
-
-Then choose one matching action.
-
-If the room can understand, explain once.
-
-If the room must decide, give the cleanest evidence.
-
-If the room is performing, do not feed the performance.
-
-If the room is protecting itself, document and protect yourself.
-
-If the room only wants discomfort to end, make your next move outside that room.
+Pick one. If the room can understand, explain once. If the room must decide, give the cleanest evidence. If the room is performing, do not feed the performance. If the room is protecting itself, document and protect yourself. If the room only wants discomfort to end, make your next move outside that room.
 
 ## Mercy
 
-You do not need to win a trial the other person refuses to attend honestly.
-
-You are allowed to stop asking a stage to become a court.
+You do not need to win a trial the other person refuses to attend honestly. You are allowed to stop asking a stage to become a court.
 
 ---
 
