@@ -21,19 +21,9 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-Some roads cannot be explained well by people who have never had to walk them.
+Some roads cannot be explained well by people who have never had to walk them. They may mean well. They may have books, credentials, and sympathy.
 
-They may mean well.
-
-They may have books.
-
-They may have credentials.
-
-They may have sympathy.
-
-But sympathy is not the same as knowing the road.
-
-Find the people who know the road.
+But sympathy is not the same as knowing the road. Find the people who know the road.
 
 ## Pressure
 
@@ -41,95 +31,37 @@ Isolation teaches a terrible lie:
 
 > I must be the only one like this.
 
-The room may make that lie feel true.
+The room may make that lie feel true. No one else here moves this way, needs this much quiet, understands this identity, this body, this danger, this exhaustion, this kind of masking, this kind of grief.
 
-No one else here moves this way.
-
-No one else needs this much quiet.
-
-No one else understands this identity, this body, this danger, this exhaustion, this kind of masking, this kind of grief.
-
-So the person tries to survive by translating everything alone.
-
-One translation for Neurodivergence.
-
-One for queerness.
-
-One for race.
-
-One for pain.
-
-One for age.
-
-One for trauma.
-
-One for the body that keeps saying no.
+So the person tries to survive by translating everything alone: neurodivergence, queerness, race, pain, age, trauma, and the body that keeps saying no.
 
 That is too much continuity for one person to carry.
 
 ## Reframe
 
-Community is not only company.
+Community is not only company. It is a correction to false isolation.
 
-It is a correction to false isolation.
-
-A person who knows the road may not fix the road.
-
-But they can say:
+A person who knows the road may not fix the road. But they can say:
 
 > Yes. That is a road. I know that turn.
 
-They can tell you which door helped them.
-
-Which room harmed them.
-
-Which provider listened.
-
-Which group was safer.
-
-Which language made sense.
-
-Which warning signs mattered.
-
-Which needs were not too much after all.
+They can tell you which door helped, which room harmed, which provider listened, which group was safer, which warning signs mattered, and which needs were not too much after all.
 
 That kind of recognition can return a person to themselves.
 
 ## Move
 
-Look for one person, group, writer, coach, peer space, or community where less translation is required.
-
-One.
-
-Not the perfect tribe.
-
-Not forever.
-
-One place where someone may know part of the road.
+Look for one person, group, writer, coach, peer space, or community where less translation is required. Not the perfect tribe. Not forever. One place where someone may know part of the road.
 
 Ask:
 
 > What do they understand without making me prove it first?
 
-Start there.
-
-Read one page.
-
-Attend one group.
-
-Save one resource.
-
-Send one message.
-
-Let one road stop being walked alone.
+Start there. Read one page, attend one group, save one resource, send one message. Let one road stop being walked alone.
 
 ## Mercy
 
-You were never supposed to be the only map.
-
-Someone else has seen some part of this terrain.
-
-Let their knowing become a handrail.
+You were never supposed to be the only map. Someone else has seen some part of this terrain. Let their knowing become a handrail.
 
 ---
 
