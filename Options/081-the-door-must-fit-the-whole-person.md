@@ -21,73 +21,21 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-A tiny door still has to fit the person using it.
+A tiny door still has to fit the person using it. Not the average person. Not the version of you that makes the room more comfortable. You.
 
-Not the average person.
-
-Not the version of you that makes the room more comfortable.
-
-You.
-
-Your
-
-> body
-
-> age
-
-> gender/gender expression
-
-> sexuality
-
-> race
-
-> culture
-
-> disability
-
-> pain
-
-> spirituality/history
-
-> community
-
-The door must fit the whole person.
+Your body, age, gender, sexuality, race, culture, disability, pain, spirituality, history, and community all come with you. The door must fit the whole person.
 
 ## Pressure
 
-Systems like simple categories.
+Systems like simple categories: one diagnosis, one accommodation, one identity, one explanation, one resource list, one neat box with one neat label.
 
-One diagnosis.
-
-One accommodation.
-
-One identity.
-
-One explanation.
-
-One resource list.
-
-One neat box with one neat label.
-
-But a life does not become safer because the paperwork got simpler.
-
-An Autistic woman may face masking, misogyny, missed diagnosis, and danger all at once.
-
-An Autistic queer person may need community that understands both neurotype and identity.
-
-An Autistic BIPOC person may need support that understands racism, ableism, and the cost of being unseen.
-
-An Autistic physically disabled person may need medical care, access tools, and people who believe the body.
-
-An AuDHD person may need flexible structure, movement, sleep, and kindness for uneven capacity.
+But a life does not become safer because the paperwork got simpler. An Autistic woman may face masking, misogyny, missed diagnosis, and danger all at once. An Autistic queer person may need community that understands both neurotype and identity. An Autistic BIPOC person may need support that understands racism, ableism, and the cost of being unseen. An AuDHD person may need flexible structure, movement, sleep, and kindness for uneven capacity.
 
 A one-size door can still be a wall.
 
 ## Reframe
 
-Whole-person care does not mean solving everything at once.
-
-It means refusing to cut pieces of yourself off so the support will fit.
+Whole-person care does not mean solving everything at once. It means refusing to cut pieces of yourself off so the support will fit.
 
 The right question is not:
 
@@ -97,61 +45,19 @@ The better question is:
 
 > What does support have to understand about me to actually help?
 
-Maybe it has to understand sensory cost.
-
-Maybe gender.
-
-Maybe racism.
-
-Maybe pain.
-
-Maybe trauma.
-
-Maybe age.
-
-Maybe medication.
-
-Maybe money.
-
-Maybe the fact that you are tired of translating every part of yourself before care begins.
+Maybe it has to understand sensory cost, gender, racism, pain, trauma, money, medication, or the fact that you are tired of translating every part of yourself before care begins.
 
 ## Move
 
-Pick one support, tool, room, or relationship you are using right now.
-
-Ask:
+Pick one support, tool, room, or relationship you are using right now. Ask:
 
 > What part of me does this door not fit yet?
 
-One part.
-
-Not everything.
-
-Maybe the schedule.
-
-Maybe the lighting.
-
-Maybe the language.
-
-Maybe the provider.
-
-Maybe the group.
-
-Maybe the assumption that you can always speak clearly.
-
-Maybe the assumption that your body can wait.
-
-Name the mismatch.
-
-Then ask for one adjustment, or look for one better-fitting door.
+One part. Not everything. Maybe the schedule, the lighting, the language, the provider, the group, or the assumption that you can always speak clearly. Name the mismatch. Then ask for one adjustment, or look for one better-fitting door.
 
 ## Mercy
 
-You are not too complicated for care.
-
-Care that cannot make room for the whole person was too small already.
-
-You are allowed to need a door shaped like you.
+You are not too complicated for care. Care that cannot make room for the whole person was too small already. You are allowed to need a door shaped like you.
 
 ---
 
