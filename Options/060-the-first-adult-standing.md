@@ -21,27 +21,27 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-At fifteen, I needed braces. The money existed. The parents responsible for care turned the need into a dispute over who should pay.
+At fifteen, I needed braces. The money existed. The adults responsible for my care turned my bodily need into a dispute over who should pay.
 
-One said the other should pay. The other did the same. The child was left holding a bodily need inside an adult stalemate.
+One said the other should pay. The other did the same. I was left holding a need inside an adult stalemate.
 
 ## Pressure
 
 Need can disappear inside adult conflict. Not because the need is unclear, but because the room would rather argue over responsibility than release care.
 
-The child learns the terrible question:
+That is how a child learns the terrible question:
 
 > Am I allowed to need this if the adults will not agree?
 
-That question can become a cage.
+I should not have had to ask that. I should not have had to become the adult standing in the middle of my own care.
 
 ## Reframe
 
-Invoking care that was meant for you is not betrayal. It is standing.
+Invoking care that was meant for me was not betrayal. It was standing.
 
-My Great Aunt Beanie had left a modest sum of money for me in a college trust. The trust existed for my future, not to pay an overdue bill. Naming it, as I did, and breaking the impasse was the kind of inappropriate responsibility Neurodivergent people are handed every day.
+My Great Aunt Beanie had left a modest sum of money for me in a college trust. The trust existed for my future, not to pay an overdue bill. Naming it, as I did, and breaking the impasse was the kind of inappropriate responsibility Neurodivergent children are handed every day.
 
-It was the affected person telling the truth and taking ownership before the need disappeared further into endless, selfish squabble.
+I became the first adult standing because the actual adults had turned care into a stalemate. I told the truth before my need disappeared further into endless, selfish squabble.
 
 ## Move
 
@@ -57,7 +57,7 @@ Do not make the first draft elegant. Make it true.
 
 ## Mercy
 
-Standing is how a person refuses to let someone else's failure become destiny.
+Standing is how a person refuses to let someone else's failure become destiny. I did not betray the adults by naming the care. I protected the child they had left waiting.
 
 ---
 
