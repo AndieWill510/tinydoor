@@ -21,129 +21,41 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-Older is not too late.
+Older is not too late. Not for understanding yourself, protection, community, rest, or learning the needs you were taught to ignore.
 
-Not for understanding yourself.
+You may feel boxed around the ears by years you did not have language for. You may feel older than you should. You may feel tired in places younger people cannot yet imagine.
 
-Not for protection.
-
-Not for community.
-
-Not for rest.
-
-Not for learning the needs you were taught to ignore.
-
-You may feel boxed around the ears by years you did not have language for.
-
-You may feel older than you should.
-
-You may feel tired in places younger people cannot yet imagine.
-
-Still.
-
-Older is not too late.
+Still: older is not too late.
 
 ## Pressure
 
-A late-understood life can carry a particular grief.
+A late-understood life can carry a particular grief. So many years masking, accommodating everyone else, being called difficult, sensitive, moody, strange, selfish, intense, or hard to reach. So many years without the right support.
 
-So many years masking.
+And then, when the body has less elasticity, the world may still ask for the old performance. Be easy. Keep up. Explain nicely. Do more. Stay available. Keep giving yourself away.
 
-So many years accommodating everyone else.
-
-So many years being called difficult, sensitive, moody, strange, selfish, intense, or hard to reach.
-
-So many years without the right support.
-
-And then, when the body has less elasticity, the world may still ask for the old performance.
-
-Be easy.
-
-Keep up.
-
-Explain nicely.
-
-Do more.
-
-Stay available.
-
-Keep giving yourself away.
-
-But age changes the math.
-
-So does disability.
-
-So does exhaustion.
+But age changes the math. So does disability. So does exhaustion.
 
 ## Reframe
 
-You are allowed to protect more.
+You are allowed to protect more, withdraw more, mask less, rest sooner, choose quieter rooms, leave earlier, and say no faster.
 
-Withdraw more.
+Let younger Neurodivergent people teach you things they had language for before you did. Let your own hard-won wisdom count too.
 
-Mask less.
-
-Rest sooner.
-
-Choose quieter rooms.
-
-Leave earlier.
-
-Say no faster.
-
-Let younger Neurodivergent people teach you things they had language for before you did.
-
-Let your own hard-won wisdom count too.
-
-You do not have to become young to begin again.
-
-You only need one honest adjustment toward the life your body can actually live now.
+You do not have to become young to begin again. You only need one honest adjustment toward the life your body can actually live now.
 
 ## Move
 
-Pick one old performance you no longer want to fund with your body.
-
-One.
-
-A family role.
-
-A social habit.
-
-A workplace mask.
-
-A holiday expectation.
-
-A conversation you always survive but never recover from.
+Pick one old performance you no longer want to fund with your body: a family role, a workplace mask, a holiday expectation, or a conversation you always survive but never recover from.
 
 Ask:
 
 > What would protecting myself more look like here?
 
-Less time.
-
-Less explanation.
-
-More quiet.
-
-A different chair.
-
-A planned exit.
-
-A younger or older Neurodivergent voice in your corner.
-
-A rest day after.
-
-A no that arrives before collapse.
+Maybe less time, less explanation, more quiet, a planned exit, a Neurodivergent voice in your corner, a rest day after, or a no that arrives before collapse.
 
 ## Mercy
 
-You are not behind because you found the door later.
-
-You are here.
-
-Here still counts.
-
-And the door can still open from here.
+You are not behind because you found the door later. You are here. Here still counts. And the door can still open from here.
 
 ---
 
