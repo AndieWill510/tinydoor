@@ -35,7 +35,7 @@ The room may make that lie feel true. No one else here moves this way, needs thi
 
 So the person tries to survive by translating everything alone: neurodivergence, queerness, race, pain, age, trauma, and the body that keeps saying no.
 
-That is too much continuity for one person to carry.
+That is too much continuity for one person to carry alone.
 
 ## Reframe
 
@@ -61,7 +61,7 @@ Start there. Read one page, attend one group, save one resource, send one messag
 
 ## Mercy
 
-You were never supposed to be the only map. Someone else has seen some part of this terrain. Let their knowing become a handrail.
+You were never supposed to be the only map. Someone else has seen some part of this terrain. Let their knowing become a door knob.
 
 ---
 
