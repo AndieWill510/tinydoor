@@ -23,7 +23,7 @@ SPDX-License-Identifier: Apache-2.0
 
 Neurodivergent lives do not become healthy by willpower alone. They need design.
 
-Not because you are fragile. Because every body lives inside an environment, and some environments make our bodies pay rent in pain.
+Not because you are fragile. Because every body lives inside an environment, and some environments make our bodies pay rent in suffering.
 
 ## Pressure
 
