@@ -21,113 +21,41 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-Some things deserve serious support.
-
-Not because you are bad.
-
-Not because you failed.
-
-Not because your story is over.
-
-Because the thing you are carrying is heavy enough that carrying it alone can become dangerous.
+Some things deserve serious support. Not because you are bad, failed, or finished. Because the thing you are carrying is heavy enough that carrying it alone can become dangerous.
 
 Serious support is not shame.
 
 ## Pressure
 
-Shame may tell you that needing help means you are less free.
+Shame may tell you that needing help means you are less free, less competent, less trustworthy, less adult, less yourself.
 
-Less competent.
+The room may add its own cruelty. It may treat a diagnosis like a verdict, a hospital stay like a character flaw, or medication, therapy, monitoring, and support as proof that you are broken.
 
-Less trustworthy.
-
-Less adult.
-
-Less yourself.
-
-The room may add its own cruelty.
-
-It may treat a diagnosis like a verdict.
-
-It may treat a hospital stay like a character flaw.
-
-It may treat medication, therapy, monitoring, or support as proof that you are broken.
-
-That is not care.
-
-That is stigma wearing a name badge.
+That is not care. That is stigma wearing a name badge.
 
 ## Reframe
 
-Good support is not a cage.
+Good support is not a cage. Good support is scaffolding.
 
-Good support is scaffolding.
+It can help you sleep, notice patterns, stay connected to reality, body, and community, make decisions before everything is loud, and stay safer when the mind or body is carrying more than it can hold alone.
 
-It can help you sleep.
-
-Help you notice patterns.
-
-Help you stay connected to reality, body, and community.
-
-Help you make decisions before everything is loud.
-
-Help you stay safer when the mind or body is carrying more than it can hold alone.
-
-Qualified care matters.
-
-So does dignity.
-
-So does consent.
-
-So does being believed about what happened to you.
-
-So does not being reduced to the hardest thing in your chart.
+Qualified care matters. So does dignity. So does consent. So does being believed about what happened to you. So does not being reduced to the hardest thing in your chart.
 
 ## Move
 
-Name one serious support that might help you stay well.
-
-> A provider who listens
-
-> A second opinion
-
-> A crisis plan made before crisis
-
-> A medication conversation with a qualified clinician
-
-> A sleep plan
-
-> A peer group
-
-> A trusted person who can sit beside you in the appointment.
+Name one serious support that might help you stay well: a provider who listens, a second opinion, a crisis plan made before crisis, a medication conversation with a qualified clinician, a sleep plan, a peer group, or a trusted person who can sit beside you in the appointment.
 
 Then ask:
 
 > What would make this support safer for me to use?
 
-Write one answer.
-
-More time.
-
-Clearer explanations.
-
-A trauma-informed provider.
-
-An Autism-informed provider.
-
-A written plan.
-
-A person in the room.
-
-A way to ask questions without being punished.
+Write one answer: more time, clearer explanations, a trauma-informed provider, an Autism-informed provider, a written plan, a person in the room, or a way to ask questions without being punished.
 
 One safer support is enough for today.
 
 ## Mercy
 
-You do not lose dignity because the help you need is serious.
-
-You are worth support strong enough to hold the truth.
+You do not lose dignity because the help you need is serious. You are worth support strong enough to hold the truth.
 
 ---
 
