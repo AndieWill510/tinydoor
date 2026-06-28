@@ -21,13 +21,17 @@ SPDX-License-Identifier: Apache-2.0
 
 ## A Way In
 
-It is not unusual for Neurodivergent people to become witnesses to the lives we are trying to survive. We watch the room, the rules, the harm, the pattern, the moment everyone else decides the story has already been explained.
+After the measuring stick, there is another job no one warns you about. You become the witness.
 
-But a witness is not always outside the harm. Sometimes the witness is inside it too. That witness needs protection. Not later. Now. Sometimes that witness is a parent, and the story they are being asked to tell is one their children were also inside.
+I can tell you what the house taught. I can tell you what the children heard. I can tell you what happens when value rises and falls with performance, when love starts sounding like standards, when everyone learns to watch the room before they know what they need.
+
+But I was not standing outside that house with a clipboard. I was inside it. I was their parent. I was watching my children be measured, and I was being measured too.
+
+The witness needs protection. Not later. Now.
 
 ## Pressure
 
-It is easy to ask Neurodivergent parents to testify. The room wants to know:
+It is easy to ask me to testify. The room wants to know:
 
 > What happened?
 
@@ -35,11 +39,17 @@ It is easy to ask Neurodivergent parents to testify. The room wants to know:
 
 > What did the house teach them?
 
-Those questions matter. But the parent in this story was not only the witness. The parent was also inside the blast radius.
+Those questions matter. My children deserve the truth. But a question can still take too much if it treats me like an evidence machine instead of a person who was also inside the blast radius.
 
-If the children performed correctly, that meant something about them. If they did not — and they could not have, because they were also inside it — that meant something about us too.
+If my children performed correctly, that meant something about them. If they did not — and they could not have, because they were children inside an impossible room — that meant something about me too.
+
+Their pain and my fear braided together. Their survival and my worth got tied into the same ugly knot.
 
 ## Reframe
+
+Protecting the witness means letting me tell the truth without pretending I was untouched by it.
+
+It means I do not have to choose between naming what my children lost and naming what it cost my body to watch. It means saying *I was also inside this* is not stealing their story. It is part of the map.
 
 When we carry injuries that belong to our family members and injuries that belong to ourselves, the body does not sort them neatly. We can witness. We can render aid. But we may also be disabled by the very injuries we are trying to describe.
 
@@ -57,7 +67,7 @@ One protection is enough. Let it be part of the truth.
 
 ## Mercy
 
-The witness gets a door too. The person telling the story is still a person inside it.
+The witness gets a door too. The parent gets a door too. I get a door too.
 
 ---
 
