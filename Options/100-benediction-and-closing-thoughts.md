@@ -24,6 +24,12 @@ A metaphor, maybe, for the rooms Neurodivergent people are forced into and would
 
 If I did my job well, you are now closer to choosing, with agency and authentic community, the rooms that fit you better.
 
+Know that none of this is your fault, and none of it is by accident. 
+
+A fascist-normalizing worldview can migrate into institutions without uniforms, flags, or explicit ideology. It can reappear as clinical goals: extinguish deviance, reward conformity, punish difference, produce indistinguishability, call compliance recovery.
+
+This happened to me, and not just in that band room at 11. It may have also happened, in some way, to you. 
+
 I started this journey, this little book, three years ago because I needed it.
 
 I needed mercy.
