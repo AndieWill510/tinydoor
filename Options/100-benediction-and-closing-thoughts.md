@@ -28,7 +28,7 @@ Know that none of this is your fault, and none of it is by accident.
 
 A fascist-normalizing worldview can migrate into institutions without uniforms, flags, or explicit ideology. It can reappear as clinical goals: extinguish deviance, reward conformity, punish difference, produce indistinguishability, call compliance recovery.
 
-This happened to me, and not just in that band room at 11. It may have also happened, in some way, to you. 
+This happened to me, and not just in that band room, at 11. It may have also happened, in some way, to you. 
 
 I started this journey, this little book, three years ago because I needed it.
 
