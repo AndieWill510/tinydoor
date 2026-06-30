@@ -33,5 +33,7 @@ This is what it is to be Autistic. Or, at least, this is what it is for me to be
 <!-- TINYDOOR_NAV_START -->
 ## Continue reading
 
+[← Previous: Preface — Another Option](0000-preface.md)  
+[Index](INDEX.md)  
 [Next: Chapter 1 Opening — The Broken Mouthpiece →](002-chapter-1-the-broken-mouthpiece.md)
 <!-- TINYDOOR_NAV_END -->
