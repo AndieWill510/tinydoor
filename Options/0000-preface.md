@@ -48,6 +48,10 @@ The mercy is a tiny door: one survivable opening that does not pretend to solve 
 
 I did not come to this work from theory first. I came to it from rooms. From being told, in one way or another, that the failure lived inside me before anyone inspected the instrument, the room, the rule, the demand, the noise, the pace, the missing ramp, the broken mouthpiece, or the cost of pretending all of it was fine.
 
+For a long time, I became very good at rooms that were not built to hold me. I learned to translate complexity into plans, systems, diagrams, decisions, and language other people could use. I learned how to make the impossible look orderly. I learned how to be useful in rooms that rewarded fluency while missing the cost of the fluency. I could make systems legible for institutions while still struggling to make my own body, need, grief, gender, Autism, and exhaustion legible enough to be believed.
+
+That double life is one of the places this book comes from. I know what it is to be competent and still be drowning. I know what it is to need help that does not turn into control, correction that does not turn into shame, and care that does not require me to become simpler before anyone will offer it. I know what it is to reach for community after a life of performing survivability, and to discover that belonging is not a cure, but it can be infrastructure. A bar, a table, a queer room, a friend from nowhere, a person who notices when you have gone quiet: sometimes those are not background details. Sometimes they are the bridge back to wanting to stay.
+
 A life can get smaller that way.
 
 Not all at once. Rarely with villain music. Usually by ordinary repetition. You are too much. You are not enough. Try harder. Be normal. Be grateful. Calm down. Hurry up. Explain yourself. Stop making it about you. Why are you like this? Why can’t you just?
