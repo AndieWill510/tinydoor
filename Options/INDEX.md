@@ -24,6 +24,7 @@ The stable file numbers are not always the same as the chapter/option numbers. C
 
 ## Opening threshold
 
+- [0000 — Preface: Another Option](0000-preface.md)
 - [001 — Prelude: The Saxophone](001-prelude-the-saxophone.md)
 - [002 — Chapter 1 Opening: The Broken Mouthpiece](002-chapter-1-the-broken-mouthpiece.md)
 
