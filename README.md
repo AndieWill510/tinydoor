@@ -39,6 +39,7 @@ And then staying happier in a life you love.
 
 - [Download the EPUB](Options/Book/tiny_doors_and_pillow_forts.epub)
 - [Read the Markdown Options Index](Options/INDEX.md)
+- [Read the preface](Options/0000-preface.md)
 - [Read the dedication](Options/000-dedication.md)
 
 The EPUB is the current compiled draft. The Markdown files remain the living manuscript.
