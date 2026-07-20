@@ -29,7 +29,7 @@ They are signals: pain signals, need signals and signs that something has alread
 
 The room may want the signal to be convenient: quiet, polite and with perfect words and no disruption.
 
-But bodies do not always warn in language the room prefers. Sometimes the signal is crying. Sometimes it is silence. Sometimes it is leaving. Sometimes it is no speech, brain ofog, exhaustion, or the body refusing the next demand.
+But bodies do not always warn in language the room prefers. Sometimes the signal is crying. Sometimes it is silence. Sometimes it is leaving. Sometimes it is no speech, brain fog, exhaustion, or the body refusing the next demand.
 
 When the room punishes the signal, the person learns to hide it. Then the unmet need gets louder.
 
