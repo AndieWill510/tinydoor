@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Summary of Chapters
+# What You'll Find Inside TinyDoor
 # Community Becomes the Instrument
 
 A broken mouthpiece, and the room it represents, is just the beginning. 
