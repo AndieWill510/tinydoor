@@ -42,5 +42,5 @@ The formal Options begin there, not because the argument is finished, but becaus
 <!-- TINYDOOR_NAV_START -->
 ## Continue reading
 
-[Next: Option 1.1 — The First Big Family Holiday Alone →](010-the-first-big-family-holiday-alone.md)
+[Next: What you'll find inside TinyDoor →](003-chapter-summary.md)
 <!-- TINYDOOR_NAV_END -->
