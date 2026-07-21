@@ -42,5 +42,6 @@ In Chapter 8, we find that many of us have been taught that we’re broken when 
 
 [Options Index](INDEX.md)
 
-[Next: Chapter 2 — The Tiny Door Is Not a Leash →](018-the-tiny-door-is-not-a-leash.md)
+[Next: Option 1.1 — The First Big Family Holiday Alone →](010-the-first-big-family-holiday-alone.md)
+
 <!-- TINYDOOR_NAV_END -->
