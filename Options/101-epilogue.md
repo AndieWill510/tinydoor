@@ -72,4 +72,6 @@ May it leave enough light under the door that someone who has been told they don
 
 May we all become the light under the door for the next person.
 
+-- A
+
 ---
