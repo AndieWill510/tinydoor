@@ -25,7 +25,7 @@ In Chapter 2, we start to learn how reaching out can lead to community. I talk a
 
 Chapter 3 is the beginning of developing real help for yourself which preserves refusal, fits the body and widens choice. Developing our own resources for real help also respects all of what we need to survive, and treats symptoms as truthful signals of harmful rooms so we can make our exits safely. Those exits are a skill, and we will start slowly.
 
-In Chapter 4, 
+In Chapter 4, we tackle the difference between care and control. We are often exposed to therapies that promise healing but only seek to control that which truly heals us. Genuine support gives us agency and protects our dignity. It encourages us to ask how our lives become freer, safer, more whole, and more deeply human.
 
 ---
 
