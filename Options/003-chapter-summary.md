@@ -23,7 +23,9 @@ A broken mouthpiece, and the room it represents, is just the beginning.
 
 In Chapter 2, we start to learn how reaching out can lead to community. I talk about how reaching out to the Autistic and ADHD communities made a difference in my life.  Later, a queer community offered deeper connection and joy.  Ordinary rooms of neurodivergent people gave way to extraordinary support and acceptance.
 
-Chapter 3 is the beginning of you developing real help for yourself which preserves refusal, fits the body and widens choice. Developing our own resources for real help also respects all of what we need to survive, and treats symptoms as truthful signals of harmful rooms so we can make our exits safely. Those exits may start slowly. 
+Chapter 3 is the beginning of developing real help for yourself which preserves refusal, fits the body and widens choice. Developing our own resources for real help also respects all of what we need to survive, and treats symptoms as truthful signals of harmful rooms so we can make our exits safely. Those exits are a skill, and we will start slowly.
+
+In Chapter 4, 
 
 ---
 
