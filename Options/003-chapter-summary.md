@@ -31,7 +31,7 @@ Chapter 5 confronts what is at stake: saving lives, maybe yours. Isolation, trau
 
 In Chapter 6, we see that there is no one path toward healing, belonging, or flourishing. TinyDoor is not about becoming someone else — it is about discovering doors that fit who you already are. The right path honors your whole self, your history, your needs, and your future with compassion and possibility.
 
-
+Chapter 7 carries us into a place of real healing, where our sensory regulation matters more than anything else. Healing, for us, begins with listening deeply to our nervous system instead of fighting it. We'll explore practical ways to lower sensory overload, build supportive routines and create rooms that work with our gorgeous brains instead of fighting them. Regulation is not indulgence. It's the foundation for healing.
 
 ---
 
