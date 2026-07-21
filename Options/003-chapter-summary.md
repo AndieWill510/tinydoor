@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Chapter Summary
+# Summary of Chapters
 # Community Becomes the Instrument
 
 A broken mouthpiece, and the room it represents, is just the beginning. 
