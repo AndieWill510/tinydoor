@@ -58,7 +58,7 @@ For those I omitted, know that I hold you dear, but perhaps at a distance I may 
 
 For now.
 
-A friend guided me upon reading a late draft: 
+_A friend guided me upon reading a late draft_: 
 
 May this never become a book that tells people who they are.
 
@@ -68,9 +68,9 @@ May it never close a door in the name of certainty.
 
 May it leave enough light under the door that someone who has been told they don’t belong can risk opening it.
 
-...and I would add:
+..._and I would add_:
 
-May we all become the light under the door for the next person.
+**May we all become the light under the door for the next person.**
 
 -- A
 
