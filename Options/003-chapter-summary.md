@@ -23,7 +23,7 @@ A broken mouthpiece, and the room it represents, is just the beginning.
 
 In Chapter 2, we start to learn how reaching out can lead to community. I talk about how reaching out to  (Autistic and ADHD) communities made a difference in my life.  Later, a queer community offered deeper connection and joy.  Ordinary rooms of neurodivergent people gave way to extraordinary support and acceptance. This might be an example to follow, or at least to see.
 
-Chapter 3 is the beginning of developing real help for yourself which preserves refusal, fits the body and widens choice. Developing our own resources for real help also respects all of what we need to survive, and treats symptoms as truthful signals of harmful rooms so we can make our exits safely. Those exits are a skill, and we will start slowly.
+Chapter 3 is the beginning of developing real help for yourself which preserves refusal, fits the body and widens choice. Developing our own resources that deliver real help, matters. Real help also respects all of what we need to survive, and treats symptoms as truthful signals of harmful rooms so we can make our exits safely. Those exits are a skill, and we will start slowly.
 
 In Chapter 4, we tackle the difference between care and control. We are often exposed to therapies that promise healing but only seek to control that which truly heals us. Genuine support gives us agency and protects our dignity. It encourages us to ask how our lives become freer, safer, more whole, and more deeply human.
 
