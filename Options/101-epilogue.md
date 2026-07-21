@@ -52,7 +52,7 @@ Dad and Mom E, you were my true childhood parents even though in many ways I was
 
 I have listed a lot of people. 
 
-A lot more helped along the way.
+Many more helped along the way.
 
 For those I omitted, know that I hold you dear, but perhaps at a distance I may not have chosen.
 
