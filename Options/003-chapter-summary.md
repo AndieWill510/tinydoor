@@ -27,6 +27,10 @@ Chapter 3 is the beginning of developing real help for yourself which preserves 
 
 In Chapter 4, we tackle the difference between care and control. We are often exposed to therapies that promise healing but only seek to control that which truly heals us. Genuine support gives us agency and protects our dignity. It encourages us to ask how our lives become freer, safer, more whole, and more deeply human.
 
+Chapter 5 is about saving lives, maybe yours. Isolation, trauma, and exclusion drive sickness in far too many of us. This chapter argues that the greatest threats are not neurodivergent traits themselves, but the environments built around them. By naming these patterns honestly, we begin replacing survival with belonging, repair, and lives that can genuinely flourish.
+
+
+
 ---
 
 <!-- TINYDOOR_NAV_START -->
