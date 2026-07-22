@@ -25,7 +25,7 @@ In Chapter 1, we start to learn how reaching out can lead to community. I talk a
 
 Chapter 2 is the beginning of understanding for many of us on this path that *_real_* help begins with consent, not control. This chapter explores why support must fit you, honor autonomy, and respect your body’s wisdom. When we push back on others who force us through the wrong doors; regulation, trust, and genuine growth become possible.
 
-Chapter 3 is the beginning of developing real help for yourself which preserves refusal, fits the body and widens choice. Developing our own resources that deliver real help, matters. Real help also respects all of what we need to survive, and treats symptoms as truthful signals of harmful rooms so we can make our exits safely. Those exits are a skill, and we will start slowly.
+Chapter 3 is the beginning of flourishing begins when we stop asking ourselves to become someone other than who we really are. This chapter reframes our amazing differences, exploring how regulation, joy, communication, and self-understanding emerge when we replace shame with curiosity and build lives that fit who we truly are.
 
 In Chapter 4, we tackle the difference between care and control. We are often exposed to therapies that promise healing but only seek to control that which truly heals us. Genuine support gives us agency and protects our dignity. It encourages us to ask how our lives become freer, safer, more whole, and more deeply human.
 
