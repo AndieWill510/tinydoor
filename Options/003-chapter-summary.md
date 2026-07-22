@@ -23,9 +23,9 @@ A broken mouthpiece, and the room it represents, is just the beginning.
 
 In Chapter 1, we start to learn how reaching out can lead to community. I talk about how reaching out to  (Autistic and ADHD) communities made a difference in my life.  Later, a queer community offered deeper connection and joy.  Ordinary rooms of neurodivergent people gave way to extraordinary support and acceptance. This may be a path worth noticing, or perhaps one worth trying. 
 
-Chapter 2 is the beginning of understanding for many of us on this path that *_real_* help begins with consent, not control. This chapter explores why support must fit you, honor autonomy, and respect your body’s wisdom. When we push back on others who force us through the wrong doors; regulation, trust, and genuine growth become possible.
+Chapter 2 begins with the idea that understanding for many of us on this path that *_real_* help begins with consent, not control. This chapter explores why support must fit you, honor autonomy, and respect your body’s wisdom. When we push back on others who force us through the wrong doors; regulation, trust, and genuine growth become possible.
 
-Chapter 3 is the beginning of flourishing begins when we stop asking ourselves to become someone other than who we really are. This chapter reframes our amazing differences, exploring how regulation, joy, communication, and self-understanding emerge when we replace shame with curiosity and build lives that fit who we truly are.
+Chapter 3 explores how flourishing begins when we stop asking ourselves to become someone other than who we really are. This chapter reframes our amazing differences, exploring how regulation, joy, communication, and self-understanding emerge when we replace shame with curiosity and build lives that fit who we truly are.
 
 In Chapter 4, we tackle the difference between care and control. We are often exposed to therapies that promise healing but only seek to control that which truly heals us. Genuine support gives us agency and protects our dignity. It encourages us to ask how our lives become freer, safer, more whole, and more deeply human.
 
@@ -35,7 +35,7 @@ In Chapter 6, we see that there is no one path toward healing, belonging, or flo
 
 Chapter 7 carries us into a place of real transformation, where caring for our nervous system becomes a central pathway to our health. Flourishing, for us, begins with listening deeply to our nervous system instead of fighting it. We'll explore practical ways to lower sensory overload, build supportive routines and create rooms that work with our gorgeous brains instead of fighting them. Regulation is not indulgence. It's the foundation for healing.
 
-In Chapter 8, we find that many of us have been taught that we’re broken when it is our environments are the ones demanding the impossible and thus are toxic. Many of us, in fact, struggle not because we're broken people, but because the environments we're in _demand the impossible_. This chapter reframes disability through context, showing how changing our surroundings, relationships, and expectations can unlock healing, dignity, and the freedom to become fully ourselves. 
+Finally, Chapter 8 asks us to reconsider what we've been taught: that we’re broken -- when it is our environments are the ones demanding the impossible and thus are toxic. Many of us, in fact, struggle not because we're broken people, but because the environments we're in _demand the impossible_. This chapter reframes disability through context, showing how changing our surroundings, relationships, and expectations can unlock healing, dignity, and the freedom to become fully ourselves. 
 
 ---
 
