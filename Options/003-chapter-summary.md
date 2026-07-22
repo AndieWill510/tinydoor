@@ -23,7 +23,7 @@ A broken mouthpiece, and the room it represents, is just the beginning.
 
 In Chapter 1, we start to learn how reaching out can lead to community. I talk about how reaching out to  (Autistic and ADHD) communities made a difference in my life.  Later, a queer community offered deeper connection and joy.  Ordinary rooms of neurodivergent people gave way to extraordinary support and acceptance. This may be a path worth noticing, or perhaps one worth trying. 
 
-Chapter 2 begins with the idea that understanding for many of us on this path that *_real_* help begins with consent, not control. This chapter explores why support must fit you, honor autonomy, and respect your body’s wisdom. When we push back on others who force us through the wrong doors; regulation, trust, and genuine growth become possible.
+Chapter 2 begins with the idea that understanding for many of us on this path that *_real_* help begins with consent, not control. This chapter explores why support must fit you, honor autonomy, and respect your body’s wisdom. When we refuse the wrong doors, regulation, trust, and genuine growth become possible.
 
 Chapter 3 explores how flourishing begins when we stop asking ourselves to become someone other than who we really are. This chapter reframes our amazing differences, exploring how regulation, joy, communication, and self-understanding emerge when we replace shame with curiosity and build lives that fit who we truly are.
 
